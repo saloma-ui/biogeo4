@@ -21,7 +21,12 @@ nav:
       - Presentació: programacio/index.md
       - Criteris d'avaluació: programacio/criteris-avaluacio.md
       - Calendari: programacio/calendari.md
-  - UD1: ud1/index.md
+  - UD1:
+      - Inici: ud1/index.md
+      - G1 · Reconstruïm una història geològica: ud1/activitats/G1/G1_reconstruim_una_historia_geologica.md
+      - G2 · On construiríem?:
+          - Sessió 18: ud1/activitats/G2/g2_sessio_18.md
+          - Sessió 19: ud1/activitats/G2/g2_sessio_19.md
   - UD2: ud2/index.md
   - UD3: ud3/index.md
   - UD4: ud4/index.md
