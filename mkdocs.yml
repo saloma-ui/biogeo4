@@ -1,0 +1,40 @@
+site_name: Biologia i Geologia — 4t d'ESO
+site_description: Materials de Biologia i Geologia de 4t d'ESO
+site_url: https://saloma-ui.github.io/biogeo4/
+repo_url: https://github.com/saloma-ui/biogeo4
+repo_name: saloma-ui/biogeo4
+
+language: ca
+
+theme:
+  name: material
+  language: ca
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Inici: index.md
+  - Programació:
+      - Presentació: programacio/index.md
+      - Criteris d'avaluació: programacio/criteris-avaluacio.md
+      - Calendari: programacio/calendari.md
+  - UD1: ud1/index.md
+  - UD2: ud2/index.md
+  - UD3: ud3/index.md
+  - UD4: ud4/index.md
+  - UD5: ud5/index.md
+  - UD6: ud6/index.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/css/extra.css
