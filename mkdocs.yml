@@ -46,11 +46,16 @@ nav:
           - G2 · On construiríem?:
               - Sessió 18: activitats/ud1/G2/g2_sessio_18.md
               - Sessió 19: activitats/ud1/G2/g2_sessio_19.md
-      - UD2: activitats/ud2/index.md
-      - UD3: activitats/ud3/index.md
-      - UD4: activitats/ud4/index.md
-      - UD5: activitats/ud5/index.md
-      - UD6: activitats/ud6/index.md
+      - UD2:
+          - Índex: activitats/ud2/index.md
+      - UD3:
+          - Índex: activitats/ud3/index.md
+      - UD4:
+          - Índex: activitats/ud4/index.md
+      - UD5:
+          - Índex: activitats/ud5/index.md
+      - UD6:
+          - Índex: activitats/ud6/index.md
 
 markdown_extensions:
   - attr_list
