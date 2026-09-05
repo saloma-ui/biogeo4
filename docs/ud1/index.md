@@ -2,6 +2,10 @@
 
 Pàgina inicial de la **Unitat didàctica 1**.
 
+## Temari
+
+[Consulta el temari de la UD1](temari.md)
+
 ## Activitats
 
 ### G1 · Reconstruïm una història geològica
