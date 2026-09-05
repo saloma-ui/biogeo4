@@ -22,16 +22,28 @@ nav:
       - Criteris d'avaluació: programacio/criteris-avaluacio.md
       - Calendari: programacio/calendari.md
   - UD1:
-      - Inici: ud1/index.md
-      - G1 · Reconstruïm una història geològica: ud1/activitats/G1/G1_reconstruim_una_historia_geologica.md
-      - G2 · On construiríem?:
-          - Sessió 18: ud1/activitats/G2/g2_sessio_18.md
-          - Sessió 19: ud1/activitats/G2/g2_sessio_19.md
-  - UD2: ud2/index.md
-  - UD3: ud3/index.md
-  - UD4: ud4/index.md
-  - UD5: ud5/index.md
-  - UD6: ud6/index.md
+      - Presentació: ud1/index.md
+      - Temari: ud1/temari.md
+      - Activitats:
+          - G1 · Reconstruïm una història geològica: ud1/activitats/G1/G1_reconstruim_una_historia_geologica.md
+          - G2 · On construiríem?:
+              - Sessió 18: ud1/activitats/G2/g2_sessio_18.md
+              - Sessió 19: ud1/activitats/G2/g2_sessio_19.md
+  - UD2:
+      - Presentació: ud2/index.md
+      - Temari: ud2/temari.md
+  - UD3:
+      - Presentació: ud3/index.md
+      - Temari: ud3/temari.md
+  - UD4:
+      - Presentació: ud4/index.md
+      - Temari: ud4/temari.md
+  - UD5:
+      - Presentació: ud5/index.md
+      - Temari: ud5/temari.md
+  - UD6:
+      - Presentació: ud6/index.md
+      - Temari: ud6/temari.md
 
 markdown_extensions:
   - attr_list
