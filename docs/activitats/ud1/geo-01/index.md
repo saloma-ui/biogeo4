@@ -121,7 +121,7 @@ Pensau la classificació abans de clicar cada terme. En clicar-lo, en veureu la 
   <button type="button" class="pv-terme" data-resposta="Agent">gravetat</button>
   <button type="button" class="pv-terme" data-resposta="Procés">meteorització</button>
   <button type="button" class="pv-terme" data-resposta="Procés">erosió</button>
-  <button type="button" class="pv-terme" data-resposta="Procés">transport</button>
+  <button type="button" class="pv-terme" data-resposta="Transport">transport</button>
   <button type="button" class="pv-terme" data-resposta="Procés">sedimentació</button>
 </div>
 
@@ -185,15 +185,87 @@ La litologia **condiciona** com respon el terreny, però no és l'únic factor. 
 
 ![Paisatge D](figures/paisatge-d.jpg)
 
-Sense informació addicional, separau les vostres idees en tres grups:
+Ara ja teniu les eines per separar **allò que observam** d'**allò que inferim**.
 
-<div class="pv-tres-columnes">
-  <div class="pv-targeta"><strong>Puc afirmar perquè ho observ</strong></div>
-  <div class="pv-targeta"><strong>Ho proposaria com a inferència o hipòtesi</strong></div>
-  <div class="pv-targeta"><strong>Necessitaria més informació per comprovar-ho</strong></div>
+<p class="pv-pregunta"><strong>Classificau cada afirmació abans de clicar la resposta.</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p><strong>1. Hi ha una platja arenosa davant la mar.</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="d1-o" aria-pressed="false">Observació</button>
+    <button type="button" class="pv-opcio" data-feedback="d1-i" aria-pressed="false">Inferència</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="d1-o" hidden><strong>Correcte.</strong> La presència de la platja i de l'arena es pot descriure directament a partir de la imatge.</div>
+  <div class="pv-feedback" data-feedback-id="d1-i" hidden><strong>Revisau-ho.</strong> No estam proposant cap causa: només descrivim un element visible del paisatge.</div>
 </div>
 
-<!-- DOCENT: No donar vocabulari de suport d'entrada. És la transferència del patró observació → inferència → necessitat de dades. -->
+<div class="pv-quiz" data-pv-quiz>
+  <p><strong>2. Hi ha acumulacions d'arena amb vegetació darrere la platja.</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="d2-o" aria-pressed="false">Observació</button>
+    <button type="button" class="pv-opcio" data-feedback="d2-i" aria-pressed="false">Inferència</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="d2-o" hidden><strong>Correcte.</strong> Tant les acumulacions d'arena com la vegetació són elements visibles.</div>
+  <div class="pv-feedback" data-feedback-id="d2-i" hidden><strong>Revisau-ho.</strong> Encara no explicam com s'han format aquestes acumulacions; només descrivim què hi veim.</div>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p><strong>3. El vent transporta arena des de la platja cap a l'interior.</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="d3-o" aria-pressed="false">Observació</button>
+    <button type="button" class="pv-opcio" data-feedback="d3-i" aria-pressed="false">Inferència</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="d3-o" hidden><strong>Revisau-ho.</strong> Una fotografia fixa no ens mostra directament el transport d'arena ni la seva direcció.</div>
+  <div class="pv-feedback" data-feedback-id="d3-i" hidden><strong>Correcte.</strong> És una explicació possible, però necessitam dades per comprovar que aquest transport es produeix realment.</div>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p><strong>4. Les acumulacions d'arena s'han format per sedimentació de materials transportats pel vent.</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="d4-o" aria-pressed="false">Observació</button>
+    <button type="button" class="pv-opcio" data-feedback="d4-i" aria-pressed="false">Inferència</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="d4-o" hidden><strong>Revisau-ho.</strong> Aquí ja atribuïm una causa i un procés a una forma del relleu.</div>
+  <div class="pv-feedback" data-feedback-id="d4-i" hidden><strong>Correcte.</strong> Relacionam una forma visible amb els processos de transport i sedimentació: és una interpretació geològica.</div>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p><strong>5. La vegetació ajuda a retenir l'arena i a estabilitzar aquestes acumulacions.</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="d5-o" aria-pressed="false">Observació</button>
+    <button type="button" class="pv-opcio" data-feedback="d5-i" aria-pressed="false">Inferència</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="d5-o" hidden><strong>Revisau-ho.</strong> Podem observar vegetació, però la seva funció sobre el sediment no és visible directament en una fotografia.</div>
+  <div class="pv-feedback" data-feedback-id="d5-i" hidden><strong>Correcte.</strong> És una hipòtesi sobre l'efecte de la vegetació que hauríem de contrastar amb dades.</div>
+</div>
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 9 · Comprovam una inferència
+
+Recuperau aquesta afirmació del paisatge D:
+
+> **El vent transporta arena des de la platja cap a l'interior.**
+
+Una inferència no es converteix en una bona explicació només perquè sigui plausible. **Necessitam evidències que la puguin posar a prova.**
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina dada seria més útil per comprovar aquesta inferència?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="dada-a" aria-pressed="false">A · Mesures de la direcció i velocitat del vent i del moviment de l'arena</button>
+    <button type="button" class="pv-opcio" data-feedback="dada-b" aria-pressed="false">B · La temperatura de l'aigua de la mar</button>
+    <button type="button" class="pv-opcio" data-feedback="dada-c" aria-pressed="false">C · El nombre d'espècies vegetals presents</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="dada-a" hidden><strong>Exacte.</strong> Aquestes mesures permetrien relacionar directament el vent amb el desplaçament dels sediments i comprovar la direcció del transport.</div>
+  <div class="pv-feedback" data-feedback-id="dada-b" hidden><strong>No seria la dada més directa.</strong> La temperatura de l'aigua pot ser rellevant per altres qüestions, però no posa a prova si el vent transporta arena cap a l'interior.</div>
+  <div class="pv-feedback" data-feedback-id="dada-c" hidden><strong>No basta.</strong> Conèixer les espècies vegetals pot aportar informació sobre el sistema dunar, però no comprova directament el transport d'arena pel vent.</div>
+</div>
+
+<p class="pv-pregunta"><strong>Què ha passat?</strong> Hem començat amb una observació, hem formulat una inferència i hem identificat una dada que ens permetria comprovar-la.</p>
+
+<!-- DOCENT: Fer explícit el patró observació → inferència → contrast amb dades. Aquesta és la transferència metodològica principal de l'activitat. -->
 
 </section>
 
@@ -223,6 +295,7 @@ Respon individualment:
 - La **litologia** condiciona com respon el terreny als processos.
 - El relleu es modela per la interacció entre **materials, processos i temps**, juntament amb altres factors.
 - Una dada nova pot obligar-nos a **revisar una interpretació**.
+- Una inferència geològica s'ha de poder **contrastar amb dades**.
 
 <!-- DOCENT: Mostrar aquesta secció només al final, després del tiquet de sortida. -->
 
