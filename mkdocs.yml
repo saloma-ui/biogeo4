@@ -4,8 +4,6 @@ site_url: https://saloma-ui.github.io/biogeo4/
 repo_url: https://github.com/saloma-ui/biogeo4
 repo_name: saloma-ui/biogeo4
 
-language: ca
-
 theme:
   name: material
   language: ca
@@ -21,7 +19,9 @@ plugins:
       formats:
         pdf:
           explicit: true
-          concurrency: 4
+          concurrency: 1
+          browser:
+            timeout: 120000
 
 nav:
   - Inici: index.md
