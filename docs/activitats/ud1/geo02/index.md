@@ -248,9 +248,12 @@ Ara combinam el que sabem sobre **corbes de nivell** i **cotes**.
 
 <section class="pv-seccio pv-visual" markdown>
 
-8 · Les línies ens diuen alguna cosa més
 
-Fins ara hem utilitzat les corbes per saber a quina altitud és un lloc. Però la seva separació també ens informa de com canvia l'altitud amb la distància.
+<section class="pv-seccio pv-visual" markdown>
+
+# 8 · Les línies ens diuen alguna cosa més
+
+Fins ara hem utilitzat les corbes per saber **a quina altitud** és un lloc. Però la seva separació també ens informa de **com canvia l'altitud amb la distància**.
 
 <div style="position:relative; width:100%; margin:1.25rem auto;">
   <img src="figures/mapa_base.png" alt="Mapa topogràfic base amb les cotes ocultes per comparar dues zones de pendent" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
@@ -290,14 +293,13 @@ Fins ara hem utilitzat les corbes per saber a quina altitud és un lloc. Però l
       </clipPath>
     </defs>
 
-<image href="figures/mapa_base.png" x="0" y="0" width="1448" height="1086" clip-path="url(#pv-zones-cotes-8)" filter="url(#pv-cota-blur-8)"/>
+    <image href="figures/mapa_base.png" x="0" y="0" width="1448" height="1086" clip-path="url(#pv-zones-cotes-8)" filter="url(#pv-cota-blur-8)"/>
 
-<ellipse cx="735" cy="405" rx="88" ry="108" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
-<text x="799" y="328" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">A</text>
+    <ellipse cx="735" cy="405" rx="88" ry="108" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
+    <text x="799" y="328" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">A</text>
 
-<ellipse cx="515" cy="245" rx="124" ry="92" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
-<text x="402" y="189" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">B</text>
-
+    <ellipse cx="515" cy="245" rx="124" ry="92" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
+    <text x="402" y="189" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">B</text>
   </svg>
 </div>
 
@@ -322,9 +324,9 @@ Fins ara hem utilitzat les corbes per saber a quina altitud és un lloc. Però l
 
 <section class="pv-seccio pv-visual" markdown>
 
-9 · Més alt no vol dir més pendent
+# 9 · Més alt no vol dir més pendent
 
-Ara compararem dues zones diferents del mateix mapa. P és en una zona més alta que Q.
+Ara compararem dues zones diferents del mateix mapa. **P és en una zona més alta que Q.**
 
 <div style="position:relative; width:100%; margin:1.25rem auto;">
   <img src="figures/mapa_base.png" alt="Mapa topogràfic base amb les cotes ocultes i dos punts per diferenciar altitud i pendent" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
@@ -364,14 +366,13 @@ Ara compararem dues zones diferents del mateix mapa. P és en una zona més alta
       </clipPath>
     </defs>
 
-<image href="figures/mapa_base.png" x="0" y="0" width="1448" height="1086" clip-path="url(#pv-zones-cotes-9)" filter="url(#pv-cota-blur-9)"/>
+    <image href="figures/mapa_base.png" x="0" y="0" width="1448" height="1086" clip-path="url(#pv-zones-cotes-9)" filter="url(#pv-cota-blur-9)"/>
 
-<circle cx="613" cy="292" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
-<text x="635" y="276" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">P · zona alta</text>
+    <circle cx="613" cy="292" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
+    <text x="635" y="276" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">P · zona alta</text>
 
-<circle cx="138" cy="386" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
-<text x="163" y="372" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">Q · zona més baixa</text>
-
+    <circle cx="138" cy="386" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
+    <text x="163" y="372" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">Q · zona més baixa</text>
   </svg>
 </div>
 
