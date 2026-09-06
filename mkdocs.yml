@@ -15,6 +15,11 @@ theme:
     - navigation.top
     - content.code.copy
 
+plugins:
+  - search
+  - pdf-export:
+      media_type: print
+
 nav:
   - Inici: index.md
   - Programació:
