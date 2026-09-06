@@ -248,17 +248,56 @@ Ara combinam el que sabem sobre **corbes de nivell** i **cotes**.
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 8 · Les línies ens diuen alguna cosa més
+8 · Les línies ens diuen alguna cosa més
 
-Fins ara hem utilitzat les corbes per saber **a quina altitud** és un lloc. Però la seva separació també ens informa de **com canvia l'altitud amb la distància**.
+Fins ara hem utilitzat les corbes per saber a quina altitud és un lloc. Però la seva separació també ens informa de com canvia l'altitud amb la distància.
 
 <div style="position:relative; width:100%; margin:1.25rem auto;">
-  <img src="figures/mapa_base.png" alt="Mapa topogràfic amb dues zones assenyalades per comparar el pendent" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
-  <svg viewBox="0 0 1536 1024" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
-    <ellipse cx="720" cy="405" rx="92" ry="112" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
-    <text x="785" y="325" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">A</text>
-    <ellipse cx="500" cy="245" rx="125" ry="95" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
-    <text x="390" y="190" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">B</text>
+  <img src="figures/mapa_base.png" alt="Mapa topogràfic base amb les cotes ocultes per comparar dues zones de pendent" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <svg viewBox="0 0 1448 1086" preserveAspectRatio="xMidYMid meet" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
+    <defs>
+      <filter id="pv-cota-blur-8">
+        <feGaussianBlur stdDeviation="10"/>
+      </filter>
+      <clipPath id="pv-zones-cotes-8">
+        <ellipse cx="136" cy="83" rx="30" ry="18"/>
+        <ellipse cx="42" cy="271" rx="30" ry="18"/>
+        <ellipse cx="139" cy="385" rx="44" ry="28"/>
+        <ellipse cx="198" cy="435" rx="30" ry="18"/>
+        <ellipse cx="236" cy="451" rx="30" ry="18"/>
+        <ellipse cx="407" cy="297" rx="30" ry="18"/>
+        <ellipse cx="575" cy="205" rx="30" ry="18"/>
+        <ellipse cx="612" cy="293" rx="30" ry="18"/>
+        <ellipse cx="641" cy="343" rx="30" ry="18"/>
+        <ellipse cx="786" cy="131" rx="32" ry="18"/>
+        <ellipse cx="715" cy="348" rx="42" ry="24"/>
+        <ellipse cx="505" cy="434" rx="32" ry="18"/>
+        <ellipse cx="663" cy="476" rx="32" ry="18"/>
+        <ellipse cx="659" cy="534" rx="32" ry="18"/>
+        <ellipse cx="684" cy="595" rx="32" ry="18"/>
+        <ellipse cx="918" cy="314" rx="30" ry="18"/>
+        <ellipse cx="881" cy="484" rx="30" ry="18"/>
+        <ellipse cx="1098" cy="69" rx="30" ry="18"/>
+        <ellipse cx="1146" cy="139" rx="30" ry="18"/>
+        <ellipse cx="1169" cy="183" rx="30" ry="18"/>
+        <ellipse cx="1237" cy="266" rx="36" ry="20"/>
+        <ellipse cx="1201" cy="318" rx="36" ry="20"/>
+        <ellipse cx="1201" cy="363" rx="30" ry="18"/>
+        <ellipse cx="1201" cy="406" rx="30" ry="18"/>
+        <ellipse cx="1181" cy="431" rx="30" ry="18"/>
+        <ellipse cx="1222" cy="556" rx="30" ry="18"/>
+        <ellipse cx="1170" cy="594" rx="30" ry="18"/>
+      </clipPath>
+    </defs>
+
+<image href="figures/mapa_base.png" x="0" y="0" width="1448" height="1086" clip-path="url(#pv-zones-cotes-8)" filter="url(#pv-cota-blur-8)"/>
+
+<ellipse cx="735" cy="405" rx="88" ry="108" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
+<text x="799" y="328" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">A</text>
+
+<ellipse cx="515" cy="245" rx="124" ry="92" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
+<text x="402" y="189" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">B</text>
+
   </svg>
 </div>
 
@@ -283,17 +322,56 @@ Fins ara hem utilitzat les corbes per saber **a quina altitud** és un lloc. Per
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 9 · Més alt no vol dir més pendent
+9 · Més alt no vol dir més pendent
 
-Ara compararem dues zones diferents del mateix mapa. **P és en una zona més alta que Q.**
+Ara compararem dues zones diferents del mateix mapa. P és en una zona més alta que Q.
 
 <div style="position:relative; width:100%; margin:1.25rem auto;">
-  <img src="figures/mapa_base.png" alt="Mapa topogràfic amb els punts P i Q per diferenciar altitud i pendent" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
-  <svg viewBox="0 0 1536 1024" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
-    <circle cx="615" cy="260" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
-    <text x="635" y="245" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">P · zona alta</text>
-    <circle cx="220" cy="445" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
-    <text x="245" y="430" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">Q · zona més baixa</text>
+  <img src="figures/mapa_base.png" alt="Mapa topogràfic base amb les cotes ocultes i dos punts per diferenciar altitud i pendent" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <svg viewBox="0 0 1448 1086" preserveAspectRatio="xMidYMid meet" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
+    <defs>
+      <filter id="pv-cota-blur-9">
+        <feGaussianBlur stdDeviation="10"/>
+      </filter>
+      <clipPath id="pv-zones-cotes-9">
+        <ellipse cx="136" cy="83" rx="30" ry="18"/>
+        <ellipse cx="42" cy="271" rx="30" ry="18"/>
+        <ellipse cx="139" cy="385" rx="44" ry="28"/>
+        <ellipse cx="198" cy="435" rx="30" ry="18"/>
+        <ellipse cx="236" cy="451" rx="30" ry="18"/>
+        <ellipse cx="407" cy="297" rx="30" ry="18"/>
+        <ellipse cx="575" cy="205" rx="30" ry="18"/>
+        <ellipse cx="612" cy="293" rx="30" ry="18"/>
+        <ellipse cx="641" cy="343" rx="30" ry="18"/>
+        <ellipse cx="786" cy="131" rx="32" ry="18"/>
+        <ellipse cx="715" cy="348" rx="42" ry="24"/>
+        <ellipse cx="505" cy="434" rx="32" ry="18"/>
+        <ellipse cx="663" cy="476" rx="32" ry="18"/>
+        <ellipse cx="659" cy="534" rx="32" ry="18"/>
+        <ellipse cx="684" cy="595" rx="32" ry="18"/>
+        <ellipse cx="918" cy="314" rx="30" ry="18"/>
+        <ellipse cx="881" cy="484" rx="30" ry="18"/>
+        <ellipse cx="1098" cy="69" rx="30" ry="18"/>
+        <ellipse cx="1146" cy="139" rx="30" ry="18"/>
+        <ellipse cx="1169" cy="183" rx="30" ry="18"/>
+        <ellipse cx="1237" cy="266" rx="36" ry="20"/>
+        <ellipse cx="1201" cy="318" rx="36" ry="20"/>
+        <ellipse cx="1201" cy="363" rx="30" ry="18"/>
+        <ellipse cx="1201" cy="406" rx="30" ry="18"/>
+        <ellipse cx="1181" cy="431" rx="30" ry="18"/>
+        <ellipse cx="1222" cy="556" rx="30" ry="18"/>
+        <ellipse cx="1170" cy="594" rx="30" ry="18"/>
+      </clipPath>
+    </defs>
+
+<image href="figures/mapa_base.png" x="0" y="0" width="1448" height="1086" clip-path="url(#pv-zones-cotes-9)" filter="url(#pv-cota-blur-9)"/>
+
+<circle cx="613" cy="292" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
+<text x="635" y="276" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">P · zona alta</text>
+
+<circle cx="138" cy="386" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
+<text x="163" y="372" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">Q · zona més baixa</text>
+
   </svg>
 </div>
 
