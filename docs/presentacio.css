@@ -1,6 +1,13 @@
 /* Presentacions verticals construïdes amb MkDocs Material.
    Els estils només s'apliquen dins .presentacio-vertical. */
 
+/* En les pàgines amb presentació vertical, el desplaçament conserva la
+   fluïdesa normal però tendeix a enquadrar cada secció quan hi passam a prop. */
+html:has(.presentacio-vertical) {
+  scroll-snap-type: y proximity;
+  scroll-padding-top: 6rem;
+}
+
 .presentacio-vertical {
   max-width: 1100px;
   margin: 0 auto;
@@ -14,6 +21,9 @@
   justify-content: center;
   padding: clamp(2rem, 5vw, 4.5rem) 0;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
+  scroll-margin-top: 6rem;
 }
 
 .presentacio-vertical .pv-portada {
