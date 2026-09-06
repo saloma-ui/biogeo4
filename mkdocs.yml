@@ -16,6 +16,11 @@ theme:
 plugins:
   - search
   - exporter:
+      buttons:
+        - title: Baixa el PDF
+          icon: material-file-download-outline
+          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
+          attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
       formats:
         pdf:
           explicit: true
