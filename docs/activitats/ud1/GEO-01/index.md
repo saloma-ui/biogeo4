@@ -1,3 +1,11 @@
+---
+revealjs:
+  presentation: true
+pdf: false
+hide:
+  - toc
+---
+
 # GEO-01 · Llegim un paisatge
 
 ## Què podem saber simplement mirant-lo?
