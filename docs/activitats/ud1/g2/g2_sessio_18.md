@@ -33,8 +33,8 @@ L’objectiu no és endevinar quin sector «vol» el professor. **A, B o C poden
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;">
 <figure style="margin:0;">
-  <a href="figures/01_relleu_topografia.png" target="_blank" rel="noopener">
-    <img src="figures/01_relleu_topografia_thumb.jpg"
+  <a href="../figures/01_relleu_topografia.png" target="_blank" rel="noopener">
+    <img src="../figures/01_relleu_topografia_thumb.jpg"
          alt="Mapa 1 · Relleu i topografia"
          loading="lazy"
          style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
@@ -44,8 +44,8 @@ L’objectiu no és endevinar quin sector «vol» el professor. **A, B o C poden
   </figcaption>
 </figure>
 <figure style="margin:0;">
-  <a href="figures/02_litologia.png" target="_blank" rel="noopener">
-    <img src="figures/02_litologia_thumb.jpg"
+  <a href="../figures/02_litologia.png" target="_blank" rel="noopener">
+    <img src="../figures/02_litologia_thumb.jpg"
          alt="Mapa 2 · Litologia"
          loading="lazy"
          style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
@@ -55,8 +55,8 @@ L’objectiu no és endevinar quin sector «vol» el professor. **A, B o C poden
   </figcaption>
 </figure>
 <figure style="margin:0;">
-  <a href="figures/03_vegetacio_hidrografia.png" target="_blank" rel="noopener">
-    <img src="figures/03_vegetacio_hidrografia_thumb.jpg"
+  <a href="../figures/03_vegetacio_hidrografia.png" target="_blank" rel="noopener">
+    <img src="../figures/03_vegetacio_hidrografia_thumb.jpg"
          alt="Mapa 3 · Vegetació i hidrografia"
          loading="lazy"
          style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
@@ -66,8 +66,8 @@ L’objectiu no és endevinar quin sector «vol» el professor. **A, B o C poden
   </figcaption>
 </figure>
 <figure style="margin:0;">
-  <a href="figures/04_ocupacio_infraestructures.png" target="_blank" rel="noopener">
-    <img src="figures/04_ocupacio_infraestructures_thumb.jpg"
+  <a href="../figures/04_ocupacio_infraestructures.png" target="_blank" rel="noopener">
+    <img src="../figures/04_ocupacio_infraestructures_thumb.jpg"
          alt="Mapa 4 · Ocupació humana i infraestructures"
          loading="lazy"
          style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">

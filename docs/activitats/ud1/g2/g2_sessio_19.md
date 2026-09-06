@@ -24,8 +24,8 @@ Ara rebràs informació que no tenies quan vas prendre aquella decisió.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;">
 <figure style="margin:0;">
-  <a href="figures/05_riscos_naturals_ambientals.png" target="_blank" rel="noopener">
-    <img src="figures/05_riscos_naturals_ambientals_thumb.jpg"
+  <a href="../figures/05_riscos_naturals_ambientals.png" target="_blank" rel="noopener">
+    <img src="../figures/05_riscos_naturals_ambientals_thumb.jpg"
          alt="Mapa 5 · Riscs naturals i ambientals"
          loading="lazy"
          style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
@@ -35,8 +35,8 @@ Ara rebràs informació que no tenies quan vas prendre aquella decisió.
   </figcaption>
 </figure>
 <figure style="margin:0;">
-  <a href="figures/06_susceptibilitat_sector_b.png" target="_blank" rel="noopener">
-    <img src="figures/06_susceptibilitat_sector_b_thumb.jpg"
+  <a href="../figures/06_susceptibilitat_sector_b.png" target="_blank" rel="noopener">
+    <img src="../figures/06_susceptibilitat_sector_b_thumb.jpg"
          alt="Mapa 6 · Susceptibilitat a la inestabilitat del sector B"
          loading="lazy"
          style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
@@ -139,8 +139,8 @@ ____________________________________________________________________
 
 <div style="max-width:720px;">
 <figure style="margin:0;">
-  <a href="figures/07_decisio_final_abc.png" target="_blank" rel="noopener">
-    <img src="figures/07_decisio_final_abc_thumb.jpg"
+  <a href="../figures/07_decisio_final_abc.png" target="_blank" rel="noopener">
+    <img src="../figures/07_decisio_final_abc_thumb.jpg"
          alt="Mapa 7 · Decisió final: sectors A, B i C"
          loading="lazy"
          style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
