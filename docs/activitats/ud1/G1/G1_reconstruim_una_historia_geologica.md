@@ -1,3 +1,7 @@
+---
+pdf: true
+---
+
 # G1 · Reconstruïm una història geològica
 
 **Evidència d'avaluació · CA 6.1**  

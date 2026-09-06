@@ -1,3 +1,7 @@
+---
+pdf: true
+---
+
 # Temari · UD2
 
 El temari d'aquesta unitat s'incorporarà en aquest document.

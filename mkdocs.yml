@@ -17,8 +17,11 @@ theme:
 
 plugins:
   - search
-  - pdf-export:
-      media_type: print
+  - exporter:
+      formats:
+        pdf:
+          explicit: true
+          concurrency: 4
 
 nav:
   - Inici: index.md

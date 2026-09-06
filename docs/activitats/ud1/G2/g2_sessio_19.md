@@ -1,3 +1,7 @@
+---
+pdf: true
+---
+
 # G2 · On construiríem? — Sessió 19
 
 **Biologia i Geologia · 4t d’ESO**  
