@@ -4,6 +4,10 @@
 
 [Obre l'activitat](geo-01/index.md)
 
+## GEO-02 · Del mapa al relleu
+
+[Obre l'activitat](geo02/index.md)
+
 ## G1 · Reconstruïm una història geològica
 
 [Obre l'activitat](g1/g1.md)
