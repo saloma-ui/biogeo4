@@ -246,4 +246,74 @@ Ara combinam el que sabem sobre **corbes de nivell** i **cotes**.
 
 </section>
 
+<section class="pv-seccio pv-visual" markdown>
+
+# 8 · Les línies ens diuen alguna cosa més
+
+Fins ara hem utilitzat les corbes per saber **a quina altitud** és un lloc. Però la seva separació també ens informa de **com canvia l'altitud amb la distància**.
+
+<div style="position:relative; width:100%; margin:1.25rem auto;">
+  <img src="figures/mapa_base.png" alt="Mapa topogràfic amb dues zones assenyalades per comparar el pendent" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <svg viewBox="0 0 1536 1024" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
+    <ellipse cx="720" cy="405" rx="92" ry="112" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
+    <text x="785" y="325" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">A</text>
+    <ellipse cx="500" cy="245" rx="125" ry="95" fill="none" stroke="#111" stroke-width="7" stroke-dasharray="18 12"/>
+    <text x="390" y="190" font-size="52" font-weight="700" fill="#111" stroke="#fff" stroke-width="10" paint-order="stroke">B</text>
+  </svg>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>En quina zona guanyaríeu més altitud recorrent una distància horitzontal curta?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="pendent-a" aria-pressed="false">A · Zona A</button>
+    <button type="button" class="pv-opcio" data-feedback="pendent-b" aria-pressed="false">B · Zona B</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="pendent-a" hidden>
+    <strong>Exacte.</strong> A la zona A les corbes estan molt més juntes: passam per diversos canvis d'altitud en poca distància horitzontal.
+    <p><strong>Corbes juntes → pendent fort. Corbes separades → pendent suau.</strong></p>
+  </div>
+  <div class="pv-feedback" data-feedback-id="pendent-b" hidden>
+    <strong>Revisau-ho.</strong> A la zona B les corbes estan més separades. Per guanyar la mateixa altitud necessitam recórrer més distància horitzontal, de manera que el pendent és més suau.
+  </div>
+</div>
+
+<!-- DOCENT: Fer verbalitzar la relació abans de donar la regla. No calcular encara pendent en percentatge ni en graus: aquí interessa la lectura qualitativa del mapa. -->
+
+</section>
+
+<section class="pv-seccio pv-visual" markdown>
+
+# 9 · Més alt no vol dir més pendent
+
+Ara compararem dues zones diferents del mateix mapa. **P és en una zona més alta que Q.**
+
+<div style="position:relative; width:100%; margin:1.25rem auto;">
+  <img src="figures/mapa_base.png" alt="Mapa topogràfic amb els punts P i Q per diferenciar altitud i pendent" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <svg viewBox="0 0 1536 1024" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
+    <circle cx="615" cy="260" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
+    <text x="635" y="245" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">P · zona alta</text>
+    <circle cx="220" cy="445" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
+    <text x="245" y="430" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">Q · zona més baixa</text>
+  </svg>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina de les dues zones té el pendent més fort?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="altura-p" aria-pressed="false">A · P, perquè és a més altitud</button>
+    <button type="button" class="pv-opcio" data-feedback="altura-q" aria-pressed="false">B · Q, perquè les corbes del seu entorn estan més juntes</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="altura-p" hidden>
+    <strong>Aquí heu comparat altitud, no pendent.</strong> La cota ens diu a quina altura és un lloc; el pendent ens diu com de ràpid canvia aquesta altitud quan ens desplaçam horitzontalment.
+  </div>
+  <div class="pv-feedback" data-feedback-id="altura-q" hidden>
+    <strong>Exacte.</strong> Encara que Q sigui més baix, les corbes del seu entorn estan més juntes i indiquen un canvi d'altitud més ràpid amb la distància.
+    <p><strong>Altitud i pendent són variables diferents:</strong> un lloc baix pot ser molt costerut i un lloc alt pot tenir un pendent relativament suau.</p>
+  </div>
+</div>
+
+<!-- DOCENT: Aquesta pantalla ataca explícitament la confusió “més alt = més pendent”. Demanar a l'alumnat que justifiqui la resposta parlant de separació entre corbes, no de cota. -->
+
+</section>
+
 </div>
