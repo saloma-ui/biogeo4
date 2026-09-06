@@ -18,6 +18,14 @@ plugins:
   - revealjs:
       transition: slide
       controls: true
+      center: true
+      theme:
+        light:
+          starter: white
+          custom: reveal.css
+        dark:
+          starter: black
+          custom: reveal.css
   - exporter:
       buttons:
         - title: Baixa el PDF
