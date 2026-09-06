@@ -1,21 +1,21 @@
 # Biologia i Geologia — 4t d'ESO
 
-Aquest web recull els **materials de treball, el temari i les activitats** de Biologia i Geologia de 4t d'ESO.
+Aquest web recull els **materials i les activitats** de Biologia i Geologia de 4t d'ESO.
 
-## Unitats didàctiques
+## Material
 
-Cada unitat conté una pàgina de presentació, el temari en format web i les figures associades.
+Cada unitat didàctica disposa d'un document principal i de les figures necessàries per construir-ne la versió web i, quan correspongui, el PDF.
 
-- [UD1](ud1/index.md)
-- [UD2](ud2/index.md)
-- [UD3](ud3/index.md)
-- [UD4](ud4/index.md)
-- [UD5](ud5/index.md)
-- [UD6](ud6/index.md)
+- [UD1](material/ud1/ud1.md)
+- [UD2](material/ud2/ud2.md)
+- [UD3](material/ud3/ud3.md)
+- [UD4](material/ud4/ud4.md)
+- [UD5](material/ud5/ud5.md)
+- [UD6](material/ud6/ud6.md)
 
 ## Activitats
 
-Les activitats estan organitzades per unitat didàctica.
+Les activitats estan organitzades per unitat didàctica i, dins cada unitat, per activitat.
 
 - [Activitats de la UD1](activitats/ud1/index.md)
 - [Activitats de la UD2](activitats/ud2/index.md)
@@ -26,6 +26,6 @@ Les activitats estan organitzades per unitat didàctica.
 
 ## Informació del curs
 
-- [Programació](programacio/index.md)
-- [Criteris d'avaluació](programacio/criteris-avaluacio.md)
-- [Calendari](programacio/calendari.md)
+- [Programació](programacio.md)
+- [Criteris d'avaluació](criteris-avaluacio.md)
+- [Calendari](calendari.md)

@@ -25,35 +25,24 @@ plugins:
 
 nav:
   - Inici: index.md
-  - Programació:
-      - Presentació: programacio/index.md
-      - Criteris d'avaluació: programacio/criteris-avaluacio.md
-      - Calendari: programacio/calendari.md
-  - UD1:
-      - Presentació: ud1/index.md
-      - Temari: ud1/temari.md
-  - UD2:
-      - Presentació: ud2/index.md
-      - Temari: ud2/temari.md
-  - UD3:
-      - Presentació: ud3/index.md
-      - Temari: ud3/temari.md
-  - UD4:
-      - Presentació: ud4/index.md
-      - Temari: ud4/temari.md
-  - UD5:
-      - Presentació: ud5/index.md
-      - Temari: ud5/temari.md
-  - UD6:
-      - Presentació: ud6/index.md
-      - Temari: ud6/temari.md
+  - Informació del curs:
+      - Programació: programacio.md
+      - Criteris d'avaluació: criteris-avaluacio.md
+      - Calendari: calendari.md
+  - Material:
+      - UD1: material/ud1/ud1.md
+      - UD2: material/ud2/ud2.md
+      - UD3: material/ud3/ud3.md
+      - UD4: material/ud4/ud4.md
+      - UD5: material/ud5/ud5.md
+      - UD6: material/ud6/ud6.md
   - Activitats:
       - UD1:
           - Índex: activitats/ud1/index.md
-          - G1 · Reconstruïm una història geològica: activitats/ud1/G1/G1_reconstruim_una_historia_geologica.md
+          - G1 · Reconstruïm una història geològica: activitats/ud1/g1/g1.md
           - G2 · On construiríem?:
-              - Sessió 18: activitats/ud1/G2/g2_sessio_18.md
-              - Sessió 19: activitats/ud1/G2/g2_sessio_19.md
+              - Sessió 18: activitats/ud1/g2/g2_sessio_18.md
+              - Sessió 19: activitats/ud1/g2/g2_sessio_19.md
       - UD2:
           - Índex: activitats/ud2/index.md
       - UD3:
@@ -74,4 +63,4 @@ markdown_extensions:
       permalink: true
 
 extra_css:
-  - assets/css/extra.css
+  - extra.css

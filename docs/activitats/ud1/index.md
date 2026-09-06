@@ -2,9 +2,9 @@
 
 ## G1 · Reconstruïm una història geològica
 
-[Obre l'activitat](G1/G1_reconstruim_una_historia_geologica.md)
+[Obre l'activitat](g1/g1.md)
 
 ## G2 · On construiríem?
 
-- [Sessió 18](G2/g2_sessio_18.md)
-- [Sessió 19](G2/g2_sessio_19.md)
+- [Sessió 18](g2/g2_sessio_18.md)
+- [Sessió 19](g2/g2_sessio_19.md)
