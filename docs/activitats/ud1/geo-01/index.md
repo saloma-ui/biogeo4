@@ -121,7 +121,7 @@ Pensau la classificació abans de clicar cada terme. En clicar-lo, en veureu la 
   <button type="button" class="pv-terme" data-resposta="Agent">gravetat</button>
   <button type="button" class="pv-terme" data-resposta="Procés">meteorització</button>
   <button type="button" class="pv-terme" data-resposta="Procés">erosió</button>
-  <button type="button" class="pv-terme" data-resposta="Transport">transport</button>
+  <button type="button" class="pv-terme" data-resposta="Procés">transport</button>
   <button type="button" class="pv-terme" data-resposta="Procés">sedimentació</button>
 </div>
 
