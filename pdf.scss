@@ -1,0 +1,121 @@
+@page {
+  size: A4;
+  margin: 12mm 11mm 13mm;
+}
+
+/* Base tipogràfica compacta però llegible. */
+html,
+body,
+.md-typeset {
+  font-size: 10.5pt;
+  line-height: 1.35;
+}
+
+.md-typeset p {
+  margin-top: 0.35em;
+  margin-bottom: 0.5em;
+  orphans: 3;
+  widows: 3;
+}
+
+.md-typeset h1 {
+  margin-top: 0;
+  margin-bottom: 0.55em;
+  line-height: 1.15;
+}
+
+.md-typeset h2 {
+  margin-top: 0.9em;
+  margin-bottom: 0.35em;
+  line-height: 1.2;
+  break-after: avoid-page;
+  page-break-after: avoid;
+}
+
+.md-typeset h3 {
+  margin-top: 0.7em;
+  margin-bottom: 0.3em;
+  line-height: 1.2;
+  break-after: avoid-page;
+  page-break-after: avoid;
+}
+
+.md-typeset ul,
+.md-typeset ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.5em;
+}
+
+.md-typeset li {
+  margin-bottom: 0.15em;
+}
+
+.md-typeset hr {
+  margin: 0.8em 0;
+}
+
+/* Les imatges es redimensionen abans de permetre que surtin de l'A4. */
+.md-typeset img {
+  display: block;
+  max-width: 100%;
+  max-height: 220mm;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+  break-inside: avoid-page;
+  page-break-inside: avoid;
+}
+
+/* Si una imatge és l'únic contingut d'un paràgraf, es manté sencera. */
+.md-typeset p:has(> img:only-child) {
+  break-inside: avoid-page;
+  page-break-inside: avoid;
+}
+
+.md-typeset figure {
+  break-inside: avoid-page;
+  page-break-inside: avoid;
+}
+
+.md-typeset figcaption {
+  margin-top: 0.25em;
+  line-height: 1.25;
+}
+
+/* Les taules poden continuar a la pàgina següent, però no es talla una fila. */
+.md-typeset table {
+  width: 100%;
+  font-size: 9.5pt;
+  line-height: 1.25;
+  margin-top: 0.45em;
+  margin-bottom: 0.65em;
+}
+
+.md-typeset thead {
+  display: table-header-group;
+}
+
+.md-typeset tr {
+  break-inside: avoid-page;
+  page-break-inside: avoid;
+}
+
+.md-typeset th,
+.md-typeset td {
+  padding: 0.35em 0.45em;
+}
+
+.md-typeset blockquote {
+  margin-top: 0.55em;
+  margin-bottom: 0.55em;
+  break-inside: avoid-page;
+  page-break-inside: avoid;
+}
+
+/* Convenció del projecte: els <details> contenen anotacions per al docent.
+   Es mantenen al web, però no formen part de la versió imprimible. */
+.md-typeset details {
+  display: none !important;
+}
