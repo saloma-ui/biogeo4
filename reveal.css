@@ -1,0 +1,70 @@
+/* Estils comuns de les activitats-presentació amb Reveal.js. */
+
+/*
+ * Reveal.js està pensat per a presentacions molt visuals i, per defecte,
+ * utilitza una tipografia molt gran. En aquestes activitats necessitam
+ * combinar imatges, preguntes i petites explicacions dins una mateixa
+ * diapositiva, de manera que reduïm l'escala tipogràfica i l'espaiat.
+ */
+.reveal {
+  --r-main-font-size: 28px;
+  --r-heading1-size: 2em;
+  --r-heading2-size: 1.45em;
+  --r-heading3-size: 1.15em;
+  --r-heading4-size: 1em;
+  --r-block-margin: 10px;
+}
+
+.reveal .slides section {
+  box-sizing: border-box;
+  padding: 0 12px;
+  text-align: left;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+  margin: 0 0 0.3em;
+  line-height: 1.12;
+  text-transform: none;
+}
+
+.reveal p {
+  margin: 0.32em 0;
+  line-height: 1.25;
+}
+
+.reveal ul,
+.reveal ol {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+.reveal li {
+  margin: 0.12em 0;
+  line-height: 1.22;
+}
+
+/* Les fotografies han de deixar espai per a la pregunta de la diapositiva. */
+.reveal .slides section img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 330px;
+  margin: 0.4em auto;
+  object-fit: contain;
+}
+
+.reveal blockquote {
+  width: 90%;
+  margin: 0.45em auto;
+  padding: 0.25em 0.55em;
+  font-size: 0.9em;
+}
+
+/* Una mica més d'aire a la primera diapositiva, que no conté imatge. */
+.reveal .slides section:first-child {
+  text-align: center;
+}

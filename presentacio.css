@@ -1,0 +1,215 @@
+/* Presentacions verticals construïdes amb MkDocs Material.
+   Els estils només s'apliquen dins .presentacio-vertical. */
+
+/* En les pàgines amb presentació vertical, el desplaçament conserva la
+   fluïdesa normal però tendeix a enquadrar cada secció quan hi passam a prop. */
+html:has(.presentacio-vertical) {
+  scroll-snap-type: y proximity;
+  scroll-padding-top: 6rem;
+}
+
+.presentacio-vertical {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.presentacio-vertical .pv-seccio {
+  min-height: 76vh;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(2rem, 5vw, 4.5rem) 0;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
+  scroll-margin-top: 6rem;
+}
+
+.presentacio-vertical .pv-portada {
+  min-height: 68vh;
+  text-align: center;
+  align-items: center;
+}
+
+.presentacio-vertical .pv-portada h1 {
+  max-width: 900px;
+}
+
+.presentacio-vertical h1 {
+  margin: 0 0 1rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+}
+
+.presentacio-vertical h2 {
+  margin: 1.1rem 0 0.75rem;
+  font-size: clamp(1.35rem, 2.4vw, 1.9rem);
+  line-height: 1.2;
+}
+
+.presentacio-vertical h3 {
+  margin: 0.8rem 0 0.4rem;
+  font-size: clamp(1.05rem, 1.8vw, 1.35rem);
+}
+
+.presentacio-vertical p,
+.presentacio-vertical li,
+.presentacio-vertical blockquote {
+  font-size: clamp(1rem, 1.45vw, 1.25rem);
+  line-height: 1.55;
+}
+
+.presentacio-vertical ul,
+.presentacio-vertical ol {
+  margin-top: 0.6rem;
+  margin-bottom: 0.8rem;
+}
+
+.presentacio-vertical .pv-seccio img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 54vh;
+  object-fit: contain;
+  margin: 1.25rem auto;
+  border-radius: 0.35rem;
+}
+
+.presentacio-vertical .pv-visual img {
+  max-height: 60vh;
+}
+
+.presentacio-vertical .pv-pregunta {
+  margin-top: 1rem;
+  font-size: clamp(1.2rem, 2vw, 1.55rem);
+}
+
+.presentacio-vertical .pv-cadena {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 0.25rem solid var(--md-primary-fg-color);
+  background: var(--md-code-bg-color);
+  font-size: clamp(1.15rem, 2vw, 1.5rem);
+}
+
+.presentacio-vertical .pv-tres-columnes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.presentacio-vertical .pv-targeta {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.45rem;
+  background: var(--md-default-bg-color);
+}
+
+/* Interaccions formatives: elecció amb retroacció i classificació ràpida. */
+.presentacio-vertical .pv-quiz {
+  margin: 1.4rem 0;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.55rem;
+  background: var(--md-code-bg-color);
+}
+
+.presentacio-vertical .pv-opcions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1rem 0;
+}
+
+.presentacio-vertical .pv-opcio,
+.presentacio-vertical .pv-terme {
+  appearance: none;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.45rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  line-height: 1.35;
+  cursor: pointer;
+  transition: border-color 120ms ease, box-shadow 120ms ease, transform 120ms ease;
+}
+
+.presentacio-vertical .pv-opcio {
+  padding: 0.85rem 1rem;
+  text-align: left;
+}
+
+.presentacio-vertical .pv-opcio:hover,
+.presentacio-vertical .pv-terme:hover,
+.presentacio-vertical .pv-opcio:focus-visible,
+.presentacio-vertical .pv-terme:focus-visible {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0 0 0 0.12rem color-mix(in srgb, var(--md-primary-fg-color) 20%, transparent);
+  outline: none;
+}
+
+.presentacio-vertical .pv-opcio:active,
+.presentacio-vertical .pv-terme:active {
+  transform: translateY(1px);
+}
+
+.presentacio-vertical .pv-opcio.pv-seleccionada {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: inset 0 0 0 1px var(--md-primary-fg-color);
+}
+
+.presentacio-vertical .pv-feedback {
+  margin-top: 0.8rem;
+  padding: 0.9rem 1rem;
+  border-left: 0.25rem solid var(--md-primary-fg-color);
+  background: var(--md-default-bg-color);
+  font-size: clamp(1rem, 1.35vw, 1.15rem);
+  line-height: 1.5;
+}
+
+.presentacio-vertical .pv-termes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.2rem 0;
+}
+
+.presentacio-vertical .pv-terme {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.65rem 0.8rem;
+}
+
+.presentacio-vertical .pv-etiqueta {
+  display: inline-block;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  background: var(--md-code-bg-color);
+  font-size: 0.78em;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 760px) {
+  .presentacio-vertical .pv-seccio {
+    min-height: auto;
+    padding: 2.5rem 0;
+  }
+
+  .presentacio-vertical .pv-portada {
+    min-height: 55vh;
+  }
+
+  .presentacio-vertical .pv-tres-columnes,
+  .presentacio-vertical .pv-opcions {
+    grid-template-columns: 1fr;
+  }
+
+  .presentacio-vertical .pv-seccio img,
+  .presentacio-vertical .pv-visual img {
+    max-height: none;
+  }
+}
