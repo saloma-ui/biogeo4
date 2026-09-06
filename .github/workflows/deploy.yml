@@ -33,3 +33,18 @@ jobs:
 
       - name: Publica amb MkDocs
         run: mkdocs gh-deploy --force
+
+      - name: Comprova els PDF generats
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from pypdf import PdfReader
+
+          pdfs = sorted(Path('site').rglob('*.pdf'))
+          if not pdfs:
+              raise SystemExit('No s’ha generat cap PDF.')
+
+          for path in pdfs:
+              pages = len(PdfReader(path).pages)
+              print(f'{path}: {pages} pàgines')
+          PY
