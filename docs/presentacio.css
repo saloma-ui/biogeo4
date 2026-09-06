@@ -108,6 +108,91 @@ html:has(.presentacio-vertical) {
   background: var(--md-default-bg-color);
 }
 
+/* Interaccions formatives: elecció amb retroacció i classificació ràpida. */
+.presentacio-vertical .pv-quiz {
+  margin: 1.4rem 0;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.55rem;
+  background: var(--md-code-bg-color);
+}
+
+.presentacio-vertical .pv-opcions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1rem 0;
+}
+
+.presentacio-vertical .pv-opcio,
+.presentacio-vertical .pv-terme {
+  appearance: none;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.45rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  line-height: 1.35;
+  cursor: pointer;
+  transition: border-color 120ms ease, box-shadow 120ms ease, transform 120ms ease;
+}
+
+.presentacio-vertical .pv-opcio {
+  padding: 0.85rem 1rem;
+  text-align: left;
+}
+
+.presentacio-vertical .pv-opcio:hover,
+.presentacio-vertical .pv-terme:hover,
+.presentacio-vertical .pv-opcio:focus-visible,
+.presentacio-vertical .pv-terme:focus-visible {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0 0 0 0.12rem color-mix(in srgb, var(--md-primary-fg-color) 20%, transparent);
+  outline: none;
+}
+
+.presentacio-vertical .pv-opcio:active,
+.presentacio-vertical .pv-terme:active {
+  transform: translateY(1px);
+}
+
+.presentacio-vertical .pv-opcio.pv-seleccionada {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: inset 0 0 0 1px var(--md-primary-fg-color);
+}
+
+.presentacio-vertical .pv-feedback {
+  margin-top: 0.8rem;
+  padding: 0.9rem 1rem;
+  border-left: 0.25rem solid var(--md-primary-fg-color);
+  background: var(--md-default-bg-color);
+  font-size: clamp(1rem, 1.35vw, 1.15rem);
+  line-height: 1.5;
+}
+
+.presentacio-vertical .pv-termes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.2rem 0;
+}
+
+.presentacio-vertical .pv-terme {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.65rem 0.8rem;
+}
+
+.presentacio-vertical .pv-etiqueta {
+  display: inline-block;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+  background: var(--md-code-bg-color);
+  font-size: 0.78em;
+  font-weight: 700;
+}
+
 @media screen and (max-width: 760px) {
   .presentacio-vertical .pv-seccio {
     min-height: auto;
@@ -118,7 +203,8 @@ html:has(.presentacio-vertical) {
     min-height: 55vh;
   }
 
-  .presentacio-vertical .pv-tres-columnes {
+  .presentacio-vertical .pv-tres-columnes,
+  .presentacio-vertical .pv-opcions {
     grid-template-columns: 1fr;
   }
 
