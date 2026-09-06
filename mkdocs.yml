@@ -20,6 +20,8 @@ plugins:
         pdf:
           explicit: true
           concurrency: 1
+          stylesheets:
+            - pdf.scss
           browser:
             timeout: 120000
 
