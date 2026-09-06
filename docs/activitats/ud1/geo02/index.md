@@ -49,16 +49,16 @@ Imaginem que travessam el terreny amb un **pla perfectament horitzontal**.
   </div>
 
   <div class="pv-feedback" data-feedback-id="tall-100" hidden>
-    ![Tall del relleu a 100 m](figures/tall_100.png)
+    <img src="figures/tall_100.png" alt="Tall del relleu a 100 m">
   </div>
   <div class="pv-feedback" data-feedback-id="tall-150" hidden>
-    ![Tall del relleu a 150 m](figures/tall_150.png)
+    <img src="figures/tall_150.png" alt="Tall del relleu a 150 m">
   </div>
   <div class="pv-feedback" data-feedback-id="tall-200" hidden>
-    ![Tall del relleu a 200 m](figures/tall_200.png)
+    <img src="figures/tall_200.png" alt="Tall del relleu a 200 m">
   </div>
   <div class="pv-feedback" data-feedback-id="tall-250" hidden>
-    ![Tall del relleu a 250 m](figures/tall_250.png)
+    <img src="figures/tall_250.png" alt="Tall del relleu a 250 m">
   </div>
 </div>
 
@@ -82,19 +82,19 @@ Ara eliminam mentalment el volum del relleu i conservam **només la línia de co
   </div>
 
   <div class="pv-feedback" data-feedback-id="contorn-100" hidden>
-    ![Contorn del tall a 100 m](figures/contorn_100.png)
+    <img src="figures/contorn_100.png" alt="Contorn del tall a 100 m">
   </div>
   <div class="pv-feedback" data-feedback-id="contorn-150" hidden>
-    ![Contorn del tall a 150 m](figures/contorn_150.png)
+    <img src="figures/contorn_150.png" alt="Contorn del tall a 150 m">
   </div>
   <div class="pv-feedback" data-feedback-id="contorn-200" hidden>
-    ![Contorn del tall a 200 m](figures/contorn_200.png)
+    <img src="figures/contorn_200.png" alt="Contorn del tall a 200 m">
   </div>
   <div class="pv-feedback" data-feedback-id="contorn-250" hidden>
-    ![Contorn del tall a 250 m](figures/contorn_250.png)
+    <img src="figures/contorn_250.png" alt="Contorn del tall a 250 m">
   </div>
   <div class="pv-feedback" data-feedback-id="contorn-tots" hidden>
-    ![Tots els talls superposats](figures/superposicio.png)
+    <img src="figures/superposicio.png" alt="Tots els talls superposats">
   </div>
 </div>
 
@@ -120,8 +120,7 @@ Ara eliminam mentalment el volum del relleu i conservam **només la línia de co
   </div>
   <div class="pv-feedback" data-feedback-id="mateixa-ac" hidden>
     <strong>Exacte.</strong> A i C són damunt la mateixa línia: representen punts situats a la mateixa altitud.
-
-    **Una corba de nivell és una línia que uneix punts situats a la mateixa altitud.**
+    <p><strong>Una corba de nivell és una línia que uneix punts situats a la mateixa altitud.</strong></p>
   </div>
   <div class="pv-feedback" data-feedback-id="mateixa-ab" hidden>
     <strong>Revisau-ho.</strong> A i B són damunt línies diferents. Seguiu la línia completa abans de decidir.
