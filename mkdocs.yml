@@ -57,7 +57,9 @@ nav:
   - Activitats:
       - UD1:
           - Índex: activitats/ud1/index.md
-          - GEO-01 · Llegim un paisatge: activitats/ud1/geo-01/index.md
+          - GEO-01 · Llegim un paisatge:
+              - Reveal.js: activitats/ud1/geo-01/index.md
+              - Prova vertical: activitats/ud1/geo-01/vertical.md
           - G1 · Reconstruïm una història geològica: activitats/ud1/g1/g1.md
           - G2 · On construiríem?:
               - Sessió 18: activitats/ud1/g2/g2_sessio_18.md
@@ -83,3 +85,4 @@ markdown_extensions:
 
 extra_css:
   - extra.css
+  - presentacio.css
