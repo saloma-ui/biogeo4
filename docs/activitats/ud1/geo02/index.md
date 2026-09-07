@@ -316,4 +316,51 @@ Ara compararem dues zones diferents del mateix mapa. **P és en una zona més al
 
 </section>
 
+<section class="pv-seccio pv-visual" markdown>
+
+# 10 · Quina distància recorrerem?
+
+Un mapa no només redueix el relleu: també redueix **les distàncies**. Per recuperar la distància real necessitam una referència.
+
+<div style="position:relative; width:100%; margin:1.25rem auto;">
+  <img src="figures/mapa_base.png" alt="Mapa topogràfic amb un segment A-B i l'escala gràfica ressaltada" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <svg viewBox="0 0 1448 1086" preserveAspectRatio="xMidYMid meet" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
+    <line x1="645" y1="748" x2="645" y2="586" stroke="#111" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="645" cy="748" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
+    <circle cx="645" cy="586" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
+    <text x="668" y="760" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">A</text>
+    <text x="668" y="590" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">B</text>
+    <rect x="1060" y="972" width="330" height="78" rx="16" fill="none" stroke="#111" stroke-width="6" stroke-dasharray="16 10"/>
+  </svg>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Comparau la longitud A–B amb l'escala gràfica. Quina distància real aproximada representa?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="escala-1" aria-pressed="false">1 km</button>
+    <button type="button" class="pv-opcio" data-feedback="escala-2" aria-pressed="false">2 km</button>
+    <button type="button" class="pv-opcio" data-feedback="escala-3" aria-pressed="false">3 km</button>
+    <button type="button" class="pv-opcio" data-feedback="escala-6" aria-pressed="false">6 km</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="escala-1" hidden>
+    <strong>Revisau-ho.</strong> A–B és aproximadament el doble d'un tram d'1 km de la barra d'escala.
+  </div>
+  <div class="pv-feedback" data-feedback-id="escala-2" hidden>
+    <strong>Exacte.</strong> La longitud A–B equival aproximadament a dos trams d'1 km.
+    <p><strong>L'escala relaciona una distància mesurada al mapa amb la distància real.</strong> En una escala gràfica, podem comparar directament una longitud del mapa amb la barra graduada.</p>
+  </div>
+  <div class="pv-feedback" data-feedback-id="escala-3" hidden>
+    <strong>Revisau-ho.</strong> A–B és clarament més curt que tota la barra de 3 km.
+  </div>
+  <div class="pv-feedback" data-feedback-id="escala-6" hidden>
+    <strong>Revisau-ho.</strong> No hem de multiplicar els 3 km de la barra per dos: hem de comparar la longitud A–B amb els trams graduats de la barra.
+  </div>
+</div>
+
+<p class="pv-pregunta"><strong>Atenció:</strong> aquesta és la distància en línia recta entre A i B. Un camí real que faci revolts pot ser més llarg.</p>
+
+<!-- DOCENT: Introduir “escala” després de la resposta. Treballar aquí només la lectura de l'escala gràfica; no és necessari introduir encara una escala numèrica ni conversions. La darrera frase prepara el problema de rutes del punt 11. -->
+
+</section>
+
 </div>
