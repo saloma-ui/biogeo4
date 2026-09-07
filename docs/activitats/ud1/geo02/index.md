@@ -491,4 +491,77 @@ Per a aquest grup hem decidit **triar la ruta B** perquè la prioritat és evita
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 13 · Què podem llegir d'un mapa topogràfic?
+
+Hem anat resolent problemes diferents. Ara reunim les pistes que ens dona el mapa.
+
+<div class="pv-cadena" markdown>
+
+**CORBES DE NIVELL → ALTITUD → PENDENT → DISTÀNCIA → DECISIÓ**
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### 1 · Altitud
+
+- Una **corba de nivell** uneix punts situats a la mateixa altitud.
+- La **cota** indica l'altitud d'un punt respecte del nivell de la mar.
+- L'**equidistància** és la diferència d'altitud entre dues corbes consecutives.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### 2 · Pendent
+
+- Si les corbes estan **molt juntes**, l'altitud canvia ràpidament en poca distància: **pendent fort**.
+- Si estan **més separades**, el canvi és més gradual: **pendent suau**.
+- **Més alt no significa necessàriament més pendent.**
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### 3 · Distància
+
+- L'**escala** relaciona una distància representada al mapa amb la distància real.
+- Una ruta amb revolts pot ser molt més llarga que la distància en línia recta entre dos punts.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### 4 · Prendre decisions
+
+Per comparar recorreguts no basta mirar-ne la forma. Hem de combinar evidències:
+
+**com travessa les corbes + quina distància recorre + quin és el nostre objectiu**.
+
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina afirmació resumeix millor el que hem après?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="sintesi-a" aria-pressed="false">A · El mapa ens diu quina ruta és sempre la millor.</button>
+    <button type="button" class="pv-opcio" data-feedback="sintesi-b" aria-pressed="false">B · Les corbes només serveixen per saber l'altitud.</button>
+    <button type="button" class="pv-opcio" data-feedback="sintesi-c" aria-pressed="false">C · El mapa aporta evidències sobre altitud, pendent i distància; nosaltres les combinam segons el problema que volem resoldre.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="sintesi-a" hidden>
+    <strong>No exactament.</strong> El mapa aporta informació, però la decisió depèn del criteri que prioritzam: menys distància, menys pendent o un altre objectiu.
+  </div>
+  <div class="pv-feedback" data-feedback-id="sintesi-b" hidden>
+    <strong>És incomplet.</strong> Les corbes també ens permeten interpretar el pendent i, combinades amb l'escala, comparar recorreguts.
+  </div>
+  <div class="pv-feedback" data-feedback-id="sintesi-c" hidden>
+    <strong>Exacte.</strong> Llegir un mapa topogràfic no és només identificar símbols: és convertir-los en evidències per comprendre el relleu i prendre decisions justificades.
+  </div>
+</div>
+
+<!-- DOCENT: Aquesta pantalla és de síntesi, no d'avaluació formal. Fer que l'alumnat verbalitzi les relacions entre conceptes abans del repte final/exit ticket. -->
+
+</section>
+
 </div>
