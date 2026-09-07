@@ -363,4 +363,118 @@ Un mapa no només redueix el relleu: també redueix **les distàncies**. Per rec
 
 </section>
 
+<section class="pv-seccio pv-visual" markdown>
+
+# 11 · Quin camí triaríeu?
+
+Hem d'anar des de la **sortida** fins al **destí**. Tenim dues rutes possibles.
+
+La nostra prioritat és **evitar els pendents forts**, encara que haguem de caminar una mica més.
+
+<div style="position:relative; width:100%; margin:1.25rem auto;">
+  <img src="figures/mapa_base.png" alt="Mapa topogràfic amb dues rutes alternatives entre la sortida i el destí" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <svg viewBox="0 0 1448 1086" preserveAspectRatio="xMidYMid meet" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
+    <path d="M 642 760 C 638 690, 632 585, 640 500" fill="none" stroke="#c62828" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 642 760 C 535 735, 440 680, 420 610 C 405 555, 500 515, 640 500" fill="none" stroke="#1565c0" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="642" cy="760" r="16" fill="#111" stroke="#fff" stroke-width="6"/>
+    <circle cx="640" cy="500" r="16" fill="#111" stroke="#fff" stroke-width="6"/>
+    <text x="666" y="782" font-size="38" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">SORTIDA</text>
+    <text x="664" y="485" font-size="38" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">DESTÍ</text>
+
+    <text x="670" y="645" font-size="40" font-weight="700" fill="#c62828" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta A</text>
+    <text x="430" y="685" font-size="40" font-weight="700" fill="#1565c0" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta B</text>
+  </svg>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina ruta és més curta?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="ruta-curta-a" aria-pressed="false">A · Ruta A</button>
+    <button type="button" class="pv-opcio" data-feedback="ruta-curta-b" aria-pressed="false">B · Ruta B</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="ruta-curta-a" hidden>
+    <strong>Exacte.</strong> La ruta A uneix sortida i destí de manera més directa. La ruta B fa més volta i, per tant, és més llarga.
+  </div>
+  <div class="pv-feedback" data-feedback-id="ruta-curta-b" hidden>
+    <strong>Revisau-ho.</strong> Seguiu els dos recorreguts des de la sortida fins al destí: B fa una volta molt més ampla.
+  </div>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina ruta evita millor els pendents forts?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="ruta-pendent-a" aria-pressed="false">A · Ruta A</button>
+    <button type="button" class="pv-opcio" data-feedback="ruta-pendent-b" aria-pressed="false">B · Ruta B</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="ruta-pendent-a" hidden>
+    <strong>Revisau les corbes que travessa la ruta A.</strong> En el tram de pujada passen molt juntes: això indica un canvi d'altitud ràpid en poca distància horitzontal.
+  </div>
+  <div class="pv-feedback" data-feedback-id="ruta-pendent-b" hidden>
+    <strong>Exacte.</strong> La ruta B fa més volta, però aprofita zones on les corbes estan més separades i guanya altitud de manera més gradual.
+    <p><strong>A és més curta. B és menys costeruda.</strong> La ruta més adequada depèn de què prioritzam.</p>
+  </div>
+</div>
+
+<!-- DOCENT: No presentar una ruta com a “millor” en termes absoluts. Fer verbalitzar el compromís: menys distància versus pendent més suau. El mapa aporta informació; el criteri de decisió depèn de l'objectiu. -->
+
+</section>
+
+<section class="pv-seccio pv-visual" markdown>
+
+# 12 · No basta triar: justifica-ho
+
+Per a aquest grup hem decidit **triar la ruta B** perquè la prioritat és evitar els pendents forts.
+
+<div style="position:relative; width:100%; margin:1.25rem auto;">
+  <img src="figures/mapa_base.png" alt="Mateix mapa amb les rutes A i B per justificar una decisió a partir de les corbes de nivell" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <svg viewBox="0 0 1448 1086" preserveAspectRatio="xMidYMid meet" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
+    <path d="M 642 760 C 638 690, 632 585, 640 500" fill="none" stroke="#c62828" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 642 760 C 535 735, 440 680, 420 610 C 405 555, 500 515, 640 500" fill="none" stroke="#1565c0" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="642" cy="760" r="16" fill="#111" stroke="#fff" stroke-width="6"/>
+    <circle cx="640" cy="500" r="16" fill="#111" stroke="#fff" stroke-width="6"/>
+    <text x="666" y="782" font-size="38" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">SORTIDA</text>
+    <text x="664" y="485" font-size="38" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">DESTÍ</text>
+    <text x="670" y="645" font-size="40" font-weight="700" fill="#c62828" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta A</text>
+    <text x="430" y="685" font-size="40" font-weight="700" fill="#1565c0" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta B</text>
+  </svg>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina explicació justifica millor la decisió?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="just-altitud" aria-pressed="false">A · B, perquè arriba a una zona situada a més altitud.</button>
+    <button type="button" class="pv-opcio" data-feedback="just-curta" aria-pressed="false">B · B, perquè és el recorregut més curt.</button>
+    <button type="button" class="pv-opcio" data-feedback="just-correcta" aria-pressed="false">C · B, perquè les corbes estan més separades i indiquen un pendent més suau, encara que el recorregut sigui més llarg.</button>
+    <button type="button" class="pv-opcio" data-feedback="just-menys" aria-pressed="false">D · B, perquè passa per una zona on veim menys corbes de nivell.</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="just-altitud" hidden>
+    <strong>Aquí estau confonent altitud i pendent.</strong> Que un lloc sigui més alt no ens diu si el recorregut per arribar-hi és més o menys costerut.
+  </div>
+  <div class="pv-feedback" data-feedback-id="just-curta" hidden>
+    <strong>No.</strong> En el punt anterior hem vist que A és la ruta més curta. Precisament triam B malgrat que és més llarga.
+  </div>
+  <div class="pv-feedback" data-feedback-id="just-correcta" hidden>
+    <strong>Exacte.</strong> La justificació relaciona una evidència del mapa amb la decisió.
+    <p><strong>Corbes més separades → canvi d'altitud més gradual → pendent més suau.</strong></p>
+    <p>Acceptam una distància més gran perquè la nostra prioritat és evitar els pendents forts.</p>
+  </div>
+  <div class="pv-feedback" data-feedback-id="just-menys" hidden>
+    <strong>Revisau-ho.</strong> No importa simplement quantes corbes hi ha. Per interpretar el pendent ens fixam sobretot en <strong>com estan separades</strong>.
+  </div>
+</div>
+
+<div class="pv-cadena" markdown>
+
+**Decisió → evidència del mapa → explicació**
+
+</div>
+
+<p class="pv-pregunta"><strong>I si la prioritat fos arribar-hi pel recorregut més curt?</strong> Triairíeu la mateixa ruta? Justificau-ho.</p>
+
+<!-- DOCENT: Fer respondre oralment: si prioritzam distància, triaríem A. El propòsit és fer explícit que el mapa no “decideix”: aporta evidències que interpretem segons el criteri del problema. -->
+
+</section>
+
 </div>
