@@ -645,4 +645,47 @@ Abans de mesurar res, fixau-vos en com la línia A–B travessa les corbes de ni
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 16 · Guardam les petjades d'A–B
+
+Per construir el perfil no necessitam copiar tot el mapa. Primer hem de conservar **on canvia l'altitud al llarg d'A–B**.
+
+<div class="pv-targeta" markdown>
+
+### Feina sobre el mapa A3
+
+1. Col·locau una **tira estreta de paper** exactament damunt la línia **A–B**.
+2. Marcau a la tira els extrems **A** i **B**.
+3. Feis una petita marca **cada vegada que A–B travessa una corba de nivell**.
+4. Manteniu l'ordre i la separació entre les marques: encara **no** hi escrigueu les cotes.
+
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Què representa cadascuna de les marques que acabam de fer?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="marca-interseccio" aria-pressed="false">A · Un punt del recorregut A–B on coneixem exactament l'altitud</button>
+    <button type="button" class="pv-opcio" data-feedback="marca-distancia" aria-pressed="false">B · Un tram de la línia A–B que té sempre el mateix pendent</button>
+    <button type="button" class="pv-opcio" data-feedback="marca-cim" aria-pressed="false">C · Un cim o una vall del perfil</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="marca-interseccio" hidden>
+    <strong>Exacte.</strong> Cada marca correspon a la intersecció entre A–B i una corba de nivell. En aquest punt, la corba ens permet conèixer l'altitud.
+    <p>La tira conserva una informació essencial: <strong>la posició horitzontal dels punts que després traslladarem al perfil</strong>.</p>
+  </div>
+  <div class="pv-feedback" data-feedback-id="marca-distancia" hidden>
+    <strong>No exactament.</strong> Una marca és un punt concret, no un tram. El pendent l'interpretarem després a partir de com queden distribuïts aquests punts.
+  </div>
+  <div class="pv-feedback" data-feedback-id="marca-cim" hidden>
+    <strong>No necessàriament.</strong> Tallar una corba de nivell només ens diu que en aquell punt tenim una altitud coneguda; no implica que hi hagi un cim o una vall.
+  </div>
+</div>
+
+<p class="pv-pregunta"><strong>Comprovació:</strong> abans de continuar, revisau de nou A–B de principi a fi. No vos deixeu cap corba sense marcar.</p>
+
+<!-- DOCENT: En aquest punt només es transfereix la posició de les interseccions. No assignar encara les cotes ni començar el gràfic. És important que la tira quedi ben alineada amb A–B i que conservi exactament les distàncies relatives entre marques. El punt 17 donarà altitud a cadascuna d'aquestes marques. -->
+
+</section>
+
 </div>
