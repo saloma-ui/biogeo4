@@ -789,4 +789,57 @@ Encara **no situeu cap punt a una altitud concreta**. Ho farem a la passa següe
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 19 · Ara donam altura als punts
+
+L'eix horitzontal ja ens diu **on** és cada intersecció al llarg d'A–B. Ara necessitam la segona coordenada: **a quina altitud és**.
+
+<div class="pv-cadena" markdown>
+
+**POSICIÓ HORITZONTAL + COTA → PUNT DEL PERFIL**
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Construïm l'eix vertical
+
+1. A l'extrem esquerre del gràfic, dibuixau un **eix vertical** i escriviu-hi **Altitud (m)**.
+2. Fixau amb el docent una **escala vertical regular** que inclogui totes les cotes de la tira.
+3. Marcau els valors d'altitud mantenint sempre la mateixa separació per a un mateix increment de metres.
+4. Per a cada marca de l'eix horitzontal, seguiu la seva **guia vertical** fins arribar a la cota que teniu escrita a la tira.
+5. En aquesta intersecció, feis un **punt petit i precís**.
+6. Repetiu-ho fins haver situat totes les marques.
+
+Encara **no uniu els punts**. Primer comprovarem que tots són al lloc correcte.
+
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Què representa ara cadascun dels punts del gràfic?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="punt-dues-dades" aria-pressed="false">A · Una posició concreta d'A–B i l'altitud que té en aquell lloc</button>
+    <button type="button" class="pv-opcio" data-feedback="punt-nomes-cota" aria-pressed="false">B · Només la cota d'una corba de nivell</button>
+    <button type="button" class="pv-opcio" data-feedback="punt-pendent" aria-pressed="false">C · El pendent mitjà de tot el recorregut</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="punt-dues-dades" hidden>
+    <strong>Exacte.</strong> Cada punt combina dues informacions: la seva <strong>posició al llarg d'A–B</strong> i la seva <strong>altitud</strong>.
+    <p>L'eix horitzontal respon <strong>on?</strong> i l'eix vertical respon <strong>a quina altura?</strong></p>
+  </div>
+  <div class="pv-feedback" data-feedback-id="punt-nomes-cota" hidden>
+    <strong>És incomplet.</strong> Dos punts poden tenir la mateixa cota però trobar-se en llocs diferents d'A–B. Necessitam les dues coordenades.
+  </div>
+  <div class="pv-feedback" data-feedback-id="punt-pendent" hidden>
+    <strong>No.</strong> Un punt no representa un pendent. El pendent apareixerà en la inclinació del perfil quan relacionem punts successius.
+  </div>
+</div>
+
+<p class="pv-pregunta"><strong>Comprovació:</strong> si dues marques de la tira tenen la mateixa cota, els seus punts han de quedar a la mateixa altura del gràfic, encara que estiguin molt separats horitzontalment.</p>
+
+<!-- DOCENT: Fixar una escala vertical comuna per al grup perquè els perfils siguin comparables. L'objectiu conceptual és separar clarament les dues coordenades: x = posició/distància al llarg d'A–B; y = altitud. Fer punts petits i no unir-los encara. No introduir l'exageració vertical en aquest moment: el punt 20 se centrarà en reconstruir la forma del relleu unint i interpretant els punts. -->
+
+</section>
+
 </div>
