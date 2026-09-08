@@ -564,4 +564,48 @@ Per comparar recorreguts no basta mirar-ne la forma. Hem de combinar evidències
 
 </section>
 
+<section class="pv-seccio pv-visual" markdown>
+
+# 14 · Què pots deduir del mapa?
+
+Observa el mapa topogràfic i respon **breument, però justificant sempre la resposta amb una evidència del mapa**.
+
+![Mapa topogràfic final amb punts, zones i dues rutes](figures/mapa_exit_ticket.svg)
+
+<div class="pv-targeta" markdown>
+
+### 1 · Altitud
+
+Quin dels punts **A, B o C** està situat a més altitud?
+
+Explica com ho pots saber a partir de les corbes de nivell.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### 2 · Pendent
+
+A quina zona, **X o Y**, el pendent és més fort?
+
+Indica quina característica de les corbes de nivell t'ho permet deduir.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### 3 · Decidir una ruta
+
+Si l'objectiu és arribar al **Destí amb una pujada tan gradual com sigui possible**, quina triaries: **Ruta 1 o Ruta 2**?
+
+Justifica la resposta a partir de **com la ruta travessa les corbes de nivell i de la distància que recorre**.
+
+</div>
+
+<p class="pv-pregunta"><strong>Abans d'entregar:</strong> comprova que a cada resposta has indicat <strong>quina evidència del mapa</strong> has utilitzat.</p>
+
+<!-- DOCENT: Exit ticket breu, 3–4 minuts. Respostes esperades: 1) C, perquè és sobre una corba de major altitud que A i B. 2) Y, perquè les corbes hi estan més juntes. 3) Ruta 2, perquè recorre més distància per guanyar el mateix desnivell i travessa les corbes més gradualment. No acceptar com a justificació suficient “perquè té més revolts”. És evidència formativa, no avaluació formal d'un CA. -->
+
+</section>
+
 </div>
