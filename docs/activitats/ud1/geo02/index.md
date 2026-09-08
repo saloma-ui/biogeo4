@@ -323,19 +323,19 @@ Ara compararem dues zones diferents del mateix mapa. **P és en una zona més al
 Un mapa no només redueix el relleu: també redueix **les distàncies**. Per recuperar la distància real necessitam una referència.
 
 <div style="position:relative; width:100%; margin:1.25rem auto;">
-  <img src="figures/mapa_base.png" alt="Mapa topogràfic amb un segment A-B i l'escala gràfica ressaltada" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <img src="figures/mapa_base.png" alt="Mapa topogràfic amb un segment M-N i l'escala gràfica ressaltada" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
   <svg viewBox="0 0 1448 1086" preserveAspectRatio="xMidYMid meet" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
     <line x1="645" y1="748" x2="645" y2="586" stroke="#111" stroke-width="9" stroke-linecap="round"/>
     <circle cx="645" cy="748" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
     <circle cx="645" cy="586" r="14" fill="#111" stroke="#fff" stroke-width="5"/>
-    <text x="668" y="760" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">A</text>
-    <text x="668" y="590" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">B</text>
+    <text x="668" y="760" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">M</text>
+    <text x="668" y="590" font-size="42" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">N</text>
     <rect x="1060" y="972" width="330" height="78" rx="16" fill="none" stroke="#111" stroke-width="6" stroke-dasharray="16 10"/>
   </svg>
 </div>
 
 <div class="pv-quiz" data-pv-quiz>
-  <p class="pv-pregunta"><strong>Comparau la longitud A–B amb l'escala gràfica. Quina distància real aproximada representa?</strong></p>
+  <p class="pv-pregunta"><strong>Comparau la longitud M–N amb l'escala gràfica. Quina distància real aproximada representa?</strong></p>
   <div class="pv-opcions">
     <button type="button" class="pv-opcio" data-feedback="escala-1" aria-pressed="false">1 km</button>
     <button type="button" class="pv-opcio" data-feedback="escala-2" aria-pressed="false">2 km</button>
@@ -343,21 +343,21 @@ Un mapa no només redueix el relleu: també redueix **les distàncies**. Per rec
     <button type="button" class="pv-opcio" data-feedback="escala-6" aria-pressed="false">6 km</button>
   </div>
   <div class="pv-feedback" data-feedback-id="escala-1" hidden>
-    <strong>Revisau-ho.</strong> A–B és aproximadament el doble d'un tram d'1 km de la barra d'escala.
+    <strong>Revisau-ho.</strong> M–N és aproximadament el doble d'un tram d'1 km de la barra d'escala.
   </div>
   <div class="pv-feedback" data-feedback-id="escala-2" hidden>
-    <strong>Exacte.</strong> La longitud A–B equival aproximadament a dos trams d'1 km.
+    <strong>Exacte.</strong> La longitud M–N equival aproximadament a dos trams d'1 km.
     <p><strong>L'escala relaciona una distància mesurada al mapa amb la distància real.</strong> En una escala gràfica, podem comparar directament una longitud del mapa amb la barra graduada.</p>
   </div>
   <div class="pv-feedback" data-feedback-id="escala-3" hidden>
-    <strong>Revisau-ho.</strong> A–B és clarament més curt que tota la barra de 3 km.
+    <strong>Revisau-ho.</strong> M–N és clarament més curt que tota la barra de 3 km.
   </div>
   <div class="pv-feedback" data-feedback-id="escala-6" hidden>
-    <strong>Revisau-ho.</strong> No hem de multiplicar els 3 km de la barra per dos: hem de comparar la longitud A–B amb els trams graduats de la barra.
+    <strong>Revisau-ho.</strong> No hem de multiplicar els 3 km de la barra per dos: hem de comparar la longitud M–N amb els trams graduats de la barra.
   </div>
 </div>
 
-<p class="pv-pregunta"><strong>Atenció:</strong> aquesta és la distància en línia recta entre A i B. Un camí real que faci revolts pot ser més llarg.</p>
+<p class="pv-pregunta"><strong>Atenció:</strong> aquesta és la distància en línia recta entre M i N. Un camí real que faci revolts pot ser més llarg.</p>
 
 <!-- DOCENT: Introduir “escala” després de la resposta. Treballar aquí només la lectura de l'escala gràfica; no és necessari introduir encara una escala numèrica ni conversions. La darrera frase prepara el problema de rutes del punt 11. -->
 
@@ -391,42 +391,42 @@ La nostra prioritat és **evitar una pujada massa forta**, encara que haguem de 
     <text x="692" y="805" font-size="38" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">SORTIDA</text>
     <text x="742" y="466" font-size="38" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">DESTÍ</text>
 
-    <text x="700" y="625" font-size="40" font-weight="700" fill="#c62828" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta A</text>
-    <text x="845" y="674" font-size="40" font-weight="700" fill="#1565c0" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta B</text>
+    <text x="700" y="625" font-size="40" font-weight="700" fill="#c62828" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta 1</text>
+    <text x="845" y="674" font-size="40" font-weight="700" fill="#1565c0" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta 2</text>
   </svg>
 </div>
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>Quina ruta és més curta?</strong></p>
   <div class="pv-opcions">
-    <button type="button" class="pv-opcio" data-feedback="ruta-curta-a" aria-pressed="false">A · Ruta A</button>
-    <button type="button" class="pv-opcio" data-feedback="ruta-curta-b" aria-pressed="false">B · Ruta B</button>
+    <button type="button" class="pv-opcio" data-feedback="ruta-curta-a" aria-pressed="false">A · Ruta 1</button>
+    <button type="button" class="pv-opcio" data-feedback="ruta-curta-b" aria-pressed="false">B · Ruta 2</button>
   </div>
   <div class="pv-feedback" data-feedback-id="ruta-curta-a" hidden>
-    <strong>Exacte.</strong> La ruta A uneix la sortida i el destí de manera molt més directa. La ruta B fa un recorregut considerablement més llarg.
+    <strong>Exacte.</strong> La ruta 1 uneix la sortida i el destí de manera molt més directa. La ruta 2 fa un recorregut considerablement més llarg.
   </div>
   <div class="pv-feedback" data-feedback-id="ruta-curta-b" hidden>
-    <strong>Revisau-ho.</strong> Seguiu els dos recorreguts de principi a fi: la ruta B fa diversos revolts abans d'arribar al mateix destí.
+    <strong>Revisau-ho.</strong> Seguiu els dos recorreguts de principi a fi: la ruta 2 fa diversos revolts abans d'arribar al mateix destí.
   </div>
 </div>
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>Quina ruta permet guanyar altitud de manera més gradual?</strong></p>
   <div class="pv-opcions">
-    <button type="button" class="pv-opcio" data-feedback="ruta-pendent-a" aria-pressed="false">A · Ruta A</button>
-    <button type="button" class="pv-opcio" data-feedback="ruta-pendent-b" aria-pressed="false">B · Ruta B</button>
+    <button type="button" class="pv-opcio" data-feedback="ruta-pendent-a" aria-pressed="false">A · Ruta 1</button>
+    <button type="button" class="pv-opcio" data-feedback="ruta-pendent-b" aria-pressed="false">B · Ruta 2</button>
   </div>
   <div class="pv-feedback" data-feedback-id="ruta-pendent-a" hidden>
-    <strong>Revisau com travessa les corbes de nivell.</strong> La ruta A en talla moltes en poca longitud de recorregut: l'altitud augmenta ràpidament mentre avançam.
+    <strong>Revisau com travessa les corbes de nivell.</strong> La ruta 1 en talla moltes en poca longitud de recorregut: l'altitud augmenta ràpidament mentre avançam.
   </div>
   <div class="pv-feedback" data-feedback-id="ruta-pendent-b" hidden>
-    <strong>Exacte.</strong> La ruta B alterna revolts i trams que segueixen aproximadament la direcció de les corbes de nivell. Això fa que recorreguem més distància entre un canvi d'altitud i el següent.
+    <strong>Exacte.</strong> La ruta 2 alterna revolts i trams que segueixen aproximadament la direcció de les corbes de nivell. Això fa que recorreguem més distància entre un canvi d'altitud i el següent.
     <p><strong>Mateix desnivell + més distància de recorregut → pujada més gradual.</strong></p>
-    <p>Per tant: <strong>A és més curta; B té una pujada més suau.</strong></p>
+    <p>Per tant: <strong>la ruta 1 és més curta; la ruta 2 té una pujada més suau.</strong></p>
   </div>
 </div>
 
-<!-- DOCENT: No presentar B com a “millor” en absolut ni justificar-la només perquè té revolts. L'evidència és la relació entre el traçat i les corbes de nivell: B recorre més distància entre successius canvis d'altitud. -->
+<!-- DOCENT: No presentar la ruta 2 com a “millor” en absolut ni justificar-la només perquè té revolts. L'evidència és la relació entre el traçat i les corbes de nivell: la ruta 2 recorre més distància entre successius canvis d'altitud. -->
 
 </section>
 
@@ -434,10 +434,10 @@ La nostra prioritat és **evitar una pujada massa forta**, encara que haguem de 
 
 # 12 · No basta triar: justifica-ho
 
-Per a aquest grup hem decidit **triar la ruta B** perquè la prioritat és evitar una pujada massa forta.
+Per a aquest grup hem decidit **triar la ruta 2** perquè la prioritat és evitar una pujada massa forta.
 
 <div style="position:relative; width:100%; margin:1.25rem auto;">
-  <img src="figures/mapa_base.png" alt="Mateix mapa amb les rutes A i B per justificar una decisió a partir de les corbes de nivell" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
+  <img src="figures/mapa_base.png" alt="Mateix mapa amb les rutes 1 i 2 per justificar una decisió a partir de les corbes de nivell" style="display:block; width:100%; height:auto; max-height:none; margin:0;">
   <svg viewBox="0 0 1448 1086" preserveAspectRatio="xMidYMid meet" aria-hidden="true" style="position:absolute; inset:0; width:100%; height:100%; pointer-events:none;">
     <path d="M 670 780 C 675 700, 690 600, 720 480" fill="none" stroke="#c62828" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
 
@@ -455,37 +455,37 @@ Per a aquest grup hem decidit **triar la ruta B** perquè la prioritat és evita
     <circle cx="720" cy="480" r="16" fill="#111" stroke="#fff" stroke-width="6"/>
     <text x="692" y="805" font-size="38" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">SORTIDA</text>
     <text x="742" y="466" font-size="38" font-weight="700" fill="#111" stroke="#fff" stroke-width="9" paint-order="stroke">DESTÍ</text>
-    <text x="700" y="625" font-size="40" font-weight="700" fill="#c62828" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta A</text>
-    <text x="845" y="674" font-size="40" font-weight="700" fill="#1565c0" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta B</text>
+    <text x="700" y="625" font-size="40" font-weight="700" fill="#c62828" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta 1</text>
+    <text x="845" y="674" font-size="40" font-weight="700" fill="#1565c0" stroke="#fff" stroke-width="9" paint-order="stroke">Ruta 2</text>
   </svg>
 </div>
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>Quina explicació justifica millor la decisió?</strong></p>
   <div class="pv-opcions">
-    <button type="button" class="pv-opcio" data-feedback="just-altitud" aria-pressed="false">A · B, perquè arriba a una zona situada a més altitud.</button>
-    <button type="button" class="pv-opcio" data-feedback="just-curta" aria-pressed="false">B · B, perquè és el recorregut més curt.</button>
-    <button type="button" class="pv-opcio" data-feedback="just-correcta" aria-pressed="false">C · B, perquè els revolts fan que recorreguem més distància entre successius canvis d'altitud; així la pujada és més gradual, encara que el recorregut sigui més llarg.</button>
-    <button type="button" class="pv-opcio" data-feedback="just-revolts" aria-pressed="false">D · B, simplement perquè té més revolts.</button>
+    <button type="button" class="pv-opcio" data-feedback="just-altitud" aria-pressed="false">A · Ruta 2, perquè arriba a una zona situada a més altitud.</button>
+    <button type="button" class="pv-opcio" data-feedback="just-curta" aria-pressed="false">B · Ruta 2, perquè és el recorregut més curt.</button>
+    <button type="button" class="pv-opcio" data-feedback="just-correcta" aria-pressed="false">C · Ruta 2, perquè els revolts fan que recorreguem més distància entre successius canvis d'altitud; així la pujada és més gradual, encara que el recorregut sigui més llarg.</button>
+    <button type="button" class="pv-opcio" data-feedback="just-revolts" aria-pressed="false">D · Ruta 2, simplement perquè té més revolts.</button>
   </div>
 
   <div class="pv-feedback" data-feedback-id="just-altitud" hidden>
     <strong>Aquí estau confonent altitud i pendent.</strong> Que el destí sigui més alt no ens diu quina ruta permet arribar-hi amb una pujada més gradual.
   </div>
   <div class="pv-feedback" data-feedback-id="just-curta" hidden>
-    <strong>No.</strong> La ruta més curta és A. Precisament triam B malgrat que és més llarga.
+    <strong>No.</strong> La ruta més curta és la ruta 1. Precisament triam la ruta 2 malgrat que és més llarga.
   </div>
   <div class="pv-feedback" data-feedback-id="just-correcta" hidden>
     <strong>Exacte.</strong> La justificació relaciona el traçat amb les corbes de nivell.
-    <p>La ruta B té trams gairebé paral·lels a les corbes i les va travessant progressivament. Així recorrem <strong>més distància per guanyar el mateix desnivell</strong> i la pujada resulta més suau.</p>
-    <p><strong>Decisió → evidència → explicació</strong><br>Triam B → travessa les corbes més gradualment → guanya altitud més a poc a poc.</p>
+    <p>La ruta 2 té trams gairebé paral·lels a les corbes i les va travessant progressivament. Així recorrem <strong>més distància per guanyar el mateix desnivell</strong> i la pujada resulta més suau.</p>
+    <p><strong>Decisió → evidència → explicació</strong><br>Triam la ruta 2 → travessa les corbes més gradualment → guanya altitud més a poc a poc.</p>
   </div>
   <div class="pv-feedback" data-feedback-id="just-revolts" hidden>
     <strong>No basta mirar la forma del camí.</strong> Els revolts, per si sols, no demostren que el pendent sigui menor. L'evidència és <strong>com el recorregut travessa les corbes de nivell</strong> i quanta distància recorre entre dos canvis d'altitud.
   </div>
 </div>
 
-<p class="pv-pregunta"><strong>I si la prioritat fos arribar-hi pel recorregut més curt?</strong> En aquest cas triaríem la <strong>ruta A</strong>.</p>
+<p class="pv-pregunta"><strong>I si la prioritat fos arribar-hi pel recorregut més curt?</strong> En aquest cas triaríem la <strong>ruta 1</strong>.</p>
 
 <!-- DOCENT: El punt clau és impedir el raonament superficial “més revolts = millor”. Fer que l'alumnat argumenti amb les corbes de nivell i amb la distància recorreguda entre canvis d'altitud. -->
 
@@ -542,25 +542,7 @@ Per comparar recorreguts no basta mirar-ne la forma. Hem de combinar evidències
 
 </div>
 
-<div class="pv-quiz" data-pv-quiz>
-  <p class="pv-pregunta"><strong>Quina afirmació resumeix millor el que hem après?</strong></p>
-  <div class="pv-opcions">
-    <button type="button" class="pv-opcio" data-feedback="sintesi-a" aria-pressed="false">A · El mapa ens diu quina ruta és sempre la millor.</button>
-    <button type="button" class="pv-opcio" data-feedback="sintesi-b" aria-pressed="false">B · Les corbes només serveixen per saber l'altitud.</button>
-    <button type="button" class="pv-opcio" data-feedback="sintesi-c" aria-pressed="false">C · El mapa aporta evidències sobre altitud, pendent i distància; nosaltres les combinam segons el problema que volem resoldre.</button>
-  </div>
-  <div class="pv-feedback" data-feedback-id="sintesi-a" hidden>
-    <strong>No exactament.</strong> El mapa aporta informació, però la decisió depèn del criteri que prioritzam: menys distància, menys pendent o un altre objectiu.
-  </div>
-  <div class="pv-feedback" data-feedback-id="sintesi-b" hidden>
-    <strong>És incomplet.</strong> Les corbes també ens permeten interpretar el pendent i, combinades amb l'escala, comparar recorreguts.
-  </div>
-  <div class="pv-feedback" data-feedback-id="sintesi-c" hidden>
-    <strong>Exacte.</strong> Llegir un mapa topogràfic no és només identificar símbols: és convertir-los en evidències per comprendre el relleu i prendre decisions justificades.
-  </div>
-</div>
-
-<!-- DOCENT: Aquesta pantalla és de síntesi, no d'avaluació formal. Fer que l'alumnat verbalitzi les relacions entre conceptes abans del repte final/exit ticket. -->
+<!-- DOCENT: Síntesi ràpida, 1–2 minuts. No aturar la classe amb un altre qüestionari: fer verbalitzar una o dues relacions i passar directament a l'exit ticket del punt 14. -->
 
 </section>
 
@@ -662,29 +644,11 @@ Per construir el perfil no necessitam copiar tot el mapa. Primer hem de conserva
 
 </div>
 
-<div class="pv-quiz" data-pv-quiz>
-  <p class="pv-pregunta"><strong>Què representa cadascuna de les marques que acabam de fer?</strong></p>
-  <div class="pv-opcions">
-    <button type="button" class="pv-opcio" data-feedback="marca-interseccio" aria-pressed="false">A · Un punt del recorregut A–B on coneixem exactament l'altitud</button>
-    <button type="button" class="pv-opcio" data-feedback="marca-distancia" aria-pressed="false">B · Un tram de la línia A–B que té sempre el mateix pendent</button>
-    <button type="button" class="pv-opcio" data-feedback="marca-cim" aria-pressed="false">C · Un cim o una vall del perfil</button>
-  </div>
-
-  <div class="pv-feedback" data-feedback-id="marca-interseccio" hidden>
-    <strong>Exacte.</strong> Cada marca correspon a la intersecció entre A–B i una corba de nivell. En aquest punt, la corba ens permet conèixer l'altitud.
-    <p>La tira conserva una informació essencial: <strong>la posició horitzontal dels punts que després traslladarem al perfil</strong>.</p>
-  </div>
-  <div class="pv-feedback" data-feedback-id="marca-distancia" hidden>
-    <strong>No exactament.</strong> Una marca és un punt concret, no un tram. El pendent l'interpretarem després a partir de com queden distribuïts aquests punts.
-  </div>
-  <div class="pv-feedback" data-feedback-id="marca-cim" hidden>
-    <strong>No necessàriament.</strong> Tallar una corba de nivell només ens diu que en aquell punt tenim una altitud coneguda; no implica que hi hagi un cim o una vall.
-  </div>
-</div>
+Cada marca correspon a una **intersecció entre A–B i una corba de nivell**: conserva la posició horitzontal d'un punt que després traslladarem al perfil.
 
 <p class="pv-pregunta"><strong>Comprovació:</strong> abans de continuar, revisau de nou A–B de principi a fi. No vos deixeu cap corba sense marcar.</p>
 
-<!-- DOCENT: En aquest punt només es transfereix la posició de les interseccions. No assignar encara les cotes ni començar el gràfic. És important que la tira quedi ben alineada amb A–B i que conservi exactament les distàncies relatives entre marques. El punt 17 donarà altitud a cadascuna d'aquestes marques. -->
+<!-- DOCENT: En aquest punt només es transfereix la posició de les interseccions. No assignar encara les cotes ni començar el gràfic. És important que la tira quedi ben alineada amb A–B i que conservi exactament les distàncies relatives entre marques. -->
 
 </section>
 
@@ -733,7 +697,7 @@ La tira ja conserva **on** A–B travessa cada corba. Ara hem d'afegir la segona
 
 <p class="pv-pregunta"><strong>Comprovació:</strong> llegiu les cotes d'A cap a B. Si la seqüència només puja sense baixar mai, revisau el mapa: A–B travessa un relleu amb pujades i baixades.</p>
 
-<!-- DOCENT: L'objectiu és que cada intersecció quedi associada a una cota sense convertir l'activitat en una seqüència mecànica de números. Insistir que la línia A–B pot tallar la mateixa cota en posicions diferents i que les altituds poden augmentar o disminuir. No traslladar encara les marques al paper mil·limetrat: això començarà al punt 18. -->
+<!-- DOCENT: L'objectiu és que cada intersecció quedi associada a una cota sense convertir l'activitat en una seqüència mecànica de números. Insistir que la línia A–B pot tallar la mateixa cota en posicions diferents i que les altituds poden augmentar o disminuir. -->
 
 </section>
 
@@ -763,29 +727,11 @@ Encara **no situeu cap punt a una altitud concreta**. Ho farem a la passa següe
 
 </div>
 
-<div class="pv-quiz" data-pv-quiz>
-  <p class="pv-pregunta"><strong>Quina informació hem de conservar exactament en aquest pas?</strong></p>
-  <div class="pv-opcions">
-    <button type="button" class="pv-opcio" data-feedback="horitzontal-separacio" aria-pressed="false">A · La separació entre les marques al llarg d'A–B</button>
-    <button type="button" class="pv-opcio" data-feedback="horitzontal-altura" aria-pressed="false">B · L'altura gràfica de cada punt</button>
-    <button type="button" class="pv-opcio" data-feedback="horitzontal-igual" aria-pressed="false">C · Que totes les marques quedin igualment separades</button>
-  </div>
-
-  <div class="pv-feedback" data-feedback-id="horitzontal-separacio" hidden>
-    <strong>Exacte.</strong> L'eix horitzontal representa la posició al llarg d'A–B. Si dues interseccions són molt pròximes al mapa, també han de quedar molt pròximes al perfil.
-    <p>La tira ens permet transferir aquestes distàncies <strong>sense haver de mesurar-les una per una</strong>.</p>
-  </div>
-  <div class="pv-feedback" data-feedback-id="horitzontal-altura" hidden>
-    <strong>Encara no.</strong> En aquest pas només decidim **on cau cada punt horitzontalment**. La cota determinarà la seva posició vertical a la passa següent.
-  </div>
-  <div class="pv-feedback" data-feedback-id="horitzontal-igual" hidden>
-    <strong>No.</strong> Les marques no s'han de repartir de manera uniforme. Hem de conservar les distàncies relatives que tenien sobre A–B.
-  </div>
-</div>
+La clau és conservar **exactament la separació entre les marques**: l'eix horitzontal representa la posició al llarg d'A–B, no una successió de punts equidistants.
 
 <p class="pv-pregunta"><strong>Comprovació:</strong> posau de nou la tira sobre l'eix. Totes les marques del paper mil·limetrat han de coincidir amb les de la tira.</p>
 
-<!-- DOCENT: En aquest punt es construeix únicament la coordenada horitzontal del perfil. Fer les guies verticals fines, a llapis, perquè serviran al punt 19. No introduir encara l'escala vertical ni situar punts segons les cotes. La idea clau és que l'eix horitzontal conserva la geometria d'A–B: ordre i distàncies relatives entre interseccions. -->
+<!-- DOCENT: En aquest punt es construeix únicament la coordenada horitzontal del perfil. Fer les guies verticals fines, a llapis, perquè serviran al punt 19. La idea clau és conservar l'ordre i les distàncies relatives entre interseccions. -->
 
 </section>
 
@@ -816,29 +762,11 @@ Encara **no uniu els punts**. Primer comprovarem que tots són al lloc correcte.
 
 </div>
 
-<div class="pv-quiz" data-pv-quiz>
-  <p class="pv-pregunta"><strong>Què representa ara cadascun dels punts del gràfic?</strong></p>
-  <div class="pv-opcions">
-    <button type="button" class="pv-opcio" data-feedback="punt-dues-dades" aria-pressed="false">A · Una posició concreta d'A–B i l'altitud que té en aquell lloc</button>
-    <button type="button" class="pv-opcio" data-feedback="punt-nomes-cota" aria-pressed="false">B · Només la cota d'una corba de nivell</button>
-    <button type="button" class="pv-opcio" data-feedback="punt-pendent" aria-pressed="false">C · El pendent mitjà de tot el recorregut</button>
-  </div>
-
-  <div class="pv-feedback" data-feedback-id="punt-dues-dades" hidden>
-    <strong>Exacte.</strong> Cada punt combina dues informacions: la seva <strong>posició al llarg d'A–B</strong> i la seva <strong>altitud</strong>.
-    <p>L'eix horitzontal respon <strong>on?</strong> i l'eix vertical respon <strong>a quina altura?</strong></p>
-  </div>
-  <div class="pv-feedback" data-feedback-id="punt-nomes-cota" hidden>
-    <strong>És incomplet.</strong> Dos punts poden tenir la mateixa cota però trobar-se en llocs diferents d'A–B. Necessitam les dues coordenades.
-  </div>
-  <div class="pv-feedback" data-feedback-id="punt-pendent" hidden>
-    <strong>No.</strong> Un punt no representa un pendent. El pendent apareixerà en la inclinació del perfil quan relacionem punts successius.
-  </div>
-</div>
+Cada punt combina les dues dades que hem anat preparant: **on és al llarg d'A–B** i **a quina altitud és**.
 
 <p class="pv-pregunta"><strong>Comprovació:</strong> si dues marques de la tira tenen la mateixa cota, els seus punts han de quedar a la mateixa altura del gràfic, encara que estiguin molt separats horitzontalment.</p>
 
-<!-- DOCENT: Fixar una escala vertical comuna per al grup perquè els perfils siguin comparables. L'objectiu conceptual és separar clarament les dues coordenades: x = posició/distància al llarg d'A–B; y = altitud. Fer punts petits i no unir-los encara. No introduir l'exageració vertical en aquest moment: el punt 20 se centrarà en reconstruir la forma del relleu unint i interpretant els punts. -->
+<!-- DOCENT: Fixar una escala vertical comuna per al grup perquè els perfils siguin comparables. L'objectiu conceptual és separar clarament les dues coordenades: x = posició/distància al llarg d'A–B; y = altitud. Si l'escala vertical i l'horitzontal no són equivalents, la inclinació dibuixada pot quedar exagerada o comprimida: el perfil permet comparar qualitativament sectors del mateix tall, però l'angle dibuixat no és necessàriament el pendent real. -->
 
 </section>
 
@@ -875,7 +803,7 @@ Ja tenim tots els punts situats. Ara deixam de veure una col·lecció de coorden
   </div>
 
   <div class="pv-feedback" data-feedback-id="perfil-inclinat" hidden>
-    <strong>Exacte.</strong> Moltes corbes travessades en poca distància vol dir que l'altitud canvia ràpidament. Al perfil això es manifesta com un tram més inclinat.
+    <strong>Exacte.</strong> Moltes corbes travessades en poca distància vol dir que l'altitud canvia ràpidament. Dins aquest mateix perfil, això es manifesta com un tram més inclinat.
     <p><strong>Corbes juntes al mapa ↔ pendent fort al perfil.</strong></p>
   </div>
   <div class="pv-feedback" data-feedback-id="perfil-horitzontal" hidden>
@@ -900,7 +828,7 @@ Mirau el perfil acabat i comparau-lo amb el que havíeu imaginat abans de comen�
 
 <p class="pv-pregunta"><strong>Idea clau:</strong> el mapa topogràfic i el perfil són dues representacions diferents del <strong>mateix relleu</strong>: una vista des de dalt i l'altra vista de costat seguint A–B.</p>
 
-<!-- DOCENT: Aquest punt completa la construcció manual del perfil. No exigir una línia geomètricament exacta entre les interseccions: les corbes només fixen altituds en punts concrets del tall. La línia ha de ser contínua, suau i coherent amb el patró de pujades, baixades i pendents que mostra el mapa. Recuperar explícitament la predicció del punt 15 per tancar el cicle predicció → construcció → comprovació. -->
+<!-- DOCENT: Aquest punt completa la construcció manual del perfil. No exigir una línia geomètricament exacta entre les interseccions: les corbes només fixen altituds en punts concrets del tall. La línia ha de ser contínua, suau i coherent amb el patró de pujades, baixades i pendents que mostra el mapa. Recuperar explícitament la predicció del punt 15 per tancar el cicle predicció → construcció → comprovació. Si les escales horitzontal i vertical són diferents, recordar que la inclinació gràfica no equival necessàriament a l'angle real del pendent. -->
 
 </section>
 
