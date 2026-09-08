@@ -688,4 +688,53 @@ Per construir el perfil no necessitam copiar tot el mapa. Primer hem de conserva
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 17 · Donam altitud a cada marca
+
+La tira ja conserva **on** A–B travessa cada corba. Ara hem d'afegir la segona dada que necessitarem per construir el perfil: **a quina altitud és cada punt**.
+
+<div class="pv-targeta" markdown>
+
+### Feina sobre la tira
+
+1. Tornau a col·locar la tira exactament damunt **A–B**.
+2. A cada marca, identificau **quina corba de nivell** travessa la línia.
+3. Si la corba duu la cota escrita, copiau-ne el valor al costat de la marca.
+4. Si no duu número, seguiu la corba fins a trobar-ne la cota o deduïu-la a partir de les **corbes numerades pròximes i l'equidistància**.
+5. Repetiu-ho de **A cap a B** fins que totes les marques tenguin una altitud.
+
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Una de les corbes que travessa A–B no té la cota escrita just al costat. Què hem de fer?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="cota-seguir" aria-pressed="false">A · Seguir la mateixa corba o usar l'equidistància per deduir-ne la cota</button>
+    <button type="button" class="pv-opcio" data-feedback="cota-distancia" aria-pressed="false">B · Mesurar la distància fins a A i convertir-la en metres d'altitud</button>
+    <button type="button" class="pv-opcio" data-feedback="cota-sequencia" aria-pressed="false">C · Posar automàticament una cota més alta que la marca anterior</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="cota-seguir" hidden>
+    <strong>Exacte.</strong> Una corba manté la mateixa cota en tot el seu recorregut. Si el número no és al punt d'intersecció, podem seguir la línia fins a trobar-lo; també podem deduir valors intermedis amb l'equidistància.
+  </div>
+  <div class="pv-feedback" data-feedback-id="cota-distancia" hidden>
+    <strong>No.</strong> La distància horitzontal i l'altitud són magnituds diferents. La cota l'obtenim de les corbes de nivell.
+  </div>
+  <div class="pv-feedback" data-feedback-id="cota-sequencia" hidden>
+    <strong>Atenció.</strong> A–B pot travessar pujades i baixades. La cota següent no ha de ser necessàriament més alta: hem de llegir cada corba del mapa.
+  </div>
+</div>
+
+<div class="pv-cadena" markdown>
+
+**Cada marca = posició al llarg d'A–B + altitud**
+
+</div>
+
+<p class="pv-pregunta"><strong>Comprovació:</strong> llegiu les cotes d'A cap a B. Si la seqüència només puja sense baixar mai, revisau el mapa: A–B travessa un relleu amb pujades i baixades.</p>
+
+<!-- DOCENT: L'objectiu és que cada intersecció quedi associada a una cota sense convertir l'activitat en una seqüència mecànica de números. Insistir que la línia A–B pot tallar la mateixa cota en posicions diferents i que les altituds poden augmentar o disminuir. No traslladar encara les marques al paper mil·limetrat: això començarà al punt 18. -->
+
+</section>
+
 </div>
