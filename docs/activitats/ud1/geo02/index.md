@@ -842,4 +842,66 @@ Encara **no uniu els punts**. Primer comprovarem que tots són al lloc correcte.
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 20 · Reconstruïm el relleu
+
+Ja tenim tots els punts situats. Ara deixam de veure una col·lecció de coordenades i començam a veure **la forma del terreny al llarg d'A–B**.
+
+<div class="pv-cadena" markdown>
+
+**PUNTS DEL PERFIL → LÍNIA DEL RELLEU**
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Dibuixam el perfil
+
+1. Revisau una darrera vegada que tots els punts siguin a la **posició horitzontal** i a la **cota** correctes.
+2. Començau a **A** i avançau cap a **B**.
+3. Uniu els punts consecutius amb **una única línia contínua i suau** que passi per tots ells.
+4. No utilitzeu la regla per convertir el relleu en una successió de segments rígids: el terreny real no forma angles a cada corba de nivell.
+5. Manteniu la línia neta i no tapeu els punts fins haver comprovat que el perfil és coherent.
+
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Què hauria de passar al perfil en un tram on A–B travessa moltes corbes de nivell molt juntes?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="perfil-inclinat" aria-pressed="false">A · La línia del perfil hauria de ser més inclinada</button>
+    <button type="button" class="pv-opcio" data-feedback="perfil-horitzontal" aria-pressed="false">B · La línia del perfil hauria de ser gairebé horitzontal</button>
+    <button type="button" class="pv-opcio" data-feedback="perfil-cim" aria-pressed="false">C · Hi hauria d'haver necessàriament un cim</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="perfil-inclinat" hidden>
+    <strong>Exacte.</strong> Moltes corbes travessades en poca distància vol dir que l'altitud canvia ràpidament. Al perfil això es manifesta com un tram més inclinat.
+    <p><strong>Corbes juntes al mapa ↔ pendent fort al perfil.</strong></p>
+  </div>
+  <div class="pv-feedback" data-feedback-id="perfil-horitzontal" hidden>
+    <strong>Revisau-ho.</strong> Si l'altitud canvia molt en poca distància, el perfil no pot ser gairebé horitzontal: ha de pujar o baixar amb força.
+  </div>
+  <div class="pv-feedback" data-feedback-id="perfil-cim" hidden>
+    <strong>No necessàriament.</strong> Les corbes juntes indiquen pendent fort, però no ens diuen per si soles que allà hi hagi un màxim del relleu.
+  </div>
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Tornam a la predicció del punt 15
+
+Mirau el perfil acabat i comparau-lo amb el que havíeu imaginat abans de començar.
+
+- On apareixen les **pujades i baixades**?
+- Quin tram és **més costerut**?
+- Coincideix amb el sector d'A–B on les corbes estaven més juntes?
+
+</div>
+
+<p class="pv-pregunta"><strong>Idea clau:</strong> el mapa topogràfic i el perfil són dues representacions diferents del <strong>mateix relleu</strong>: una vista des de dalt i l'altra vista de costat seguint A–B.</p>
+
+<!-- DOCENT: Aquest punt completa la construcció manual del perfil. No exigir una línia geomètricament exacta entre les interseccions: les corbes només fixen altituds en punts concrets del tall. La línia ha de ser contínua, suau i coherent amb el patró de pujades, baixades i pendents que mostra el mapa. Recuperar explícitament la predicció del punt 15 per tancar el cicle predicció → construcció → comprovació. -->
+
+</section>
+
 </div>
