@@ -608,4 +608,41 @@ Justifica la resposta a partir de **com la ruta travessa les corbes de nivell i 
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 15 · I si tallam el territori per A–B?
+
+Teniu davant el **mapa topogràfic imprès en A3**. Localitzau els punts **A** i **B** i seguiu amb el dit la línia recta que els uneix.
+
+<div class="pv-targeta" markdown>
+
+Imaginem que poguéssim fer un **tall vertical del terreny exactament al llarg d'A–B** i mirar el relleu de costat.
+
+<p class="pv-pregunta"><strong>Quina forma creis que tendria?</strong></p>
+
+Abans de mesurar res, fixau-vos en com la línia A–B travessa les corbes de nivell. Pensau on esperau trobar **pujades, baixades i trams més costeruts**.
+
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>On esperau que el tall sigui més costerut?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="perfil-juntes" aria-pressed="false">A · Als trams on A–B travessa corbes molt juntes</button>
+    <button type="button" class="pv-opcio" data-feedback="perfil-separades" aria-pressed="false">B · Als trams on A–B travessa corbes molt separades</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="perfil-juntes" hidden>
+    <strong>Exacte.</strong> Si A–B travessa moltes corbes en poca distància, l'altitud canvia ràpidament i el relleu vist de costat serà més costerut.
+    <p>Aquest tall del relleu vist de costat és el que anomenam un <strong>perfil topogràfic</strong>.</p>
+  </div>
+  <div class="pv-feedback" data-feedback-id="perfil-separades" hidden>
+    <strong>Revisau la idea de pendent.</strong> Quan les corbes estan separades, necessitam recórrer més distància per guanyar la mateixa altitud: el pendent és més suau.
+  </div>
+</div>
+
+<p class="pv-pregunta"><strong>Predicció:</strong> sense dibuixar encara el perfil, assenyalau amb el dit un tram d'A–B que espereu que sigui especialment costerut i explicau per què.</p>
+
+<!-- DOCENT: Inici de la sessió 3. Cada alumne treballa amb el mapa A3 imprès. No mostrar encara cap perfil resolt ni començar a marcar les interseccions. L'objectiu és connectar la lectura del pendent de la sessió 2 amb la idea de representar el mateix relleu vist de costat. Introduir “perfil topogràfic” només després de la predicció. -->
+
+</section>
+
 </div>
