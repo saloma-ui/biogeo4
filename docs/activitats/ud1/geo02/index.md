@@ -737,4 +737,56 @@ La tira ja conserva **on** A–B travessa cada corba. Ara hem d'afegir la segona
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 18 · Duim les marques al paper mil·limetrat
+
+Ja tenim, per a cada intersecció, dues dades: **on és al llarg d'A–B** i **quina cota té**. Ara començarem a construir el gràfic, però de moment només traslladarem la **posició horitzontal**.
+
+<div class="pv-cadena" markdown>
+
+**TIRA D'A–B → EIX HORITZONTAL DEL PERFIL**
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Feina sobre el paper mil·limetrat
+
+1. Dibuixau una línia horitzontal amb la **mateixa longitud que el tram A–B de la tira**.
+2. Marcau **A** a l'extrem esquerre i **B** a l'extrem dret.
+3. Col·locau la tira sobre aquesta línia, fent coincidir exactament els dos extrems.
+4. Traslladau a l'eix **totes les marques de les interseccions**, sense canviar-ne la separació.
+5. Des de cada marca, traçau molt suaument una **guia vertical** cap amunt.
+
+Encara **no situeu cap punt a una altitud concreta**. Ho farem a la passa següent.
+
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina informació hem de conservar exactament en aquest pas?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="horitzontal-separacio" aria-pressed="false">A · La separació entre les marques al llarg d'A–B</button>
+    <button type="button" class="pv-opcio" data-feedback="horitzontal-altura" aria-pressed="false">B · L'altura gràfica de cada punt</button>
+    <button type="button" class="pv-opcio" data-feedback="horitzontal-igual" aria-pressed="false">C · Que totes les marques quedin igualment separades</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="horitzontal-separacio" hidden>
+    <strong>Exacte.</strong> L'eix horitzontal representa la posició al llarg d'A–B. Si dues interseccions són molt pròximes al mapa, també han de quedar molt pròximes al perfil.
+    <p>La tira ens permet transferir aquestes distàncies <strong>sense haver de mesurar-les una per una</strong>.</p>
+  </div>
+  <div class="pv-feedback" data-feedback-id="horitzontal-altura" hidden>
+    <strong>Encara no.</strong> En aquest pas només decidim **on cau cada punt horitzontalment**. La cota determinarà la seva posició vertical a la passa següent.
+  </div>
+  <div class="pv-feedback" data-feedback-id="horitzontal-igual" hidden>
+    <strong>No.</strong> Les marques no s'han de repartir de manera uniforme. Hem de conservar les distàncies relatives que tenien sobre A–B.
+  </div>
+</div>
+
+<p class="pv-pregunta"><strong>Comprovació:</strong> posau de nou la tira sobre l'eix. Totes les marques del paper mil·limetrat han de coincidir amb les de la tira.</p>
+
+<!-- DOCENT: En aquest punt es construeix únicament la coordenada horitzontal del perfil. Fer les guies verticals fines, a llapis, perquè serviran al punt 19. No introduir encara l'escala vertical ni situar punts segons les cotes. La idea clau és que l'eix horitzontal conserva la geometria d'A–B: ordre i distàncies relatives entre interseccions. -->
+
+</section>
+
 </div>
