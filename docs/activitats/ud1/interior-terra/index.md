@@ -165,6 +165,8 @@ El radi mitjà de la Terra és d'uns **6.371 km**.
 
 Una perforació d'uns **12 km** representa només aproximadament el **0,2 % del radi terrestre**.
 
+![Comparació entre el radi terrestre i la profunditat aproximada d'una perforació profunda](figures/geo04_02_escala_perforacio_terra.jpg)
+
 <p class="pv-pregunta"><strong>Si dibuixàssim la Terra a escala, com es veuria aquesta perforació?</strong></p>
 
 <div class="pv-quiz" data-pv-quiz>
@@ -179,7 +181,7 @@ Una perforació d'uns **12 km** representa només aproximadament el **0,2 % del 
   </div>
 
   <div class="pv-feedback" data-feedback-id="escala-prima" hidden>
-    <strong>Exacte.</strong> A escala planetària, les perforacions humanes només han <strong>gratant una fracció minúscula de la superfície</strong>.
+    <strong>Exacte.</strong> A escala planetària, les perforacions humanes només han <strong>gratat una fracció minúscula de la superfície</strong>.
   </div>
 
   <div class="pv-feedback" data-feedback-id="escala-centre" hidden>
