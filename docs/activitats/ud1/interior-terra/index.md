@@ -14,7 +14,7 @@ hide:
 
 ## Una investigació sobre allò que no podem veure directament
 
-![La Terra amb l'interior com a incògnita](figures/geo04_01_repte_interior.jpg)
+![La Terra amb l'interior com a incògnita](figures/geo04_01_repte_interior.png)
 
 <!-- DOCENT: Sessió 4 de construcció. Idea rectora: l'estructura interna de la Terra no s'observa directament; es construeix a partir d'evidències. No mostrar encara els models geoquímic o geodinàmic. -->
 
@@ -30,7 +30,7 @@ Però hi ha un problema:
 
 <p class="pv-pregunta"><strong>no hi podem anar a mirar.</strong></p>
 
-![La Terra amb l'interior com a incògnita](figures/geo04_01_repte_interior.jpg)
+![La Terra amb l'interior com a incògnita](figures/geo04_01_repte_interior.png)
 
 <p class="pv-pregunta"><strong>Com podem saber què hi ha dins la Terra si no ho podem observar directament?</strong></p>
 
@@ -165,7 +165,8 @@ El radi mitjà de la Terra és d'uns **6.371 km**.
 
 Una perforació d'uns **12 km** representa només aproximadament el **0,2 % del radi terrestre**.
 
-![Comparació entre el radi terrestre i la profunditat aproximada d'una perforació profunda](figures/geo04_02_escala_perforacio_terra.jpg)
+![Comparació entre el radi terrestre i la profunditat aproximada d'una perforació profunda](figures/geo04_02_escala_perforacio_terra.png
+)
 
 <p class="pv-pregunta"><strong>Si dibuixàssim la Terra a escala, com es veuria aquesta perforació?</strong></p>
 
