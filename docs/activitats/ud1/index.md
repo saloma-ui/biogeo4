@@ -12,6 +12,10 @@
 
 [Obre l'activitat](interior-terra/index.md)
 
+## Una Terra fragmentada
+
+[Obre l'activitat](terra-fragmentada/index.md)
+
 ## G1 · Reconstruïm una història geològica
 
 [Obre l'activitat](g1/g1.md)
