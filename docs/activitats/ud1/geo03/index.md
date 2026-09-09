@@ -135,3 +135,130 @@ Abans de continuar amb el cas següent, comprova:
 - La meva conclusió explica **per què** les dades són compatibles amb el tipus de límit proposat?
 
 <!-- DOCENT: Cas 1 amb andamisatge alt. La figura no mostra fletxes de moviment ni etiqueta el tipus de límit. L'objectiu és que l'alumnat integri tres fonts d'informació: relleu/patró sísmic, edat simètrica del fons oceànic i sismicitat superficial. En els casos següents es reduirà progressivament el nombre de preguntes d'observació i augmentarà l'autonomia en la justificació. -->
+
+---
+
+# Cas 2 · Zona B
+
+## Dades disponibles
+
+Observa la figura abans d'intentar posar nom al procés tectònic.
+
+![Dades tectòniques de la Zona B](figures/geo03_02_cas2_zona_b.png)
+
+La figura combina tres representacions de la mateixa zona:
+
+- un **mapa** amb epicentres de terratrèmols i volcans;
+- un **perfil topogràfic** entre l'oceà i el continent;
+- un tall que mostra la **profunditat dels terratrèmols** al llarg de la zona.
+
+En aquest cas hauràs de seleccionar tu quines dades són més útils per interpretar què està passant.
+
+## 1. OBSERVA · Cerca patrons
+
+### 1.1 · Selecciona les dades rellevants
+
+Descriu **tres patrons** de la figura que consideris importants per interpretar la Zona B.
+
+| Patró observat | Què mostra la figura? |
+|---|---|
+| 1 | |
+| 2 | |
+| 3 | |
+
+### 1.2 · Mira els terratrèmols en profunditat
+
+**a)** Com varia, en general, la profunditat dels terratrèmols quan passam de l'oceà cap a l'interior del continent?
+
+
+
+**b)** Quin patró geomètric formen aproximadament els focus sísmics en el tall A–A’?
+
+
+
+**c)** On es concentren els terratrèmols més profunds: prop de l'oceà o més cap a l'interior del continent?
+
+
+
+## 2. IDENTIFICA · Proposa una explicació tectònica
+
+Utilitza conjuntament el relleu, el vulcanisme i la distribució dels terratrèmols.
+
+**a)** Quin tipus de límit de plaques proposes per a la Zona B?
+
+
+
+**b)** Quin procés concret creus que està tenint lloc entre les dues plaques?
+
+
+
+**c)** Quina estructura del relleu submarí destaca al marge del continent?
+
+
+
+## 3. JUSTIFICA · Defensa la teva interpretació
+
+Construeix una justificació amb **almenys tres evidències diferents**. Una d'elles ha de fer referència obligatòriament a la **profunditat dels terratrèmols**.
+
+| Afirmació | Evidència observable | Què indica aquesta evidència? |
+|---|---|---|
+| **Tipus de límit i procés:** | 1. | |
+| | 2. | |
+| | 3. | |
+
+### Conclusió argumentada
+
+Redacta una conclusió de 4–6 línies que expliqui:
+
+- quin tipus de límit proposes;
+- quin procés tectònic hi té lloc;
+- quines dades de la figura sostenen aquesta interpretació;
+- per què el patró de profunditat dels terratrèmols és especialment important.
+
+
+
+
+
+
+
+## 4. INTERPRETA · Explica el procés
+
+**a)** Si els focus sísmics formen una franja inclinada que s'endinsa sota el continent, quina explicació geològica és compatible amb aquest patró?
+
+
+
+**b)** Explica com pot relacionar-se aquest procés amb la presència simultània d'una depressió oceànica molt profunda, una cadena de volcans i terratrèmols de profunditats molt diferents.
+
+
+
+
+
+**c)** En aquesta zona, la litosfera oceànica es crea, es conserva o s'introdueix cap a l'interior de la Terra? Justifica-ho.
+
+
+
+## 5. TRANSFEREIX · Aplica el patró a una altra zona
+
+Imagina una altra regió del planeta on es detecten aquestes dades:
+
+- una depressió oceànica estreta i molt profunda prop d'un continent;
+- una alineació de volcans terra endins;
+- terratrèmols superficials prop de l'oceà i terratrèmols de més de 300 km de profunditat cap a l'interior.
+
+**Quina hipòtesi tectònica proposaries? Justifica-la utilitzant almenys dues de les dades anteriors.**
+
+
+
+
+
+## 6. Revisa la teva resposta
+
+Abans de continuar amb el cas següent, comprova:
+
+- He seleccionat patrons rellevants i no només he enumerat elements de la figura?
+- He explicat com varia la profunditat dels terratrèmols?
+- He relacionat almenys tres evidències amb la meva proposta?
+- He diferenciat el **tipus de límit** del **procés tectònic** que hi té lloc?
+- La meva conclusió explica les dades, en lloc de limitar-se a posar una etiqueta?
+
+<!-- DOCENT: Cas 2 amb menys andamisatge que el cas 1. La figura evita etiquetar la depressió oceànica com a fossa i no dibuixa explícitament cap placa subduint. La dada clau és l'augment sistemàtic de la profunditat dels terratrèmols cap al continent, que l'alumnat ha d'interpretar juntament amb el relleu i el vulcanisme. No exigir el terme “zona de Wadati-Benioff”; interessa el raonament que permet inferir una placa que s'endinsa sota una altra. -->
