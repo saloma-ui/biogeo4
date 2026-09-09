@@ -632,4 +632,216 @@ Les ones **P i S no es propaguen de la mateixa manera**, i aquesta diferència p
 
 </section>
 
+<section class="pv-seccio pv-visual" markdown>
+
+# 4 · Per què les ones P i S es comporten diferent?
+
+Per interpretar les trajectòries de les ones sísmiques, primer hem d'entendre **com es mou el material quan passa cada tipus d'ona**.
+
+![Comparació del moviment de les partícules en les ones P i S](figures/geo04_05_moviment_p_s.svg)
+
+<p class="pv-pregunta"><strong>Quina diferència fonamental hi ha entre el moviment de les partícules en una ona P i en una ona S?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="moviment-correcte" aria-pressed="false">A · En les P el moviment és paral·lel a la propagació; en les S és perpendicular</button>
+    <button type="button" class="pv-opcio" data-feedback="moviment-igual" aria-pressed="false">B · En les dues ones les partícules es mouen exactament igual</button>
+    <button type="button" class="pv-opcio" data-feedback="moviment-s-quietes" aria-pressed="false">C · En les ones S les partícules no es mouen</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="moviment-correcte" hidden>
+    <strong>Exacte.</strong> Les ones P produeixen sobretot <strong>compressions i expansions</strong>; les ones S produeixen una deformació transversal o de <strong>cisallament</strong>.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="moviment-igual" hidden>
+    <strong>No.</strong> Fixau-vos en les fletxes que indiquen el moviment de les partícules respecte de la direcció de propagació.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="moviment-s-quietes" hidden>
+    <strong>No.</strong> En una ona S les partícules sí que vibren, però ho fan perpendicularment a la direcció en què avança l'ona.
+  </div>
+</div>
+
+<!-- DOCENT: No convertir “longitudinal/transversal” en l'objectiu memorístic. La diferència necessària és compressió versus cisallament, perquè permetrà predir el comportament en sòlids i líquids. -->
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 4.1 · Què passa en un sòlid?
+
+En un **sòlid**, les partícules mantenen una posició relativa i el material pot transmetre tant una compressió com una deformació lateral.
+
+<p class="pv-pregunta"><strong>Quines ones poden propagar-se per un material sòlid?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="solid-p" aria-pressed="false">A · Només les ones P</button>
+    <button type="button" class="pv-opcio" data-feedback="solid-s" aria-pressed="false">B · Només les ones S</button>
+    <button type="button" class="pv-opcio" data-feedback="solid-ps" aria-pressed="false">C · Les ones P i les ones S</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="solid-p" hidden>
+    <strong>No.</strong> Un sòlid també pot transmetre deformacions de cisallament, de manera que les ones S s'hi poden propagar.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="solid-s" hidden>
+    <strong>No.</strong> Els sòlids poden transmetre tant compressions com deformacions de cisallament.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="solid-ps" hidden>
+    <strong>Exacte.</strong> En els sòlids es poden propagar <strong>tant les ones P com les ones S</strong>.
+  </div>
+</div>
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 4.2 · I en un líquid?
+
+Un líquid pot transmetre **compressions**, però no manté una deformació lateral de cisallament com ho fa un sòlid.
+
+<p class="pv-pregunta"><strong>Què prediries que passarà amb les ones P i S quan arribin a un líquid?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="liquid-dues" aria-pressed="false">A · Les P i les S travessaran el líquid</button>
+    <button type="button" class="pv-opcio" data-feedback="liquid-p" aria-pressed="false">B · Les P el travessaran, però les S no</button>
+    <button type="button" class="pv-opcio" data-feedback="liquid-cap" aria-pressed="false">C · Cap de les dues podrà travessar-lo</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="liquid-dues" hidden>
+    <strong>No.</strong> Per propagar-se, una ona S necessita que el medi pugui transmetre deformacions de cisallament.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="liquid-p" hidden>
+    <strong>Exacte.</strong> Les <strong>ones P</strong> es poden propagar per sòlids i líquids; les <strong>ones S</strong> només es propaguen per sòlids.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="liquid-cap" hidden>
+    <strong>No.</strong> Les compressions sí que es poden transmetre a través d'un líquid, i per això les ones P hi poden continuar propagant-se.
+  </div>
+</div>
+
+<div class="pv-cadena" markdown>
+
+**Sòlid → P i S**  
+**Líquid → P sí · S no**
+
+</div>
+
+<!-- DOCENT: Aquesta és la propietat física decisiva per interpretar l'absència d'ones S en determinades regions. -->
+
+</section>
+
+<section class="pv-seccio pv-visual" markdown>
+
+# 4.3 · Tornam a les dades
+
+Ara recuperam les trajectòries que havíem observat abans.
+
+![Trajectòries de les ones P i S a través de l'interior terrestre](figures/geo04_04_ones_p_s_interior.png)
+
+Recordau:
+
+- les trajectòries **violetes** representen ones P;
+- les trajectòries **verdes** representen ones S.
+
+<p class="pv-pregunta"><strong>Si les ones S no es propaguen per líquids, quina hipòtesi és compatible amb el fet que deixin de travessar una determinada regió interna?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="infer-liquid-buit" aria-pressed="false">A · La regió ha d'estar completament buida</button>
+    <button type="button" class="pv-opcio" data-feedback="infer-liquid-freda" aria-pressed="false">B · La regió ha de ser necessàriament més freda</button>
+    <button type="button" class="pv-opcio" data-feedback="infer-liquid-correcte" aria-pressed="false">C · La regió podria estar en estat líquid</button>
+    <button type="button" class="pv-opcio" data-feedback="infer-liquid-distancia" aria-pressed="false">D · Les ones S desapareixen simplement perquè han recorregut molta distància</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="infer-liquid-buit" hidden>
+    <strong>No.</strong> L'absència d'ones S no implica que la regió sigui buida.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="infer-liquid-freda" hidden>
+    <strong>No.</strong> Aquesta observació no ens permet deduir directament la temperatura.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="infer-liquid-correcte" hidden>
+    <strong>Exacte.</strong> La dada és <strong>compatible amb l'existència d'una regió líquida</strong> a l'interior de la Terra.
+    <p>No l'hem observada directament: és una inferència construïda a partir del comportament de les ones.</p>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="infer-liquid-distancia" hidden>
+    <strong>No.</strong> El patró depèn del recorregut per l'interior, no simplement de la distància total recorreguda.
+  </div>
+</div>
+
+<!-- DOCENT: Insistir en “compatible amb”, no en “demostra per si sola”. La inferència es basa en combinar la dada amb una propietat coneguda de les ones S. -->
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 4.4 · De la dada a la inferència
+
+<div class="pv-tres-columnes" markdown>
+
+<div class="pv-targeta" markdown>
+
+### OBSERVAM
+
+Les ones **S no travessen** una determinada regió interna.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### SABEM
+
+Les ones **S no es propaguen pels líquids**.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### INFERIM
+
+Aquesta regió interna **podria estar en estat líquid**.
+
+</div>
+
+</div>
+
+<p class="pv-pregunta"><strong>Quina part d'aquest raonament és una observació directa?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="cadena-observacio" aria-pressed="false">A · Que les ones S no arriben a determinades zones</button>
+    <button type="button" class="pv-opcio" data-feedback="cadena-inferencia" aria-pressed="false">B · Que existeix una regió interna líquida</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="cadena-observacio" hidden>
+    <strong>Exacte.</strong> Això és allò que podem detectar amb els registres sísmics. L'estat líquid de la regió és una <strong>inferència</strong>.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="cadena-inferencia" hidden>
+    <strong>No.</strong> No observam directament aquesta regió. En deduïm l'estat físic a partir de les dades sísmiques.
+  </div>
+</div>
+
+<div class="pv-cadena" markdown>
+
+**QUEDA'T AMB AIXÒ**
+
+Les ones **P** poden propagar-se per sòlids i líquids. Les ones **S** només es propaguen per sòlids.  
+Aquesta diferència ens permet utilitzar les ones sísmiques per inferir l'estat físic de materials que no podem observar directament.
+
+</div>
+
+<p class="pv-pregunta"><strong>Però les ones P també canvien de direcció en determinats punts. Què ens pot indicar això?</strong></p>
+
+<!-- DOCENT: Aquesta pregunta obre el punt 5: canvi de velocitat, refracció i discontinuïtats. -->
+
+</section>
+
 </div>
