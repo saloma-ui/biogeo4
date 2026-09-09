@@ -14,7 +14,7 @@ hide:
 
 ## 1 · El repte
 
-![La Terra amb l'interior ocult i un signe d'interrogació](figures/geo04_01_repte_interior.jpg)
+![La Terra amb l'interior ocult i un signe d'interrogació](figures/geo04_01_repte_interior.png)
 
 Sota els nostres peus hi ha **milers de quilòmetres de materials** fins arribar al centre de la Terra.
 
