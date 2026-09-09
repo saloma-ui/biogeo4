@@ -367,3 +367,121 @@ Abans de continuar:
 - La meva explicació seria comprensible per una persona que no hagués vist la figura?
 
 <!-- DOCENT: Cas 3 amb andamisatge més reduït. La figura no utilitza les paraules “falla”, “transformant” ni “desplaçament lateral” i no mostra fletxes de moviment. El riu i la carretera actuen com a marcadors superficials desplaçats, mentre que la sismicitat és lineal i superficial. L'objectiu és que l'alumnat integri aquestes dades per inferir un límit transformant i entengui que en aquest tipus de límit no es crea ni es destrueix litosfera de manera significativa. -->
+
+---
+
+# Cas 4 · Zona D
+
+## Dades disponibles
+
+Aquest és el cas més obert. Ja no tens una seqüència de preguntes que et digui on mirar: hauràs de seleccionar i relacionar tu les evidències més útils.
+
+![Dades tectòniques de la Zona D](figures/geo03_04_cas4_zona_d.png)
+
+La figura combina tres tipus d'informació sobre la mateixa zona continental:
+
+- una **vista general** del relleu i de la distribució dels terratrèmols segons la seva profunditat;
+- un **perfil del relleu** al llarg del tall A–A’;
+- un perfil que mostra el **gruix de l'escorça continental**.
+
+## 1. OBSERVA · Tria les dades decisives
+
+Selecciona **tres evidències** de la figura que consideris especialment importants per explicar què passa a la Zona D.
+
+| Evidència | Què observes? | Per què pot ser rellevant? |
+|---|---|---|
+| 1 | | |
+| 2 | | |
+| 3 | | |
+
+## 2. IDENTIFICA · Formula una hipòtesi tectònica
+
+**a)** Quin tipus de límit de plaques proposes per a la Zona D?
+
+
+
+**b)** Quin procés tectònic concret podria explicar el conjunt de dades?
+
+
+
+## 3. JUSTIFICA · Construeix l'explicació
+
+Redacta una explicació de **6–8 línies** que relacioni, com a mínim:
+
+- el tipus de relleu que observam;
+- la distribució i profunditat dels terratrèmols;
+- el gruix de l'escorça sota la zona muntanyosa;
+- el procés tectònic que proposes.
+
+No basta dir «és convergent». Has d'explicar **per què aquest conjunt de dades és compatible amb la teva interpretació**.
+
+
+
+
+
+
+
+
+
+## 4. INTERPRETA · Què ens diu l'arrel cortical?
+
+**a)** Com varia el gruix de l'escorça continental entre els costats de la figura i la zona situada sota les muntanyes?
+
+
+
+**b)** Què suggereix que l'escorça arribi aproximadament als **60–70 km** de gruix sota la serralada?
+
+
+
+**c)** Relaciona aquest engruiximent amb la formació del gran relleu muntanyós que observam al perfil.
+
+
+
+
+
+## 5. COMPARA · Dos límits convergents, dos resultats diferents
+
+Torna a observar el **cas 2 · Zona B** i compara'l amb la Zona D.
+
+**a)** Quines dues característiques comparteixen les dues zones?
+
+
+
+**b)** Quines diferències importants observes en:
+
+- la profunditat dels terratrèmols;
+- el relleu;
+- el vulcanisme;
+- el comportament de la litosfera?
+
+
+
+
+
+**c)** Si totes dues zones corresponen a convergència, **per què no produeixen les mateixes estructures ni els mateixos patrons sísmics?**
+
+
+
+
+
+
+
+## 6. Síntesi del cas
+
+Completa aquesta frase amb les teves paraules:
+
+> Quan dues masses continentals convergeixen, ________________________________________________
+> ____________________________________________________________________________________________
+> perquè ___________________________________________________________________________________.
+
+## 7. Revisa la teva resposta
+
+Abans d'acabar, comprova:
+
+- He seleccionat evidències de **més d'un panell** de la figura?
+- He diferenciat una observació —per exemple, «l'escorça fa 60–70 km»— de la interpretació que en faig?
+- He justificat la meva hipòtesi a partir del relleu, la sismicitat i el gruix de l'escorça?
+- He comparat realment els casos 2 i 4 en lloc de limitar-me a dir que tots dos són convergents?
+- La meva explicació relaciona les dades amb el procés tectònic?
+
+<!-- DOCENT: Cas 4 amb andamisatge mínim i funció de síntesi. La figura mostra una gran serralada continental, una franja ampla de sismicitat majoritàriament superficial amb alguns sismes intermedis i un engruiximent cortical de 30–40 km fins a 60–70 km sota la zona muntanyosa. No hi ha fletxes ni etiquetes de “convergència” o “col·lisió”. La comparació amb el cas 2 ha de permetre diferenciar una subducció oceànica d'una col·lisió continental a partir de les dades, no només del vocabulari memoritzat. -->
