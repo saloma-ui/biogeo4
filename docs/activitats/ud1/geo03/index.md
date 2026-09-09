@@ -262,3 +262,108 @@ Abans de continuar amb el cas següent, comprova:
 - La meva conclusió explica les dades, en lloc de limitar-se a posar una etiqueta?
 
 <!-- DOCENT: Cas 2 amb menys andamisatge que el cas 1. La figura evita etiquetar la depressió oceànica com a fossa i no dibuixa explícitament cap placa subduint. La dada clau és l'augment sistemàtic de la profunditat dels terratrèmols cap al continent, que l'alumnat ha d'interpretar juntament amb el relleu i el vulcanisme. No exigir el terme “zona de Wadati-Benioff”; interessa el raonament que permet inferir una placa que s'endinsa sota una altra. -->
+
+---
+
+# Cas 3 · Zona C
+
+## Dades disponibles
+
+En aquest cas hi ha menys preguntes guia. Hauràs de decidir quines dades són realment útils per interpretar la zona.
+
+![Dades tectòniques de la Zona C](figures/geo03_03_cas3_zona_c.png)
+
+La figura mostra:
+
+- una **vista zenital** de la distribució dels epicentres;
+- la **profunditat dels focus sísmics**;
+- un **detall de la superfície** travessada per la zona activa.
+
+## 1. OBSERVA · Selecciona les evidències
+
+Identifica **tres dades o patrons** que consideris especialment rellevants.
+
+| Evidència observable | Què et sembla que pot indicar? |
+|---|---|
+| 1 | |
+| 2 | |
+| 3 | |
+
+**a)** Com es distribueixen els epicentres respecte de la zona activa?
+
+
+
+**b)** A quines profunditats es concentren els focus sísmics?
+
+
+
+**c)** Observa el riu i la carretera a banda i banda de la zona activa. Què hi ha d'anòmal en la seva continuïtat?
+
+
+
+## 2. IDENTIFICA · Proposa el tipus de límit
+
+**a)** Quin tipus de límit de plaques proposes per a la Zona C?
+
+
+
+**b)** Quin moviment relatiu entre els dos costats de la zona activa és compatible amb les dades?
+
+
+
+## 3. JUSTIFICA · Defensa la teva interpretació
+
+Redacta una conclusió de **5–7 línies**. No tens una taula guia en aquest cas: selecciona i integra tu les evidències.
+
+La resposta ha d'incloure:
+
+- el tipus de límit que proposes;
+- com es distribueixen els terratrèmols;
+- quina profunditat presenten;
+- què indica la discontinuïtat del riu i de la carretera;
+- per què el conjunt de dades és compatible amb la teva interpretació.
+
+
+
+
+
+
+
+## 4. INTERPRETA · Què implica aquest moviment?
+
+**a)** En aquesta zona no observam un patró d'edats que indiqui formació de fons oceànic nou ni una franja de sismes que arribi a centenars de quilòmetres de profunditat. Què suggereix això sobre la creació o destrucció de litosfera en aquest límit?
+
+
+
+**b)** Explica com un moviment principalment lateral pot arribar a produir terratrèmols.
+
+
+
+
+
+## 5. TRANSFEREIX · Reconeix el patró
+
+Imagina una altra zona continental on es registren aquestes dades:
+
+- terratrèmols principalment superficials;
+- epicentres alineats al llarg d'una franja estreta;
+- un antic canal i una carretera apareixen desplaçats a banda i banda de la franja;
+- no hi ha evidències de creació de fons oceànic ni d'una placa que s'endinsi profundament.
+
+**Quin tipus de límit proposaries i quines dues dades consideraries més decisives?**
+
+
+
+
+
+## 6. Revisa la teva resposta
+
+Abans de continuar:
+
+- He distingit el que **observ** del que **inferesc**?
+- He utilitzat la profunditat dels terratrèmols com una dada i no com una etiqueta memoritzada?
+- He interpretat el desplaçament del riu i de la carretera com una evidència de moviment relatiu?
+- He justificat la meva proposta amb diverses dades independents?
+- La meva explicació seria comprensible per una persona que no hagués vist la figura?
+
+<!-- DOCENT: Cas 3 amb andamisatge més reduït. La figura no utilitza les paraules “falla”, “transformant” ni “desplaçament lateral” i no mostra fletxes de moviment. El riu i la carretera actuen com a marcadors superficials desplaçats, mentre que la sismicitat és lineal i superficial. L'objectiu és que l'alumnat integri aquestes dades per inferir un límit transformant i entengui que en aquest tipus de límit no es crea ni es destrueix litosfera de manera significativa. -->
