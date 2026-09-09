@@ -1144,7 +1144,7 @@ Les ones S no es propaguen pel nucli extern, mentre que les P sí.
   </div>
 </div>
 
-<!-- DOCENT: Aquesta és la síntesi de les evidències construïdes als punts 3, 4 i 5. No presentar encara els models geoquímic i geodinàmic: es treballaran al lapbook. -->
+<!-- DOCENT: Aquesta és la síntesi de les evidències construïdes als punts 3, 4 i 5. No desenvolupam aquí els models geoquímic i geodinàmic: la sessió tanca la inferència de l'estructura interna. -->
 
 </section>
 
@@ -1314,7 +1314,7 @@ El material torna a poder transmetre deformacions de cisallament.
   </div>
 </div>
 
-<!-- DOCENT: Evitar explícitament la idea “mantell = magma”. Aquesta precisió prepara el treball posterior del model geodinàmic al lapbook. -->
+<!-- DOCENT: Evitar explícitament la idea “mantell = magma”. Aquesta precisió serà útil per entendre la dinàmica interna de la Terra sense confondre deformació lenta amb estat líquid. -->
 
 </section>
 
@@ -1381,9 +1381,9 @@ Els canvis en el comportament de les ones sísmiques ens permeten inferir **disc
 
 </div>
 
-<p class="pv-pregunta"><strong>Ara ja tenim les evidències necessàries per organitzar aquesta informació en els models que construireu al lapbook.</strong></p>
+<p class="pv-pregunta"><strong>Ja sabem que l'interior de la Terra no és homogeni i que algunes de les seves regions es comporten de manera diferent. Però això encara no explica una cosa fonamental: per què la superfície terrestre està en moviment?</strong></p>
 
-<!-- DOCENT: El lapbook serà l'espai on l'alumnat treballarà explícitament els models geoquímic i geodinàmic. Aquí només consolidam les evidències que els donen sentit. -->
+<!-- DOCENT: Aquesta pregunta obre la sessió següent, “Una Terra fragmentada”, i desplaça el focus de l'estructura interna cap a la dinàmica de la superfície. -->
 
 </section>
 
@@ -1409,7 +1409,7 @@ Respon de manera breu, amb frases completes. No cal copiar els enunciats sencers
 
 4. **Model o fotografia?** Explica per què el dibuix de les capes internes de la Terra és un model científic i no una observació directa.
 
-<!-- DOCENT: Tiquet de sortida al quadern, 4–5 minuts. Serveix com a comprovació diagnòstica abans de GEO-M1; no és una evidència formal. No donar retroacció automàtica a la web: interessa veure què poden reconstruir per escrit al final de la sessió. -->
+<!-- DOCENT: Tiquet de sortida al quadern, 4–5 minuts. Serveix com a comprovació diagnòstica abans de la sessió “Una Terra fragmentada”; no és una evidència formal. No donar retroacció automàtica a la web: interessa veure què poden reconstruir per escrit al final de la sessió. -->
 
 </section>
 
