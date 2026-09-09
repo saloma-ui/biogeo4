@@ -4,7 +4,7 @@ pdf: true
 
 # GEO-03 · Tectònica en dades
 
-**Durada:** 1 sessió  
+**Durada:** 2 sessions  
 
 ## Situació
 
@@ -263,6 +263,8 @@ Abans de continuar amb el cas següent, comprova:
 
 <!-- DOCENT: Cas 2 amb menys andamisatge que el cas 1. La figura evita etiquetar la depressió oceànica com a fossa i no dibuixa explícitament cap placa subduint. La dada clau és l'augment sistemàtic de la profunditat dels terratrèmols cap al continent, que l'alumnat ha d'interpretar juntament amb el relleu i el vulcanisme. No exigir el terme “zona de Wadati-Benioff”; interessa el raonament que permet inferir una placa que s'endinsa sota una altra. -->
 
+<!-- DOCENT: Punt de tall recomanat al final de la primera sessió. -->
+
 ---
 
 # Cas 3 · Zona C
@@ -485,3 +487,28 @@ Abans d'acabar, comprova:
 - La meva explicació relaciona les dades amb el procés tectònic?
 
 <!-- DOCENT: Cas 4 amb andamisatge mínim i funció de síntesi. La figura mostra una gran serralada continental, una franja ampla de sismicitat majoritàriament superficial amb alguns sismes intermedis i un engruiximent cortical de 30–40 km fins a 60–70 km sota la zona muntanyosa. No hi ha fletxes ni etiquetes de “convergència” o “col·lisió”. La comparació amb el cas 2 ha de permetre diferenciar una subducció oceànica d'una col·lisió continental a partir de les dades, no només del vocabulari memoritzat. -->
+
+---
+
+# Síntesi final · Quatre zones, un mateix model
+
+Ara que has interpretat les quatre zones, resumeix el teu raonament. **No basta posar el nom del límit:** selecciona la dada que consideris més decisiva en cada cas.
+
+| Zona | Tipus de límit | Evidència més decisiva | Què passa amb la litosfera? |
+|---|---|---|---|
+| **A** | | | |
+| **B** | | | |
+| **C** | | | |
+| **D** | | | |
+
+## Una darrera idea
+
+**Per què no basta saber que en una zona hi ha terratrèmols per identificar quin tipus de límit de plaques hi ha?**
+
+
+
+
+
+> **Idea clau:** una interpretació tectònica robusta no depèn d'una única pista. Cal relacionar diverses dades —sismicitat, profunditat, relleu, edat de les roques, vulcanisme o estructura de l'escorça— i comprovar si totes són compatibles amb la mateixa explicació.
+
+<!-- DOCENT: Síntesi final breu. No introdueix informació nova ni proporciona les respostes dels quatre casos; obliga a seleccionar l'evidència que l'alumnat considera més discriminant. -->
