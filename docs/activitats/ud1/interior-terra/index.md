@@ -1086,4 +1086,305 @@ Els canvis bruscs en la propagació ens permeten inferir **discontinuïtats** a 
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 6 · De les evidències a una estructura interna
+
+Durant aquesta investigació **no hem observat directament l'interior de la Terra**.
+
+Però les ones sísmiques ens han deixat diverses pistes:
+
+<div class="pv-tres-columnes" markdown>
+
+<div class="pv-targeta" markdown>
+
+### Canvis de velocitat
+
+Les ones no es propaguen igual a totes les profunditats.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Refraccions
+
+Les trajectòries canvien quan les ones entren en medis amb propietats diferents.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### P i S no fan el mateix
+
+Les ones S no es propaguen pel nucli extern, mentre que les P sí.
+
+</div>
+
+</div>
+
+<p class="pv-pregunta"><strong>Quina conclusió general és compatible amb totes aquestes dades?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="estructura-homogenia" aria-pressed="false">A · L'interior de la Terra és homogeni</button>
+    <button type="button" class="pv-opcio" data-feedback="estructura-regions" aria-pressed="false">B · L'interior està format per regions amb propietats diferents</button>
+    <button type="button" class="pv-opcio" data-feedback="estructura-liquid" aria-pressed="false">C · Tot l'interior de la Terra és líquid</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="estructura-homogenia" hidden>
+    <strong>No.</strong> Si l'interior fos homogeni, no esperaríem canvis bruscs i sistemàtics en la velocitat i la trajectòria de les ones.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="estructura-regions" hidden>
+    <strong>Exacte.</strong> Les dades indiquen que l'interior terrestre està format per <strong>regions amb propietats diferents</strong>.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="estructura-liquid" hidden>
+    <strong>No.</strong> Les dades només indiquen una gran regió interna líquida; altres regions transmeten ones de cisallament i, per tant, són compatibles amb materials sòlids.
+  </div>
+</div>
+
+<!-- DOCENT: Aquesta és la síntesi de les evidències construïdes als punts 3, 4 i 5. No presentar encara els models geoquímic i geodinàmic: es treballaran al lapbook. -->
+
+</section>
+
+<section class="pv-seccio pv-visual" markdown>
+
+# 6.1 · Posam nom a les grans fronteres
+
+Recuperau la gràfica de velocitat de les ones amb la profunditat.
+
+![Velocitat de les ones P i S segons la profunditat](figures/geo04_07_velocitat_profunditat.png)
+
+Els canvis bruscs permeten situar **discontinuïtats**, és a dir, fronteres entre regions internes amb propietats diferents.
+
+<div class="pv-tres-columnes" markdown>
+
+<div class="pv-targeta" markdown>
+
+### Moho
+
+**Discontinuïtat de Mohorovičić**
+
+Separa l'**escorça** del **mantell**.
+
+La seva profunditat és variable.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Gutenberg
+
+Se situa aproximadament a **2.900 km** de profunditat.
+
+Separa el **mantell** del **nucli extern**.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Lehmann
+
+Se situa aproximadament a **5.150 km** de profunditat.
+
+Separa el **nucli extern** del **nucli intern**.
+
+</div>
+
+</div>
+
+<p class="pv-pregunta"><strong>Per què no podem assignar al Moho una única profunditat exacta per a tot el planeta?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="moho-variable" aria-pressed="false">A · Perquè el gruix de l'escorça varia segons la zona</button>
+    <button type="button" class="pv-opcio" data-feedback="moho-sense" aria-pressed="false">B · Perquè en algunes zones no existeix mantell</button>
+    <button type="button" class="pv-opcio" data-feedback="moho-p" aria-pressed="false">C · Perquè les ones P no poden travessar l'escorça</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="moho-variable" hidden>
+    <strong>Exacte.</strong> El gruix de l'escorça no és igual a tot arreu, i per això la profunditat del Moho també varia.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="moho-sense" hidden>
+    <strong>No.</strong> El mantell es troba sota l'escorça a tot el planeta.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="moho-p" hidden>
+    <strong>No.</strong> Les ones P travessen l'escorça; de fet, els canvis en la seva propagació ens ajuden a detectar el límit amb el mantell.
+  </div>
+</div>
+
+<!-- DOCENT: Els noms de les discontinuïtats es formalitzen ara, després que l'alumnat ja hagi construït el concepte de discontinuïtat al punt 5. -->
+
+</section>
+
+<section class="pv-seccio pv-visual" markdown>
+
+# 6.2 · Una representació de l'interior
+
+Si combinam totes les evidències, podem representar l'interior de la Terra com un conjunt de grans regions separades per discontinuïtats.
+
+![Estructura interna de la Terra i principals discontinuïtats](figures/geo04_08_model_interior_terra.png)
+
+<p class="pv-pregunta"><strong>Quina d'aquestes afirmacions descriu millor aquesta figura?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="representacio-foto" aria-pressed="false">A · És una fotografia directa de l'interior terrestre</button>
+    <button type="button" class="pv-opcio" data-feedback="representacio-model" aria-pressed="false">B · És una representació construïda a partir d'evidències</button>
+    <button type="button" class="pv-opcio" data-feedback="representacio-atzar" aria-pressed="false">C · És un dibuix arbitrari sense relació amb dades</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="representacio-foto" hidden>
+    <strong>No.</strong> No podem observar directament aquestes profunditats.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="representacio-model" hidden>
+    <strong>Exacte.</strong> La figura resumeix <strong>inferències construïdes a partir de dades</strong>, especialment del comportament de les ones sísmiques.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="representacio-atzar" hidden>
+    <strong>No.</strong> Les fronteres representades corresponen a canvis detectats en les propietats i la propagació de les ones.
+  </div>
+</div>
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 6.3 · Què podem dir sobre l'estat físic?
+
+Les dades sísmiques també ens permeten inferir l'estat físic de les grans regions internes.
+
+<div class="pv-tres-columnes" markdown>
+
+<div class="pv-targeta" markdown>
+
+### Escorça i mantell
+
+Són materials **majoritàriament sòlids**.
+
+El mantell, però, pot deformar-se molt lentament a escala geològica.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Nucli extern
+
+És **líquid**.
+
+Les ones S no s'hi propaguen.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### Nucli intern
+
+És **sòlid**.
+
+El material torna a poder transmetre deformacions de cisallament.
+
+</div>
+
+</div>
+
+<p class="pv-pregunta"><strong>Quina afirmació és correcta?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="estat-magma" aria-pressed="false">A · El mantell és una gran capa de magma líquid</button>
+    <button type="button" class="pv-opcio" data-feedback="estat-mantell" aria-pressed="false">B · El mantell és majoritàriament sòlid, encara que es pot deformar lentament</button>
+    <button type="button" class="pv-opcio" data-feedback="estat-nucli" aria-pressed="false">C · El nucli extern és sòlid i el nucli intern és líquid</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="estat-magma" hidden>
+    <strong>No.</strong> El mantell és majoritàriament sòlid. Que alguns materials es deformin o flueixin lentament no significa que siguin una capa de magma líquid.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="estat-mantell" hidden>
+    <strong>Exacte.</strong> Aquesta distinció serà important quan estudieu com es poden organitzar les capes terrestres segons diferents criteris.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="estat-nucli" hidden>
+    <strong>No.</strong> Les dades sísmiques són compatibles amb un <strong>nucli extern líquid</strong> i un <strong>nucli intern sòlid</strong>.
+  </div>
+</div>
+
+<!-- DOCENT: Evitar explícitament la idea “mantell = magma”. Aquesta precisió prepara el treball posterior del model geodinàmic al lapbook. -->
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 6.4 · De la dada a la representació
+
+<div class="pv-tres-columnes" markdown>
+
+<div class="pv-targeta" markdown>
+
+### DADA
+
+Les ones canvien de velocitat, trajectòria i capacitat de propagació amb la profunditat.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### INFERÈNCIA
+
+L'interior presenta regions amb propietats i estats físics diferents.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### REPRESENTACIÓ
+
+Dibuixam fronteres i regions internes per sintetitzar allò que indiquen les evidències.
+
+</div>
+
+</div>
+
+<p class="pv-pregunta"><strong>Què és el més important d'aquesta cadena?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="cadena6-memoria" aria-pressed="false">A · Memoritzar el dibuix sense saber d'on prové</button>
+    <button type="button" class="pv-opcio" data-feedback="cadena6-evidencia" aria-pressed="false">B · Entendre que la representació es justifica amb evidències</button>
+    <button type="button" class="pv-opcio" data-feedback="cadena6-directe" aria-pressed="false">C · Pensar que les capes s'han observat directament</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="cadena6-memoria" hidden>
+    <strong>No.</strong> El valor científic del model és que explica dades observables, no que el dibuix es pugui memoritzar.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="cadena6-evidencia" hidden>
+    <strong>Exacte.</strong> El fil de tota la investigació és <strong>dada → interpretació → inferència → representació</strong>.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="cadena6-directe" hidden>
+    <strong>No.</strong> Les zones profundes no s'han observat directament; les inferim a partir de dades geofísiques.
+  </div>
+</div>
+
+<div class="pv-cadena" markdown>
+
+**QUEDA'T AMB AIXÒ**
+
+No coneixem l'interior terrestre perquè l'hàgim observat directament.  
+Els canvis en el comportament de les ones sísmiques ens permeten inferir **discontinuïtats, regions internes i diferències d'estat físic**.
+
+</div>
+
+<p class="pv-pregunta"><strong>Ara ja tenim les evidències necessàries per organitzar aquesta informació en els models que construireu al lapbook.</strong></p>
+
+<!-- DOCENT: El lapbook serà l'espai on l'alumnat treballarà explícitament els models geoquímic i geodinàmic. Aquí només consolidam les evidències que els donen sentit. -->
+
+</section>
+
 </div>
