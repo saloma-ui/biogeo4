@@ -8,6 +8,10 @@
 
 [Obre l'activitat](geo02/index.md)
 
+## Com sabem què hi ha dins la Terra?
+
+[Obre l'activitat](interior-terra/index.md)
+
 ## G1 · Reconstruïm una història geològica
 
 [Obre l'activitat](g1/g1.md)
