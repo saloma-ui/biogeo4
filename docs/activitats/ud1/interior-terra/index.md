@@ -1387,4 +1387,30 @@ Els canvis en el comportament de les ones sísmiques ens permeten inferir **disc
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# Tiquet de sortida · Al quadern
+
+<div class="pv-cadena" markdown>
+
+**AL QUADERN · 5 MINUTS**
+
+Respon de manera breu, amb frases completes. No cal copiar els enunciats sencers.
+
+</div>
+
+1. **Dada o inferència?** Indica què és cada afirmació i justifica una de les dues.
+   - a) En determinades estacions no es registren ones S procedents d'un terratrèmol.
+   - b) A l'interior de la Terra hi ha una regió en estat líquid.
+
+2. **Construeix la inferència.** Els registres mostren que les ones S no arriben a determinades zones de la superfície i sabem que les ones S no es propaguen pels líquids. Quina hipòtesi sobre l'interior és compatible amb aquestes dades?
+
+3. **Per què sabem que l'interior no és homogeni?** Justifica-ho utilitzant almenys una evidència sísmica: un canvi de velocitat, una refracció o una diferència entre el comportament de les ones P i S.
+
+4. **Model o fotografia?** Explica per què el dibuix de les capes internes de la Terra és un model científic i no una observació directa.
+
+<!-- DOCENT: Tiquet de sortida al quadern, 4–5 minuts. Serveix com a comprovació diagnòstica abans de GEO-M1; no és una evidència formal. No donar retroacció automàtica a la web: interessa veure què poden reconstruir per escrit al final de la sessió. -->
+
+</section>
+
 </div>
