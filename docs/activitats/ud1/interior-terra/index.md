@@ -844,4 +844,246 @@ Aquesta diferència ens permet utilitzar les ones sísmiques per inferir l'estat
 
 </section>
 
+<section class="pv-seccio pv-visual" markdown>
+
+# 5 · Quan una ona canvia de medi
+
+Les ones sísmiques no es propaguen necessàriament a la mateixa velocitat en tots els materials.
+
+Quan una ona passa d'un medi a un altre, **la seva velocitat pot canviar** i, com a conseqüència, la seva trajectòria es pot desviar.
+
+![Esquema de refracció d'una ona en passar d'un medi a un altre](figures/geo04_06_refraccio_dos_medis.png)
+
+<p class="pv-pregunta"><strong>Què pot passar amb la trajectòria d'una ona quan entra en un medi on es propaga a una velocitat diferent?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="refraccio-recta" aria-pressed="false">A · Sempre continua exactament en línia recta</button>
+    <button type="button" class="pv-opcio" data-feedback="refraccio-desvia" aria-pressed="false">B · Pot canviar de direcció</button>
+    <button type="button" class="pv-opcio" data-feedback="refraccio-desapareix" aria-pressed="false">C · Necessàriament desapareix</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="refraccio-recta" hidden>
+    <strong>No.</strong> Si la velocitat de propagació canvia en passar d'un medi a un altre, la trajectòria també es pot desviar.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="refraccio-desvia" hidden>
+    <strong>Exacte.</strong> Aquest canvi de direcció quan una ona passa d'un medi a un altre s'anomena <strong>refracció</strong>.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="refraccio-desapareix" hidden>
+    <strong>No necessàriament.</strong> Una ona pot continuar propagant-se en el nou medi, però amb una velocitat i una direcció diferents.
+  </div>
+</div>
+
+<!-- DOCENT: No introduir la llei de Snell ni càlculs d'angles. Només necessitam la relació qualitativa canvi de medi → canvi de velocitat → possible refracció. -->
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 5.1 · Què ens diu una desviació?
+
+Suposau que una ona sísmica canvia bruscament de velocitat i de direcció a una determinada profunditat.
+
+<p class="pv-pregunta"><strong>Quina explicació és més raonable?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="desviacio-atzar" aria-pressed="false">A · L'ona canvia de recorregut a l'atzar</button>
+    <button type="button" class="pv-opcio" data-feedback="desviacio-medi" aria-pressed="false">B · Han canviat les propietats del medi que travessa</button>
+    <button type="button" class="pv-opcio" data-feedback="desviacio-buit" aria-pressed="false">C · Necessàriament hi ha un espai buit</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="desviacio-atzar" hidden>
+    <strong>No.</strong> Els canvis sistemàtics que detectam en moltes ones tenen una causa física.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="desviacio-medi" hidden>
+    <strong>Exacte.</strong> El canvi de propagació és una evidència que l'ona ha entrat en una regió amb <strong>propietats diferents</strong>.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="desviacio-buit" hidden>
+    <strong>No.</strong> Un canvi de velocitat o direcció no implica que hi hagi un buit; pot indicar un canvi de composició, densitat, rigidesa o estat físic.
+  </div>
+</div>
+
+<!-- DOCENT: Evitar identificar automàticament “propietats diferents” amb “composició diferent”. El canvi pot ser composicional, físic o una combinació dels dos. -->
+
+</section>
+
+<section class="pv-seccio pv-visual" markdown>
+
+# 5.2 · Tornam a les trajectòries
+
+Ara podem interpretar millor algunes de les trajectòries de les ones P que havíem observat.
+
+![Trajectòries de les ones P i S a través de l'interior terrestre](figures/geo04_04_ones_p_s_interior.png)
+
+<p class="pv-pregunta"><strong>Què passa amb algunes ones P quan travessen el límit entre dues regions internes?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="p-desapareixen" aria-pressed="false">A · Desapareixen totes</button>
+    <button type="button" class="pv-opcio" data-feedback="p-refracten" aria-pressed="false">B · Canvien de direcció</button>
+    <button type="button" class="pv-opcio" data-feedback="p-transformen" aria-pressed="false">C · Es converteixen totes en ones S</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="p-desapareixen" hidden>
+    <strong>No.</strong> Les ones P es poden continuar propagant per les regions representades.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="p-refracten" hidden>
+    <strong>Exacte.</strong> Quan canvia el medi, canvia la velocitat de propagació i la trajectòria es pot <strong>refractar</strong>.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="p-transformen" hidden>
+    <strong>No.</strong> La figura mostra sobretot un canvi en la trajectòria de les ones P, no una transformació general en ones S.
+  </div>
+</div>
+
+</section>
+
+<section class="pv-seccio pv-visual" markdown>
+
+# 5.3 · Miram la velocitat amb la profunditat
+
+Podem representar d'una altra manera les dades sísmiques: mesurant **a quina velocitat es poden propagar les ones P i S en els materials de cada profunditat**.
+
+![Velocitat de les ones P i S segons la profunditat a l'interior terrestre](figures/geo04_07_velocitat_profunditat.png)
+
+<p class="pv-pregunta"><strong>On observau els canvis més bruscs en el comportament de les ones?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="grafica-superficie" aria-pressed="false">A · Només a la superfície</button>
+    <button type="button" class="pv-opcio" data-feedback="grafica-limits" aria-pressed="false">B · Al voltant dels 2.900 km i dels 5.155 km</button>
+    <button type="button" class="pv-opcio" data-feedback="grafica-cap" aria-pressed="false">C · No hi ha cap canvi brusc</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="grafica-superficie" hidden>
+    <strong>No.</strong> Fixau-vos especialment en els límits entre el mantell i el nucli, i entre el nucli extern i l'intern.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="grafica-limits" hidden>
+    <strong>Exacte.</strong> A aquestes profunditats les corbes mostren canvis bruscs: són evidències que les propietats del medi també canvien.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="grafica-cap" hidden>
+    <strong>Sí que n'hi ha.</strong> Les corbes no evolucionen sempre de manera gradual: presenten canvis molt marcats en determinades profunditats.
+  </div>
+</div>
+
+<div class="pv-cadena" markdown>
+
+**Important:** el tram d'ones S representat al nucli intern indica que el **material del nucli intern sòlid pot transmetre ones de cisallament**. No significa que una mateixa ona S hagi travessat el nucli extern líquid.
+
+</div>
+
+<!-- DOCENT: Aquesta precisió evita una contradicció aparent amb el punt 4. La gràfica representa propietats de propagació dels materials a cada profunditat, no necessàriament el recorregut continu d'una mateixa ona. -->
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 5.4 · Una frontera que no podem veure
+
+Quan les dades sísmiques indiquen un **canvi brusc de propietats** a una determinada profunditat, podem inferir que hi ha un límit entre dues regions internes.
+
+Aquest límit s'anomena **discontinuïtat sísmica**.
+
+<div class="pv-cadena" markdown>
+
+**Discontinuïtat sísmica:** frontera interna on les propietats del medi canvien prou perquè també canviï el comportament de les ones sísmiques.
+
+</div>
+
+<p class="pv-pregunta"><strong>Una discontinuïtat és una línia que els científics han observat directament dins la Terra?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="discontinuitat-si" aria-pressed="false">Sí</button>
+    <button type="button" class="pv-opcio" data-feedback="discontinuitat-no" aria-pressed="false">No</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="discontinuitat-si" hidden>
+    <strong>No.</strong> No podem observar directament aquests límits a milers de quilòmetres de profunditat.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="discontinuitat-no" hidden>
+    <strong>Exacte.</strong> Les discontinuïtats són <strong>fronteres inferides a partir de les dades sísmiques</strong>: canvis de velocitat, trajectòria o propagació.
+  </div>
+</div>
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 5.5 · De les dades al model
+
+<div class="pv-tres-columnes" markdown>
+
+<div class="pv-targeta" markdown>
+
+### OBSERVAM
+
+Les ones canvien bruscament de **velocitat, direcció o propagació**.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### SABEM
+
+El comportament de les ones depèn de les **propietats del medi**.
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+### INFERIM
+
+A aquella profunditat hi ha un **canvi de propietats** i, per tant, una frontera interna.
+
+</div>
+
+</div>
+
+<p class="pv-pregunta"><strong>Quina afirmació descriu millor el que ens aporten les ones sísmiques?</strong></p>
+
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="model-foto" aria-pressed="false">A · Ens proporcionen una fotografia directa de les capes terrestres</button>
+    <button type="button" class="pv-opcio" data-feedback="model-inferencia" aria-pressed="false">B · Ens permeten inferir fronteres entre regions amb propietats diferents</button>
+    <button type="button" class="pv-opcio" data-feedback="model-mineral" aria-pressed="false">C · Cada canvi de velocitat identifica directament un mineral concret</button>
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="model-foto" hidden>
+    <strong>No.</strong> Les dades sísmiques són mesures indirectes que necessiten interpretació.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="model-inferencia" hidden>
+    <strong>Exacte.</strong> Els canvis en la propagació de les ones ens permeten construir un <strong>model de regions internes separades per discontinuïtats</strong>.
+  </div>
+
+  <div class="pv-feedback" data-feedback-id="model-mineral" hidden>
+    <strong>No.</strong> Un canvi de velocitat indica un canvi de propietats, però no identifica per si sol un mineral concret.
+  </div>
+</div>
+
+<div class="pv-cadena" markdown>
+
+**QUEDA'T AMB AIXÒ**
+
+Quan una ona sísmica entra en un medi amb propietats diferents, la seva velocitat pot canviar i la trajectòria es pot **refractar**.  
+Els canvis bruscs en la propagació ens permeten inferir **discontinuïtats** a l'interior terrestre.
+
+</div>
+
+<p class="pv-pregunta"><strong>Amb totes aquestes evidències, quin model de l'interior de la Terra podem construir?</strong></p>
+
+<!-- DOCENT: Aquesta pregunta obre el punt següent, on es sintetitzaran les evidències en un model de l'estructura interna. -->
+
+</section>
+
 </div>
