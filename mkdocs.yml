@@ -87,6 +87,8 @@ markdown_extensions:
 extra_css:
   - extra.css
   - presentacio.css
+  - activitats/ud1/geo04/geo04-tall.css
 
 extra_javascript:
   - interaccio.js
+  - activitats/ud1/geo04/geo04-tall.js
