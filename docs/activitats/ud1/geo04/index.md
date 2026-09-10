@@ -366,11 +366,15 @@ Avui no aprendrem un principi nou. Aprendrem a **combinar els que ja coneixem** 
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-1" data-highlight="unitat-a unitat-b unitat-c unitat-d intrusio-x falla-f superficie-actual" data-context="superficie-erosiva" markdown>
+<div class="geo04-reconstruccio" data-geo-reconstruccio markdown>
+
+<div class="geo04-reconstruccio-layout" markdown>
+
+<div class="geo04-passos" markdown>
+
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-1" data-highlight="unitat-a unitat-b unitat-c unitat-d intrusio-x falla-f superficie-actual" data-context="superficie-erosiva" markdown>
 
 # 1 · El repte: quina història amaga aquest tall?
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Tall geològic de la sessió 10" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
 
 No intentis ordenar-ho tot encara.
 
@@ -380,11 +384,9 @@ No intentis ordenar-ho tot encara.
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-2" data-highlight="unitat-a unitat-b unitat-c unitat-d intrusio-x falla-f superficie-erosiva superficie-actual" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-2" data-highlight="unitat-a unitat-b unitat-c unitat-d intrusio-x falla-f superficie-erosiva superficie-actual" markdown>
 
 # 2 · Primer observa; encara no contis la història
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Elements del tall geològic" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
 
 Identifica en el tall:
 
@@ -399,11 +401,9 @@ Identifica en el tall:
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-3" data-highlight="unitat-a unitat-b unitat-c" data-context="contactes-inclinats" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-3" data-highlight="unitat-a unitat-b unitat-c" data-context="contactes-inclinats" markdown>
 
 # 3 · Què és més antic: A, B o C?
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Estrats A, B i C del tall" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>Quina seqüència ordena correctament A, B i C del més antic al més modern?</strong></p>
@@ -421,11 +421,9 @@ Identifica en el tall:
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-4" data-highlight="unitat-a unitat-b unitat-c" data-context="contactes-inclinats" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-4" data-highlight="unitat-a unitat-b unitat-c" data-context="contactes-inclinats" markdown>
 
 # 4 · Si A, B i C estan inclinats...
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Estrats inclinats A, B i C" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>Quan es va produir la inclinació?</strong></p>
@@ -443,11 +441,9 @@ Identifica en el tall:
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-5" data-highlight="intrusio-x" data-context="unitat-a unitat-b unitat-c" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-5" data-highlight="intrusio-x" data-context="unitat-a unitat-b unitat-c" markdown>
 
 # 5 · Què ens diu X?
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Intrusió X tallant els estrats" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>La intrusió X és anterior o posterior als estrats A, B i C?</strong></p>
@@ -469,11 +465,9 @@ Identifica en el tall:
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-6" data-highlight="superficie-erosiva" data-context="unitat-c intrusio-x" data-show-labels="label-superficie-erosiva fletxa-superficie-erosiva" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-6" data-highlight="superficie-erosiva" data-context="unitat-c intrusio-x" data-show-labels="label-superficie-erosiva fletxa-superficie-erosiva" markdown>
 
 # 6 · Una superfície també conta una història
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Superfície erosiva que trunca C i X" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
 
 Mira especialment què passa al sostre de **C** i de **X**.
 
@@ -495,11 +489,9 @@ Mira especialment què passa al sostre de **C** i de **X**.
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-7" data-highlight="unitat-d" data-context="unitat-a unitat-b unitat-c superficie-erosiva" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-7" data-highlight="unitat-d" data-context="unitat-a unitat-b unitat-c superficie-erosiva" markdown>
 
 # 7 · I D?
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Estrat horitzontal D sobre la superfície erosiva" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
 
 D és pràcticament horitzontal i reposa damunt la superfície que acaba d'identificar-se.
 
@@ -519,11 +511,9 @@ A més, **X no talla D**: el dic queda interromput a la superfície erosiva.
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-8" data-highlight="falla-f" data-context="unitat-a unitat-b unitat-c intrusio-x unitat-d" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-8" data-highlight="falla-f" data-context="unitat-a unitat-b unitat-c intrusio-x unitat-d" markdown>
 
 # 8 · Finalment, F
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Falla F tallant les unitats del tall" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>Quina observació ens permet afirmar que F és posterior a D?</strong></p>
@@ -541,11 +531,9 @@ A més, **X no talla D**: el dic queda interromput a la superfície erosiva.
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-9" data-highlight="unitat-a unitat-b unitat-c intrusio-x superficie-erosiva unitat-d falla-f superficie-actual" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-9" data-highlight="unitat-a unitat-b unitat-c intrusio-x superficie-erosiva unitat-d falla-f superficie-actual" markdown>
 
 # 9 · Reconstruïm la cronologia completa
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Tall geològic complet per ordenar els esdeveniments" style="display:block;width:100%;max-height:52vh;margin:1.25rem auto;"></object>
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>Quina seqüència és compatible amb totes les relacions que hem establert?</strong></p>
@@ -566,11 +554,9 @@ A → B → C → deformació → intrusió X → erosió → sedimentació de D
 
 </section>
 
-<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-10" data-highlight="unitat-a unitat-b unitat-c intrusio-x superficie-erosiva unitat-d falla-f superficie-actual" data-show-labels="label-superficie-erosiva fletxa-superficie-erosiva label-superficie-actual fletxa-superficie-actual" markdown>
+<section class="pv-seccio geo04-reconstruccio-pas" data-geo-step="pas-10" data-highlight="unitat-a unitat-b unitat-c intrusio-x superficie-erosiva unitat-d falla-f superficie-actual" data-show-labels="label-superficie-erosiva fletxa-superficie-erosiva label-superficie-actual fletxa-superficie-actual" markdown>
 
 # 10 · De la cronologia a la història geològica
-
-<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Tall geològic complet per redactar la història" style="display:block;width:100%;max-height:50vh;margin:1.25rem auto;"></object>
 
 Una cronologia és una llista. Una **història geològica** explica els processos i justifica l'ordre a partir de les evidències.
 
@@ -592,5 +578,16 @@ Primer es varen dipositar successivament els sediments que originaren els estrat
 <!-- DOCENT: Tancament de la sessió 10. La passa següent és GEO-05, on l'alumnat aplicarà el procediment amb talls nous i dificultat progressiva. -->
 
 </section>
+
+</div>
+
+<div class="geo04-tall-sticky">
+  <object id="geo04-tall-persistent" class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Tall geològic que es va interpretant al llarg de la sessió 10"></object>
+  <p class="geo04-tall-peu">1 · El repte: quina història amaga aquest tall?</p>
+</div>
+
+</div>
+
+</div>
 
 </div>
