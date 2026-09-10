@@ -35,6 +35,64 @@
   border-bottom-color: color-mix(in srgb, var(--md-primary-fg-color) 42%, transparent);
 }
 
+/* En escriptori/projector, la sessió 10 ocupa només la columna esquerra.
+   Rebaixam una jerarquia tipogràfica respecte de la presentació vertical
+   general perquè els títols i el cos respirin millor dins aquesta amplada. */
+@media screen and (min-width: 761px) {
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas h1 {
+    font-size: clamp(1.45rem, 2.35vw, 2rem);
+    line-height: 1.12;
+    margin-bottom: 0.8rem;
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas h2 {
+    font-size: clamp(1.15rem, 1.75vw, 1.45rem);
+    line-height: 1.2;
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas h3 {
+    font-size: clamp(1rem, 1.35vw, 1.18rem);
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas p,
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas li,
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas blockquote {
+    font-size: clamp(0.92rem, 1.08vw, 1.06rem);
+    line-height: 1.5;
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas .pv-pregunta {
+    font-size: clamp(1.02rem, 1.35vw, 1.2rem);
+    line-height: 1.4;
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas .pv-quiz {
+    margin: 1.1rem 0;
+    padding: 0.9rem 1rem;
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas .pv-opcions {
+    gap: 0.65rem;
+    margin: 0.8rem 0;
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas .pv-opcio {
+    padding: 0.72rem 0.85rem;
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas .pv-feedback {
+    font-size: clamp(0.9rem, 1vw, 1rem);
+    line-height: 1.45;
+    padding: 0.75rem 0.85rem;
+  }
+
+  .presentacio-vertical .geo04-passos .geo04-reconstruccio-pas .pv-cadena {
+    margin: 1.15rem 0;
+    padding: 0.85rem 1rem;
+    font-size: clamp(1rem, 1.3vw, 1.18rem);
+  }
+}
+
 .geo04-tall-sticky {
   position: sticky;
   top: var(--geo04-sticky-top);
