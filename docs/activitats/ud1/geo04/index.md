@@ -14,11 +14,6 @@ hide:
 
 ## Com podem saber què va passar abans i què va passar després?
 
-**Durada:** 1 sessió de 50 minuts  
-**Tipus:** construcció de coneixement  
-**Evidència formal:** no  
-**Seguiment formatiu:** exit ticket final
-
 <!-- DOCENT: Activitat de construcció. Objectiu central: establir relacions temporals a partir d'evidències i principis geològics. Ha de preparar la sessió guiada “Com es reconstrueix un tall?”, GEO-05 i G1. -->
 
 </section>
@@ -321,7 +316,7 @@ La passa següent serà **encadenar totes aquestes relacions** per reconstruir u
 
 ## Ho pots fer sense ajuda?
 
-![Exit ticket de relacions temporals](figures/geo04_f07_exit_ticket.svg)
+![Exit ticket de relacions temporals](figures/geo04_f07_exit_ticket.png)
 
 Ara no tens retroacció automàtica. Respon individualment.
 
