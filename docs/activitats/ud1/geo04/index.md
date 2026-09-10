@@ -346,4 +346,251 @@ Si qualcuna d'aquestes idees no et queda clara, torna al bloc corresponent abans
 
 </section>
 
+<!-- SESSIÓ 10 · COM ES RECONSTRUEIX UN TALL? -->
+
+<section class="pv-seccio pv-portada" markdown>
+
+# Sessió guiada · Com es reconstrueix un tall?
+
+## Del que observam a una història geològica argumentada
+
+Avui no aprendrem un principi nou. Aprendrem a **combinar els que ja coneixem** per reconstruir una seqüència d'esdeveniments.
+
+<div class="pv-cadena" markdown>
+
+**observació → relació temporal → principi → procés → història**
+
+</div>
+
+<!-- DOCENT: Sessió 10. Modelar en veu alta el procediment que després s'exigirà a GEO-05 i G1. No convertir el tall en un exercici de memorització d'una seqüència fixa. -->
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-1" data-highlight="unitat-a unitat-b unitat-c unitat-d intrusio-x falla-f superficie-actual" data-context="superficie-erosiva" markdown>
+
+# 1 · El repte: quina història amaga aquest tall?
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Tall geològic de la sessió 10" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
+
+No intentis ordenar-ho tot encara.
+
+<p class="pv-pregunta"><strong>Què podem afirmar amb seguretat només observant la figura?</strong></p>
+
+<!-- DOCENT: Recollir observacions descriptives, no interpretacions. Exemples acceptables: A és sota B; X travessa A-B-C; D és horitzontal; F talla D. Si apareix una cronologia completa, tornar a demanar quina observació concreta la justifica. -->
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-2" data-highlight="unitat-a unitat-b unitat-c unitat-d intrusio-x falla-f superficie-erosiva superficie-actual" markdown>
+
+# 2 · Primer observa; encara no contis la història
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Elements del tall geològic" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
+
+Identifica en el tall:
+
+- quatre unitats sedimentàries: **A, B, C i D**;
+- una intrusió: **X**;
+- una falla: **F**;
+- dues superfícies irregulars que haurem d'interpretar.
+
+> **Descriure no és explicar.** Primer identificam què hi ha i quines relacions geomètriques observam.
+
+<!-- DOCENT: Les etiquetes “Superfície erosiva” i “Superfície actual erosiva” romanen ocultes a l'SVG. No donar encara el nom de les superfícies: l'alumnat l'ha d'inferir a partir de la geometria. -->
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-3" data-highlight="unitat-a unitat-b unitat-c" data-context="contactes-inclinats" markdown>
+
+# 3 · Què és més antic: A, B o C?
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Estrats A, B i C del tall" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina seqüència ordena correctament A, B i C del més antic al més modern?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="tall-abc-a" aria-pressed="false">A · A → B → C</button>
+    <button type="button" class="pv-opcio" data-feedback="tall-abc-b" aria-pressed="false">B · C → B → A</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="tall-abc-a" hidden><strong>Correcte.</strong> A és inferior a B i B és inferior a C. Aplicam el principi de superposició.</div>
+  <div class="pv-feedback" data-feedback-id="tall-abc-b" hidden><strong>Revisau-ho.</strong> La inclinació actual no implica que la successió s'hagi invertit.</div>
+</div>
+
+**Observació:** A és sota B i B és sota C.  
+**Relació temporal:** A és anterior a B, i B és anterior a C.  
+**Principi:** superposició.
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-4" data-highlight="unitat-a unitat-b unitat-c" data-context="contactes-inclinats" markdown>
+
+# 4 · Si A, B i C estan inclinats...
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Estrats inclinats A, B i C" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quan es va produir la inclinació?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="tall-inc-a" aria-pressed="false">A · Abans de formar-se A, B i C</button>
+    <button type="button" class="pv-opcio" data-feedback="tall-inc-b" aria-pressed="false">B · Després de formar-se A, B i C</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="tall-inc-a" hidden><strong>No.</strong> No podem inclinar conjuntament uns estrats que encara no existeixen.</div>
+  <div class="pv-feedback" data-feedback-id="tall-inc-b" hidden><strong>Correcte.</strong> Els sediments es varen dipositar primer i la deformació és posterior.</div>
+</div>
+
+**Observació:** A, B i C comparteixen la mateixa inclinació.  
+**Relació temporal:** la deformació és posterior a la seva sedimentació.  
+**Principi:** horitzontalitat original.
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-5" data-highlight="intrusio-x" data-context="unitat-a unitat-b unitat-c" markdown>
+
+# 5 · Què ens diu X?
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Intrusió X tallant els estrats" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>La intrusió X és anterior o posterior als estrats A, B i C?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="tall-x-a" aria-pressed="false">A · Anterior</button>
+    <button type="button" class="pv-opcio" data-feedback="tall-x-b" aria-pressed="false">B · Posterior</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="tall-x-a" hidden><strong>No.</strong> X no podria travessar uns materials que encara no existissin.</div>
+  <div class="pv-feedback" data-feedback-id="tall-x-b" hidden><strong>Correcte.</strong> X talla A, B i C i, per tant, és posterior a aquests materials.</div>
+</div>
+
+**Observació:** X talla A, B i C.  
+**Relació temporal:** X és posterior a A, B i C.  
+**Principi:** intersecció.
+
+<p class="pv-pregunta"><strong>Podem saber només amb aquesta observació si X és anterior o posterior a la deformació?</strong></p>
+
+<!-- DOCENT: Punt de rigor. La geometria representada permet afirmar que X és posterior als estrats, però la relació exacta entre la intrusió i la deformació només queda resolta si interpretam que el dic talla la successió ja inclinada. Fer verbalitzar aquesta evidència i no donar per fet que “intrusió” sempre és posterior a “deformació”. -->
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-6" data-highlight="superficie-erosiva" data-context="unitat-c intrusio-x" data-show-labels="label-superficie-erosiva fletxa-superficie-erosiva" markdown>
+
+# 6 · Una superfície també conta una història
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Superfície erosiva que trunca C i X" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
+
+Mira especialment què passa al sostre de **C** i de **X**.
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina explicació és més coherent amb aquesta superfície irregular?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="tall-ero-a" aria-pressed="false">A · Una erosió va eliminar part dels materials anteriors.</button>
+    <button type="button" class="pv-opcio" data-feedback="tall-ero-b" aria-pressed="false">B · A, B i C es varen dipositar damunt D.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="tall-ero-a" hidden><strong>Correcte.</strong> La superfície trunca els materials previs i registra un episodi d'erosió.</div>
+  <div class="pv-feedback" data-feedback-id="tall-ero-b" hidden><strong>No.</strong> D cobreix aquesta superfície; no és el material situat davall la successió antiga.</div>
+</div>
+
+**Observació:** C i X queden truncats per una superfície irregular.  
+**Relació temporal:** l'erosió és posterior als materials que trunca.  
+**Procés:** erosió.
+
+> Alguns esdeveniments deixen una roca. **D'altres deixen una superfície.**
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-7" data-highlight="unitat-d" data-context="unitat-a unitat-b unitat-c superficie-erosiva" markdown>
+
+# 7 · I D?
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Estrat horitzontal D sobre la superfície erosiva" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
+
+D és pràcticament horitzontal i reposa damunt la superfície que acaba d'identificar-se.
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>D és anterior o posterior a l'erosió?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="tall-d-a" aria-pressed="false">A · Anterior</button>
+    <button type="button" class="pv-opcio" data-feedback="tall-d-b" aria-pressed="false">B · Posterior</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="tall-d-a" hidden><strong>No.</strong> La superfície erosiva havia d'existir abans que D s'hi dipositàs damunt.</div>
+  <div class="pv-feedback" data-feedback-id="tall-d-b" hidden><strong>Correcte.</strong> Primer es produeix l'erosió i després es diposita D.</div>
+</div>
+
+A més, **X no talla D**: el dic queda interromput a la superfície erosiva.
+
+> Ara ja podem afirmar que la sedimentació de D és posterior a la deformació, a la intrusió X i a l'erosió.
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-8" data-highlight="falla-f" data-context="unitat-a unitat-b unitat-c intrusio-x unitat-d" markdown>
+
+# 8 · Finalment, F
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Falla F tallant les unitats del tall" style="display:block;width:100%;max-height:56vh;margin:1.25rem auto;"></object>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina observació ens permet afirmar que F és posterior a D?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="tall-f-a" aria-pressed="false">A · F talla i desplaça D.</button>
+    <button type="button" class="pv-opcio" data-feedback="tall-f-b" aria-pressed="false">B · D és horitzontal.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="tall-f-a" hidden><strong>Correcte.</strong> Per intersecció, la falla és posterior al material que talla i desplaça.</div>
+  <div class="pv-feedback" data-feedback-id="tall-f-b" hidden><strong>No.</strong> L'horitzontalitat de D no estableix per si sola la seva relació temporal amb F.</div>
+</div>
+
+**Observació:** F talla i desplaça D i les unitats inferiors.  
+**Relació temporal:** F és posterior a totes aquestes unitats.  
+**Principi:** intersecció.
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-9" data-highlight="unitat-a unitat-b unitat-c intrusio-x superficie-erosiva unitat-d falla-f superficie-actual" markdown>
+
+# 9 · Reconstruïm la cronologia completa
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Tall geològic complet per ordenar els esdeveniments" style="display:block;width:100%;max-height:52vh;margin:1.25rem auto;"></object>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina seqüència és compatible amb totes les relacions que hem establert?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="tall-crono-a" aria-pressed="false">A · A → B → C → deformació → X → erosió → D → F → erosió actual</button>
+    <button type="button" class="pv-opcio" data-feedback="tall-crono-b" aria-pressed="false">B · A → B → C → X → D → deformació → erosió → F</button>
+    <button type="button" class="pv-opcio" data-feedback="tall-crono-c" aria-pressed="false">C · D → A → B → C → deformació → F → X → erosió</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="tall-crono-a" hidden><strong>Correcte.</strong> Aquesta seqüència respecta la superposició, la deformació, les interseccions i les superfícies erosives observades.</div>
+  <div class="pv-feedback" data-feedback-id="tall-crono-b" hidden><strong>No.</strong> D no pot ser anterior a la deformació i a l'erosió que afecten la successió inferior.</div>
+  <div class="pv-feedback" data-feedback-id="tall-crono-c" hidden><strong>No.</strong> D cobreix els materials antics i F talla D; aquesta seqüència inverteix diverses relacions observables.</div>
+</div>
+
+**Del més antic al més modern:**  
+A → B → C → deformació → intrusió X → erosió → sedimentació de D → falla F → erosió actual.
+
+<!-- DOCENT: No acceptar la seqüència només perquè coincideix amb la mostrada. Demanar justificacions puntuals: “Per què X va després de C?”, “Per què D va després de l'erosió?”, “Per què F va després de D?”. -->
+
+</section>
+
+<section class="pv-seccio pv-visual geo04-reconstruccio-pas" data-geo-step="pas-10" data-highlight="unitat-a unitat-b unitat-c intrusio-x superficie-erosiva unitat-d falla-f superficie-actual" data-show-labels="label-superficie-erosiva fletxa-superficie-erosiva label-superficie-actual fletxa-superficie-actual" markdown>
+
+# 10 · De la cronologia a la història geològica
+
+<object class="geo04-tall-object" type="image/svg+xml" data="figures/tall_sessio10_interactiu.svg" aria-label="Tall geològic complet per redactar la història" style="display:block;width:100%;max-height:50vh;margin:1.25rem auto;"></object>
+
+Una cronologia és una llista. Una **història geològica** explica els processos i justifica l'ordre a partir de les evidències.
+
+<div class="pv-cadena" markdown>
+
+**observació → relació temporal → principi → procés → història**
+
+</div>
+
+<details>
+<summary><strong>Mostra una possible reconstrucció</strong></summary>
+
+Primer es varen dipositar successivament els sediments que originaren els estrats **A, B i C**. Posteriorment aquests materials es varen **deformar i inclinar**. Després es va produir la **intrusió X**, que talla els tres estrats. Una etapa d'**erosió** va truncar els materials inclinats i la intrusió. Damunt aquesta superfície es va dipositar horitzontalment **D**. Més tard, la **falla F** va tallar i desplaçar totes les unitats anteriors. Finalment, l'erosió va modelar la **superfície actual**.
+
+</details>
+
+> Quan reconstrueixis un tall nou, no cerquis una recepta fixa. **Cerca relacions que puguis justificar.**
+
+<!-- DOCENT: Tancament de la sessió 10. La passa següent és GEO-05, on l'alumnat aplicarà el procediment amb talls nous i dificultat progressiva. -->
+
+</section>
+
 </div>
