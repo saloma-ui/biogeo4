@@ -1,0 +1,42 @@
+/* GEO-04 · Sessió 10 · Com es reconstrueix un tall?
+   Estils de la seqüència guiada. Tot queda limitat a .geo04-reconstruccio-pas. */
+
+.geo04-reconstruccio-pas {
+  position: relative;
+}
+
+.geo04-reconstruccio-pas .geo04-tall-object {
+  box-sizing: border-box;
+  background: #fbfaf7;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.55rem;
+  box-shadow: 0 0.15rem 0.55rem rgba(0, 0, 0, 0.06);
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    transform 180ms ease;
+}
+
+/* La secció que ocupa la zona central de la finestra és la passa activa. */
+.geo04-reconstruccio-pas.geo04-pas-actiu .geo04-tall-object {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0 0.25rem 0.9rem rgba(0, 0, 0, 0.10);
+}
+
+/* Evita que un objecte SVG massa ample forci desplaçament horitzontal. */
+.geo04-reconstruccio-pas object.geo04-tall-object {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 760px) {
+  .geo04-reconstruccio-pas .geo04-tall-object {
+    border-radius: 0.4rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .geo04-reconstruccio-pas .geo04-tall-object {
+    transition: none;
+  }
+}
