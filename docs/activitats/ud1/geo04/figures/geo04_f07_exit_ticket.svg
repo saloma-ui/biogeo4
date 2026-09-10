@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+  <pattern id="a" width="36" height="20" patternUnits="userSpaceOnUse"><rect width="36" height="20" fill="#e7c66f"/><path d="M0 15 C10 11 20 18 36 13" fill="none" stroke="#c7a34a" stroke-width="1.6" opacity=".55"/></pattern>
+  <pattern id="b" width="42" height="28" patternUnits="userSpaceOnUse"><rect width="42" height="28" fill="#b96f50"/><circle cx="10" cy="9" r="3" fill="#dca084"/><circle cx="29" cy="18" r="4.5" fill="#8f533e" opacity=".5"/></pattern>
+  <pattern id="c" width="40" height="22" patternUnits="userSpaceOnUse"><rect width="40" height="22" fill="#a9adb4"/><path d="M0 7 H40 M0 15 H40" stroke="#858b92" stroke-width="1.4" opacity=".7"/></pattern>
+  <pattern id="d" width="44" height="24" patternUnits="userSpaceOnUse"><rect width="44" height="24" fill="#e6b97a"/><circle cx="9" cy="8" r="2" fill="#c98d4c" opacity=".55"/><circle cx="31" cy="16" r="1.7" fill="#b97d3e" opacity=".45"/></pattern>
+</defs>
+<rect width="1200" height="760" fill="#fbfcfe"/>
+<rect x="70" y="80" width="1060" height="610" rx="16" fill="#fff" stroke="#18223a" stroke-width="4"/>
+<path d="M95 570 L1105 570 L1105 660 L95 660 Z" fill="url(#a)" stroke="#18223a" stroke-width="3"/>
+<path d="M95 470 L1105 470 L1105 570 L95 570 Z" fill="url(#b)" stroke="#18223a" stroke-width="3"/>
+<path d="M95 360 L1105 360 L1105 470 L95 470 Z" fill="url(#c)" stroke="#18223a" stroke-width="3"/>
+<path d="M500 660 L670 360" stroke="#18223a" stroke-width="7"/>
+<g transform="translate(0,22)">
+  <path d="M670 338 L1105 338 L1105 448 L608 448 Z" fill="url(#c)" stroke="#18223a" stroke-width="3"/>
+  <path d="M608 448 L1105 448 L1105 548 L550 548 Z" fill="url(#b)" stroke="#18223a" stroke-width="3"/>
+  <path d="M550 548 L1105 548 L1105 638 L499 638 Z" fill="url(#a)" stroke="#18223a" stroke-width="3"/>
+</g>
+<path d="M95 345 C260 330 400 350 560 338 C720 325 900 344 1105 330" fill="none" stroke="#18223a" stroke-width="5"/>
+<path d="M95 345 C260 330 400 350 560 338 C720 325 900 344 1105 330 L1105 175 L95 175 Z" fill="url(#d)" stroke="#18223a" stroke-width="3"/>
+<g font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="54" fill="#11183c">
+<text x="220" y="625">A</text><text x="230" y="535">B</text><text x="245" y="425">C</text><text x="585" y="265">D</text>
+</g>
+<text x="615" y="515" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="48" fill="#11183c">F</text>
+<path d="M635 500 L610 465" stroke="#11183c" stroke-width="4"/>
+</svg>
