@@ -28,6 +28,10 @@
 
 [Obre l'activitat](g1/g1.md)
 
+## Quan un procés natural esdevé risc?
+
+[Obre l'activitat](riscos/index.md)
+
 ## G2 · On construiríem?
 
 - [Sessió 18](g2/g2_sessio_18.md)
