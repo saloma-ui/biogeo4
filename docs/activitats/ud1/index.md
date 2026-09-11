@@ -34,5 +34,4 @@
 
 ## G2 · On construiríem?
 
-- [Sessió 18](g2/g2_sessio_18.md)
-- [Sessió 19](g2/g2_sessio_19.md)
+[Obre l'activitat](g2/index.md)
