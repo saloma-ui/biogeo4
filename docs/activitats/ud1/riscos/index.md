@@ -233,7 +233,7 @@ Respon mentalment o amb un company:
 
 1. **Quin és el perill?**
 2. **Què està exposat?**
-3. **De què podria dependre la vulnerabilitat?**
+3. **Què podria fer que aquesta carretera i els seus usuaris fossin més o menys vulnerables davant un despreniment?**
 4. **Quina mesura podria reduir el risc?**
 
 No basta dir «hi ha risc de despreniments».
