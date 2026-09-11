@@ -11,7 +11,7 @@ search:
 <meta name="robots" content="noindex,nofollow">
 
 <div style="text-align:center; margin-bottom:1.5rem;">
-  <img src="figures/logo_ies_son_cladera.jpg"
+  <img src="figures/logo_ies_son_cladera.svg"
        alt="IES Son Cladera"
        style="max-width:640px; width:100%; height:auto;">
 </div>
