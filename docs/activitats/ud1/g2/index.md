@@ -4,12 +4,6 @@ pdf: true
 
 # G2 · On construiríem?
 
-**Biologia i Geologia · 4t d’ESO**  
-**Evidència G2 · Decisió territorial**
-
-Nom i llinatges: ____________________________________  
-Grup: ____________ · Data: __________________
-
 ---
 
 ## Situació
