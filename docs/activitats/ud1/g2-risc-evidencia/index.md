@@ -1,14 +1,7 @@
 ---
-title: G2 · Comprendre el risc
+title: Comprendre el risc (UD01-A10)
 pdf: true
-hide:
-  - navigation
-  - toc
-search:
-  exclude: true
 ---
-
-<meta name="robots" content="noindex,nofollow">
 
 <div style="text-align:center; margin-bottom:1.5rem;">
   <img src="figures/logo_ies_son_cladera.svg"
@@ -16,7 +9,7 @@ search:
        style="max-width:640px; width:100%; height:auto;">
 </div>
 
-# G2 · Comprendre el risc
+# Comprendre el risc (UD01-A10)
 
 ## El cas del Torrent Gros
 
