@@ -724,17 +724,147 @@ Al final d'aquest bloc has de poder explicar què és la **datació relativa**, 
 
 ## 6. Com reconstruïm una història geològica?
 
+Un **tall geològic** és una representació simplificada del subsòl. Hi podem veure materials, estrats, intrusions, falles, superfícies d'erosió i altres estructures que no s'han format totes al mateix moment.
+
+Reconstruir-ne la història significa explicar **en quin ordre es varen produir els esdeveniments** i justificar aquest ordre a partir de les relacions observables.
+
+!!! note "Idea clau"
+    Una història geològica no s'ha d'endevinar mirant el tall en conjunt. És més segur establir primer **relacions temporals petites i justificades** i combinar-les després.
+
+![Tall geològic per reconstruir una cronologia](../../activitats/ud1/geo04/figures/tall_sessio10_interactiu.svg)
+
+*Figura 6.1. En un tall geològic podem identificar relacions entre estrats, intrusions, superfícies erosives i falles abans de construir una cronologia completa.*
+
 ### 6.1. Identificar els elements del tall
+
+La primera passa no és ordenar els esdeveniments. És **descriure què hi ha**.
+
+Hem d'identificar les diferents unitats de roca, la disposició dels estrats, els contactes entre materials, les estructures que en tallen d'altres, les superfícies que trunquen elements anteriors i la forma actual del relleu.
+
+Convé separar clarament **observació** i **interpretació**.
+
+Per exemple, a la figura 6.1:
+
+**Observació:** X travessa els estrats A, B i C.  
+**Interpretació:** X és posterior als estrats A, B i C.
+
+O bé:
+
+**Observació:** una superfície irregular trunca C i X.  
+**Interpretació:** després de formar-se C i X hi va haver un episodi d'erosió.
+
+!!! warning "Evita començar massa aviat"
+    Si intentes reconstruir tota la història només amb una primera mirada, és fàcil introduir relacions que el tall no demostra. Primer identifica **què veus**.
 
 ### 6.2. Establir relacions temporals
 
+Una vegada identificats els elements, podem comparar-los **de dos en dos o en grups petits**.
+
+Per a cada relació ens convé formular tres coses:
+
+**observació → relació temporal → principi utilitzat**
+
+Per exemple:
+
+**A és sota B i B és sota C → A és anterior a B i B és anterior a C → superposició.**
+
+Altres exemples que podem obtenir de la figura 6.1 són:
+
+**X talla A, B i C → X és posterior als tres estrats → intersecció.**
+
+**Els estrats A-B-C estan inclinats → primer es varen sedimentar i després es varen deformar → horitzontalitat original.**
+
+**Una superfície erosiva trunca C i X → l'erosió és posterior a C i X.**
+
+**D reposa damunt aquesta superfície → D és posterior a l'erosió.**
+
+!!! tip "Una relació és més útil que una intuïció"
+    No escriguis «crec que X va després». Escriu **quina característica del tall obliga que X sigui posterior**.
+
 ### 6.3. Ordenar els esdeveniments
+
+Quan ja tenim diverses relacions locals podem començar a construir una **cronologia provisional**.
+
+No hem d'ordenar només les capes. Una història geològica pot incloure **sedimentacions, deformacions, intrusions, falles, erosions i formació del relleu actual**.
+
+El procediment més segur és encadenar les relacions que ja hem justificat.
+
+Per exemple:
+
+**A abans que B**  
+**B abans que C**  
+**A-B-C abans de la deformació**  
+**deformació abans de X**  
+**X abans de l'erosió**  
+**erosió abans de D**
+
+D'aquest conjunt de relacions podem obtenir:
+
+**A → B → C → deformació → X → erosió → D**
+
+Aquesta seqüència encara és provisional: ens falta comprovar si altres estructures del tall obliguen a afegir o recol·locar esdeveniments.
 
 ### 6.4. Justificar l'ordre amb principis geològics
 
+Una seqüència només és correcta si podem explicar **per què cada esdeveniment ocupa aquella posició**.
+
+Per això, quan justificam una reconstrucció hem d'enllaçar les observacions amb els principis treballats al bloc anterior.
+
+No basta escriure:
+
+> A → B → C → falla F.
+
+Una justificació millor seria:
+
+> Primer es varen formar A, B i C, en aquest ordre, perquè B se situa damunt A i C damunt B. Posteriorment es va produir la falla F, ja que talla els materials anteriors.
+
+La diferència és fonamental: la primera resposta és una **llista**; la segona és una **reconstrucció argumentada**.
+
 ### 6.5. Redactar una història geològica coherent
 
+Quan la cronologia ja està establerta, podem convertir-la en una narració.
+
+Una bona història geològica ha de seguir l'ordre **del més antic al més modern**, distingir materials, estructures i processos, utilitzar terminologia geològica adequada i explicar les relacions temporals més importants.
+
+Per exemple, la figura 6.1 permet arribar a una seqüència com aquesta:
+
+**A → B → C → deformació → intrusió X → erosió → sedimentació de D → falla F → erosió actual**
+
+La podem redactar així:
+
+> Primer es varen dipositar successivament els sediments que originaren els estrats A, B i C. Posteriorment aquests materials es varen deformar i inclinar. Després es va produir la intrusió X, que talla els tres estrats. Una etapa d'erosió va truncar els materials inclinats i la intrusió. Damunt aquesta superfície es va dipositar D. Més tard, la falla F va tallar les unitats anteriors. Finalment, l'erosió va modelar la superfície actual.
+
+!!! note "No basta enumerar"
+    Una història geològica completa ha d'explicar **com sabem** que els esdeveniments es varen produir en aquell ordre.
+
 ### 6.6. Com revisar una reconstrucció
+
+Una reconstrucció provisional pot contenir contradiccions. Per això s'ha de revisar.
+
+La pregunta més útil és:
+
+> **Pot haver passat aquest esdeveniment abans que existís allò que afecta?**
+
+Si una falla talla D, la falla no pot ser anterior a D. Si una intrusió queda truncada per una superfície erosiva, la intrusió no pot ser posterior a aquella erosió. Si un estrat cobreix una superfície, la seva sedimentació és posterior a la formació d'aquella superfície.
+
+Quan revisam una reconstrucció convé comprovar especialment:
+
+- si l'ordre dels estrats és coherent;
+- si hem situat correctament els processos que deformen o tallen materials anteriors;
+- si hem detectat les superfícies que interrompen el registre;
+- si hem incorporat els esdeveniments més recents que expliquen l'aspecte actual del relleu;
+- si totes les relacions del tall són compatibles amb una mateixa cronologia.
+
+<div class="admonition abstract">
+<p class="admonition-title">Procediment de reconstrucció</p>
+
+**observa el tall → identifica elements → estableix relacions temporals → justifica-les → construeix una cronologia → cerca contradiccions → redacta la història**
+
+</div>
+
+### Síntesi del bloc 6
+
+Al final d'aquest bloc has de poder **identificar els elements rellevants d'un tall geològic**, distingir observacions i inferències, establir **relacions temporals justificades**, ordenar materials i processos del més antic al més modern, detectar contradiccions i redactar una **història geològica argumentada**, no només una llista d'esdeveniments.
 
 ---
 
