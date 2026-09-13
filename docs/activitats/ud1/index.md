@@ -35,3 +35,7 @@
 ## On construiríem? (UD01-A9)
 
 [Obre l'activitat](g2/index.md)
+
+## Comprendre el risc (UD01-A10)
+
+[Obre l'activitat](g2-risc-evidencia/index.md)
