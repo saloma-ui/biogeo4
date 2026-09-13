@@ -1034,18 +1034,193 @@ Al final d'aquest bloc has de poder diferenciar **procés natural, perill i risc
 
 ## 8. Idees i procediments que has de dominar
 
+Al llarg d'aquesta unitat no només has après conceptes geològics. Sobretot has practicat una manera de treballar: **observar dades, interpretar-les, justificar les conclusions i revisar-les quan apareix informació nova**.
+
+Aquest bloc resumeix els procediments que has de saber aplicar de manera autònoma.
+
+!!! note "Idea clau"
+    Saber geologia no consisteix només a recordar definicions. Has de poder **utilitzar dades i evidències per construir i justificar una explicació**.
+
 ### 8.1. Interpretar un paisatge i un mapa topogràfic
+
+Davant un paisatge, primer has de separar **allò que observes** de les explicacions que proposes.
+
+Has de poder:
+
+- descriure formes del relleu sense confondre observació i inferència;
+- identificar agents i processos geològics;
+- relacionar el relleu amb els materials, l'estructura, els processos i el temps;
+- interpretar les corbes de nivell;
+- deduir altituds i equidistàncies;
+- reconèixer si un pendent és fort o suau;
+- utilitzar l'escala per estimar distàncies;
+- reconèixer formes bàsiques com cims, valls, carenes i vessants.
+
+!!! tip "Pregunta't"
+    **Què mostra realment el mapa o el paisatge, i què estic inferint a partir d'aquesta informació?**
 
 ### 8.2. Construir i interpretar un perfil topogràfic
 
+Un perfil topogràfic representa el relleu vist de costat al llarg d'una línia del mapa.
+
+Per construir-lo:
+
+1. localitza la línia del perfil;
+2. marca els punts on talla cada corba de nivell;
+3. anota les cotes corresponents;
+4. conserva les distàncies relatives;
+5. representa cada punt a la seva altitud;
+6. uneix-los amb una línia contínua coherent amb el relleu.
+
+Quan l'interpretis, comprova sempre que:
+
+**corbes juntes ↔ pendent fort**  
+**corbes separades ↔ pendent suau**
+
+!!! warning "Recorda"
+    No dibuixis un pic cada vegada que travesses una corba. Les corbes representen altituds successives d'una mateixa superfície.
+
 ### 8.3. Extreure inferències a partir de dades sísmiques
+
+Quan estudiam l'interior terrestre, la major part de la informació és indirecta.
+
+Has de distingir:
+
+**dada observada → propietat de les ones → inferència sobre el medi**
+
+Per exemple:
+
+**les ones P travessen una regió + les ones S no la travessen → dades compatibles amb un medi líquid**
+
+També has de recordar que:
+
+- les ones **P** es propaguen per sòlids i líquids;
+- les ones **S** només es propaguen per sòlids;
+- els canvis de velocitat o trajectòria poden indicar canvis en les propietats dels materials;
+- les discontinuïtats internes són **inferides** a partir de les dades, no observades directament.
+
+!!! warning "No facis aquesta inferència"
+    Que una ona P travessi una regió **no demostra que sigui sòlida**.
 
 ### 8.4. Relacionar tectònica de plaques i fenòmens geològics
 
+Has de poder passar dels patrons observables al model de tectònica de plaques.
+
+La cadena de raonament és:
+
+**distribució de terratrèmols i volcans → inferència de límits → plaques litosfèriques → moviment relatiu → processos als límits**
+
+Has de distingir els tres tipus principals de límits:
+
+| Moviment | Límit | Fenòmens habituals |
+|---|---|---|
+| Les plaques se separen | **Divergent** | dorsals, formació de litosfera, vulcanisme i sismicitat |
+| Les plaques s'aproximen | **Convergent** | subducció o col·lisió, sismicitat i, sovint, vulcanisme |
+| Les plaques llisquen lateralment | **Transformant** | sobretot sismicitat |
+
+No memoritzis només els noms: has de poder relacionar **moviment, estructura i processos**.
+
 ### 8.5. Aplicar els principis de datació relativa
+
+Davant materials i estructures geològiques has de poder decidir què és anterior i què és posterior.
+
+Els principis principals que hem utilitzat són:
+
+| Evidència | Principi o idea |
+|---|---|
+| Uns estrats reposen damunt uns altres | **Superposició** |
+| Estrats actualment inclinats o plegats | **Horitzontalitat original** |
+| Una estructura talla una altra | **Intersecció** |
+| Fòssils característics en localitats diferents | **Successió faunística** |
+| Processos actuals ajuden a interpretar evidències antigues | **Actualisme** |
+
+També has de reconèixer que una **superfície erosiva** pot representar un esdeveniment i una interrupció del registre.
+
+!!! tip "No basta posar el nom del principi"
+    Escriu també **quina observació concreta et permet aplicar-lo**.
 
 ### 8.6. Reconstruir una història geològica
 
+Davant un tall geològic, segueix sempre un procediment ordenat:
+
+<div class="admonition abstract">
+<p class="admonition-title">Procediment</p>
+
+**identifica els elements → estableix relacions temporals → justifica-les → ordena els esdeveniments → comprova contradiccions → redacta la història**
+
+</div>
+
+No intentis reconstruir tota la història d'una sola mirada.
+
+Primer estableix relacions senzilles:
+
+**A és anterior a B perquè...**  
+**X és posterior a C perquè...**  
+**l'erosió és posterior a X perquè...**
+
+Després combina-les en una cronologia global.
+
+Una resposta completa ha d'incloure **l'ordre dels esdeveniments i la justificació d'aquest ordre**.
+
 ### 8.7. Analitzar un risc geològic en un territori concret
 
+Davant una situació de risc, no basta identificar el procés natural.
+
+Has d'analitzar:
+
+**perill → exposició → vulnerabilitat → risc**
+
+I incorporar les característiques del territori:
+
+- relleu;
+- litologia;
+- aigua;
+- vegetació;
+- usos del sòl;
+- infraestructures;
+- factors socioeconòmics.
+
+Quan proposis una mesura, explica **quin component modifica i per què podria reduir el risc**.
+
+Per exemple, evitar noves construccions en una zona susceptible d'inundació redueix sobretot **l'exposició**.
+
 ### 8.8. Revisar una conclusió quan apareixen dades noves
+
+Una explicació científica no és immutable.
+
+Si apareix una dada nova que no encaixa amb la nostra interpretació, hem de comprovar:
+
+1. quina conclusió havíem extret;
+2. en quines dades es basava;
+3. què aporta la dada nova;
+4. si encara podem mantenir la conclusió;
+5. quina explicació nova és compatible amb totes les evidències.
+
+Això ho hem aplicat durant tota la unitat:
+
+**paisatge → noves dades sobre materials**  
+**ones sísmiques → noves evidències sobre l'interior**  
+**tall geològic → noves relacions temporals**  
+**risc → noves dades sobre el territori**
+
+!!! note "Una bona resposta científica"
+    No consisteix a defensar sempre la primera idea. Consisteix a mantenir l'explicació **més compatible amb les evidències disponibles**.
+
+---
+
+## Abans d'acabar la unitat
+
+Comprova que ets capaç de respondre afirmativament:
+
+- Puc diferenciar una **observació** d'una **inferència**?
+- Puc llegir corbes de nivell i interpretar **altitud, pendent i escala**?
+- Puc construir o interpretar un **perfil topogràfic**?
+- Puc utilitzar dades de les ones **P i S** per justificar una inferència?
+- Puc relacionar els **límits de plaques** amb els processos que hi tenen lloc?
+- Puc aplicar els principis de **datació relativa** a un cas nou?
+- Puc reconstruir i justificar una **història geològica**?
+- Puc diferenciar **perill, exposició, vulnerabilitat i risc**?
+- Puc explicar com una actuació humana pot **augmentar o reduir un risc**?
+- Puc **revisar una conclusió** quan apareix una dada nova?
+
+> Si pots justificar les respostes i no només recordar definicions, has assolit el nucli de la unitat.
