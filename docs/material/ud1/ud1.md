@@ -149,20 +149,116 @@ Al final d'aquest bloc has de poder distingir **paisatge i relleu**, separar **o
 
 ## 2. Representam el relleu
 
+Un mapa és una representació plana d'un territori. El problema és que el relleu té tres dimensions: a més de la posició horitzontal, cada punt es troba a una determinada altura. Els **mapes topogràfics** resolen aquest problema mitjançant corbes de nivell i altres símbols que ens permeten reconstruir mentalment la forma del terreny.
+
+!!! note "Idea clau"
+    En un mapa topogràfic, les línies no dibuixen només la posició dels llocs: també codifiquen informació sobre l'**altitud** i el **pendent**.
+
 ### 2.1. Altitud, cota i corbes de nivell
+
+L'**altitud** és l'altura d'un punt respecte del nivell mitjà de la mar. Quan expressam l'altitud concreta d'un punt del terreny parlam de la seva **cota**.
+
+Una **corba de nivell** és una línia que uneix punts situats a la mateixa altitud. Per això, tots els punts d'una mateixa corba tenen la mateixa cota.
+
+Podem imaginar com es construeixen aquestes línies tallant un relleu amb diversos plans horitzontals situats a altures diferents. Cada pla talla el terreny seguint una línia. Si projectam aquestes línies sobre un mapa vist des de dalt, obtenim les corbes de nivell.
+
+![Corbes de nivell obtingudes a partir de diferents altituds](../../activitats/ud1/geo02/figures/superposicio.png)
+
+*Figura 2.1. Cada corba uneix punts situats a una mateixa altitud. En superposar corbes de diferents cotes obtenim una representació plana del relleu.*
+
+Això permet comparar altituds sense veure directament el relleu. Si un punt és damunt la corba de 150 m, la seva cota és de 150 m. Si dos punts són damunt la mateixa corba, tenen exactament la mateixa altitud.
+
+!!! warning "No confonguis"
+    La **cota** correspon a un punt. La **corba de nivell** és una línia formada per molts punts que comparteixen la mateixa cota.
 
 ### 2.2. Equidistància i pendent
 
-### 2.3. Com reconèixer formes del relleu en un mapa topogràfic
+En un mateix mapa topogràfic, la diferència d'altitud entre dues corbes consecutives és constant. Aquesta diferència s'anomena **equidistància**.
 
-- Valls
-- Carenes
-- Cims i depressions
-- Vessants i canvis de pendent
+Per exemple, si cinc corbes consecutives tenen les cotes 100, 150, 200, 250 i 300 m, l'equidistància és de **50 m**.
 
-### 2.4. Del mapa al perfil topogràfic
+L'equidistància ens permet deduir la cota de corbes que no estan numerades i, sobretot, interpretar el pendent.
 
-### 2.5. Com construïm un perfil topogràfic?
+El **pendent** descriu com de ràpid canvia l'altitud quan ens desplaçam horitzontalment:
+
+- si les corbes estan **molt juntes**, guanyam o perdem molta altitud en poca distància: el pendent és **fort**;
+- si les corbes estan **molt separades**, necessitam recórrer més distància per canviar la mateixa altitud: el pendent és **suau**.
+
+> **Més alt no significa necessàriament més pendent.** Un lloc pot ser molt alt i trobar-se sobre una superfície relativament plana, mentre que un altre lloc més baix pot tenir un vessant molt costerut.
+
+<!-- FIGURA 2.2 PENDENT · Dues vessants equivalents vistes en perfil i en mapa: corbes juntes = pendent fort; corbes separades = pendent suau. Incloure explícitament que altitud i pendent són magnituds diferents. -->
+
+### 2.3. Escala i distàncies
+
+El mapa redueix les dimensions reals del territori. L'**escala** indica la relació entre una distància mesurada al mapa i la distància real corresponent.
+
+Una escala gràfica es representa amb una barra dividida en trams amb una longitud real indicada. Per utilitzar-la, comparam la distància que mesuram al mapa amb aquesta barra i la convertim en distància real.
+
+Aquesta informació és important perquè dues rutes poden tenir característiques diferents: una pot ser **més curta però més costeruda**, i una altra pot ser **més llarga però amb un pendent més suau**.
+
+!!! tip "Per prendre decisions amb un mapa"
+    No basta mirar un únic valor. Segons el problema, podem haver de combinar **distància, altitud i pendent**.
+
+### 2.4. Com reconèixer formes del relleu en un mapa topogràfic
+
+Les corbes de nivell no només ens indiquen altituds. El seu dibuix permet reconèixer formes del relleu.
+
+#### Cims i elevacions
+
+En una elevació, les corbes solen formar línies tancades. Si les cotes augmenten cap a l'interior, ens acostam a una zona cada vegada més alta. El cim es troba dins les corbes de cota més elevada.
+
+#### Depressions
+
+Una depressió també pot aparèixer com un conjunt de corbes tancades, però en aquest cas les altituds disminueixen cap a l'interior. Per identificar-la correctament no basta mirar la forma de les línies: cal llegir-ne les cotes i la simbologia del mapa.
+
+#### Valls
+
+Quan les corbes travessen una vall o un curs d'aigua solen formar una **V**. La punta de la V apunta, en general, cap a les zones més altes, és a dir, cap a l'origen de la vall.
+
+#### Carenes
+
+Una carena és una zona elevada que separa vessants. En planta, les corbes també poden formar V o U, però orientades en sentit contrari a les de les valls. Per distingir-les convé seguir com canvien les cotes a banda i banda.
+
+#### Vessants i canvis de pendent
+
+Un vessant apareix com una successió de corbes. La seva separació ens permet reconèixer si és suau o costerut i si el pendent canvia al llarg del recorregut.
+
+<!-- FIGURA 2.3 PENDENT · Mapa topogràfic simplificat amb quatre formes assenyalades: cim, vall, carena i vessant. Al costat, mini-perfils laterals corresponents. -->
+
+### 2.5. Del mapa al perfil topogràfic
+
+Un **perfil topogràfic** és una representació del relleu vist de costat al llarg d'una línia determinada del mapa.
+
+Si traçam una línia A–B sobre un mapa, podem predir com serà el perfil abans de dibuixar-lo:
+
+- als trams on A–B travessa corbes **molt juntes**, el perfil serà més costerut;
+- als trams on travessa corbes **molt separades**, el perfil serà més suau;
+- quan la línia travessa corbes de cota cada vegada més alta, el perfil puja;
+- quan travessa corbes de cota cada vegada més baixa, el perfil baixa.
+
+Així, el perfil no és un dibuix inventat: és una altra manera de representar la mateixa informació topogràfica.
+
+<!-- FIGURA 2.4 PENDENT · A l'esquerra, mapa amb línia A–B i corbes; a la dreta, perfil corresponent. Fer coincidir punts de creuament amb les cotes del perfil. -->
+
+### 2.6. Com construïm un perfil topogràfic?
+
+Per construir un perfil topogràfic a partir d'una línia A–B podem seguir aquest procediment:
+
+1. **Traçam o localitzam la línia A–B** sobre el mapa.
+2. **Marcam tots els punts on A–B talla una corba de nivell** i anotam la cota de cadascun.
+3. En un eix horitzontal, **mantenim les mateixes distàncies relatives** entre aquests punts.
+4. En un eix vertical, situam les **altituds corresponents**.
+5. Projectam cada punt fins a la seva cota i **unim els punts amb una línia suau** que representi la forma del terreny.
+6. Comprovam si el perfil és coherent amb el mapa: els trams de corbes juntes han de correspondre a pendents més forts i els de corbes separades, a pendents més suaus.
+
+!!! warning "Evita aquesta errada"
+    No dibuixis un pic cada vegada que travesses una corba. Les corbes indiquen **altituds successives**, no cims independents. El perfil ha de representar una superfície contínua.
+
+En alguns perfils l'escala vertical i l'horitzontal poden ser diferents. Això pot exagerar visualment el pendent. Per tant, quan interpretam un perfil, convé comprovar sempre les escales utilitzades.
+
+### Síntesi del bloc 2
+
+Al final d'aquest bloc has de poder explicar què representen les **corbes de nivell**, calcular o deduir **cotes i equidistàncies**, interpretar el **pendent** a partir de la separació de les corbes, utilitzar una **escala** per estimar distàncies, reconèixer formes bàsiques del relleu i construir o interpretar un **perfil topogràfic**.
 
 ---
 
