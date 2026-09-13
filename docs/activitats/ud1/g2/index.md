@@ -4,20 +4,11 @@ pdf: false
 
 # G2 · On construiríem?
 
----
-
 ## Situació
 
 L’Ajuntament de **Cala des Lledoner** estudia on situar un nou barri. S’han delimitat tres sectors candidats: **A, B i C**.
 
-La decisió no es pot prendre a partir d’una sola dada. Començaràs analitzant:
-
-- relleu i pendent;
-- litologia;
-- vegetació i hidrografia;
-- ocupació humana i infraestructures.
-
-Més endavant rebràs informació nova i hauràs de comprovar si la teva primera decisió continua essent defensable.
+La decisió no es pot prendre a partir d’una sola dada. Treballaràs amb mapes que el professor anirà lliurant progressivament. Primer analitzaràs el territori i prendràs una decisió. Després rebràs **informació nova** i hauràs de comprovar si la primera decisió continua essent defensable.
 
 L’objectiu no és endevinar quin sector «vol» el professor. **A, B o C poden ser defensables si la decisió està ben argumentada amb les dades.**
 
@@ -25,60 +16,28 @@ L’objectiu no és endevinar quin sector «vol» el professor. **A, B o C poden
 
 ---
 
-## Primers mapes
+## Evidència d’avaluació
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;">
-<figure style="margin:0;">
-  <a href="figures/01_relleu_topografia.png" target="_blank" rel="noopener">
-    <img src="figures/01_relleu_topografia_thumb.jpg"
-         alt="Mapa 1 · Relleu i topografia"
-         loading="lazy"
-         style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
-  </a>
-  <figcaption style="font-size:.9rem;margin-top:.35rem;">
-    <strong>Mapa 1 · Relleu i topografia</strong> · Clica la miniatura per obrir el mapa a mida completa.
-  </figcaption>
-</figure>
-<figure style="margin:0;">
-  <a href="figures/02_litologia.png" target="_blank" rel="noopener">
-    <img src="figures/02_litologia_thumb.jpg"
-         alt="Mapa 2 · Litologia"
-         loading="lazy"
-         style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
-  </a>
-  <figcaption style="font-size:.9rem;margin-top:.35rem;">
-    <strong>Mapa 2 · Litologia</strong> · Clica la miniatura per obrir el mapa a mida completa.
-  </figcaption>
-</figure>
-<figure style="margin:0;">
-  <a href="figures/03_vegetacio_hidrografia.png" target="_blank" rel="noopener">
-    <img src="figures/03_vegetacio_hidrografia_thumb.jpg"
-         alt="Mapa 3 · Vegetació i hidrografia"
-         loading="lazy"
-         style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
-  </a>
-  <figcaption style="font-size:.9rem;margin-top:.35rem;">
-    <strong>Mapa 3 · Vegetació i hidrografia</strong> · Clica la miniatura per obrir el mapa a mida completa.
-  </figcaption>
-</figure>
-<figure style="margin:0;">
-  <a href="figures/04_ocupacio_infraestructures.png" target="_blank" rel="noopener">
-    <img src="figures/04_ocupacio_infraestructures_thumb.jpg"
-         alt="Mapa 4 · Ocupació humana i infraestructures"
-         loading="lazy"
-         style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
-  </a>
-  <figcaption style="font-size:.9rem;margin-top:.35rem;">
-    <strong>Mapa 4 · Ocupació humana i infraestructures</strong> · Clica la miniatura per obrir el mapa a mida completa.
-  </figcaption>
-</figure>
-</div>
+**Criteri recollit: CA 4.2** — Analitzar críticament la solució a un problema sobre fenòmens biològics i geològics, canviant els procediments utilitzats o les conclusions si aquesta solució no fos viable o davant noves dades aportades amb posterioritat.
+
+L’evidència es recull principalment als apartats **4, 6 i 7**, que has de completar **individualment**: decisió inicial, anàlisi de les dades noves i revisió argumentada de la decisió.
+
+La resta de l’anàlisi es pot discutir amb els companys, però aquestes tres respostes han de reflectir el teu propi raonament.
 
 ---
 
+# Fase 1 · Primera anàlisi
+
+El professor us lliurarà progressivament els mapes inicials:
+
+- **M1 · Relleu i topografia**
+- **M2 · Litologia**
+- **M3 · Vegetació i hidrografia**
+- **M4 · Ocupació humana i infraestructures**
+
 ## 1. Llegim el territori
 
-Completa la taula amb informació concreta dels mapes 1–4.
+Compara els sectors A, B i C a partir dels mapes 1–4.
 
 | Factor | Sector A | Sector B | Sector C |
 |---|---|---|---|
@@ -89,13 +48,7 @@ Completa la taula amb informació concreta dels mapes 1–4.
 | **Possible avantatge per urbanitzar-hi** |  |  |  |
 | **Possible limitació o problema** |  |  |  |
 
-En la teva anàlisi has de comprovar, com a mínim:
-
-- si el terreny és pla o té pendent;
-- quin material geològic hi ha sota cada sector;
-- si hi ha vegetació o elements ambientals que podrien quedar afectats;
-- quina relació té cada sector amb la carretera, els accessos i els serveis;
-- quins elements humans podrien quedar exposats si es produeix un fenomen natural.
+Comprova, com a mínim, si el terreny és pla o té pendent, quin material geològic hi ha sota cada sector, quins elements ambientals podrien quedar afectats, quina relació té cada sector amb els accessos i serveis i quins elements humans podrien quedar exposats davant un fenomen natural.
 
 ---
 
@@ -109,15 +62,12 @@ Escull **un possible problema natural** que pugui afectar algun dels sectors a p
 ____________________________________________________________________
 
 **Què hi podria quedar exposat si s’hi construeix el barri?**  
-____________________________________________________________________  
 ____________________________________________________________________
 
 **Quines característiques dels elements exposats podrien fer-los més o menys vulnerables?**  
-____________________________________________________________________  
 ____________________________________________________________________
 
 **Per què això podria convertir-se en un risc si s’urbanitza el sector?**  
-____________________________________________________________________  
 ____________________________________________________________________
 
 ---
@@ -132,89 +82,51 @@ Ordena els tres sectors de **més favorable a menys favorable** segons la inform
 
 Justifica l’ordre amb **almenys tres evidències procedents de mapes diferents**.
 
-1. **Mapa ____:** ___________________________________________________  
-   _________________________________________________________________
-
-2. **Mapa ____:** ___________________________________________________  
-   _________________________________________________________________
-
-3. **Mapa ____:** ___________________________________________________  
-   _________________________________________________________________
-
 ---
 
-## 4. Primera decisió
+## 4. Primera decisió · evidència individual CA 4.2
 
 **Triaria el sector ____________.**
 
-Explica la decisió integrant relleu, litologia, vegetació o hidrografia, i infraestructures/factors humans.
+Explica la decisió integrant dades de relleu, litologia, vegetació o hidrografia i infraestructures o factors humans.
 
-____________________________________________________________________  
 ____________________________________________________________________  
 ____________________________________________________________________  
 ____________________________________________________________________  
 ____________________________________________________________________
 
-### Principal inconvenient de la teva proposta
-
-____________________________________________________________________  
+**Principal inconvenient de la teva proposta:**  
 ____________________________________________________________________
 
-### Mesura de prevenció o planificació que consideraries necessària
-
-____________________________________________________________________  
+**Mesura de prevenció o planificació que consideraries necessària:**  
 ____________________________________________________________________
 
-> **Atura’t aquí fins que el professor t’indiqui que pots continuar.** No modifiquis aquesta primera decisió quan rebis informació nova. Ha de quedar constància de què pensaves abans.
+> **Atura’t aquí.** No modifiquis aquesta resposta quan rebis informació nova. Ha de quedar constància clara de què pensaves abans.
 
 ---
 
-# Informació nova
+# Fase 2 · Informació nova
 
-Ara rebràs informació que no tenies quan vas prendre la primera decisió.
+Quan tothom hagi deixat fixada la primera decisió, el professor lliurarà:
 
-## Mapes nous
+- **M5 · Riscs naturals i ambientals**
+- **M6 · Susceptibilitat a la inestabilitat del sector B**
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;">
-<figure style="margin:0;">
-  <a href="figures/05_riscos_naturals_ambientals.png" target="_blank" rel="noopener">
-    <img src="figures/05_riscos_naturals_ambientals_thumb.jpg"
-         alt="Mapa 5 · Riscs naturals i ambientals"
-         loading="lazy"
-         style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
-  </a>
-  <figcaption style="font-size:.9rem;margin-top:.35rem;">
-    <strong>Mapa 5 · Riscs naturals i ambientals</strong> · Clica la miniatura per obrir el mapa a mida completa.
-  </figcaption>
-</figure>
-<figure style="margin:0;">
-  <a href="figures/06_susceptibilitat_sector_b.png" target="_blank" rel="noopener">
-    <img src="figures/06_susceptibilitat_sector_b_thumb.jpg"
-         alt="Mapa 6 · Susceptibilitat a la inestabilitat del sector B"
-         loading="lazy"
-         style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
-  </a>
-  <figcaption style="font-size:.9rem;margin-top:.35rem;">
-    <strong>Mapa 6 · Susceptibilitat a la inestabilitat del sector B</strong> · Clica la miniatura per obrir el mapa a mida completa.
-  </figcaption>
-</figure>
-</div>
-
----
+No consultis aquests mapes abans que el professor ho indiqui.
 
 ## 5. Què aporten les dades noves?
 
-### Mapa 5 · Riscs naturals i ambientals
+### Mapa 5
 
 Per a cada sector, identifica **només els riscs o condicionants que realment apareixen al mapa**.
 
-| Sector | Risc(s) o condicionant(s) del mapa 5 | Què implica per a una possible urbanització? |
+| Sector | Risc(s) o condicionant(s) | Què implica per a una possible urbanització? |
 |---|---|---|
 | **A** |  |  |
 | **B** |  |  |
 | **C** |  |  |
 
-### Mapa 6 · Susceptibilitat a la inestabilitat del sector B
+### Mapa 6
 
 Descriu com varia la susceptibilitat dins B.
 
@@ -224,19 +136,15 @@ Descriu com varia la susceptibilitat dins B.
 
 **Part inferior de B:** ______________________________________________
 
-El mapa 6 no diu simplement que «B és segur» o que «B és perillós». Explica per què aquesta afirmació seria massa simple:
-
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________
+Explica per què seria massa simple afirmar que «B és segur» o que «B és perillós».
 
 ---
 
-## 6. Posa a prova la teva primera decisió
+## 6. Posa a prova la teva primera decisió · evidència individual CA 4.2
 
 **Decisió inicial:** sector ____________
 
-### Quina dada nova és més important per revisar-la?
+**Quina dada nova és més important per revisar-la?**
 
 **Mapa:** ______
 
@@ -251,15 +159,13 @@ Aquesta dada:
 - [ ] introdueix un problema nou, però continua essent viable;
 - [ ] fa que consideri més favorable un altre sector.
 
-**Per què?**
-
-____________________________________________________________________  
+**Per què?**  
 ____________________________________________________________________  
 ____________________________________________________________________
 
 ---
 
-## 7. Revisió crítica
+## 7. Revisió crítica · evidència individual CA 4.2
 
 Després d’analitzar els mapes 5 i 6:
 
@@ -279,50 +185,25 @@ ____________________________________________________________________
 ____________________________________________________________________  
 ____________________________________________________________________  
 ____________________________________________________________________  
-____________________________________________________________________  
 ____________________________________________________________________
 
 > Mantenir la decisió no és millor ni pitjor que canviar-la. S’avalua si has examinat les dades noves i si la conclusió és coherent amb elles.
 
 ---
 
-## 8. Mapa de síntesi final
+# Fase 3 · Proposta final
 
-**Obre aquest mapa només quan el professor ho indiqui.**
+## 8. Mapa de síntesi
 
-<div style="max-width:720px;">
-<figure style="margin:0;">
-  <a href="figures/07_decisio_final_abc.png" target="_blank" rel="noopener">
-    <img src="figures/07_decisio_final_abc_thumb.jpg"
-         alt="Mapa 7 · Decisió final: sectors A, B i C"
-         loading="lazy"
-         style="width:100%;height:auto;border:1px solid #ddd;border-radius:6px;">
-  </a>
-  <figcaption style="font-size:.9rem;margin-top:.35rem;">
-    <strong>Mapa 7 · Decisió final: sectors A, B i C</strong> · Clica la miniatura per obrir el mapa a mida completa.
-  </figcaption>
-</figure>
-</div>
+Quan el professor ho indiqui, rebràs **M7 · Decisió final: sectors A, B i C**.
 
-Al mapa 7, marca sobre la còpia impresa:
+Sobre la còpia impresa marca:
 
 1. **el sector que proposes**;
 2. **la zona concreta dins el sector on situaries el barri**;
 3. si és necessari, **una part del sector que evitaries**.
 
 No és obligatori ocupar tot el sector candidat.
-
-### Proposta final
-
-**Sector elegit:** ____________
-
-**Part concreta del sector que ocuparies:**  
-____________________________________________________________________  
-____________________________________________________________________
-
-**Part que evitaries, si n’hi ha:**  
-____________________________________________________________________  
-____________________________________________________________________
 
 ### Justificació científica final
 
@@ -331,14 +212,6 @@ Utilitza dades de **com a mínim quatre mapes diferents**, incloent obligatòria
 - almenys un dels mapes 1–4;
 - el mapa 5;
 - i, si la teva decisió afecta B o el compares amb B, el mapa 6.
-
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________  
-____________________________________________________________________
 
 ---
 
@@ -351,14 +224,12 @@ ____________________________________________________________________
 ____________________________________________________________________
 
 **Què podria fer que aquests elements fossin més o menys vulnerables?**  
-____________________________________________________________________  
 ____________________________________________________________________
 
 **Acció humana que podria potenciar el risc:**  
 ____________________________________________________________________
 
 **Mesura de prevenció o reducció del risc:**  
-____________________________________________________________________  
 ____________________________________________________________________
 
 ---
