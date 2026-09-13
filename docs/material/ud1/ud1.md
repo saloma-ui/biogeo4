@@ -870,23 +870,165 @@ Al final d'aquest bloc has de poder **identificar els elements rellevants d'un t
 
 ## 7. Quan un procés natural es converteix en risc
 
+La Terra és un planeta actiu. Els terratrèmols, les erupcions volcàniques, les inundacions, l'erosió o els despreniments formen part del seu funcionament natural.
+
+Però que es produeixi un procés natural **no significa necessàriament que provoqui un desastre ni que el risc sigui sempre el mateix**.
+
+!!! note "Idea clau"
+    Per entendre un risc geològic no basta preguntar **què pot passar**. També hem de saber **què pot quedar afectat, com de vulnerable és i quines característiques té el territori**.
+
 ### 7.1. Procés natural, perill i risc
+
+Considerem dues situacions en què es produeix un fenomen natural semblant. En una zona no hi ha habitatges ni infraestructures; en l'altra hi ha persones, edificis i carreteres.
+
+![Mateix procés natural, risc diferent](../../activitats/ud1/riscos/figures/s15_f01_mateix_proces_risc_diferent.png)
+
+*Figura 7.1. Un mateix procés natural pot donar lloc a conseqüències molt diferents segons què hi hagi al territori i com de susceptible sigui al dany.*
+
+El **procés natural** és el fenomen que té lloc: una avinguda, un terratrèmol, un despreniment, una erupció volcànica, etc.
+
+El **perill** és la possibilitat que es produeixi un fenomen potencialment perjudicial en un lloc determinat.
+
+El **risc**, en canvi, depèn també de les conseqüències que aquell fenomen pot tenir sobre les persones, els béns i les activitats.
+
+Per això, **procés natural, perill i risc no són sinònims**.
+
+> Un despreniment pot produir-se en un indret sense persones ni infraestructures. El procés existeix, però les possibles conseqüències humanes són molt diferents de les que tindria el mateix despreniment damunt una carretera.
 
 ### 7.2. Exposició i vulnerabilitat
 
+Per analitzar el risc hem de separar dos conceptes més.
+
+L'**exposició** fa referència a les persones, els béns, les infraestructures o les activitats que es troben en una zona que podria resultar afectada.
+
+Poden ser elements exposats: **persones, habitatges, vehicles, carreteres, ponts, serveis, instal·lacions i activitats econòmiques**.
+
+Si construïm més habitatges en una zona susceptible d'inundació, augmentam el nombre d'elements que poden quedar afectats i, per tant, **augmentam l'exposició**.
+
+La **vulnerabilitat** descriu com de susceptible és un element exposat de patir danys.
+
+Dues cases poden estar igualment exposades a una inundació però tenir vulnerabilitats diferents. Hi poden influir, per exemple:
+
+- les característiques de la construcció;
+- la situació dels accessos;
+- l'existència de mesures de protecció;
+- la facilitat d'evacuació;
+- els sistemes d'alerta;
+- la preparació de la població;
+- la capacitat de resposta i recuperació.
+
+<div class="admonition abstract">
+<p class="admonition-title">Model conceptual</p>
+
+**perill + exposició + vulnerabilitat → risc**
+
+</div>
+
+!!! warning "No és una fórmula matemàtica"
+    Aquest esquema serveix per identificar els components del problema. No significa que puguem obtenir el risc simplement sumant tres nombres.
+
 ### 7.3. Factors que poden augmentar el risc
 
-- Pendent
-- Litologia
-- Aigua
-- Vegetació
-- Modificacions humanes del terreny
+Per comprendre una situació concreta no basta conèixer el fenomen. Hem de caracteritzar també **el territori**.
+
+#### Relleu
+
+El pendent condiciona el moviment de l'aigua i dels materials. Un vessant molt inclinat pot afavorir moviments ràpids de materials, mentre que la forma d'una vall condiciona per on circula i s'acumula l'aigua.
+
+#### Litologia
+
+Els materials geològics no responen tots igual. Alguns poden ser més permeables que altres, erosionar-se amb més facilitat o presentar una estabilitat diferent quan s'impregnen d'aigua.
+
+Per tant, identificar la litologia ens ajuda a interpretar **com pot respondre el terreny davant un procés**.
+
+#### Aigua
+
+L'aigua pot intervenir directament en inundacions, però també pot modificar altres processos. Les pluges intenses poden augmentar l'escorrentia, erosionar materials o contribuir a la inestabilitat d'un vessant.
+
+#### Vegetació
+
+La vegetació pot influir sobre l'escorrentia, l'erosió i l'estabilitat del sòl.
+
+Això no significa que «vegetació = absència de risc», sinó que és **un factor més** que hem de considerar conjuntament amb els altres.
+
+#### Usos del territori i infraestructures
+
+Una zona agrícola, un bosc i un nucli urbà no presenten la mateixa exposició. Edificis, carreteres, ponts i altres infraestructures poden augmentar la quantitat de persones i béns potencialment afectats.
+
+#### Factors socioeconòmics
+
+La capacitat de prevenir, respondre i recuperar-se d'un episodi també pot modificar-ne les conseqüències.
+
+Per això, dues poblacions exposades al mateix perill poden tenir **vulnerabilitats diferents**.
 
 ### 7.4. Com pot l'activitat humana augmentar o reduir el risc?
 
+Les activitats humanes poden modificar diferents components del risc.
+
+Per exemple, construir habitatges en una zona susceptible d'inundació pot augmentar sobretot **l'exposició**, perquè hi situam més persones i béns.
+
+Una construcció poc adaptada al fenomen pot augmentar la **vulnerabilitat**.
+
+En altres casos, modificar el terreny, la cobertura vegetal o el drenatge pot influir també sobre el comportament del procés natural.
+
+Però aquí hem de ser prudents.
+
+!!! warning "No establis relacions automàtiques"
+    Observar una modificació humana no basta per demostrar que aquesta augmenta el perill. Per exemple, veure un torrent canalitzat o encimentat permet formular una **hipòtesi**, però determinar-ne l'efecte real exigiria dades sobre la secció del canal, el pendent, els cabals, la velocitat de l'aigua, la pluviometria i altres factors.
+
+Això torna a la idea que hem treballat durant tota la unitat:
+
+**observació → hipòtesi o inferència → dades necessàries per posar-la a prova**
+
 ### 7.5. Conseqüències sobre les persones, els béns i el territori
 
+Quan un procés potencialment perjudicial afecta elements exposats, les conseqüències poden ser molt diverses.
+
+Poden afectar:
+
+**persones**, mitjançant lesions, evacuacions o pèrdua d'habitatges;
+
+**infraestructures**, com carreteres, ponts, xarxes de serveis o edificis;
+
+**activitats econòmiques**, si s'interrompen comunicacions, serveis o activitats productives;
+
+**el territori**, mitjançant erosió, acumulació de sediments, moviments de materials o altres transformacions.
+
+La gravetat de les conseqüències no depèn només de la intensitat del procés. També depèn de **què hi havia exposat i de la seva vulnerabilitat**.
+
+Per això, davant dues situacions amb un fenomen semblant, no podem assumir que produiran necessàriament els mateixos danys.
+
 ### 7.6. Prevenció i mesures de reducció del risc
+
+No sempre podem evitar el procés natural.
+
+No podem impedir un terratrèmol ni podem evitar que es produeixin episodis de pluja intensa.
+
+Però això **no significa que el risc sigui inevitable ni immutable**.
+
+Podem actuar sobre diferents components.
+
+**Reduir l'exposició.** Evitant determinats usos del sòl en zones especialment perilloses.
+
+**Reduir la vulnerabilitat.** Adaptant edificis i infraestructures, millorant els sistemes d'alerta, planificant evacuacions o augmentant la capacitat de resposta.
+
+**Reduir els efectes del fenomen quan sigui possible.** Mitjançant mesures de gestió, protecció o enginyeria adequades al problema concret.
+
+Aquest conjunt d'actuacions forma part de la **prevenció i reducció del risc**.
+
+!!! tip "Per justificar una mesura"
+    No basta proposar «posar una barrera» o «no construir». Explica **quin component del risc modifica** i **com aquesta actuació pot reduir les possibles conseqüències**.
+
+<div class="admonition abstract">
+<p class="admonition-title">Com analitzar un risc</p>
+
+**quin procés es pot produir → què pot quedar afectat → per què és vulnerable → quines característiques del territori hi intervenen → quines actuacions poden augmentar o reduir el risc**
+
+</div>
+
+### Síntesi del bloc 7
+
+Al final d'aquest bloc has de poder diferenciar **procés natural, perill i risc**, identificar els **elements exposats**, explicar què és la **vulnerabilitat**, relacionar el risc amb el **relleu, la litologia, l'aigua, la vegetació, els usos del territori, les infraestructures i els factors socioeconòmics**, justificar com les activitats humanes poden augmentar o reduir el risc i proposar **mesures de prevenció** explicant sobre quin component actuen.
 
 ---
 
