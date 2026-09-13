@@ -97,14 +97,32 @@ function substitueixTextVisible(root) {
   });
 }
 
+function normalitzaNavegacioUD01() {
+  document.querySelectorAll(".md-sidebar--primary a[href]").forEach((enllac) => {
+    let pathname;
+    try {
+      pathname = new URL(enllac.href, window.location.origin).pathname;
+    } catch (_) {
+      return;
+    }
+
+    const activitat = activitatsUD01.find((a) => pathname.includes(a.path));
+    if (!activitat || activitat.code === "UD01-A10") return;
+
+    const titolVisible = `${activitat.title} (${activitat.code})`;
+    const etiqueta = enllac.querySelector(".md-ellipsis");
+    if (etiqueta) etiqueta.textContent = titolVisible;
+    else enllac.textContent = titolVisible;
+  });
+}
+
 function normalitzaNomenclaturaUD01() {
+  normalitzaNavegacioUD01();
+
   if (!window.location.pathname.includes("/activitats/ud1/")) return;
 
   const main = document.querySelector(".md-content");
-  const nav = document.querySelector(".md-sidebar--primary");
-
   substitueixTextVisible(main);
-  substitueixTextVisible(nav);
 
   const activitat = activitatsUD01.find((a) => window.location.pathname.includes(a.path));
   if (!activitat || !main) return;
