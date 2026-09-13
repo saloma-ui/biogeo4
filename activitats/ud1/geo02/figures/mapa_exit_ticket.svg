@@ -1,0 +1,332 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <g id="contours"
+     fill="none"
+     stroke="#8a5528"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <path id="c50"
+          vector-effect="non-scaling-stroke"
+          d="
+            M 1080 300
+            C 1085 390, 1030 500, 920 570
+            C 800 645, 620 675, 440 650
+            C 270 625, 135 560, 95 465
+            C 55 365, 125 280, 250 215
+            C 390 140, 590 105, 770 115
+            C 930 125, 1068 195, 1080 300
+            Z" />
+
+    <path id="c100"
+          vector-effect="non-scaling-stroke"
+          transform="translate(900 260) scale(0.86) translate(-900 -260)"
+          d="
+            M 1080 300
+            C 1085 390, 1030 500, 920 570
+            C 800 645, 620 675, 440 650
+            C 270 625, 135 560, 95 465
+            C 55 365, 125 280, 250 215
+            C 390 140, 590 105, 770 115
+            C 930 125, 1068 195, 1080 300
+            Z" />
+
+    <path id="c150"
+          vector-effect="non-scaling-stroke"
+          transform="translate(900 260) scale(0.72) translate(-900 -260)"
+          d="
+            M 1080 300
+            C 1085 390, 1030 500, 920 570
+            C 800 645, 620 675, 440 650
+            C 270 625, 135 560, 95 465
+            C 55 365, 125 280, 250 215
+            C 390 140, 590 105, 770 115
+            C 930 125, 1068 195, 1080 300
+            Z" />
+
+    <path id="c200"
+          vector-effect="non-scaling-stroke"
+          transform="translate(900 260) scale(0.58) translate(-900 -260)"
+          d="
+            M 1080 300
+            C 1085 390, 1030 500, 920 570
+            C 800 645, 620 675, 440 650
+            C 270 625, 135 560, 95 465
+            C 55 365, 125 280, 250 215
+            C 390 140, 590 105, 770 115
+            C 930 125, 1068 195, 1080 300
+            Z" />
+
+    <path id="c250"
+          vector-effect="non-scaling-stroke"
+          transform="translate(900 260) scale(0.44) translate(-900 -260)"
+          d="
+            M 1080 300
+            C 1085 390, 1030 500, 920 570
+            C 800 645, 620 675, 440 650
+            C 270 625, 135 560, 95 465
+            C 55 365, 125 280, 250 215
+            C 390 140, 590 105, 770 115
+            C 930 125, 1068 195, 1080 300
+            Z" />
+
+    <path id="c300"
+          vector-effect="non-scaling-stroke"
+          transform="translate(900 260) scale(0.30) translate(-900 -260)"
+          d="
+            M 1080 300
+            C 1085 390, 1030 500, 920 570
+            C 800 645, 620 675, 440 650
+            C 270 625, 135 560, 95 465
+            C 55 365, 125 280, 250 215
+            C 390 140, 590 105, 770 115
+            C 930 125, 1068 195, 1080 300
+            Z" />
+  </g>
+
+  <g id="elevations">
+    <g
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="24"
+      font-weight="600"
+      fill="#6e3d16"
+      stroke="#ffffff"
+      stroke-width="5"
+      stroke-linejoin="round"
+      paint-order="stroke"
+    >
+      <text x="200" y="565" text-anchor="middle">50 m</text>
+      <text x="218" y="430" text-anchor="middle">100 m</text>
+      <text x="569" y="530" text-anchor="middle">150 m</text>
+      <text x="445" y="372" text-anchor="middle">200 m</text>
+      <text x="698" y="422" text-anchor="middle">250 m</text>
+      <text x="762" y="367" text-anchor="middle">300 m</text>
+    </g>
+
+    <g id="summit">
+      <path d="M 900 250 L 892 266 L 908 266 Z" fill="#111111"/>
+      <text
+        x="900"
+        y="238"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="24"
+        font-weight="700"
+        fill="#111111"
+        stroke="#ffffff"
+        stroke-width="5"
+        stroke-linejoin="round"
+        paint-order="stroke"
+      >320 m</text>
+    </g>
+  </g>
+  <g id="points">
+  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    <circle cx="504.4" cy="595.4" r="6"/>
+    <text x="519.4" y="589.4">A</text>
+
+    <circle cx="736.81" cy="490.25" r="6"/>
+    <text x="751.81" y="484.25">B</text>
+
+    <circle cx="949.88" cy="359.68" r="6"/>
+    <text x="964.88" y="353.68">C</text>
+  </g>
+</g>
+  <g id="zones">
+    <g>
+      <ellipse
+        cx="270"
+        cy="410"
+        rx="95"
+        ry="60"
+        fill="none"
+        stroke="#1f6b3a"
+        stroke-width="3"
+        stroke-dasharray="10 7"
+      />
+      <text
+        x="270"
+        y="410"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="24"
+        font-weight="700"
+        fill="#1f6b3a"
+      >Zona X</text>
+    </g>
+
+    <g>
+      <ellipse
+        cx="1040"
+        cy="405"
+        rx="55"
+        ry="95"
+        fill="none"
+        stroke="#8b1e1e"
+        stroke-width="3"
+        stroke-dasharray="10 7"
+      />
+      <text
+        x="1040"
+        y="405"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="24"
+        font-weight="700"
+        fill="#8b1e1e"
+      >Zona Y</text>
+    </g>
+  </g>
+  <g id="route-endpoints">
+    <g
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="24"
+      font-weight="700"
+      fill="#111111"
+      stroke="#ffffff"
+      stroke-width="4"
+      stroke-linejoin="round"
+      paint-order="stroke"
+    >
+      <circle cx="563.47" cy="658.64" r="7" fill="#111111" stroke="none"/>
+      <text x="472.47" y="690.64">Sortida</text>
+
+      <circle cx="972.37" cy="320.01" r="7" fill="#111111" stroke="none"/>
+      <text x="988.37" y="308.01">Destí</text>
+    </g>
+  </g>
+  <g id="route1">
+    <path
+      d="M 563.47 658.64
+         C 605 640, 630 625, 660 610
+         C 700 590, 730 570, 760 550
+         C 800 520, 825 495, 850 470
+         C 880 440, 902 415, 920 390
+         C 942 362, 958 340, 972.37 320.01"
+      fill="none"
+      stroke="#e53935"
+      stroke-width="5"
+      stroke-dasharray="12 8"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <text
+      x="785"
+      y="535"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="24"
+      font-weight="700"
+      fill="#e53935"
+      stroke="#ffffff"
+      stroke-width="4"
+      stroke-linejoin="round"
+      paint-order="stroke"
+    >Ruta 1</text>
+  </g>
+  <g id="route2">
+    <path
+      d="M 563.47 658.64
+         C 548 650, 536 642, 530 635
+         C 520 624, 510 612, 504.4 595.4
+         C 502 582, 515 566, 540 555
+         C 570 542, 595 537, 620 530
+         C 660 516, 698 503, 736.81 490.25
+         C 770 478, 800 465, 830 455
+         C 860 448, 885 445, 905 440
+         C 925 435, 942 424, 950 410
+         C 960 390, 968 355, 972.37 320.01"
+      fill="none"
+      stroke="#1e63ff"
+      stroke-width="5"
+      stroke-dasharray="12 8"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <text
+      x="610"
+      y="555"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="24"
+      font-weight="700"
+      fill="#1e63ff"
+      stroke="#ffffff"
+      stroke-width="4"
+      stroke-linejoin="round"
+      paint-order="stroke"
+    >Ruta 2</text>
+  </g>
+  <g id="map-furniture">
+    <g id="north-arrow" transform="translate(75 70)">
+      <text
+        x="0"
+        y="-16"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700"
+        fill="#111111"
+      >N</text>
+      <path
+        d="M 0 -4 L -12 26 L 0 20 L 12 26 Z"
+        fill="none"
+        stroke="#111111"
+        stroke-width="3"
+        stroke-linejoin="round"
+      />
+      <path
+        d="M 0 -4 L -7 14 L 0 10 L 7 14 Z"
+        fill="#111111"
+      />
+    </g>
+
+    <g id="scale-bar">
+      <rect
+        x="860"
+        y="720"
+        width="110"
+        height="16"
+        fill="#111111"
+        stroke="#111111"
+        stroke-width="2"
+      />
+      <rect
+        x="970"
+        y="720"
+        width="110"
+        height="16"
+        fill="#ffffff"
+        stroke="#111111"
+        stroke-width="2"
+      />
+      <text
+        x="860"
+        y="710"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700"
+        fill="#111111"
+      >0</text>
+      <text
+        x="970"
+        y="710"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700"
+        fill="#111111"
+      >500 m</text>
+      <text
+        x="1080"
+        y="710"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700"
+        fill="#111111"
+      >1 km</text>
+    </g>
+  </g>
+</svg>
