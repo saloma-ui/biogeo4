@@ -193,6 +193,45 @@ html:has(.presentacio-vertical) {
   font-weight: 700;
 }
 
+/* Taules de presentació */
+.presentacio-vertical .md-typeset__scrollwrap {
+  margin: 1.4rem 0;
+}
+
+.presentacio-vertical .md-typeset__table {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.65rem;
+  background: var(--md-default-bg-color);
+}
+
+.presentacio-vertical .md-typeset__table table {
+  display: table;
+  width: 100%;
+  margin: 0;
+  border: 0;
+  font-size: clamp(1rem, 1.35vw, 1.15rem);
+  line-height: 1.45;
+}
+
+.presentacio-vertical .md-typeset__table th,
+.presentacio-vertical .md-typeset__table td {
+  padding: 0.85rem 1rem;
+  vertical-align: middle;
+}
+
+.presentacio-vertical .md-typeset__table thead th {
+  font-weight: 700;
+  background: color-mix(in srgb, var(--md-code-bg-color) 78%, var(--md-default-bg-color));
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.presentacio-vertical .md-typeset__table tbody tr:nth-child(even) {
+  background: color-mix(in srgb, var(--md-code-bg-color) 42%, transparent);
+}
+
 @media screen and (max-width: 760px) {
   .presentacio-vertical .pv-seccio {
     min-height: auto;
