@@ -28,6 +28,20 @@ search:
 
 ---
 
+## Criteri d'avaluació recollit
+
+**CA 5.1** — *Identificar els possibles riscs naturals potenciats per determinades accions humanes sobre una zona geogràfica concreta, tenint en compte les seves característiques litològiques, relleu, vegetació i factors socioeconòmics.*
+
+En aquesta evidència es valorarà especialment si ets capaç de:
+
+- diferenciar el **procés o perill natural** del **risc**;
+- identificar correctament els **elements exposats**;
+- explicar de què depèn la **vulnerabilitat** dels elements exposats;
+- justificar com determinades **accions humanes** poden augmentar o reduir el risc;
+- proposar mesures de **prevenció o reducció del risc** i relacionar-les amb el component que modifiquen.
+
+---
+
 ## Situació
 
 El **Torrent Gros** forma part de la xarxa de drenatge de Mallorca. Com passa en molts cursos torrencials mediterranis, el cabal pot variar molt al llarg del temps. Després d'un episodi de precipitació intensa, la quantitat d'aigua que circula pel torrent pot augmentar ràpidament.
