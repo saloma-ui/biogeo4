@@ -264,19 +264,150 @@ Al final d'aquest bloc has de poder explicar què representen les **corbes de ni
 
 ## 3. Com sabem què hi ha dins la Terra?
 
+La major part de l'interior terrestre és inaccessible. Això planteja una qüestió científica important: **com podem construir un model d'una regió que no podem observar directament?** La resposta no consisteix a «imaginar» l'interior, sinó a obtenir dades que en depenen i utilitzar-les per posar a prova explicacions.
+
+!!! note "Idea clau"
+    Conèixer l'interior de la Terra és un problema d'**evidències i inferències**: mesuram efectes observables i, a partir d'ells, deduïm propietats de regions que no podem veure.
+
 ### 3.1. El problema: no podem observar directament l'interior terrestre
+
+El radi mitjà de la Terra és d'uns **6.371 km**. En canvi, les perforacions humanes més profundes només han arribat a poc més de **12 km**. A escala planetària, això representa una fracció minúscula del radi terrestre.
+
+Aquesta comparació és important perquè mostra el límit dels mètodes directes: encara que poguéssim perforar alguns quilòmetres més, continuaríem molt lluny de poder accedir a la major part de l'interior.
+
+![Comparació entre el radi terrestre i la profunditat aproximada d'una perforació](../../activitats/ud1/interior-terra/figures/geo04_02_escala_perforacio_terra.png)
+
+*Figura 3.1. Les perforacions proporcionen mostres directes, però només d'una part ínfima de la Terra.*
+
+!!! warning "No memoritzis la dada sense entendre-la"
+    El valor d'uns 12 km serveix sobretot per entendre l'**escala del problema**: els mètodes directes no poden descriure per si sols tot l'interior terrestre.
 
 ### 3.2. Mètodes directes i indirectes d'estudi
 
+Podem obtenir informació sobre la Terra de dues maneres generals.
+
+**Mètodes directes.** Estudiam materials als quals podem accedir físicament. Per exemple, mostres de perforacions, mines i afloraments, o determinats fragments de materials procedents de zones més profundes que han arribat a la superfície.
+
+**Mètodes indirectes.** Mesuram senyals, propietats o efectes que depenen de l'interior i els interpretam per deduir com deu ser.
+
+La diferència no és que un mètode sigui «bo» i l'altre «dolent». Els mètodes directes permeten analitzar materials reals, però arriben molt poc profund. Els indirectes poden aportar informació de regions inaccessibles, però exigeixen **interpretar les dades**.
+
+| Tipus de mètode | Què obtenim | Limitació principal |
+|---|---|---|
+| Directe | Mostres o materials que podem observar i analitzar | Només accedim a una part molt petita de la Terra |
+| Indirecte | Senyals o efectes mesurables | Necessitam inferir què els ha produït |
+
+!!! tip "Pregunta que guia la investigació"
+    Si no podem arribar a una regió, cercam algun **senyal que la travessi o que en depengui** i observam com canvia.
+
 ### 3.3. Els terratrèmols i les ones sísmiques
+
+Quan es produeix un **terratrèmol**, s'originen vibracions que es propaguen per la Terra. Aquestes vibracions són les **ones sísmiques**.
+
+Les estacions sísmiques mesuren el moviment del terreny al llarg del temps i en generen un **registre sísmic**. Aquest registre és una dada observable: ens informa de quan arriben determinades vibracions, de la seva amplitud i del seu comportament.
+
+El registre, però, **no ens mostra directament la composició de l'interior**. Per obtenir aquesta informació hem de relacionar les característiques de les ones amb les propietats dels materials que han travessat.
+
+<!-- FIGURA 3.2 PENDENT · Terratrèmol → propagació de les ones → estacions sísmiques → registre. Distingir clarament DADA mesurada i INFERÈNCIA posterior. -->
+
+> **Dada:** una estació registra l'arribada d'una ona.  
+> **Inferència:** el recorregut i el comportament d'aquella ona ens permeten deduir propietats dels materials que ha travessat.
 
 ### 3.4. Ones P i ones S
 
+Les ones sísmiques que viatgen per l'interior no es comporten totes igual. En aquesta unitat ens interessen especialment les **ones P** i les **ones S**.
+
+Les **ones P** produeixen sobretot compressions i expansions en la mateixa direcció en què es propaga l'ona. Poden transmetre's tant per **sòlids** com per **líquids**.
+
+Les **ones S** produeixen una deformació transversal o de cisallament. Només es poden propagar per **sòlids**, perquè un líquid no manté aquest tipus de deformació de cisallament.
+
+![Moviment de les partícules en les ones P i S](../../activitats/ud1/interior-terra/figures/geo04_05_moviment_p_s.svg)
+
+*Figura 3.2. Les ones P i S deformen el medi de manera diferent i, per això, no es propaguen igual per tots els materials.*
+
+| Tipus d'ona | Sòlids | Líquids |
+|---|:---:|:---:|
+| **P** | ✓ | ✓ |
+| **S** | ✓ | ✗ |
+
+!!! note "Conseqüència important"
+    Si les ones **P travessen una regió** però les **S no la travessen**, les dades són compatibles amb la presència d'un material **líquid** en aquella regió.
+
 ### 3.5. Què ens indiquen les ones sobre els materials que travessen?
+
+No només ens interessa si una ona arriba o no. També podem estudiar la seva **velocitat** i la seva **trajectòria**.
+
+Quan una ona entra en un medi amb propietats diferents, la seva velocitat pot canviar. Aquest canvi pot provocar una desviació de la trajectòria, és a dir, una **refracció**.
+
+Per tant, un canvi brusc en la velocitat o la direcció de les ones és una evidència que el medi que travessen també ha canviat.
+
+![Trajectòries de les ones P i S a través de l'interior terrestre](../../activitats/ud1/interior-terra/figures/geo04_04_ones_p_s_interior.png)
+
+*Figura 3.3. La propagació de les ones no és uniforme: les seves trajectòries i la presència o absència d'ones S aporten informació sobre les regions internes.*
+
+Aquesta idea és essencial: **les ones no «dibuixen» directament les capes internes**. Les capes són una interpretació construïda a partir dels canvis observats en les dades.
+
+!!! warning "Evita aquesta conclusió"
+    Que una ona P travessi una regió **no demostra que sigui sòlida**. Les P es propaguen tant per sòlids com per líquids. Per distingir-los necessitam altres dades, com el comportament de les ones S.
 
 ### 3.6. De les dades a les inferències
 
+En ciència convé separar sempre tres nivells:
+
+1. **Observació o dada:** què hem mesurat realment.
+2. **Inferència:** quina propietat del medi és compatible amb aquella dada.
+3. **Model:** com organitzam moltes inferències coherents en una explicació general de l'interior terrestre.
+
+#### Exemple de raonament
+
+Suposem que les estacions indiquen que:
+
+- les ones **P** travessen una regió interna;
+- les ones **S** no la travessen.
+
+La primera dada, tota sola, **no permet decidir** si la regió és sòlida o líquida. Quan incorporam la segona dada, la interpretació canvia: com que les ones S no es propaguen pels líquids, la hipòtesi que la regió és líquida queda reforçada.
+
+<div class="admonition abstract">
+<p class="admonition-title">Cadena de raonament</p>
+
+**dades → propietats de les ones → inferència sobre el material → model de l'interior**
+
+</div>
+
+Això també explica per què una conclusió científica es pot haver de **revisar quan apareixen dades noves**. Revisar una conclusió no és un fracàs: és precisament una part del procés d'investigació.
+
+!!! tip "Quan hagis de justificar una conclusió"
+    No escriguis només «és líquid» o «és sòlid». Indica **quina dada** utilitzes, **quina propietat de les ones** hi relaciones i **quina inferència** en derives.
+
+<!-- FIGURA 3.4 PENDENT · Esquema de doble columna DADES / INFERÈNCIES amb un cas P travessa + S no travessa. Ha de reutilitzar el patró visual observació/inferència de la figura 1.4. -->
+
 ### 3.7. Discontinuïtats i estructura interna de la Terra
+
+Quan les dades sísmiques mostren un **canvi brusc de propietats** a una determinada profunditat, inferim que hi ha una frontera entre dues regions internes. Aquesta frontera s'anomena **discontinuïtat sísmica**.
+
+Una discontinuïtat no és una línia que s'hagi observat directament dins la Terra. És una frontera **inferida** a partir de canvis en la velocitat, la trajectòria o la propagació de les ones.
+
+Les principals discontinuïtats que utilitzarem són:
+
+- **Mohorovičić (Moho):** separa l'**escorça** del **mantell**. La seva profunditat és variable perquè el gruix de l'escorça no és igual a tot arreu.
+- **Gutenberg:** se situa aproximadament a **2.900 km** de profunditat i separa el **mantell** del **nucli extern**.
+- **Lehmann:** se situa aproximadament a **5.150 km** de profunditat i separa el **nucli extern** del **nucli intern**.
+
+Les dades sísmiques són compatibles amb un **mantell majoritàriament sòlid**, encara que alguns dels seus materials es poden deformar lentament; un **nucli extern líquid** i un **nucli intern sòlid**.
+
+!!! warning "Evita aquesta confusió"
+    El **mantell no és una gran capa de magma líquid**. És majoritàriament sòlid. Que un sòlid es pugui deformar molt lentament no significa que sigui líquid.
+
+![Estructura interna de la Terra i principals discontinuïtats](../../activitats/ud1/interior-terra/figures/geo04_08_model_interior_terra.png)
+
+*Figura 3.4. Model de l'interior terrestre construït a partir de dades indirectes. Les fronteres representades són discontinuïtats inferides, no superfícies observades directament.*
+
+!!! note "Un model no és una fotografia"
+    Els esquemes de l'interior terrestre representen una **interpretació científica de les evidències disponibles**. Si apareguessin dades noves incompatibles amb el model, caldria revisar-lo.
+
+### Síntesi del bloc 3
+
+Al final d'aquest bloc has de poder diferenciar **mètodes directes i indirectes**, explicar què és un **registre sísmic**, comparar el comportament de les **ones P i S**, utilitzar la presència, absència, velocitat o desviació de les ones per fer **inferències** sobre els materials, i explicar com aquestes dades permeten identificar **discontinuïtats** i construir un model de l'**estructura interna de la Terra**.
 
 ---
 
