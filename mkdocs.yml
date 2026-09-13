@@ -57,13 +57,16 @@ nav:
   - Activitats:
       - UD1:
           - Índex: activitats/ud1/index.md
-          - GEO-01 · Llegim un paisatge: activitats/ud1/geo-01/index.md
-          - GEO-02 · Del mapa al relleu: activitats/ud1/geo02/index.md
-          - Com sabem què hi ha dins la Terra?: activitats/ud1/interior-terra/index.md
-          - Una Terra fragmentada: activitats/ud1/terra-fragmentada/index.md
-          - G1 · Reconstruïm una història geològica: activitats/ud1/g1/g1.md
-          - Quan un procés natural esdevé risc?: activitats/ud1/riscos/index.md
-          - G2 · On construiríem?: activitats/ud1/g2/index.md
+          - Llegim el paisatge (UD01-A1): activitats/ud1/geo-01/index.md
+          - Del mapa al relleu (UD01-A2): activitats/ud1/geo02/index.md
+          - Com sabem què hi ha dins la Terra? (UD01-A3): activitats/ud1/interior-terra/index.md
+          - Una Terra fragmentada (UD01-A4): activitats/ud1/terra-fragmentada/index.md
+          - Tectònica en dades (UD01-A5): activitats/ud1/geo03/index.md
+          - Llegim el temps a les roques (UD01-A6): activitats/ud1/geo04/index.md
+          - Reconstruïm una història geològica (UD01-A7): activitats/ud1/g1/g1.md
+          - Quan un procés natural esdevé risc? (UD01-A8): activitats/ud1/riscos/index.md
+          - On construiríem? (UD01-A9): activitats/ud1/g2/index.md
+          - Comprendre el risc (UD01-A10): activitats/ud1/g2-risc-evidencia/index.md
       - UD2:
           - Índex: activitats/ud2/index.md
       - UD3:
