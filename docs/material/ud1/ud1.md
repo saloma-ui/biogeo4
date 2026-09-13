@@ -281,7 +281,7 @@ El radi mitjà de la Terra és d'uns **6.371 km**. En canvi, les perforacions hu
 
 Aquesta comparació és important perquè mostra el límit dels mètodes directes: encara que poguéssim perforar alguns quilòmetres més, continuaríem molt lluny de poder accedir a la major part de l'interior.
 
-![Comparació entre el radi terrestre i la profunditat aproximada d'una perforació](../../activitats/ud1/interior-terra/figures/geo04_02_escala_perforacio_terra.png)
+![Comparació entre el radi terrestre i la profunditat aproximada d'una perforació](figures/geo04_02_escala_perforacio_terra%20(1).png)
 
 *Figura 3.1. Les perforacions proporcionen mostres directes, però només d'una part ínfima de la Terra.*
 
@@ -314,7 +314,9 @@ Les estacions sísmiques mesuren el moviment del terreny al llarg del temps i en
 
 El registre, però, **no ens mostra directament la composició de l'interior**. Per obtenir aquesta informació hem de relacionar les característiques de les ones amb les propietats dels materials que han travessat.
 
-<!-- FIGURA 3.2 PENDENT · Terratrèmol → propagació de les ones → estacions sísmiques → registre. Distingir clarament DADA mesurada i INFERÈNCIA posterior. -->
+![Del terratrèmol a la interpretació sísmica](figures/figura_3_2_del_terratrèmol_a_la_interpretació_sísmica.png)
+
+*Figura 3.2. Un terratrèmol genera ones sísmiques que es registren en estacions; aquests registres aporten dades indirectes que després s'han d'interpretar.*
 
 > **Dada:** una estació registra l'arribada d'una ona.  
 > **Inferència:** el recorregut i el comportament d'aquella ona ens permeten deduir propietats dels materials que ha travessat.
@@ -329,7 +331,7 @@ Les **ones S** produeixen una deformació transversal o de cisallament. Només e
 
 ![Moviment de les partícules en les ones P i S](../../activitats/ud1/interior-terra/figures/geo04_05_moviment_p_s.svg)
 
-*Figura 3.2. Les ones P i S deformen el medi de manera diferent i, per això, no es propaguen igual per tots els materials.*
+*Esquema complementari. Les ones P i S deformen el medi de manera diferent i, per això, no es propaguen igual per tots els materials.*
 
 | Tipus d'ona | Sòlids | Líquids |
 |---|:---:|:---:|
@@ -347,7 +349,7 @@ Quan una ona entra en un medi amb propietats diferents, la seva velocitat pot ca
 
 Per tant, un canvi brusc en la velocitat o la direcció de les ones és una evidència que el medi que travessen també ha canviat.
 
-![Trajectòries de les ones P i S a través de l'interior terrestre](../../activitats/ud1/interior-terra/figures/geo04_04_ones_p_s_interior.png)
+![Trajectòries de les ones P i S a través de l'interior terrestre](figures/geo04_04_ones_p_s_interior.png)
 
 *Figura 3.3. La propagació de les ones no és uniforme: les seves trajectòries i la presència o absència d'ones S aporten informació sobre les regions internes.*
 
@@ -385,7 +387,9 @@ Això també explica per què una conclusió científica es pot haver de **revis
 !!! tip "Quan hagis de justificar una conclusió"
     No escriguis només «és líquid» o «és sòlid». Indica **quina dada** utilitzes, **quina propietat de les ones** hi relaciones i **quina inferència** en derives.
 
-<!-- FIGURA 3.4 PENDENT · Esquema de doble columna DADES / INFERÈNCIES amb un cas P travessa + S no travessa. Ha de reutilitzar el patró visual observació/inferència de la figura 1.4. -->
+![De les dades sísmiques a la inferència](figures/figura_3_4_de_les_dades_sismiques_a_la_inferencia.png)
+
+*Figura 3.4. La combinació de dades sobre ones P i S permet passar d'una observació a una inferència sobre l'estat físic dels materials interns.*
 
 ### 3.7. Discontinuïtats i estructura interna de la Terra
 
@@ -406,7 +410,7 @@ Les dades sísmiques són compatibles amb un **mantell majoritàriament sòlid**
 
 ![Estructura interna de la Terra i principals discontinuïtats](../../activitats/ud1/interior-terra/figures/geo04_08_model_interior_terra.png)
 
-*Figura 3.4. Model de l'interior terrestre construït a partir de dades indirectes. Les fronteres representades són discontinuïtats inferides, no superfícies observades directament.*
+*Esquema complementari de l'estructura interna de la Terra. Les fronteres representades són discontinuïtats inferides, no superfícies observades directament.*
 
 !!! note "Un model no és una fotografia"
     Els esquemes de l'interior terrestre representen una **interpretació científica de les evidències disponibles**. Si apareguessin dades noves incompatibles amb el model, caldria revisar-lo.
