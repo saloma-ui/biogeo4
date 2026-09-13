@@ -22,6 +22,8 @@ L’objectiu no és endevinar quin sector «vol» el professor. **A, B o C poden
 
 L’evidència es recull principalment als apartats **4, 6 i 7**, que has de completar **individualment**: decisió inicial, anàlisi de les dades noves i revisió argumentada de la decisió.
 
+**Els apartats 4, 6 i 7 han de quedar registrats a Classroom com a evidència del CA 4.2.**
+
 La resta de l’anàlisi es pot discutir amb els companys, però aquestes tres respostes han de reflectir el teu propi raonament.
 
 ---
@@ -86,6 +88,8 @@ Justifica l’ordre amb **almenys tres evidències procedents de mapes diferents
 
 ## 4. Primera decisió · evidència individual CA 4.2
 
+> **Registre:** aquesta resposta ha de quedar registrada a Classroom.
+
 **Triaria el sector ____________.**
 
 Explica la decisió integrant dades de relleu, litologia, vegetació o hidrografia i infraestructures o factors humans.
@@ -142,6 +146,8 @@ Explica per què seria massa simple afirmar que «B és segur» o que «B és pe
 
 ## 6. Posa a prova la teva primera decisió · evidència individual CA 4.2
 
+> **Registre:** aquesta resposta ha de quedar registrada a Classroom.
+
 **Decisió inicial:** sector ____________
 
 **Quina dada nova és més important per revisar-la?**
@@ -166,6 +172,8 @@ ____________________________________________________________________
 ---
 
 ## 7. Revisió crítica · evidència individual CA 4.2
+
+> **Registre:** aquesta resposta ha de quedar registrada a Classroom.
 
 Després d’analitzar els mapes 5 i 6:
 
