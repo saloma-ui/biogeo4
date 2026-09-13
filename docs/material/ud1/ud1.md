@@ -91,12 +91,9 @@ En geologia convé distingir entre **agent** i **procés**.
 
 Un **agent geològic** és l'element o la força que actua sobre els materials de la superfície. Un **procés geològic** descriu què passa amb aquests materials.
 
-| Agents | Processos |
+| Exemples d'agents | Exemples de processos |
 |---|---|
-| Aigua | Meteorització |
-| Vent | Erosió |
-| Mar | Transport |
-| Gravetat | Sedimentació |
+| Aigua, vent, mar, gravetat | Meteorització, erosió, transport, sedimentació |
 
 Així, dir que **l'aigua** intervé en un paisatge identifica un agent. Dir que aquesta aigua **erosiona i transporta materials** identifica processos.
 
