@@ -423,22 +423,123 @@ Al final d'aquest bloc has de poder diferenciar **mètodes directes i indirectes
 
 ## 4. Una Terra fragmentada i dinàmica
 
+Els terratrèmols i els volcans no es distribueixen de manera aleatòria sobre la Terra. A escala mundial es concentren sobretot en **franges llargues i relativament estretes**. Aquest patró és una evidència important: suggereix que aquestes zones comparteixen alguna característica geològica.
+
+!!! note "Idea clau"
+    La tectònica de plaques és una explicació construïda a partir de **patrons observables**. Primer observam on es produeixen els fenòmens; després proposam un model que els pugui explicar.
+
 ### 4.1. La litosfera està fragmentada en plaques
+
+Quan observam la distribució mundial dels terratrèmols i els volcans, veim que molts es concentren en grans franges del planeta.
+
+![Distribució mundial de terratrèmols i volcans](../../activitats/ud1/terra-fragmentada/figures/geo05_01_sismicitat_vulcanisme.png)
+
+*Figura 4.1. Els terratrèmols i els volcans no es distribueixen aleatòriament: es concentren sobretot en grans franges del planeta. Aquest patró proporciona una primera evidència de l'existència de zones geològicament especials.*
+
+Quan seguim aquestes franges, dibuixen una xarxa que delimita grans regions de la superfície terrestre. Les dades són compatibles amb la idea que la part externa rígida de la Terra **no forma una sola peça**, sinó que està fragmentada en grans blocs.
+
+![Límits inferits a partir de la distribució mundial de terratrèmols i volcans](../../activitats/ud1/terra-fragmentada/figures/geo05_02_limits_inferits.png)
+
+*Figura 4.2. Si seguim moltes de les grans franges de sismicitat i vulcanisme, podem inferir límits que separen grans blocs de la litosfera. Aquests blocs són les plaques litosfèriques.*
+
+Aquests grans blocs s'anomenen **plaques litosfèriques**.
+
+Una placa és un fragment de **litosfera**, és a dir, de la part externa rígida de la Terra. La litosfera inclou l'**escorça** i una part del **mantell superior**.
+
+> **Escorça i litosfera no són sinònims.** L'escorça forma part de la litosfera, però la litosfera inclou també materials del mantell superior.
+
+Per sota de la litosfera, els materials continuen essent majoritàriament sòlids, però a escala geològica es poden deformar molt lentament.
+
+!!! warning "Evita aquesta confusió"
+    Les plaques **no suren damunt un oceà de magma líquid**. El mantell és majoritàriament sòlid, encara que els seus materials puguin deformar-se lentament.
 
 ### 4.2. Evidències de la dinàmica terrestre
 
-- Distribució dels terratrèmols
-- Distribució dels volcans
-- Relleu del fons oceànic
-- Moviment de les plaques
+Hi ha diverses observacions que, considerades conjuntament, reforcen el model de plaques en moviment.
+
+La primera és la **distribució dels terratrèmols i els volcans**. Molts es concentren en les mateixes grans franges del planeta. Aquest patró permet inferir la posició de molts límits de plaques.
+
+Una segona evidència és el **relleu del fons oceànic**. Per exemple, al centre de diversos oceans trobam llargues elevacions submarines anomenades **dorsals oceàniques**, relacionades amb zones on les plaques se separen.
+
+Finalment, el moviment ja no és només una inferència sobre el passat. Les mesures repetides amb sistemes de posicionament per satèl·lit, com el **GPS**, permeten detectar **desplaçaments actuals de l'ordre de centímetres per any** i comprovar que diferents plaques es mouen en direccions diferents.
+
+![Moviment actual de les plaques mesurat mitjançant GPS](../../activitats/ud1/terra-fragmentada/figures/geo05_03_moviment_gps.png)
+
+*Figura 4.3. Les mesures repetides amb sistemes de posicionament per satèl·lit permeten detectar el moviment actual de les plaques, habitualment de l'ordre de centímetres per any.*
+
+!!! tip "Dada i conclusió"
+    **Dada:** una posició mesurada repetidament canvia uns centímetres cada any.  
+    **Conclusió compatible:** la placa sobre la qual es troba aquell punt es mou actualment.
+
+Per tant, no només tenim evidències que la litosfera està fragmentada: també podem mesurar que **aquests fragments es mouen uns respecte dels altres**.
+
+Si les plaques es mouen, el que passa als seus límits depèn del **moviment relatiu** entre elles.
+
+![Tres tipus principals de límits de plaques](../../activitats/ud1/terra-fragmentada/figures/geo05_04_tres_limits.png)
+
+*Figura 4.4. El tipus de límit depèn del moviment relatiu entre dues plaques: poden separar-se, aproximar-se o lliscar lateralment una respecte de l'altra. Aquests moviments originen límits divergents, convergents i transformants.*
 
 ### 4.3. Límits divergents
 
+En un **límit divergent**, dues plaques **se separen**. A la figura 4.4 correspon al primer esquema.
+
+Als oceans, aquests límits estan relacionats amb les **dorsals oceàniques**. En aquestes zones es forma nova litosfera oceànica i hi ha activitat volcànica i sísmica.
+
+<div class="admonition abstract">
+<p class="admonition-title">Relació característica</p>
+
+**separació de plaques → dorsal oceànica → formació de nova litosfera → vulcanisme i sismicitat**
+
+</div>
+
+Aquesta relació també es pot utilitzar en sentit contrari. Si observam una gran dorsal oceànica amb activitat volcànica i sísmica, aquestes dades són compatibles amb un **límit divergent**.
+
 ### 4.4. Límits convergents
+
+En un **límit convergent**, dues plaques **s'aproximen**. A la figura 4.4 correspon al segon esquema.
+
+El resultat no és sempre el mateix. Una possibilitat és la **subducció**, en què una placa oceànica s'enfonsa sota una altra. Aquestes zones solen estar associades a una **fossa oceànica**, nombrosos **terratrèmols** i, en moltes regions, **vulcanisme**.
+
+Una altra possibilitat és la **col·lisió continental**, quan convergeixen masses continentals.
+
+Per tant, no basta veure que dues plaques s'aproximen: hem d'observar també **quins materials i quines estructures intervenen** per interpretar què està passant.
+
+!!! note "Una empremta característica"
+    La combinació **fossa oceànica + molts terratrèmols + cadena volcànica** és especialment compatible amb una zona de **subducció**.
 
 ### 4.5. Límits transformants
 
+En un **límit transformant**, dues plaques **llisquen lateralment** una respecte de l'altra. A la figura 4.4 correspon al tercer esquema.
+
+En aquests límits són freqüents els **terratrèmols**. Per tant, una zona amb sismicitat important no ha d'estar necessàriament associada a vulcanisme.
+
+Això evita una simplificació freqüent:
+
+> **Terratrèmols i volcans sovint coincideixen en els límits de plaques, però no tots els tipus de límit produeixen exactament els mateixos fenòmens.**
+
+Per identificar un límit hem de considerar conjuntament el **moviment relatiu de les plaques**, el relleu i els fenòmens geològics observats.
+
 ### 4.6. La tectònica de plaques com a model explicatiu
+
+La **tectònica de plaques** no és simplement un mapa on hem dibuixat diverses peces. És un **model explicatiu**.
+
+Relaciona tres idees:
+
+<div class="admonition abstract">
+<p class="admonition-title">Model senzill</p>
+
+**litosfera fragmentada → plaques en moviment → interaccions als límits**
+
+</div>
+
+Aquest model permet donar una explicació comuna a fenòmens que, si els estudiàssim per separat, podrien semblar independents: la distribució de molts **terratrèmols**, **volcans** i grans estructures del **relleu**.
+
+!!! note "Un model científic"
+    El valor d'un model no és només descriure allò que ja coneixem. També ha de permetre relacionar dades i fer prediccions: si sabem quin tipus de límit hi ha en una regió, podem anticipar quins processos i estructures hi serien compatibles.
+
+### Síntesi del bloc 4
+
+Al final d'aquest bloc has de poder explicar què és una **placa litosfèrica**, distingir **escorça i litosfera**, utilitzar la distribució de terratrèmols, volcans, dorsals i mesures de moviment com a **evidències**, diferenciar els límits **divergents, convergents i transformants** i interpretar la tectònica de plaques com un **model que relaciona el moviment de la litosfera amb els processos geològics de la superfície**.
 
 ---
 
