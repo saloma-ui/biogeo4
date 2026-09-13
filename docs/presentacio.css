@@ -220,6 +220,7 @@ html:has(.presentacio-vertical) {
 .presentacio-vertical .md-typeset__table td {
   padding: 0.85rem 1rem;
   vertical-align: middle;
+  text-align: center;
 }
 
 .presentacio-vertical .md-typeset__table thead th {
