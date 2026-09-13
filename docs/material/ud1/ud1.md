@@ -83,7 +83,9 @@ El seu efecte depèn també de factors com el pendent, el clima, la vegetació i
 
 Aquest esquema és útil, però no s'ha d'interpretar com una cadena rígida. Els factors interactuen entre si i un mateix relleu pot haver estat modificat per processos diferents al llarg de la seva història.
 
-<!-- FIGURA 1.2 PENDENT · Esquema visual reutilitzable: materials + estructura + processos + temps → relleu. Preferentment SVG, simple, horitzontal i apte per a PDF. -->
+![Factors que intervenen en el modelatge del relleu](figures/figura_1_2_factors_del_modelatge_del_relleu.png)
+
+*Figura 1.2. El relleu és el resultat de la interacció entre els materials, l'estructura geològica, els processos i el temps.*
 
 ### 1.3. Agents i processos que modelen el relleu
 
@@ -112,7 +114,9 @@ A la realitat aquests processos sovint formen part d'una mateixa seqüència. Un
 !!! warning "Evita aquesta confusió"
     **Aigua, vent, mar o gravetat** no són processos. Són agents o forces que poden provocar processos com l'erosió, el transport o la sedimentació.
 
-<!-- FIGURA 1.3 PENDENT · Esquema de quatre vinyetes: meteorització → erosió → transport → sedimentació. Sense presentar la seqüència com a obligatòria en tots els casos. -->
+![Agents i processos que modelen el relleu](figures/figura_1_3_agents_i_processos_del_relleu.png)
+
+*Figura 1.3. Els agents geològics actuen sobre els materials i poden produir processos com la meteorització, l'erosió, el transport i la sedimentació.*
 
 ### 1.4. Com llegim un paisatge?
 
@@ -139,7 +143,9 @@ La diferència és important: **la forma visible és una dada; el procés que la
 !!! note "Per interpretar bé un paisatge"
     No demanam «quina és la causa?» massa aviat. Primer convé preguntar: **què observam?, quines dades tenim?, quines explicacions són compatibles amb aquestes dades i quina evidència ens permetria distingir-les?**
 
-<!-- FIGURA 1.4 PENDENT · Fotografia o dibuix de paisatge amb dues capes d'anotació: OBSERVACIONS (visibles) i INFERÈNCIES (explicacions). Aquest patró visual es pot repetir als blocs 3, 5 i 7. -->
+![Observacions i inferències en un paisatge litoral](figures/figura_1_4_observacions_i_inferencies_a_la_costa.png)
+
+*Figura 1.4. Les observacions descriuen allò que podem veure o mesurar; les inferències proposen explicacions que s'han de justificar amb evidències.*
 
 ### Síntesi del bloc 1
 
