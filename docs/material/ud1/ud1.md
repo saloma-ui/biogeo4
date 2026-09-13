@@ -545,19 +545,180 @@ Al final d'aquest bloc has de poder explicar què és una **placa litosfèrica**
 
 ## 5. Les roques conserven la història
 
+Les roques i les estructures geològiques no només ens informen de **quins materials hi ha** en un territori. També conserven relacions que ens permeten reconstruir **què va passar abans i què va passar després**.
+
+No sempre necessitam saber l'edat en anys d'una roca per ordenar els esdeveniments geològics. Moltes vegades podem establir relacions temporals a partir de la posició dels estrats, de les estructures que els tallen, de la seva deformació o de les superfícies que els trunquen.
+
+!!! note "Idea clau"
+    Reconstruir la història geològica consisteix a establir **relacions temporals justificades per evidències**, no simplement a memoritzar una seqüència.
+
 ### 5.1. Temps geològic relatiu
 
-### 5.2. Principi d'horitzontalitat original
+La **datació relativa** permet establir l'ordre dels materials i dels esdeveniments geològics: determinar què és **més antic**, què és **més modern** i què va passar **abans o després**.
 
-### 5.3. Principi de superposició
+Això és diferent d'assignar una edat numèrica.
+
+Per exemple, si una falla talla tres estrats, podem saber que la falla és posterior als tres estrats encara que no sapiguem quants anys tenen.
+
+> **Datació relativa ≠ edat en anys.**
+
+La datació relativa respon sobretot preguntes com: **què va passar primer?, què ja existia quan es va produir aquest esdeveniment?, què és posterior?**
+
+![El temps queda enregistrat a les roques](../../activitats/ud1/geo04/figures/geo04_f01_temps_roques.png)
+
+*Figura 5.1. Les roques i les estructures geològiques conserven evidències que permeten establir l'ordre relatiu dels esdeveniments.*
+
+### 5.2. Principi de superposició
+
+Els sediments es poden anar acumulant successivament i formar **estrats**.
+
+En una successió d'estrats que conserva la seva disposició original, els estrats situats **davall** es varen formar abans que els situats **damunt**.
+
+Això és el **principi de superposició**:
+
+> En una successió d'estrats que conserva la seva disposició original, els estrats inferiors són més antics que els situats damunt seu.
+
+![Principi de superposició](../../activitats/ud1/geo04/figures/geo04_f02_superposicio.png)
+
+*Figura 5.2. En una successió que conserva la disposició original, els estrats inferiors són més antics que els situats damunt seu.*
+
+Si tenim, de baix cap a dalt, els estrats A, B, C i D, podem establir:
+
+**A → B → C → D**
+
+Del més antic al més modern.
+
+### 5.3. Principi d'horitzontalitat original
+
+Els sediments es dipositen originàriament en capes **aproximadament horitzontals**.
+
+Per tant, si avui observam estrats inclinats o plegats, podem inferir que primer es varen formar els estrats i després es varen deformar.
+
+Això és el **principi d'horitzontalitat original**.
+
+![Principi d'horitzontalitat original](../../activitats/ud1/geo04/figures/geo04_f03_horitzontalitat.png)
+
+*Figura 5.3. Els estrats es formen inicialment aproximadament horitzontals; si avui estan inclinats o plegats, la deformació és posterior a la sedimentació.*
+
+La inclinació que observam actualment és, per tant, una evidència d'un **esdeveniment posterior a la sedimentació**.
 
 ### 5.4. Principi d'intersecció
 
-### 5.5. Sedimentació, deformació, falles, intrusions i erosió
+Una de les relacions temporals més útils és observar **qui talla a qui**.
 
-### 5.6. Superfícies d'erosió i discontinuïtats
+El **principi d'intersecció** estableix que una estructura o un cos geològic que **talla un altre element és posterior** a l'element que talla.
 
-### 5.7. Com establim relacions d'edat entre esdeveniments?
+![Principi d'intersecció](../../activitats/ud1/geo04/figures/geo04_f04_interseccio.png)
+
+*Figura 5.4. Una estructura que talla un material és posterior a aquest material. Les relacions d'intersecció permeten encadenar diversos esdeveniments.*
+
+Per exemple:
+
+- si una **intrusió** talla diversos estrats, és posterior als estrats;
+- si una **falla** talla els estrats i també la intrusió, la falla és posterior a tots ells.
+
+Podem construir així una cadena:
+
+**estrats → intrusió → falla**
+
+No necessitam conèixer cap edat numèrica: la relació geomètrica ja ens proporciona informació temporal.
+
+### 5.5. Successió faunística i correlació
+
+Algunes roques sedimentàries contenen **fòssils**. Com que els organismes que han viscut a la Terra han anat canviant al llarg del temps, determinats fòssils característics ens permeten **ordenar i correlacionar estrats** de localitats diferents.
+
+Això és la base del **principi de successió faunística**.
+
+Un **fòssil guia** és un fòssil especialment útil per correlacionar estrats perquè correspon a un interval temporal relativament curt i té una distribució geogràfica prou àmplia.
+
+![Correlació entre dues localitats mitjançant fòssils](../../activitats/ud1/geo04/figures/geo04_f05_successio_faunistica.png)
+
+*Figura 5.5. Els fòssils característics poden permetre correlacionar estrats de localitats diferents, fins i tot quan les roques no són iguals.*
+
+Això permet una idea important:
+
+> Dos estrats de la mateixa edat **no han de tenir necessàriament la mateixa litologia**.
+
+En un mateix moment es poden dipositar sediments diferents en ambients diferents. Per això, la correlació no consisteix simplement a cercar roques visualment iguals.
+
+### 5.6. Principi d'actualisme
+
+Per interpretar les roques del passat utilitzam també processos que podem observar avui.
+
+Si actualment observam, per exemple, que els fragments transportats per un torrent xoquen, es desgasten i poden acabar més arrodonits, trobar una roca formada per **còdols arrodonits cimentats** ens pot ajudar a interpretar processos que actuaren en el passat.
+
+Aquesta manera de raonar es basa en el **principi d'actualisme**:
+
+> Els processos geològics que observam avui ens ajuden a interpretar els materials i les estructures formats en el passat.
+
+!!! warning "Evita aquesta interpretació"
+    L'actualisme **no significa que tot hagi estat sempre igual**, ni que els processos hagin actuat sempre amb la mateixa intensitat. Significa que podem utilitzar processos coneguts per interpretar evidències antigues.
+
+### 5.7. Sedimentació, deformació, falles, intrusions i erosió
+
+Una història geològica no està formada només per estrats. Hi poden intervenir diversos tipus d'esdeveniments.
+
+**Sedimentació.** Produeix nous estrats o acumulacions de materials.
+
+**Deformació.** Pot inclinar o plegar materials que ja existien.
+
+**Intrusió.** Un material magmàtic pot penetrar en roques preexistents i formar un cos que les talla.
+
+**Falla.** Una fractura amb desplaçament pot tallar i desplaçar unitats anteriors.
+
+**Erosió.** Pot eliminar parcialment materials que ja existien.
+
+Per ordenar aquests processos no hem de memoritzar una seqüència universal. Hem d'observar **quina relació estableix l'ordre en cada cas**.
+
+!!! tip "Preguntes útils"
+    Davant qualsevol element d'un tall, demana: **què afecta?, què el talla?, què talla ell?, què el cobreix?**
+
+### 5.8. Superfícies d'erosió i discontinuïtats
+
+No tots els esdeveniments geològics produeixen una nova roca.
+
+Una etapa d'erosió pot eliminar una part dels materials anteriors i deixar una **superfície erosiva**. Si aquesta superfície trunca estrats o una intrusió, sabem que els materials truncats ja existien abans de l'erosió.
+
+Si després un nou estrat cobreix aquesta superfície, la seva sedimentació és posterior a l'episodi erosiu.
+
+> Alguns esdeveniments deixen una roca. **D'altres deixen una superfície.**
+
+Quan una superfície erosiva separa materials formats en moments diferents, registra una **interrupció del registre geològic**: entre els materials inferiors i els superiors hi ha hagut almenys un episodi sense sedimentació contínua i, en aquest cas, erosió.
+
+![Cas integrador de relacions temporals](../../activitats/ud1/geo04/figures/geo04_f06_cas_integrador.png)
+
+*Figura 5.6. En un mateix tall podem combinar diverses relacions temporals: superposició, deformació, intersecció i truncament per erosió.*
+
+### 5.9. Com establim relacions d'edat entre esdeveniments?
+
+Quan interpretam un tall no convé intentar endevinar tota la història d'una sola vegada. És més segur establir primer **relacions temporals locals**.
+
+Per exemple, a partir d'un tall com el de la figura 5.6 podem raonar així:
+
+- A és anterior a B perquè B reposa damunt A.
+- B és anterior a C perquè C reposa damunt B.
+- La deformació és posterior a A, B i C perquè els afecta.
+- La intrusió D és posterior als estrats perquè els talla.
+- L'erosió és posterior a D perquè la superfície erosiva el trunca.
+- E és posterior a l'erosió perquè es diposita damunt aquesta superfície.
+
+A continuació podem combinar totes aquestes relacions en una única seqüència coherent.
+
+<div class="admonition abstract">
+<p class="admonition-title">Exemple de cronologia</p>
+
+**sedimentació d'A → sedimentació de B → sedimentació de C → deformació → intrusió D → erosió → sedimentació d'E**
+
+</div>
+
+El més important no és memoritzar aquesta seqüència concreta. És saber explicar **per què** cada esdeveniment ocupa aquella posició.
+
+!!! note "Quan justifiquis una història"
+    No escriguis només una llista d'esdeveniments. Relaciona cada pas amb una evidència o un principi geològic que justifiqui l'ordre.
+
+### Síntesi del bloc 5
+
+Al final d'aquest bloc has de poder explicar què és la **datació relativa**, aplicar els principis de **superposició, horitzontalitat original i intersecció**, utilitzar la **successió faunística** per correlacionar estrats, interpretar el passat mitjançant l'**actualisme**, reconèixer l'ordre relatiu de **sedimentacions, deformacions, intrusions, falles i erosions**, i entendre que una **superfície erosiva** també conserva informació temporal.
 
 ---
 
