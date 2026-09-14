@@ -1115,7 +1115,7 @@ Has de distingir els tres tipus principals de límits:
 | Moviment | Límit | Fenòmens habituals |
 |---|---|---|
 | Les plaques se separen | **Divergent** | dorsals, formació de litosfera, vulcanisme i sismicitat |
-| Les plaques s'aproximen | **Convergent** | subducció o col·lisió, sismicitat i, sovint, vulcanisme |
+| Les plaques s'aproximen | **Convergent** | subducció: sismicitat i sovint vulcanisme; col·lisió continental: sismicitat i formació de grans relleus |
 | Les plaques llisquen lateralment | **Transformant** | sobretot sismicitat |
 
 No memoritzis només els noms: has de poder relacionar **moviment, estructura i processos**.
