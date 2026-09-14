@@ -193,6 +193,8 @@ La litosfera inclou també una part del mantell superior.
   </div>
 </div>
 
+[Consulta el material guia: **4.1 · La litosfera està fragmentada en plaques**](../../../material/ud1/ud1.md#41-la-litosfera-esta-fragmentada-en-plaques)
+
 </section>
 
 <section class="pv-seccio pv-visual" markdown>
@@ -228,6 +230,8 @@ Avui podem mesurar moviments de la superfície terrestre amb sistemes de posicio
     <strong>No.</strong> Mesurar moviment no implica que hi hagi un oceà de magma sota les plaques.
   </div>
 </div>
+
+[Consulta el material guia: **4.2 · Evidències de la dinàmica terrestre**](../../../material/ud1/ud1.md#42-evidencies-de-la-dinamica-terrestre)
 
 <!-- DOCENT: Els valors de la figura són orientatius i serveixen per donar escala al moviment. La idea clau és que el moviment es pot mesurar avui. -->
 
@@ -313,6 +317,8 @@ Sovint hi apareixen:
   </div>
 </div>
 
+**Consulta al material guia:** [4.3 · Límits divergents](../../../material/ud1/ud1.md#43-limits-divergents) · [4.4 · Límits convergents](../../../material/ud1/ud1.md#44-limits-convergents) · [4.5 · Límits transformants](../../../material/ud1/ud1.md#45-limits-transformants)
+
 <!-- DOCENT: Aquesta pregunta prepara directament GEO-03, on hauran d'inferir límits i processos a partir de dades i mapes. -->
 
 </section>
@@ -377,6 +383,8 @@ La topografia elevada de les dorsals també contribueix al moviment per efecte d
   </div>
 </div>
 
+[Revisa al material guia per què un mantell majoritàriament sòlid es pot deformar a escala geològica](../../../material/ud1/ud1.md#41-la-litosfera-esta-fragmentada-en-plaques)
+
 <!-- DOCENT: Evitar el model simplista de “cintes transportadores de magma que arrosseguen les plaques”. La convecció del mantell forma part del sistema, però el moviment de les plaques resulta de diverses forces; la tracció de la placa en subducció és especialment important en moltes plaques. -->
 
 </section>
@@ -420,6 +428,8 @@ La interacció entre les plaques explica bona part de l'**activitat geològica**
 La **tectònica de plaques** no és només un mapa de peces. És un **model explicatiu** que relaciona el moviment de la litosfera amb la distribució de terratrèmols, volcans i grans estructures del relleu.
 
 </div>
+
+[Consulta el material guia: **4.6 · La tectònica de plaques com a model explicatiu**](../../../material/ud1/ud1.md#46-la-tectonica-de-plaques-com-a-model-explicatiu)
 
 <p class="pv-pregunta"><strong>A la pròxima activitat haureu d'utilitzar aquests patrons per interpretar dades geològiques reals o simulades i inferir què passa als límits entre plaques.</strong></p>
 
