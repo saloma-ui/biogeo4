@@ -572,15 +572,15 @@ La datació relativa respon sobretot preguntes com: **què va passar primer?, qu
 
 Els sediments es poden anar acumulant successivament i formar **estrats**.
 
-En una successió d'estrats que conserva la seva disposició original, els estrats situats **davall** es varen formar abans que els situats **damunt**.
+En una successió estratificada no invertida, els estrats situats **davall** es varen formar abans que els situats **damunt**.
 
 Això és el **principi de superposició**:
 
-> En una successió d'estrats que conserva la seva disposició original, els estrats inferiors són més antics que els situats damunt seu.
+> En una successió estratificada no invertida, els estrats inferiors són més antics que els superiors.
 
 ![Principi de superposició](../../activitats/ud1/geo04/figures/geo04_f02_superposicio.png)
 
-*Figura 5.2. En una successió que conserva la disposició original, els estrats inferiors són més antics que els situats damunt seu.*
+*Figura 5.2. En una successió estratificada no invertida, els estrats inferiors són més antics que els superiors.*
 
 Si tenim, de baix cap a dalt, els estrats A, B, C i D, podem establir:
 
@@ -1168,7 +1168,7 @@ Davant una situació de risc, no basta identificar el procés natural.
 
 Has d'analitzar:
 
-**perill → exposició → vulnerabilitat → risc**
+**perill + exposició + vulnerabilitat → risc**
 
 I incorporar les característiques del territori:
 
