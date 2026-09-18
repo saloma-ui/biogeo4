@@ -268,4 +268,28 @@ I no totes les dades apuntaran necessàriament cap a la mateixa opció.
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# Tiquet de sortida · Al quadern
+
+<div class="pv-cadena" markdown>
+
+**AL QUADERN · 5 MINUTS · INDIVIDUAL**
+
+</div>
+
+En un vessant **molt inclinat**, format per **roca fracturada**, s'ha eliminat part de la **vegetació** per ampliar una carretera. Després de pluges intenses es poden produir caigudes de blocs. Per aquesta carretera circulen vehicles i a la part baixa del vessant hi ha alguns habitatges.
+
+Respon breument, amb frases completes:
+
+1. **Quin és el perill o procés natural principal?**
+2. **Quins dos elements exposats** pots identificar en aquesta situació?
+3. Explica com **dues característiques del territori** descrites al text poden influir en el risc.
+4. Quina **acció humana** descrita al cas podria augmentar el risc? Explica per què.
+5. Proposa **una mesura de prevenció o reducció del risc** i explica sobre quin component actua principalment: perill, exposició o vulnerabilitat.
+
+<!-- DOCENT: Tiquet de sortida individual, 4–5 minuts. Evidència formativa prèvia a “On construiríem?”. No és una evidència qualificadora del CA 5.1. Lectura ràpida: comprovar si l'alumnat diferencia perill, exposició i vulnerabilitat i si relaciona relleu, litologia, vegetació i acció humana amb el risc. -->
+
+</section>
+
 </div>
