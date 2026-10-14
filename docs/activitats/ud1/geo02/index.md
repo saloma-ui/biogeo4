@@ -1,5 +1,5 @@
 ---
-title: GEO-02 · Del mapa al relleu
+title: 'A02 · Del mapa al relleu'
 pdf: false
 hide:
   - navigation
@@ -10,8 +10,7 @@ hide:
 
 <section class="pv-seccio pv-portada" markdown>
 
-# GEO-02 · Del mapa al relleu
-
+# A02 · Del mapa al relleu
 ## Com podem representar una muntanya en un full pla?
 
 <!-- DOCENT: Sessió 2 de construcció. Idea rectora: descobrir que les corbes de nivell codifiquen l'altitud i permeten reconstruir mentalment el relleu. -->
