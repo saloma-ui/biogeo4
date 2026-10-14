@@ -1,5 +1,5 @@
 ---
-title: S15 · Quan un procés natural esdevé risc?
+title: 'A08 · Quan un procés natural esdevé un risc?'
 pdf: false
 hide:
   - navigation
@@ -10,8 +10,7 @@ hide:
 
 <section class="pv-seccio pv-portada" markdown>
 
-# S15 · Quan un procés natural esdevé risc?
-
+# A08 · Quan un procés natural esdevé un risc?
 ## Del procés natural al risc
 
 Avui no començarem memoritzant definicions. Compararem situacions i intentarem descobrir **què fa que un procés natural pugui convertir-se en un risc**.
