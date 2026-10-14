@@ -1,5 +1,5 @@
 ---
-title: GEO-04 · Llegim el temps a les roques
+title: 'A06 · Llegim el temps a les roques'
 pdf: false
 hide:
   - navigation
@@ -10,8 +10,7 @@ hide:
 
 <section class="pv-seccio pv-portada" markdown>
 
-# GEO-04 · Llegim el temps a les roques
-
+# A06 · Llegim el temps a les roques
 ## Com podem saber què va passar abans i què va passar després?
 
 <!-- DOCENT: Activitat de construcció. Objectiu central: establir relacions temporals a partir d'evidències i principis geològics. Ha de preparar la sessió guiada “Com es reconstrueix un tall?”, GEO-05 i G1. -->
