@@ -1,0 +1,13 @@
+/* Estils comuns del web de Biologia i Geologia 4t d'ESO */
+
+/* Classe opcional per a imatges que han d'aparèixer com a miniatures clicables. */
+.miniatura {
+  max-width: 360px;
+  height: auto;
+}
+
+/* Evita que les imatges molt grans desbordin l'amplada de la pàgina. */
+.md-typeset img {
+  max-width: 100%;
+  height: auto;
+}
