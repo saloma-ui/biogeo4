@@ -1,5 +1,5 @@
 ---
-title: GEO-01 · Llegim un paisatge
+title: 'A01 · Llegim el paisatge'
 pdf: false
 hide:
   - navigation
@@ -10,8 +10,7 @@ hide:
 
 <section class="pv-seccio pv-portada" markdown>
 
-# GEO-01 · Llegim un paisatge
-
+# A01 · Llegim el paisatge
 ## Què podem saber simplement mirant-lo?
 
 <!-- DOCENT: Activitat guiada de construcció de coneixement. No és una evidència formal. Idea rectora: passar de mirar un paisatge a interpretar-lo geològicament. -->
