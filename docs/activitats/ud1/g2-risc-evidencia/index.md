@@ -1,5 +1,5 @@
 ---
-title: Comprendre el risc (UD01-A10)
+title: 'A09 · Comprendre el risc'
 pdf: true
 ---
 
@@ -9,8 +9,7 @@ pdf: true
        style="max-width:640px; width:100%; height:auto;">
 </div>
 
-# Comprendre el risc (UD01-A10)
-
+# A09 · Comprendre el risc
 ## El cas del Torrent Gros
 
 **Biologia i Geologia · 4t d'ESO**
