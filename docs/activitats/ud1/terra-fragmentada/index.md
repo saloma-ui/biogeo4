@@ -1,5 +1,5 @@
 ---
-title: Una Terra fragmentada
+title: 'A04 · Una Terra fragmentada'
 pdf: false
 hide:
   - navigation
@@ -10,8 +10,7 @@ hide:
 
 <section class="pv-seccio pv-portada" markdown>
 
-# Una Terra fragmentada
-
+# A04 · Una Terra fragmentada
 ## De patrons a la superfície a un model de plaques en moviment
 
 ![Distribució mundial esquemàtica de terratrèmols i volcans](figures/geo05_01_sismicitat_vulcanisme.png)
