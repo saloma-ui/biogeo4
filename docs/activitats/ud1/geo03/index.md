@@ -18,6 +18,12 @@ En cada cas seguiràs la mateixa rutina:
 
 **OBSERVA → IDENTIFICA → JUSTIFICA → INTERPRETA**
 
+## Evidència de seguiment · CA 4.2
+
+En aquesta activitat també hem recollit una evidència de seguiment del **CA 4.2** amb la fitxa **Noves dades, nova interpretació?**
+
+[**Baixa la fitxa d'evidència CA 4.2 (PDF)**](Evidencia_seguiment_CA4_2_tectonica.pdf){ .md-button .md-button--primary }
+
 ---
 
 # Cas 1 · Zona A
