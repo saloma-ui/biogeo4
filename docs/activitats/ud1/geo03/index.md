@@ -1,9 +1,9 @@
 ---
+title: 'A05 · Tectònica en dades'
 pdf: true
 ---
 
-# GEO-03 · Tectònica en dades
-
+# A05 · Tectònica en dades
 **Durada:** 2 sessions  
 
 ## Situació
