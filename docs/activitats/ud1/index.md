@@ -1,41 +1,37 @@
 # Activitats · UD1
 
-## Llegim el paisatge (UD01-A1)
+## A01 · Llegim el paisatge
 
 [Obre l'activitat](geo-01/index.md)
 
-## Del mapa al relleu (UD01-A2)
+## A02 · Del mapa al relleu
 
 [Obre l'activitat](geo02/index.md)
 
-## Com sabem què hi ha dins la Terra? (UD01-A3)
+## A03 · Com sabem què hi ha dins la Terra?
 
 [Obre l'activitat](interior-terra/index.md)
 
-## Una Terra fragmentada (UD01-A4)
+## A04 · Una Terra fragmentada
 
 [Obre l'activitat](terra-fragmentada/index.md)
 
-## Tectònica en dades (UD01-A5)
+## A05 · Tectònica en dades
 
 [Obre l'activitat](geo03/index.md)
 
-## Llegim el temps a les roques (UD01-A6)
+## A06 · Llegim el temps a les roques
 
 [Obre l'activitat](geo04/index.md)
 
-## Reconstruïm una història geològica (UD01-A7)
+## A07 · Reconstruïm una història geològica
 
 [Obre l'activitat](g1/g1.md)
 
-## Quan un procés natural esdevé risc? (UD01-A8)
+## A08 · Quan un procés natural esdevé un risc?
 
 [Obre l'activitat](riscos/index.md)
 
-## On construiríem? (UD01-A9)
-
-[Obre l'activitat](g2/index.md)
-
-## Comprendre el risc (UD01-A10)
+## A09 · Comprendre el risc
 
 [Obre l'activitat](g2-risc-evidencia/index.md)
