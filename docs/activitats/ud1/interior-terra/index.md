@@ -1,5 +1,5 @@
 ---
-title: Com sabem què hi ha dins la Terra?
+title: 'A03 · Com sabem què hi ha dins la Terra?'
 pdf: false
 hide:
   - navigation
@@ -10,8 +10,7 @@ hide:
 
 <section class="pv-seccio pv-portada" markdown>
 
-# Com sabem què hi ha dins la Terra?
-
+# A03 · Com sabem què hi ha dins la Terra?
 ## Una investigació sobre allò que no podem veure directament
 
 ![La Terra amb l'interior com a incògnita](figures/geo04_01_repte_interior.png)
