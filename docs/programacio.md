@@ -127,7 +127,7 @@ Els ajustaments es recolliran, quan correspongui, en el pla individualitzat de r
 
 ## 9. Recuperació de matèries pendents de cursos anteriors
 
-L'alumnat de 4t d'ESO que tengui pendent una matèria d'un curs anterior seguirà el **pla de recuperació de matèries pendents** establert pel centre i pel departament responsable, d'acord amb l'article 14 de l'Ordre 27/2025. 
+L'alumnat de 4t d'ESO que tengui pendent una matèria d'un curs anterior seguirà el **pla de recuperació de matèries pendents** establert pel centre i pel departament responsable, d'acord amb l'article 14 de l'Ordre 27/2025.
 
 El pla de pendents ha d'establir el seguiment i les tutories, les persones responsables, els criteris d'avaluació i qualificació, les activitats o proves necessàries i els materials de suport, amb revisió de l'aplicació personalitzada durant el curs. En les matèries amb continuïtat s'aplicaran les disposicions específiques de l'article 14 quan pertoqui. La superació o no de la matèria pendent s'haurà de registrar i comunicar segons el procediment establert.
 
