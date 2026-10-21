@@ -41,9 +41,9 @@ Els sabers del currículum de 4t s'organitzen en cinc blocs: **Projecte científ
 | **UD5 · La Terra a l'univers** | Origen de l'univers i del sistema solar, origen de la vida i astrobiologia | 12 | 3 | **15** |
 | **Total** | | **78** | **15** | **93** |
 
-La distribució ordena el curs en cinc unitats successives, aproximadament des de setembre fins a les darreres setmanes lectives. Els límits entre unitats i avaluacions trimestrals no s'han de fer coincidir forçosament. Les quinze sessions de reserva ja formen part del còmput de 93 sessions i permeten consolidar aprenentatges, absorbir incidències i adaptar la seqüència; no contenen sabers imprescindibles assignats per avançat.
+La distribució temporal és orientativa i s'ajusta al desenvolupament de les unitats i als períodes d'avaluació. Les sessions de reserva es destinen a consolidar aprenentatges, atendre incidències i adaptar la seqüència a les necessitats dels grups.
 
-El desenvolupament es farà en tres sessions setmanals de 50 minuts, dimarts, dijous i divendres, segons el calendari lectiu del centre. La temporització es revisarà en funció dels dies no lectius, les activitats de centre i el ritme efectiu dels grups, sense alterar la cobertura curricular essencial. L'**annex I** recull la seqüència d'activitats, els criteris associats i les evidències previstes per a cadascuna de les cinc unitats. Les activitats identificades tenen un **codi propi per unitat**, format per `A` i dues xifres consecutives, seguides de `-UD` i el número de la unitat amb dues xifres (per exemple, `A01-UD01` i `A01-UD02`). La numeració recomença a cada unitat. La primera columna de les taules identifica sempre les activitats amb el codi al principi del nom. Les sessions guiades i les pràctiques integrades que no constitueixen una activitat diferenciada apareixen com a moments de treball sense codi propi. Les proves escrites conserven la denominació P1–P5, per distingir-les de les activitats. Els antics codis de treball de les activitats no formen part de la nomenclatura de la programació.
+El desenvolupament es farà en tres sessions setmanals de 50 minuts, dimarts, dijous i divendres, segons el calendari lectiu del centre. La temporització es revisarà en funció dels dies no lectius, les activitats de centre i el ritme efectiu dels grups, sense alterar la cobertura curricular essencial. L'**annex I** recull la seqüència d'activitats, els criteris associats i les evidències previstes per a cadascuna de les cinc unitats.
 
 ## 3. Processos i instruments d'avaluació i sistema de qualificació
 
@@ -84,7 +84,7 @@ Es conserva la precisió decimal en els càlculs intermedis i s'aplica **l'arrod
 
 No s'estableixen proves de recuperació específiques de les avaluacions trimestrals ni una prova final de recuperació de la matèria de 4t. Les dificultats detectades es treballen mitjançant la retroacció, el reforç, la pràctica i les activitats posteriors, pròpies de l'avaluació contínua. El progrés ulterior no substitueix de manera automàtica una qualificació trimestral anterior; la nota final es calcula segons el procediment establert a l'apartat 3.2.
 
-El pla de recuperació de **matèries pendents de cursos anteriors** és un procediment diferent i es tracta a l'apartat 9 d'aquesta programació.
+El seguiment de les **matèries pendents de cursos anteriors** es recull a l'apartat 9.
 
 ## 4. Estratègies didàctiques i metodològiques
 
@@ -92,7 +92,7 @@ La seqüència didàctica combina explicacions breus i guiades, preguntes que ac
 
 La metodologia prioritza que l'alumnat **observi, distingeixi les dades de les inferències, justifiqui explicacions, contrasti hipòtesis i revisi conclusions**. Es promou la pràctica prèvia abans de recollir evidències qualificables d'una destresa que encara no s'ha treballat. Les activitats inicials poden incorporar més guiatge i, progressivament, requerir més autonomia.
 
-L'ús de recursos és divers: pissarra i esquemes, models físics i digitals, fotografies i imatges científiques, mapes topogràfics i geològics, talls, gràfics, mostres i preparacions microscòpiques, materials habituals de laboratori i fonts científiques seleccionades. Els materials guia i les activitats digitals es poden consultar a la web de la matèria, elaborada amb **MkDocs**, i les tasques que ho requereixen es distribueixen per **Classroom**. Aquest entorn digital complementa les explicacions, les pràctiques i les activitats impreses: no totes les sessions necessiten una activitat en línia.
+L'ús de recursos és divers: pissarra i esquemes, models físics i digitals, fotografies i imatges científiques, mapes topogràfics i geològics, talls, gràfics, mostres i preparacions microscòpiques, materials habituals de laboratori i fonts científiques seleccionades. Els materials guia i les activitats digitals es poden consultar a la web de la matèria, elaborada amb **MkDocs**, i les tasques que ho requereixen es distribueixen per **Classroom**. Aquests recursos digitals complementen les explicacions, les pràctiques i les activitats impreses.
 
 La relació amb l'entorn proper és especialment important en geologia: es fan servir paisatges i situacions de risc de les Illes Balears per analitzar litologia, relleu, processos i ocupació del territori. En genètica i evolució es treballen problemes i dades que permeten aplicar models, identificar-ne els límits i distingir explicacions científiques d'afirmacions infundades.
 
@@ -117,7 +117,7 @@ Els elements transversals es treballen integrats en els continguts de la matèri
 
 Els continguts de geologia poden enriquir-se amb l'observació directa del paisatge i de materials geològics de l'entorn, i els de biologia amb activitats de laboratori i divulgació científica. Es podran incorporar sortides, visites o iniciatives del centre o del departament que tenguin una relació clara amb els sabers i els objectius de les unitats.
 
-La realització d'aquestes activitats dependrà de la planificació organitzativa, la disponibilitat de recursos i les autoritzacions corresponents. **Cap evidència imprescindible de la programació no dependrà d'una sortida encara no programada**: es disposarà d'activitats d'aula amb les quals treballar els mateixos aprenentatges essencials.
+La realització d'aquestes activitats dependrà de la planificació organitzativa, la disponibilitat de recursos i les autoritzacions corresponents. En cas que no es puguin dur a terme, els aprenentatges essencials es treballaran mitjançant activitats alternatives d'aula.
 
 ## 8. Seguiment de l'alumnat que no promociona
 
@@ -127,7 +127,7 @@ Els ajustaments es recolliran, quan correspongui, en el pla individualitzat de r
 
 ## 9. Recuperació de matèries pendents de cursos anteriors
 
-L'alumnat de 4t d'ESO que tengui pendent una matèria d'un curs anterior seguirà el **pla de recuperació de matèries pendents** establert pel centre i pel departament responsable, d'acord amb l'article 14 de l'Ordre 27/2025. Aquest pla és diferent de les recuperacions trimestrals o finals de la matèria que s'està cursant.
+L'alumnat de 4t d'ESO que tengui pendent una matèria d'un curs anterior seguirà el **pla de recuperació de matèries pendents** establert pel centre i pel departament responsable, d'acord amb l'article 14 de l'Ordre 27/2025. 
 
 El pla de pendents ha d'establir el seguiment i les tutories, les persones responsables, els criteris d'avaluació i qualificació, les activitats o proves necessàries i els materials de suport, amb revisió de l'aplicació personalitzada durant el curs. En les matèries amb continuïtat s'aplicaran les disposicions específiques de l'article 14 quan pertoqui. La superació o no de la matèria pendent s'haurà de registrar i comunicar segons el procediment establert.
 
@@ -161,12 +161,12 @@ Es treballen les diferències entre paisatge i relleu; la interpretació de mape
 | **A04-UD01 · Una Terra fragmentada** | 1 | Evidències i processos de la tectònica de plaques; construcció guiada |
 | **A05-UD01 · Tectònica en dades** | 2 | Inferir límits a partir de patrons sísmics, volcànics i geològics; pràctica i seguiment de **CA 4.2** |
 | **A06-UD01 · Llegim el temps a les roques** | 2 | Principis de datació relativa; construcció, exemplificació i modelatge guiat de la interpretació |
-| Pràctica guiada integrada · Talls geològics | 1 | Ordenar esdeveniments i preparar l'evidència del CA 6.1; sense activitat independent |
+| Pràctica guiada · Talls geològics | 1 | Ordenar esdeveniments i preparar l'evidència del CA 6.1 |
 | **A07-UD01 · Reconstruïm una història geològica** | 2 | **Evidència qualificable; CA 6.1** |
 | **A08-UD01 · Quan un procés natural esdevé un risc?** | 1 | Perill, exposició, vulnerabilitat i risc; construcció guiada i tiquet de seguiment |
-| Pràctica guiada integrada · Anàlisi territorial i consolidació | 1 | Aplicar dades del territori i preparar la interpretació de riscs; sense activitat independent |
+| Pràctica guiada · Anàlisi territorial i consolidació | 1 | Aplicar dades del territori i preparar la interpretació de riscs |
 | **A09-UD01 · Comprendre el risc** | 1 | **Evidència qualificable; CA 5.1**; cas del Torrent Gros |
-| Pràctica integrada · Situació de transferència geològica | 1 | Integració de relleu, tectònica, història i risc; sense activitat independent |
+| Pràctica · Situació de transferència geològica | 1 | Integració de relleu, tectònica, història i risc |
 | P1 · Prova escrita de Geologia | 1 | **Prova escrita; CA 5.1 i 6.1** |
 | Reserva flexible | 4 | Consolidació, reajustaments i incidències, sense aprenentatges nous imprescindibles |
 | **Total** | **22** | **18 sessions previstes + 4 de reserva** |
@@ -204,7 +204,7 @@ Models procariota i eucariota, cèl·lules animals i vegetals, relació entre or
 
 ### Evidències i valoració
 
-**A04-UD02** recull evidències diferenciades de planificació, execució i recollida de dades, anàlisi de resultats i cooperació. Les freqüències de fases mitòtiques permeten estimar-ne indirectament les durades relatives, no mesurar-ne directament el temps. **A05-UD02** avalua la capacitat d'usar i revisar un model; P2 planteja interpretacions i problemes nous. L'observació d'una fotografia de mitosi, per si sola, no avalua l'execució pràctica del CA 3.3.
+**A04-UD02** recull evidències diferenciades de planificació, execució i recollida de dades, anàlisi de resultats i cooperació. Les freqüències de fases mitòtiques permeten estimar-ne indirectament les durades relatives, no mesurar-ne directament el temps. **A05-UD02** avalua la capacitat d'usar i revisar un model; P2 planteja interpretacions i problemes nous. L'execució pràctica del CA 3.3 es valora mitjançant l'observació del treball al laboratori.
 
 ### Metodologia, recursos i atenció individual
 
@@ -265,12 +265,12 @@ Mutacions, variabilitat i herència; diferència entre individu i població; can
 | Activitat o moment de treball | Sessions | Funció i criteris associats |
 |---|---:|---|
 | **A01-UD04 · De la variació al canvi poblacional** | 2 | Construcció i pràctica amb poblacions |
-| Sessions guiades · Explicacions evolutives i selecció natural | 2 | Comparació de models; sense activitat independent |
+| Sessions guiades · Explicacions evolutives i selecció natural | 2 | Comparació de models i discussió guiada |
 | **A02-UD04 · Quina explicació encaixa amb les dades?** i **A03-UD04 · Selecció natural sense trampes** | 1 | Pràctica de contrast d'explicacions i correcció d'errors conceptuals |
 | **A04-UD04 · Evolució en dades** | 2 | **Evidència qualificable: CA 1.1** |
-| Sessió guiada · Evolució i biodiversitat | 1 | Integració de variació, canvi i biodiversitat; sense activitat independent |
+| Sessió guiada · Evolució i biodiversitat | 1 | Integració de variació, canvi i biodiversitat |
 | **A05-UD04 · Casos d'evolució** | 1 | Transferència de processos a casos nous |
-| Sessió guiada · Afirmacions sobre evolució | 1 | Construcció guiada de lectura crítica; sense activitat independent |
+| Sessió guiada · Afirmacions sobre evolució | 1 | Construcció guiada de lectura crítica |
 | **A06-UD04 · Contrastam una afirmació** | 1 | Pràctica prèvia de fonts i justificacions |
 | **A07-UD04 · Mites i afirmacions sobre evolució** | 2 | **Evidència qualificable: CA 1.2, 2.1 i 2.2** |
 | **A08-UD04 · Cas integrador d'evolució** | 1 | Pràctica de síntesi |
@@ -280,7 +280,7 @@ Mutacions, variabilitat i herència; diferència entre individu i població; can
 
 ### Evidències i valoració
 
-**A04-UD04** valora la interpretació de dades poblacionals, la formulació de conclusions i el reconeixement de límits. **A07-UD04** exigeix contrastar una afirmació amb fonts fiables i comunicar una resposta argumentada. P4 presenta dades i situacions noves; no es limita a repetir definicions o noms de teories.
+**A04-UD04** valora la interpretació de dades poblacionals, la formulació de conclusions i el reconeixement de límits. **A07-UD04** exigeix contrastar una afirmació amb fonts fiables i comunicar una resposta argumentada. P4 proposa interpretar dades i aplicar les explicacions evolutives a situacions noves.
 
 ### Metodologia, recursos i atenció individual
 
@@ -294,13 +294,13 @@ Gràfics i taules de freqüències, casos de resistència, comparació d'explica
 
 ### Sabers i aprenentatges
 
-Origen de l'univers i del sistema solar; components i escales del sistema solar; hipòtesis sobre l'origen de la vida i evidències que les sustenten; principals línies d'investigació en astrobiologia. L'habitabilitat és un context per formular preguntes científiques i distingir entre la possibilitat d'existència de vida i la seva detecció efectiva, no un saber curricular autònom.
+Origen de l'univers i del sistema solar; components i escales del sistema solar; hipòtesis sobre l'origen de la vida i evidències que les sustenten; principals línies d'investigació en astrobiologia. L'estudi de l'habitabilitat permet formular preguntes científiques i distingir entre les condicions favorables per a la vida i la seva detecció efectiva.
 
 ### Seqüència d'activitats
 
 | Activitat o moment de treball | Sessions | Funció i criteris associats |
 |---|---:|---|
-| Sessions guiades · De l'univers al sistema solar / Qui és qui al sistema solar? | 2 | Construcció guiada de models, components i escales; sense activitat independent |
+| Sessions guiades · De l'univers al sistema solar / Qui és qui al sistema solar? | 2 | Construcció guiada de models, components i escales |
 | **A01-UD05 · El sistema solar a escala** | 1 | Pràctica visual i modelització d'escales |
 | **A02-UD05 · Què cercam quan cercam vida?** | 2 | Preguntes investigables i recerca astrobiològica guiada: cerca de fonts i cooperació |
 | **A03-UD05 · Habitabilitat i astrobiologia** | 2 | **Evidència qualificable: CA 2.1, 2.3 i 3.5** |
@@ -314,17 +314,17 @@ Origen de l'univers i del sistema solar; components i escales del sistema solar;
 
 ### Evidències i valoració
 
-**A03-UD05** ha de fer observable la cerca i citació de fonts, la valoració de la recerca interdisciplinària i la cooperació real; una presentació descriptiva sobre un planeta no seria suficient. **A06-UD05** valora el contrast crític d'afirmacions sobre l'origen de la vida. P5 mobilitza dades del sistema solar i de l'astrobiologia per justificar interpretacions i decisions.
+**A03-UD05** recull evidències de cerca i citació de fonts, comprensió de la recerca interdisciplinària i cooperació en l'elaboració de conclusions. **A06-UD05** valora el contrast crític d'afirmacions sobre l'origen de la vida. P5 mobilitza dades del sistema solar i de l'astrobiologia per justificar interpretacions i decisions.
 
 ### Metodologia, recursos i atenció individual
 
-Escales, esquemes del sistema solar, dades de mons i exoplanetes, fonts d'institucions científiques i casos d'interpretació. S'evita desplaçar la unitat cap a una astrofísica avançada que no correspon als sabers previstos. Es proporcionen pautes de cerca i verificació de fonts abans de les evidències autònomes.
+Escales, esquemes del sistema solar, dades de mons i exoplanetes, fonts d'institucions científiques i casos d'interpretació. Es proporcionen pautes de cerca i verificació de fonts abans de les evidències autònomes.
 
 ---
 
 ## Annex II. Traçabilitat dels criteris d'avaluació
 
-La relació següent identifica les activitats de referència en què es preveu obtenir evidències dels quinze CA. No constitueix una ponderació numèrica ni obliga a registrar una qualificació independent per criteri.
+La taula relaciona els criteris d'avaluació amb les activitats i proves en què es preveu recollir evidències dels aprenentatges.
 
 | CA | Unitats i principals evidències previstes |
 |---|---|
