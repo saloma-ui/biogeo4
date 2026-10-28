@@ -241,7 +241,9 @@ Durant la replicació, cada molècula d'ADN es copia i es formen dues molècules
 
 Després de la duplicació, cada cromosoma està format per dues **cromàtides germanes**, unides a la regió del centròmer. Cada cromàtide conté una molècula d'ADN.
 
-És important distingir entre duplicar l'ADN i duplicar el nombre de cromosomes.
+!!! warning "Duplicar l'ADN no duplica el nombre de cromosomes"
+
+    És important distingir entre duplicar l'ADN i duplicar el nombre de cromosomes.
 
 <!-- FIGURA F10 · La duplicació d'un cromosoma.
 A l'esquerra, un cromosoma no duplicat amb una cromàtide; al centre, fletxa de replicació; a la dreta, cromosoma duplicat amb dues cromàtides germanes. Etiquetar centròmer. A sota: «1 cromosoma, 1 molècula d'ADN» i «1 cromosoma, 2 molècules d'ADN». Advertir que les formes rectes o en X són esquemes, no configuracions constants. -->
@@ -497,7 +499,9 @@ Conèixer i recordar les fases és necessari, però també ho és comprendre **q
 
 La mitosi acaba amb la formació de dos nuclis descendents. Per completar la divisió cel·lular habitualment també s'ha de dividir el citoplasma.
 
-Aquest procés s'anomena **citocinesi**.
+!!! info "Mitosi i citocinesi no són el mateix"
+
+    La divisió del citoplasma s'anomena **citocinesi**. La mitosi correspon a la divisió nuclear.
 
 #### Citocinesi en cèl·lules animals
 
@@ -617,7 +621,9 @@ Cicle reproductor humà simplificat: cèl·lula diploide de línia germinal 2n =
 
 *Figura F20. Meiosi i fecundació.*
 
-La meiosi no produeix directament gàmetes en tots els organismes. En les plantes, per exemple, origina espores haploides que poden desenvolupar-se mitjançant mitosis abans de la formació dels gàmetes.
+La meiosi no produeix directament gàmetes en tots els organismes. !!! warning "La meiosi no sempre forma gàmetes directament"
+
+    En les plantes, per exemple, origina espores haploides que poden desenvolupar-se mitjançant mitosis abans de la formació dels gàmetes.
 
 Per tant, la seva funció general és **reduir el nombre de cromosomes i contribuir a la reproducció sexual**, encara que el seu paper concret varia segons el cicle biològic de cada organisme.
 
