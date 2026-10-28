@@ -32,7 +32,7 @@ La tercera idea ens condueix a una de les preguntes principals de la unitat: **c
 <!-- FIGURA F01 · Diversitat de cèl·lules.
 Comparació d'un bacteri bacil·lar, una cèl·lula epitelial animal, una cèl·lula vegetal i una neurona. Il·lustracions científiques coherents, amb les estructures principals recognoscibles. Cada representació ha de dur la seva pròpia escala gràfica o una advertència explícita que no estan a escala; no induir comparacions de mida falses. Evitar convertir totes les cèl·lules en formes esfèriques genèriques. -->
 
-![F01 · Diversitat de cèl·lules](ud2/figures/F01_Diversitat_de_cellules.png)
+![F01 · Diversitat de cèl·lules](figures/F01_Diversitat_de_cellules.png)
 
 *Figura F01. Diversitat de cèl·lules.*
 
@@ -53,7 +53,7 @@ Totes les cèl·lules duen a terme **metabolisme**, és a dir, un conjunt de tra
 <!-- FIGURA F02 · Components compartits.
 Dues cèl·lules esquemàtiques, una bacteriana i una eucariota, amb els quatre components comuns destacats amb codis cromàtics consistents: membrana plasmàtica, citoplasma, ADN i ribosomes. Mostrar que la localització de l'ADN és diferent. Els ribosomes han de ser petits en relació amb la cèl·lula; figura no necessàriament a escala, indicant-ho. -->
 
-![F02 · Components compartits](ud2/figures/F02_Components_compartits.png)
+![F02 · Components compartits](figures/F02_Components_compartits.png)
 
 *Figura F02. Components compartits.*
 
@@ -79,7 +79,7 @@ Les diferències de mida són tendències generals i hi ha excepcions. Tampoc no
 <!-- FIGURA F03 · Procariota i eucariota.
 Comparació d'un bacteri i una cèl·lula eucariota animal. Etiquetar nucleoide, membrana i ribosomes al bacteri, i nucli i orgànuls membranosos a l'eucariota. Distingir l'ADN del nucleoide de l'ADN nuclear. Incloure escales independents o advertiment que no estan a escala. Pot compartir base amb F02. -->
 
-![F03 · Procariota i eucariota](ud2/figures/F03_Procariota_i_eucariota.png)
+![F03 · Procariota i eucariota](figures/F03_Procariota_i_eucariota.png)
 
 *Figura F03. Procariota i eucariota.*
 
@@ -96,13 +96,17 @@ Les **cèl·lules animals** no tenen paret cel·lular de cel·lulosa ni cloropla
 <!-- FIGURA F04 · Cèl·lula animal i vegetal.
 Dues il·lustracions de llibre de text, comparables però no necessàriament a escala. Mostrar les estructures comunes amb colors consistents. A la vegetal, distingir clarament paret cel·lular, membrana plasmàtica, vacúol central i cloroplasts; incloure mitocondris. A l'animal, evitar dibuixar orgànuls com a estructures exclusives quan no ho són. Llegenda ordenada i etiquetes sense superposicions. -->
 
-![F04 · Cèl·lula animal i vegetal](ud2/figures/F04_Cellula_animal_i_vegetal.png)
+![F04 · Cèl·lula animal i vegetal](figures/F04_Cellula_animal_i_vegetal.png)
 
 *Figura F04. Cèl·lula animal i vegetal.*
 
 ### 1.5 · Els orgànuls i el funcionament de la cèl·lula
 
-Les estructures cel·lulars tenen funcions específiques, però **el funcionament d'una cèl·lula depèn de la coordinació entre elles**. Conèixer els noms, les característiques i les funcions dels orgànuls és necessari per poder explicar com cooperen.
+Conèixer els noms, les característiques i les funcions dels orgànuls és necessari per poder explicar com cooperen.
+
+!!! tip "Els orgànuls funcionen coordinadament"
+
+    Les estructures cel·lulars tenen funcions específiques, però **el funcionament d'una cèl·lula depèn de la coordinació entre elles**.
 
 | Estructura o orgànul | Funció principal |
 |---|---|
@@ -128,7 +132,7 @@ Els mitocondris contribueixen a subministrar l'ATP necessari per a molts dels pr
 <!-- FIGURA F05 · Coordinació d'orgànuls en una cèl·lula secretora.
 Esquema de nucli → ARN missatger → ribosoma del reticle endoplasmàtic rugós → transport vesicular → aparell de Golgi → vesícula secretora → membrana/exocitosi. Distingir amb fletxes de tipus diferent el flux d'informació, el transport físic de proteïnes i l'aportació d'ATP dels mitocondris. No representar els mitocondris com una estació del recorregut secretor. Figura principal de la segona sessió del bloc. -->
 
-![F05 · Coordinació d'orgànuls en una cèl·lula secretora](ud2/figures/F05_Coordinacio_organuls_cellula_secretora.png)
+![F05 · Coordinació d'orgànuls en una cèl·lula secretora](figures/F05_Coordinacio_organuls_cellula_secretora.png)
 
 *Figura F05. Coordinació d'orgànuls en una cèl·lula secretora.*
 
@@ -137,7 +141,7 @@ Esquema de nucli → ARN missatger → ribosoma del reticle endoplasmàtic rugó
 <!-- FIGURA F06 · Especialització cel·lular.
 Comparació d'una cèl·lula muscular i una cèl·lula secretora pancreàtica. Ressaltar l'abundància relativa de mitocondris a la primera i de reticle endoplasmàtic rugós/Golgi a la segona. No suggerir que un tipus cel·lular no conté els orgànuls ressaltats a l'altre. -->
 
-![F06 · Especialització cel·lular](ud2/figures/F06_Especialitzacio_cellular.png)
+![F06 · Especialització cel·lular](figures/F06_Especialitzacio_cellular.png)
 
 *Figura F06. Especialització cel·lular.*
 
@@ -145,16 +149,22 @@ Comparació d'una cèl·lula muscular i una cèl·lula secretora pancreàtica. R
 
 Els esquemes científics són representacions simplificades que destaquen les estructures més rellevants. Les **microfotografies**, en canvi, mostren imatges obtingudes amb instruments reals i depenen de la preparació, la tinció, la resolució i el tipus de microscopi utilitzat.
 
-Per identificar una cèl·lula, no n'hi ha prou amb memoritzar-ne la silueta. Hem de fixar-nos en les estructures observables i relacionar-les amb el model d'organització corresponent.
+!!! tip "Com interpretar una imatge cel·lular"
 
-La presència d'un nucli delimitat és una evidència d'organització eucariota. Una paret cel·lular i cloroplasts poden orientar cap a una cèl·lula vegetal fotosintètica o una alga, segons el context. Però **que una estructura no sigui visible en una imatge no significa necessàriament que la cèl·lula no la tengui**: pot quedar fora del pla de tall, no estar tenyida o no poder resoldre's amb l'instrument.
+    Per identificar una cèl·lula, no n'hi ha prou amb memoritzar-ne la silueta. Hem de fixar-nos en les estructures observables i relacionar-les amb el model d'organització corresponent.
+
+La presència d'un nucli delimitat és una evidència d'organització eucariota. Una paret cel·lular i cloroplasts poden orientar cap a una cèl·lula vegetal fotosintètica o una alga, segons el context. 
+
+!!! warning "No visible no vol dir absent"
+
+    **Que una estructura no sigui visible en una imatge no significa necessàriament que la cèl·lula no la tengui**: pot quedar fora del pla de tall, no estar tenyida o no poder resoldre's amb l'instrument.
 
 Les dimensions també són importants. Una imatge sense escala pot resultar útil per reconèixer estructures, però no permet deduir-ne amb seguretat la mida real.
 
 <!-- FIGURA F07 · Esquema i microfotografia.
 Parelles de representacions d'una cèl·lula vegetal i una d'animal: esquema didàctic al costat de microfotografia autèntica, amb font i barra d'escala. No presentar imatges sintètiques com a microfotografies reals. Etiquetar només estructures realment identificables en la imatge corresponent. -->
 
-![F07 · Esquema i microfotografia](ud2/figures/F07_Esquema_i_microfotografia.png)
+![F07 · Esquema i microfotografia](figures/F07_Esquema_i_microfotografia.png)
 
 *Figura F07. Esquema i microfotografia.*
 
@@ -167,7 +177,9 @@ Previsió inicial: 2 sessions de 50 minuts, amb possibilitat de reserva flexible
 
 ### 2.1 · Tota cèl·lula prové d'una altra cèl·lula
 
-Un dels principis fonamentals de la teoria cel·lular estableix que **tota cèl·lula prové d'una altra cèl·lula preexistent**.
+!!! info "Principi de la teoria cel·lular"
+
+    **Tota cèl·lula prové d'una altra cèl·lula preexistent**.
 
 Això significa que les cèl·lules no apareixen espontàniament. Es formen a partir de cèl·lules anteriors mitjançant processos de divisió cel·lular.
 
@@ -178,7 +190,7 @@ En els organismes pluricel·lulars, la divisió cel·lular permet el creixement,
 <!-- FIGURA F08 · La continuïtat cel·lular.
 Dues seqüències paral·leles: fissió binària d'un bacteri i divisió d'una cèl·lula eucariota. Mostrar una cèl·lula inicial, la duplicació del material genètic i la formació de dues cèl·lules descendents. Diferenciar visualment els mecanismes, sense suggerir que els bacteris fan mitosi. Les fletxes representen el pas del temps. -->
 
-![F08 · La continuïtat cel·lular](ud2/figures/F08_la_continuitat_cellular_sense_capcalera.png)
+![F08 · La continuïtat cel·lular](figures/F08_la_continuitat_cellular_sense_capcalera.png)
 
 *Figura F08. La continuïtat cel·lular.*
 
@@ -201,7 +213,7 @@ Un **cromosoma** és una estructura formada per una molècula llarga d'ADN assoc
 <!-- FIGURA F09 · De l'ADN als cromosomes.
 Esquema progressiu que relacioni nucli, cromatina, ADN i cromosoma condensat. Incloure representacions d'un cromosoma abans i després de la duplicació de l'ADN. Evitar representar la cromatina com si només existís quan la cèl·lula no es divideix: és el material que constitueix els cromosomes en tots els moments del cicle. -->
 
-![F09 · De l'ADN als cromosomes](ud2/figures/F09_de_ADN_als_cromosomes_revisada.png)
+![F09 · De l'ADN als cromosomes](figures/F09_de_ADN_als_cromosomes_revisada.png)
 
 *Figura F09. De l'ADN als cromosomes.*
 
@@ -221,7 +233,9 @@ El nombre de cromosomes no indica necessàriament la complexitat d'un organisme.
 
 Abans de dividir-se, una cèl·lula que ha de transmetre una còpia completa del seu genoma a cadascuna de les cèl·lules descendents necessita duplicar l'ADN.
 
-Aquest procés rep el nom de **replicació de l'ADN**.
+!!! info "Replicació de l'ADN"
+
+    La duplicació de l'ADN rep el nom de **replicació de l'ADN**.
 
 Durant la replicació, cada molècula d'ADN es copia i es formen dues molècules que, si no hi ha errors, contenen la mateixa informació genètica.
 
@@ -232,7 +246,7 @@ Després de la duplicació, cada cromosoma està format per dues **cromàtides g
 <!-- FIGURA F10 · La duplicació d'un cromosoma.
 A l'esquerra, un cromosoma no duplicat amb una cromàtide; al centre, fletxa de replicació; a la dreta, cromosoma duplicat amb dues cromàtides germanes. Etiquetar centròmer. A sota: «1 cromosoma, 1 molècula d'ADN» i «1 cromosoma, 2 molècules d'ADN». Advertir que les formes rectes o en X són esquemes, no configuracions constants. -->
 
-![F10 · La duplicació d'un cromosoma](ud2/figures/F10_la_duplicacio_dun_cromosoma.png)
+![F10 · La duplicació d'un cromosoma](figures/F10_la_duplicacio_dun_cromosoma.png)
 
 *Figura F10. La duplicació d'un cromosoma.*
 
@@ -282,7 +296,7 @@ Durant la citocinesi, el citoplasma es divideix i es formen dues cèl·lules fil
 <!-- FIGURA F11 · El cicle cel·lular.
 Diagrama circular G1 → S → G2 → M. Agrupar G1, S i G2 dins «interfase». Sortida opcional de G1 cap a G0. Diferenciar duplicació de l'ADN a S i distribució cromosòmica a M. Les proporcions dels sectors són orientatives, no durades universals. -->
 
-![F11 · El cicle cel·lular](ud2/figures/F11_el_cicle_cellular.png)
+![F11 · El cicle cel·lular](figures/F11_el_cicle_cellular.png)
 
 *Figura F11. El cicle cel·lular.*
 
@@ -305,7 +319,7 @@ Quan els mecanismes que regulen el creixement i la divisió cel·lular s'alteren
 <!-- FIGURA F12 · Divisió i renovació dels teixits.
 Tall simplificat d'un epiteli en renovació, amb cèl·lules que es divideixen a la zona basal i altres que es diferencien i es desplacen cap a la superfície. No mostrar totes les cèl·lules del teixit dividint-se. Si s'escull un epiteli intestinal, respectar-ne l'organització histològica. -->
 
-![F12 · Divisió i renovació dels teixits](ud2/figures/F12_divisio_i_renovacio_dels_teixits.png)
+![F12 · Divisió i renovació dels teixits](figures/F12_divisio_i_renovacio_dels_teixits.png)
 
 *Figura F12. Divisió i renovació dels teixits.*
 
@@ -342,7 +356,7 @@ La mitosi no és el mateix que la duplicació de l'ADN. Quan comença la mitosi,
 <!-- FIGURA F13 · De la cèl·lula inicial a les dues cèl·lules filles.
 Tres moments: cèl·lula amb cromosomes duplicats, distribució en dos nuclis i separació de les cèl·lules filles. Model 2n = 4, dos colors per diferenciar homòlegs. Cada nucli final ha de contenir quatre cromosomes. La duplicació de l'ADN ha de quedar clarament situada abans de la mitosi. Derivar de M01. -->
 
-![F13 · De la cèl·lula inicial a les dues cèl·lules filles](ud2/figures/F13_de_la_cellula_inicial_a_les_dues_cellules_filles.png)
+![F13 · De la cèl·lula inicial a les dues cèl·lules filles](figures/F13_de_la_cellula_inicial_a_les_dues_cellules_filles.png)
 
 *Figura F13. De la cèl·lula inicial a les dues cèl·lules filles.*
 
@@ -361,7 +375,7 @@ Quan els cromosomes es condensen durant la mitosi, les dues cromàtides germanes
 <!-- FIGURA F14 · Anatomia d'un cromosoma duplicat.
 Ampliació de dues cromàtides germanes, centròmer i cinetocors. Representar microtúbuls connectats als cinetocors des de costats oposats. Distingir centròmer (regió cromosòmica) de cinetocor (estructura proteica). Simplificar els detalls moleculars. -->
 
-![F14 · Anatomia d'un cromosoma duplicat](ud2/figures/F14_anatomia_dun_cromosoma_duplicat.png)
+![F14 · Anatomia d'un cromosoma duplicat](figures/F14_anatomia_dun_cromosoma_duplicat.png)
 
 *Figura F14. Anatomia d'un cromosoma duplicat.*
 
@@ -387,7 +401,7 @@ Aquesta distinció serà especialment important quan estudiem la meiosi.
 <!-- FIGURA F15 · Homòlegs i cromàtides germanes.
 Una parella de cromosomes homòlegs duplicats: un blau i un vermell. Cada cromosoma té dues cromàtides germanes inicialment del mateix color. Etiquetar parella d'homòlegs i cromàtides germanes. Reservar el codi cromàtic per a meiosi. Derivar de M01. -->
 
-![F15 · Homòlegs i cromàtides germanes](ud2/figures/F15_homolegs_i_cromatides_germanes.png)
+![F15 · Homòlegs i cromàtides germanes](figures/F15_homolegs_i_cromatides_germanes.png)
 
 *Figura F15. Homòlegs i cromàtides germanes.*
 
@@ -408,13 +422,17 @@ En moltes cèl·lules animals, els centrosomes participen en l'organització del
 <!-- FIGURA F16 · El fus mitòtic.
 Cèl·lula animal en metafase amb dos pols, microtúbuls del fus, cromosomes alineats i cinetocors. Distingir microtúbuls cinetocòrics dels altres. Mostrar connexió de les dues cromàtides germanes amb pols oposats. No dibuixar cromosomes desconnectats del fus. -->
 
-![F16 · El fus mitòtic](ud2/figures/F16_el_fus_mitotic.png)
+![F16 · El fus mitòtic](figures/F16_el_fus_mitotic.png)
 
 *Figura F16. El fus mitòtic.*
 
 ### 3.4 · Les fases de la mitosi
 
-Per facilitar-ne l'estudi, la mitosi es divideix en diverses fases. Aquestes fases no són processos independents, sinó etapes successives d'un procés continu.
+Per facilitar-ne l'estudi, la mitosi es divideix en diverses fases.
+
+!!! note "Les fases són una convenció d'estudi"
+
+    Aquestes fases no són processos independents, sinó etapes successives d'un procés continu.
 
 #### Profase
 
@@ -461,7 +479,7 @@ El fus mitòtic es desmunta progressivament.
 <!-- FIGURA F17 · Les fases de la mitosi.
 Figura principal: profase, prometafase, metafase, anafase i telofase d'una cèl·lula animal 2n = 4. Mantenir la identitat dels quatre cromosomes i el mateix codi cromàtic a tota la seqüència. A l'anafase han d'anar quatre cromosomes cap a cada pol, no quatre en total. Mostrar embolcall nuclear, fus i cromàtides correctament. Derivar de M01. -->
 
-![F17 · Les fases de la mitosi](ud2/figures/F17_les_fases_de_la_mitosi_illustracio.png)
+![F17 · Les fases de la mitosi](figures/F17_les_fases_de_la_mitosi_illustracio.png)
 
 *Figura F17. Les fases de la mitosi.*
 
@@ -500,13 +518,15 @@ La placa creix fins a connectar amb la superfície cel·lular i contribueix a fo
 <!-- FIGURA F18 · Citocinesi animal i vegetal.
 Dues seqüències paral·leles: animal amb anell contràctil i solc de divisió; vegetal amb placa cel·lular que creix per fusió de vesícules. Diferenciar membrana i paret. Mostrar dos nuclis descendents. La placa vegetal no és una paret preexistent que es desplaça. -->
 
-![F18 · Citocinesi animal i vegetal](ud2/figures/F18_citocinesi_animal_i_vegetal.png)
+![F18 · Citocinesi animal i vegetal](figures/F18_citocinesi_animal_i_vegetal.png)
 
 *Figura F18. Citocinesi animal i vegetal.*
 
 ### 3.6 · Què succeeix amb el nombre de cromosomes?
 
-Una de les característiques fonamentals de la mitosi és que conserva el nombre de cromosomes dels nuclis descendents.
+!!! tip "Què conserva la mitosi?"
+
+    Una de les característiques fonamentals de la mitosi és que conserva el nombre de cromosomes dels nuclis descendents.
 
 Considerem una cèl·lula diploide amb quatre cromosomes, és a dir, **2n = 4**.
 
@@ -531,7 +551,7 @@ Després de l'anafase, les vuit estructures d'ADN ja són cromosomes independent
 <!-- FIGURA F19 · Seguiment dels cromosomes durant la mitosi.
 Model 2n = 4 en quatre moments: abans de duplicar, després de duplicar, anafase i dues cèl·lules filles. Conservar identitat de cada cromosoma amb colors i marques. Afegir recomptes de cromosomes i molècules d'ADN, coherents amb la taula. Reutilitzable a CEL-02. Derivar de M01. -->
 
-![F19 · Seguiment dels cromosomes durant la mitosi](ud2/figures/F19_seguiment_dels_cromosomes_durant_la_mitosi.png)
+![F19 · Seguiment dels cromosomes durant la mitosi](figures/F19_seguiment_dels_cromosomes_durant_la_mitosi.png)
 
 *Figura F19. Seguiment dels cromosomes durant la mitosi.*
 
@@ -593,7 +613,7 @@ La meiosi és el procés de divisió nuclear que permet reduir el nombre de crom
 <!-- FIGURA F20 · Meiosi i fecundació.
 Cicle reproductor humà simplificat: cèl·lula diploide de línia germinal 2n = 46 → meiosi → gàmetes n = 23 → fecundació → zigot 2n = 46 → creixement per mitosi. No mostrar cèl·lula somàtica qualsevol transformant-se directament en gàmetes. -->
 
-![F20 · Meiosi i fecundació](ud2/figures/F20_meiosi_i_fecundacio_revisada.svg)
+![F20 · Meiosi i fecundació](figures/F20_meiosi_i_fecundacio_revisada.svg)
 
 *Figura F20. Meiosi i fecundació.*
 
@@ -619,7 +639,7 @@ Entre la meiosi I i la meiosi II **no es produeix una nova replicació de l'ADN*
 <!-- FIGURA F21 · Una duplicació i dues divisions.
 Cèl·lula inicial 2n = 4 → duplicació → meiosi I: dues cèl·lules n = 2 amb cromosomes duplicats → meiosi II: quatre cèl·lules n = 2 amb cromosomes no duplicats. Dues parelles d'homòlegs distingibles per longitud i color. Sense replicació entre les divisions. Derivar de M01. -->
 
-![F21 · Una duplicació i dues divisions](ud2/figures/F21_una_duplicacio_i_dues_divisions.png)
+![F21 · Una duplicació i dues divisions](figures/F21_una_duplicacio_i_dues_divisions.png)
 
 *Figura F21. Una duplicació i dues divisions.*
 
@@ -627,7 +647,9 @@ La meiosi no consisteix simplement a dividir una cèl·lula dues vegades. La cla
 
 ### 4.3 · La meiosi I: separació dels cromosomes homòlegs
 
-La primera divisió meiòtica és una divisió *reduccional*, perquè transforma un conjunt diploide de cromosomes en dos conjunts haploides.
+!!! info "Meiosi I: divisió reduccional"
+
+    La primera divisió meiòtica és una divisió *reduccional*, perquè transforma un conjunt diploide de cromosomes en dos conjunts haploides.
 
 Durant aquesta divisió, els cromosomes homòlegs s'aparellen i posteriorment se separen.
 
@@ -650,7 +672,7 @@ Cap al final de la profase I es desorganitza l'embolcall nuclear i s'estableixen
 <!-- FIGURA F22 · Aparellament i entrecreuament.
 Tres moments: homòlegs duplicats, bivalent i intercanvi de segments entre cromàtides no germanes. Un homòleg blau i un vermell; fragments intercanviats mantenen color d'origen. Els fragments han de ser equivalents; no mostrar pèrdua arbitrària d'ADN. Coherent amb F15 i M01. -->
 
-![F22 · Aparellament i entrecreuament](ud2/figures/F22_aparellament_i_entrecreuament%20%281%29.png)
+![F22 · Aparellament i entrecreuament](figures/F22_aparellament_i_entrecreuament%20%281%29.png)
 
 *Figura F22. Aparellament i entrecreuament.*
 
@@ -683,7 +705,7 @@ La reorganització de l'embolcall nuclear i el grau de descondensació dels crom
 <!-- FIGURA F23 · Les fases de la meiosi I.
 Profase I, metafase I, anafase I, telofase I; model 2n = 4. Dos bivalents a metafase I. Separar homòlegs complets amb cromàtides encara unides a anafase I. Conservar recombinació de F22. Resultat: dues cèl·lules n = 2 amb cromosomes duplicats. Derivar de M01. -->
 
-![F23 · Les fases de la meiosi I](ud2/figures/F23_les_fases_de_la_meiosi_I.png)
+![F23 · Les fases de la meiosi I](figures/F23_les_fases_de_la_meiosi_I.png)
 
 *Figura F23. Les fases de la meiosi I.*
 
@@ -693,7 +715,9 @@ Després de la meiosi I comença la segona divisió meiòtica.
 
 Les cèl·lules que entren en meiosi II són haploides, però els seus cromosomes continuen duplicats.
 
-La meiosi II és una divisió *equacional*, perquè el nombre de cromosomes de cada nucli descendent es manté respecte del nucli que inicia aquesta segona divisió.
+!!! info "Meiosi II: divisió equacional"
+
+    La meiosi II és una divisió *equacional*, perquè el nombre de cromosomes de cada nucli descendent es manté respecte del nucli que inicia aquesta segona divisió.
 
 #### Profase II
 
@@ -724,7 +748,7 @@ Aquestes cèl·lules no solen ser genèticament idèntiques entre si, a causa de
 <!-- FIGURA F24 · Les fases de la meiosi II.
 Continuació de F23: dues cèl·lules n = 2 amb cromosomes duplicats. Profase II, metafase II, anafase II i telofase II. Separar cromàtides germanes a anafase II. Quatre cèl·lules finals n = 2 amb cromosomes no duplicats. Conservar colors i fragments recombinats. Derivar de M01. -->
 
-![F24 · Les fases de la meiosi II](ud2/figures/F24_les_fases_de_la_meiosi_II.png)
+![F24 · Les fases de la meiosi II](figures/F24_les_fases_de_la_meiosi_II.png)
 
 *Figura F24. Les fases de la meiosi II.*
 
@@ -758,7 +782,7 @@ Els recomptes corresponen a les etapes indicades, no als instants transitoris de
 <!-- FIGURA F25 · Seguiment cromosòmic de la meiosi.
 Diagrama complet 2n = 4: cromosomes inicials, duplicació, separació d'homòlegs a meiosi I i separació de cromàtides a meiosi II. Recompte de cromosomes i molècules d'ADN per cèl·lula. Mateixos colors i convencions que F19. Derivar de M01. -->
 
-![F25 · Seguiment cromosòmic de la meiosi](ud2/figures/F25_seguiment_cromosomic_de_la_meiosi.png)
+![F25 · Seguiment cromosòmic de la meiosi](figures/F25_seguiment_cromosomic_de_la_meiosi.png)
 
 *Figura F25. Seguiment cromosòmic de la meiosi.*
 
@@ -766,7 +790,9 @@ La reducció cromosòmica es produeix durant la primera divisió meiòtica. La s
 
 ### 4.6 · Per què la meiosi genera variabilitat genètica?
 
-La meiosi no només redueix el nombre de cromosomes. També contribueix a generar noves combinacions de la informació genètica.
+!!! tip "La meiosi té dues conseqüències"
+
+    La meiosi no només redueix el nombre de cromosomes. També contribueix a generar noves combinacions de la informació genètica.
 
 Dos mecanismes són especialment importants.
 
@@ -801,7 +827,7 @@ Aquest nombre representa combinacions teòriques possibles, no el nombre de gàm
 <!-- FIGURA F26 · Distribució independent dels homòlegs.
 Dues orientacions alternatives de dos bivalents a metafase I, 2n = 4. Mostrar combinacions cromosòmiques resultants. Dos cromosomes llargs i dos de curts, colors d'origen matern/patern. Per aïllar el mecanisme, sense recombinació en aquesta figura. Derivar de M01. -->
 
-![F26 · Distribució independent dels homòlegs](ud2/figures/F26_distribucio_independent_dels_homolegs.png)
+![F26 · Distribució independent dels homòlegs](figures/F26_distribucio_independent_dels_homolegs.png)
 
 *Figura F26. Distribució independent dels homòlegs.*
 
@@ -830,7 +856,7 @@ La diferència essencial és que **la mitosi conserva la dotació cromosòmica, 
 <!-- FIGURA F27 · Mitosi i meiosi, comparació final.
 Dues seqüències paral·leles des de cèl·lules diploides equivalents 2n = 4. Mitosi → dues cèl·lules 2n = 4; meiosi → quatre cèl·lules n = 2. Indicar separació d'homòlegs i de cromàtides. Mateixes convencions que F19/F25. No suggerir que una mateixa cèl·lula fa successivament mitosi i meiosi. Derivar de M01. -->
 
-![F27 · Mitosi i meiosi, comparació final](ud2/figures/F27_mitosi_i_meiosi_comparacio_final.png)
+![F27 · Mitosi i meiosi, comparació final](figures/F27_mitosi_i_meiosi_comparacio_final.png)
 
 *Figura F27. Mitosi i meiosi, comparació final.*
 
