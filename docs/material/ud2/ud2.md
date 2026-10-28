@@ -91,7 +91,9 @@ Les **cèl·lules vegetals** presenten habitualment una **paret cel·lular** de 
 
 Les **cèl·lules animals** no tenen paret cel·lular de cel·lulosa ni cloroplasts. La seva forma és sovint més variable, i presenten estructures especialitzades segons el teixit i la funció.
 
-És important evitar dues generalitzacions incorrectes: **no totes les cèl·lules vegetals tenen cloroplasts** —moltes cèl·lules de les arrels, per exemple, no en tenen— i **les cèl·lules vegetals també tenen mitocondris i duen a terme respiració cel·lular**.
+!!! warning "Dues generalitzacions sobre les cèl·lules vegetals"
+
+    **No totes les cèl·lules vegetals tenen cloroplasts** —moltes cèl·lules de les arrels, per exemple, no en tenen— i **les cèl·lules vegetals també tenen mitocondris i duen a terme respiració cel·lular**.
 
 <!-- FIGURA F04 · Cèl·lula animal i vegetal.
 Dues il·lustracions de llibre de text, comparables però no necessàriament a escala. Mostrar les estructures comunes amb colors consistents. A la vegetal, distingir clarament paret cel·lular, membrana plasmàtica, vacúol central i cloroplasts; incloure mitocondris. A l'animal, evitar dibuixar orgànuls com a estructures exclusives quan no ho són. Llegenda ordenada i etiquetes sense superposicions. -->
@@ -233,17 +235,13 @@ El nombre de cromosomes no indica necessàriament la complexitat d'un organisme.
 
 Abans de dividir-se, una cèl·lula que ha de transmetre una còpia completa del seu genoma a cadascuna de les cèl·lules descendents necessita duplicar l'ADN.
 
-!!! info "Replicació de l'ADN"
-
-    La duplicació de l'ADN rep el nom de **replicació de l'ADN**.
+Aquest procés rep el nom de **replicació de l'ADN**.
 
 Durant la replicació, cada molècula d'ADN es copia i es formen dues molècules que, si no hi ha errors, contenen la mateixa informació genètica.
 
 Després de la duplicació, cada cromosoma està format per dues **cromàtides germanes**, unides a la regió del centròmer. Cada cromàtide conté una molècula d'ADN.
 
-!!! warning "Duplicar l'ADN no duplica el nombre de cromosomes"
 
-    És important distingir entre duplicar l'ADN i duplicar el nombre de cromosomes.
 
 <!-- FIGURA F10 · La duplicació d'un cromosoma.
 A l'esquerra, un cromosoma no duplicat amb una cromàtide; al centre, fletxa de replicació; a la dreta, cromosoma duplicat amb dues cromàtides germanes. Etiquetar centròmer. A sota: «1 cromosoma, 1 molècula d'ADN» i «1 cromosoma, 2 molècules d'ADN». Advertir que les formes rectes o en X són esquemes, no configuracions constants. -->
@@ -263,7 +261,9 @@ Abans de la duplicació, cada cromosoma està format per una cromàtide. Despré
 
 Aquesta taula descriu una cèl·lula somàtica humana diploide típica i considera els cromosomes nuclears.
 
-**La duplicació de l'ADN augmenta la quantitat d'ADN, però no el nombre de cromosomes.**
+!!! warning "Duplicar l'ADN no duplica el nombre de cromosomes"
+
+    **La duplicació de l'ADN augmenta la quantitat d'ADN, però no el nombre de cromosomes.**
 
 Durant la divisió, les cromàtides germanes se separaran i es distribuiran entre els nuclis descendents. Quan se separen, cadascuna passa a considerar-se un cromosoma independent.
 
@@ -499,9 +499,7 @@ Conèixer i recordar les fases és necessari, però també ho és comprendre **q
 
 La mitosi acaba amb la formació de dos nuclis descendents. Per completar la divisió cel·lular habitualment també s'ha de dividir el citoplasma.
 
-!!! info "Mitosi i citocinesi no són el mateix"
-
-    La divisió del citoplasma s'anomena **citocinesi**. La mitosi correspon a la divisió nuclear.
+Aquest procés s'anomena **citocinesi**.
 
 #### Citocinesi en cèl·lules animals
 
@@ -528,9 +526,7 @@ Dues seqüències paral·leles: animal amb anell contràctil i solc de divisió;
 
 ### 3.6 · Què succeeix amb el nombre de cromosomes?
 
-!!! tip "Què conserva la mitosi?"
-
-    Una de les característiques fonamentals de la mitosi és que conserva el nombre de cromosomes dels nuclis descendents.
+Una de les característiques fonamentals de la mitosi és que conserva el nombre de cromosomes dels nuclis descendents.
 
 Considerem una cèl·lula diploide amb quatre cromosomes, és a dir, **2n = 4**.
 
@@ -538,7 +534,11 @@ Abans de la replicació de l'ADN, la cèl·lula té quatre cromosomes, cadascun 
 
 Després de la replicació, continua tenint quatre cromosomes, però cadascun està format per dues cromàtides germanes.
 
-Durant l'anafase, les cromàtides germanes se separen i passen a considerar-se cromosomes independents. En aquest moment, dins una mateixa cèl·lula que encara no ha completat la divisió, hi ha temporalment vuit cromosomes, distribuïts en dos grups de quatre.
+Durant l'anafase, les cromàtides germanes se separen i passen a considerar-se cromosomes independents. 
+
+!!! warning "El recompte durant l'anafase"
+
+    En aquest moment, dins una mateixa cèl·lula que encara no ha completat la divisió, hi ha temporalment vuit cromosomes, distribuïts en dos grups de quatre.
 
 En acabar la mitosi i la citocinesi, cada cèl·lula filla té quatre cromosomes.
 
@@ -621,7 +621,7 @@ Cicle reproductor humà simplificat: cèl·lula diploide de línia germinal 2n =
 
 *Figura F20. Meiosi i fecundació.*
 
-La meiosi no produeix directament gàmetes en tots els organismes. !!! warning "La meiosi no sempre forma gàmetes directament"
+!!! warning "La meiosi no sempre forma gàmetes directament"
 
     En les plantes, per exemple, origina espores haploides que poden desenvolupar-se mitjançant mitosis abans de la formació dels gàmetes.
 
@@ -783,7 +783,11 @@ Durant la meiosi II se separen les cromàtides germanes. Finalment, cadascuna de
 | Metafase II | 2 | 4 | n |
 | Després de la meiosi II | 2 | 2 | n |
 
-Els recomptes corresponen a les etapes indicades, no als instants transitoris de l'anafase. La dotació n o 2n indica el nombre de conjunts cromosòmics, no si l'ADN està duplicat.
+Els recomptes corresponen a les etapes indicades, no als instants transitoris de l'anafase.
+
+!!! info "Dotació cromosòmica i duplicació de l'ADN"
+
+    La dotació n o 2n indica el nombre de conjunts cromosòmics, no si l'ADN està duplicat.
 
 <!-- FIGURA F25 · Seguiment cromosòmic de la meiosi.
 Diagrama complet 2n = 4: cromosomes inicials, duplicació, separació d'homòlegs a meiosi I i separació de cromàtides a meiosi II. Recompte de cromosomes i molècules d'ADN per cèl·lula. Mateixos colors i convencions que F19. Derivar de M01. -->
