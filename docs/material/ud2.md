@@ -102,7 +102,11 @@ Dues il·lustracions de llibre de text, comparables però no necessàriament a e
 
 ### 1.5 · Els orgànuls i el funcionament de la cèl·lula
 
-Les estructures cel·lulars tenen funcions específiques, però **el funcionament d'una cèl·lula depèn de la coordinació entre elles**. Conèixer els noms, les característiques i les funcions dels orgànuls és necessari per poder explicar com cooperen.
+Conèixer els noms, les característiques i les funcions dels orgànuls és necessari per poder explicar com cooperen.
+
+!!! tip "Els orgànuls funcionen coordinadament"
+
+    Les estructures cel·lulars tenen funcions específiques, però **el funcionament d'una cèl·lula depèn de la coordinació entre elles**.
 
 | Estructura o orgànul | Funció principal |
 |---|---|
@@ -145,9 +149,15 @@ Comparació d'una cèl·lula muscular i una cèl·lula secretora pancreàtica. R
 
 Els esquemes científics són representacions simplificades que destaquen les estructures més rellevants. Les **microfotografies**, en canvi, mostren imatges obtingudes amb instruments reals i depenen de la preparació, la tinció, la resolució i el tipus de microscopi utilitzat.
 
-Per identificar una cèl·lula, no n'hi ha prou amb memoritzar-ne la silueta. Hem de fixar-nos en les estructures observables i relacionar-les amb el model d'organització corresponent.
+!!! tip "Com interpretar una imatge cel·lular"
 
-La presència d'un nucli delimitat és una evidència d'organització eucariota. Una paret cel·lular i cloroplasts poden orientar cap a una cèl·lula vegetal fotosintètica o una alga, segons el context. Però **que una estructura no sigui visible en una imatge no significa necessàriament que la cèl·lula no la tengui**: pot quedar fora del pla de tall, no estar tenyida o no poder resoldre's amb l'instrument.
+    Per identificar una cèl·lula, no n'hi ha prou amb memoritzar-ne la silueta. Hem de fixar-nos en les estructures observables i relacionar-les amb el model d'organització corresponent.
+
+La presència d'un nucli delimitat és una evidència d'organització eucariota. Una paret cel·lular i cloroplasts poden orientar cap a una cèl·lula vegetal fotosintètica o una alga, segons el context. 
+
+!!! warning "No visible no vol dir absent"
+
+    **Que una estructura no sigui visible en una imatge no significa necessàriament que la cèl·lula no la tengui**: pot quedar fora del pla de tall, no estar tenyida o no poder resoldre's amb l'instrument.
 
 Les dimensions també són importants. Una imatge sense escala pot resultar útil per reconèixer estructures, però no permet deduir-ne amb seguretat la mida real.
 
@@ -167,7 +177,9 @@ Previsió inicial: 2 sessions de 50 minuts, amb possibilitat de reserva flexible
 
 ### 2.1 · Tota cèl·lula prové d'una altra cèl·lula
 
-Un dels principis fonamentals de la teoria cel·lular estableix que **tota cèl·lula prové d'una altra cèl·lula preexistent**.
+!!! info "Principi de la teoria cel·lular"
+
+    **Tota cèl·lula prové d'una altra cèl·lula preexistent**.
 
 Això significa que les cèl·lules no apareixen espontàniament. Es formen a partir de cèl·lules anteriors mitjançant processos de divisió cel·lular.
 
@@ -221,7 +233,9 @@ El nombre de cromosomes no indica necessàriament la complexitat d'un organisme.
 
 Abans de dividir-se, una cèl·lula que ha de transmetre una còpia completa del seu genoma a cadascuna de les cèl·lules descendents necessita duplicar l'ADN.
 
-Aquest procés rep el nom de **replicació de l'ADN**.
+!!! info "Replicació de l'ADN"
+
+    La duplicació de l'ADN rep el nom de **replicació de l'ADN**.
 
 Durant la replicació, cada molècula d'ADN es copia i es formen dues molècules que, si no hi ha errors, contenen la mateixa informació genètica.
 
@@ -414,7 +428,11 @@ Cèl·lula animal en metafase amb dos pols, microtúbuls del fus, cromosomes ali
 
 ### 3.4 · Les fases de la mitosi
 
-Per facilitar-ne l'estudi, la mitosi es divideix en diverses fases. Aquestes fases no són processos independents, sinó etapes successives d'un procés continu.
+Per facilitar-ne l'estudi, la mitosi es divideix en diverses fases.
+
+!!! note "Les fases són una convenció d'estudi"
+
+    Aquestes fases no són processos independents, sinó etapes successives d'un procés continu.
 
 #### Profase
 
@@ -506,7 +524,9 @@ Dues seqüències paral·leles: animal amb anell contràctil i solc de divisió;
 
 ### 3.6 · Què succeeix amb el nombre de cromosomes?
 
-Una de les característiques fonamentals de la mitosi és que conserva el nombre de cromosomes dels nuclis descendents.
+!!! tip "Què conserva la mitosi?"
+
+    Una de les característiques fonamentals de la mitosi és que conserva el nombre de cromosomes dels nuclis descendents.
 
 Considerem una cèl·lula diploide amb quatre cromosomes, és a dir, **2n = 4**.
 
@@ -627,7 +647,9 @@ La meiosi no consisteix simplement a dividir una cèl·lula dues vegades. La cla
 
 ### 4.3 · La meiosi I: separació dels cromosomes homòlegs
 
-La primera divisió meiòtica és una divisió *reduccional*, perquè transforma un conjunt diploide de cromosomes en dos conjunts haploides.
+!!! info "Meiosi I: divisió reduccional"
+
+    La primera divisió meiòtica és una divisió *reduccional*, perquè transforma un conjunt diploide de cromosomes en dos conjunts haploides.
 
 Durant aquesta divisió, els cromosomes homòlegs s'aparellen i posteriorment se separen.
 
@@ -693,7 +715,9 @@ Després de la meiosi I comença la segona divisió meiòtica.
 
 Les cèl·lules que entren en meiosi II són haploides, però els seus cromosomes continuen duplicats.
 
-La meiosi II és una divisió *equacional*, perquè el nombre de cromosomes de cada nucli descendent es manté respecte del nucli que inicia aquesta segona divisió.
+!!! info "Meiosi II: divisió equacional"
+
+    La meiosi II és una divisió *equacional*, perquè el nombre de cromosomes de cada nucli descendent es manté respecte del nucli que inicia aquesta segona divisió.
 
 #### Profase II
 
@@ -766,7 +790,9 @@ La reducció cromosòmica es produeix durant la primera divisió meiòtica. La s
 
 ### 4.6 · Per què la meiosi genera variabilitat genètica?
 
-La meiosi no només redueix el nombre de cromosomes. També contribueix a generar noves combinacions de la informació genètica.
+!!! tip "La meiosi té dues conseqüències"
+
+    La meiosi no només redueix el nombre de cromosomes. També contribueix a generar noves combinacions de la informació genètica.
 
 Dos mecanismes són especialment importants.
 
