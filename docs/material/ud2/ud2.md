@@ -162,6 +162,8 @@ Parelles de representacions d'una cèl·lula vegetal i una d'animal: esquema did
 
 [![F07 · Esquema i microfotografia](figures/F07_Esquema_i_microfotografia.png)](figures/F07_Esquema_i_microfotografia.png)
 
+**Fonts de les microfotografies de F07:** epidermis de ceba — [Juan Carlos Fonseca Mata, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Onion_epidermis_(microscopic_image)_007533276M.jpg); cèl·lules de la mucosa bucal humana — [Fritzmann2002, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Human_Cheek_Cells_(Methylene_Blue_Stain).jpg). Ambdues imatges: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). S'han incorporat a una composició didàctica amb esquemes.
+
 
 <!-- DOCENT · BLOC 1
 Previsió inicial: 2 sessions de 50 minuts, amb possibilitat de reserva flexible. La taula d'orgànuls és contingut per conèixer i recordar, no una llista que s'hagi d'evitar memoritzar. Progressió: recordar estructures i funcions → relacionar orgànuls → explicar processos integrats. La figura F05 pot vertebrar la segona sessió. El volum de text és material d'estudi, no un guió per llegir íntegrament en veu alta. Revisar la selecció d'orgànuls i la densitat de les figures abans de produir-les. -->

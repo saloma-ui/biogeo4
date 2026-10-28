@@ -211,9 +211,9 @@ Una cèl·lula muscular amb molta activitat contràctil necessita energia i pot 
 
 Els **esquemes** destaquen estructures per facilitar-ne la comprensió. Les **microfotografies** depenen de l'instrument, la preparació, la tinció, la resolució i el pla observat.
 
-<!-- DOCENT: abans de publicar, verificar que F07 incorpora microfotografies autèntiques, amb crèdit i escala, i no pas simulacions sintètiques. -->
-
 ![F07 · Esquema i microfotografia](../../../material/ud2/figures/F07_Esquema_i_microfotografia.png)
+
+**Fonts de les microfotografies de F07:** epidermis de ceba — [Juan Carlos Fonseca Mata, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Onion_epidermis_(microscopic_image)_007533276M.jpg); cèl·lules de la mucosa bucal humana — [Fritzmann2002, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Human_Cheek_Cells_(Methylene_Blue_Stain).jpg). Ambdues imatges: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). S'han incorporat a una composició didàctica amb esquemes.
 
 <p class="pv-pregunta"><strong>En una microfotografia no s'identifica clarament el nucli. Quina conclusió és científicament prudent?</strong></p>
 
