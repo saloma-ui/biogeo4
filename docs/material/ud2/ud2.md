@@ -34,7 +34,6 @@ Comparació d'un bacteri bacil·lar, una cèl·lula epitelial animal, una cèl·
 
 ![F01 · Diversitat de cèl·lules](figures/F01_Diversitat_de_cellules.png)
 
-*Figura F01. Diversitat de cèl·lules.*
 
 ### 1.2 · Què tenen en comú totes les cèl·lules?
 
@@ -55,7 +54,6 @@ Dues cèl·lules esquemàtiques, una bacteriana i una eucariota, amb els quatre 
 
 ![F02 · Components compartits](figures/F02_Components_compartits.png)
 
-*Figura F02. Components compartits.*
 
 ### 1.3 · Dues grans organitzacions cel·lulars
 
@@ -81,7 +79,6 @@ Comparació d'un bacteri i una cèl·lula eucariota animal. Etiquetar nucleoide,
 
 ![F03 · Procariota i eucariota](figures/F03_Procariota_i_eucariota.png)
 
-*Figura F03. Procariota i eucariota.*
 
 ### 1.4 · Cèl·lules animals i vegetals
 
@@ -100,7 +97,6 @@ Dues il·lustracions de llibre de text, comparables però no necessàriament a e
 
 ![F04 · Cèl·lula animal i vegetal](figures/F04_Cellula_animal_i_vegetal.png)
 
-*Figura F04. Cèl·lula animal i vegetal.*
 
 ### 1.5 · Els orgànuls i el funcionament de la cèl·lula
 
@@ -136,7 +132,6 @@ Esquema de nucli → ARN missatger → ribosoma del reticle endoplasmàtic rugó
 
 ![F05 · Coordinació d'orgànuls en una cèl·lula secretora](figures/F05_Coordinacio_organuls_cellula_secretora.png)
 
-*Figura F05. Coordinació d'orgànuls en una cèl·lula secretora.*
 
 **La forma i l'abundància dels orgànuls també es relacionen amb l'especialització cel·lular.** Una cèl·lula muscular que necessita molta energia pot contenir nombrosos mitocondris. Una cèl·lula especialitzada en la secreció de proteïnes acostuma a tenir un reticle endoplasmàtic rugós i un aparell de Golgi ben desenvolupats. Això no significa que els altres orgànuls siguin absents, sinó que la seva abundància relativa pot variar segons la funció.
 
@@ -145,7 +140,6 @@ Comparació d'una cèl·lula muscular i una cèl·lula secretora pancreàtica. R
 
 ![F06 · Especialització cel·lular](figures/F06_Especialitzacio_cellular.png)
 
-*Figura F06. Especialització cel·lular.*
 
 ### 1.6 · Reconèixer i interpretar cèl·lules
 
@@ -168,7 +162,6 @@ Parelles de representacions d'una cèl·lula vegetal i una d'animal: esquema did
 
 ![F07 · Esquema i microfotografia](figures/F07_Esquema_i_microfotografia.png)
 
-*Figura F07. Esquema i microfotografia.*
 
 <!-- DOCENT · BLOC 1
 Previsió inicial: 2 sessions de 50 minuts, amb possibilitat de reserva flexible. La taula d'orgànuls és contingut per conèixer i recordar, no una llista que s'hagi d'evitar memoritzar. Progressió: recordar estructures i funcions → relacionar orgànuls → explicar processos integrats. La figura F05 pot vertebrar la segona sessió. El volum de text és material d'estudi, no un guió per llegir íntegrament en veu alta. Revisar la selecció d'orgànuls i la densitat de les figures abans de produir-les. -->
@@ -194,7 +187,6 @@ Dues seqüències paral·leles: fissió binària d'un bacteri i divisió d'una c
 
 ![F08 · La continuïtat cel·lular](figures/F08_la_continuitat_cellular_sense_capcalera.png)
 
-*Figura F08. La continuïtat cel·lular.*
 
 La divisió cel·lular planteja un problema biològic fonamental: si cada cèl·lula conté informació genètica necessària per al seu funcionament, **com es garanteix que les cèl·lules descendents rebin aquesta informació?**
 
@@ -217,7 +209,6 @@ Esquema progressiu que relacioni nucli, cromatina, ADN i cromosoma condensat. In
 
 ![F09 · De l'ADN als cromosomes](figures/F09_de_ADN_als_cromosomes_revisada.png)
 
-*Figura F09. De l'ADN als cromosomes.*
 
 #### Quants cromosomes té una cèl·lula?
 
@@ -242,13 +233,11 @@ Durant la replicació, cada molècula d'ADN es copia i es formen dues molècules
 Després de la duplicació, cada cromosoma està format per dues **cromàtides germanes**, unides a la regió del centròmer. Cada cromàtide conté una molècula d'ADN.
 
 
-
 <!-- FIGURA F10 · La duplicació d'un cromosoma.
 A l'esquerra, un cromosoma no duplicat amb una cromàtide; al centre, fletxa de replicació; a la dreta, cromosoma duplicat amb dues cromàtides germanes. Etiquetar centròmer. A sota: «1 cromosoma, 1 molècula d'ADN» i «1 cromosoma, 2 molècules d'ADN». Advertir que les formes rectes o en X són esquemes, no configuracions constants. -->
 
 ![F10 · La duplicació d'un cromosoma](figures/F10_la_duplicacio_dun_cromosoma.png)
 
-*Figura F10. La duplicació d'un cromosoma.*
 
 Considerem una cèl·lula humana amb 46 cromosomes.
 
@@ -300,7 +289,6 @@ Diagrama circular G1 → S → G2 → M. Agrupar G1, S i G2 dins «interfase». 
 
 ![F11 · El cicle cel·lular](figures/F11_el_cicle_cellular.png)
 
-*Figura F11. El cicle cel·lular.*
 
 La durada del cicle cel·lular varia segons el tipus de cèl·lula i les condicions en què es troba. Algunes cèl·lules es divideixen amb freqüència, mentre que d'altres poden passar molt de temps sense dividir-se.
 
@@ -323,7 +311,6 @@ Tall simplificat d'un epiteli en renovació, amb cèl·lules que es divideixen a
 
 ![F12 · Divisió i renovació dels teixits](figures/F12_divisio_i_renovacio_dels_teixits.png)
 
-*Figura F12. Divisió i renovació dels teixits.*
 
 #### Síntesi del bloc 2
 
@@ -360,7 +347,6 @@ Tres moments: cèl·lula amb cromosomes duplicats, distribució en dos nuclis i 
 
 ![F13 · De la cèl·lula inicial a les dues cèl·lules filles](figures/F13_de_la_cellula_inicial_a_les_dues_cellules_filles.png)
 
-*Figura F13. De la cèl·lula inicial a les dues cèl·lules filles.*
 
 ### 3.2 · Els cromosomes abans de la mitosi
 
@@ -379,7 +365,6 @@ Ampliació de dues cromàtides germanes, centròmer i cinetocors. Representar mi
 
 ![F14 · Anatomia d'un cromosoma duplicat](figures/F14_anatomia_dun_cromosoma_duplicat.png)
 
-*Figura F14. Anatomia d'un cromosoma duplicat.*
 
 #### Cromosomes homòlegs i cromàtides germanes
 
@@ -405,7 +390,6 @@ Una parella de cromosomes homòlegs duplicats: un blau i un vermell. Cada cromos
 
 ![F15 · Homòlegs i cromàtides germanes](figures/F15_homolegs_i_cromatides_germanes.png)
 
-*Figura F15. Homòlegs i cromàtides germanes.*
 
 ### 3.3 · El fus mitòtic: el mecanisme que distribueix els cromosomes
 
@@ -426,7 +410,6 @@ Cèl·lula animal en metafase amb dos pols, microtúbuls del fus, cromosomes ali
 
 ![F16 · El fus mitòtic](figures/F16_el_fus_mitotic.png)
 
-*Figura F16. El fus mitòtic.*
 
 ### 3.4 · Les fases de la mitosi
 
@@ -483,7 +466,6 @@ Figura principal: profase, prometafase, metafase, anafase i telofase d'una cèl�
 
 ![F17 · Les fases de la mitosi](figures/F17_les_fases_de_la_mitosi_illustracio.png)
 
-*Figura F17. Les fases de la mitosi.*
 
 | Fase | Esdeveniment principal |
 |---|---|
@@ -522,7 +504,6 @@ Dues seqüències paral·leles: animal amb anell contràctil i solc de divisió;
 
 ![F18 · Citocinesi animal i vegetal](figures/F18_citocinesi_animal_i_vegetal.png)
 
-*Figura F18. Citocinesi animal i vegetal.*
 
 ### 3.6 · Què succeeix amb el nombre de cromosomes?
 
@@ -557,7 +538,6 @@ Model 2n = 4 en quatre moments: abans de duplicar, després de duplicar, anafase
 
 ![F19 · Seguiment dels cromosomes durant la mitosi](figures/F19_seguiment_dels_cromosomes_durant_la_mitosi.png)
 
-*Figura F19. Seguiment dels cromosomes durant la mitosi.*
 
 La mitosi no redueix a la meitat el nombre de cromosomes. La reducció cromosòmica és característica de la meiosi, que estudiarem al bloc següent.
 
@@ -619,7 +599,6 @@ Cicle reproductor humà simplificat: cèl·lula diploide de línia germinal 2n =
 
 ![F20 · Meiosi i fecundació](figures/F20_meiosi_i_fecundacio_revisada.svg)
 
-*Figura F20. Meiosi i fecundació.*
 
 !!! warning "La meiosi no sempre forma gàmetes directament"
 
@@ -647,7 +626,6 @@ Cèl·lula inicial 2n = 4 → duplicació → meiosi I: dues cèl·lules n = 2 a
 
 ![F21 · Una duplicació i dues divisions](figures/F21_una_duplicacio_i_dues_divisions.png)
 
-*Figura F21. Una duplicació i dues divisions.*
 
 La meiosi no consisteix simplement a dividir una cèl·lula dues vegades. La clau del procés és **què se separa en cadascuna de les divisions**.
 
@@ -680,7 +658,6 @@ Tres moments: homòlegs duplicats, bivalent i intercanvi de segments entre crom�
 
 ![F22 · Aparellament i entrecreuament](figures/F22_aparellament_i_entrecreuament%20%281%29.png)
 
-*Figura F22. Aparellament i entrecreuament.*
 
 #### Metafase I
 
@@ -713,7 +690,6 @@ Profase I, metafase I, anafase I, telofase I; model 2n = 4. Dos bivalents a meta
 
 ![F23 · Les fases de la meiosi I](figures/F23_les_fases_de_la_meiosi_I.png)
 
-*Figura F23. Les fases de la meiosi I.*
 
 ### 4.4 · La meiosi II: separació de les cromàtides germanes
 
@@ -756,7 +732,6 @@ Continuació de F23: dues cèl·lules n = 2 amb cromosomes duplicats. Profase II
 
 ![F24 · Les fases de la meiosi II](figures/F24_les_fases_de_la_meiosi_II.png)
 
-*Figura F24. Les fases de la meiosi II.*
 
 ### 4.5 · Seguim els cromosomes durant la meiosi
 
@@ -794,7 +769,6 @@ Diagrama complet 2n = 4: cromosomes inicials, duplicació, separació d'homòleg
 
 ![F25 · Seguiment cromosòmic de la meiosi](figures/F25_seguiment_cromosomic_de_la_meiosi.png)
 
-*Figura F25. Seguiment cromosòmic de la meiosi.*
 
 La reducció cromosòmica es produeix durant la primera divisió meiòtica. La segona divisió no torna a reduir el nombre de cromosomes a la meitat.
 
@@ -839,7 +813,6 @@ Dues orientacions alternatives de dos bivalents a metafase I, 2n = 4. Mostrar co
 
 ![F26 · Distribució independent dels homòlegs](figures/F26_distribucio_independent_dels_homolegs.png)
 
-*Figura F26. Distribució independent dels homòlegs.*
 
 La fecundació també contribueix a la variabilitat genètica, perquè combina aleatòriament la informació genètica de dos gàmetes.
 
@@ -868,7 +841,6 @@ Dues seqüències paral·leles des de cèl·lules diploides equivalents 2n = 4. 
 
 ![F27 · Mitosi i meiosi, comparació final](figures/F27_mitosi_i_meiosi_comparacio_final.png)
 
-*Figura F27. Mitosi i meiosi, comparació final.*
 
 #### Síntesi del bloc 4
 
