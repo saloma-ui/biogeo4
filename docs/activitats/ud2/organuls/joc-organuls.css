@@ -1,0 +1,36 @@
+/* Joc dels orgànuls — disposició constant: 3 columnes × 4 files. */
+.joc-organuls { max-width: 860px; margin: 1.4rem auto; }
+.jo-capcalera { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:.85rem; margin-bottom:1rem; }
+.jo-marcador { display:flex; flex-wrap:wrap; gap:.65rem; }
+.jo-dada { min-width:7.4rem; display:flex; justify-content:space-between; align-items:center; gap:.75rem; border:1px solid var(--md-default-fg-color--lightest); border-radius:.55rem; padding:.65rem .85rem; background:var(--md-default-bg-color); }
+.jo-dada span { font-size:.85rem; }
+.jo-dada strong { font-size:1.25rem; font-variant-numeric:tabular-nums; }
+.jo-reinicia { padding:.7rem 1rem; border:1px solid var(--md-primary-fg-color); border-radius:.5rem; background:var(--md-primary-fg-color); color:var(--md-primary-bg-color); cursor:pointer; font:inherit; font-weight:600; }
+.jo-reinicia:hover, .jo-reinicia:focus-visible { filter:brightness(.88); outline:2px solid var(--md-accent-fg-color); outline-offset:2px; }
+.jo-pregunta { border:1px solid var(--md-default-fg-color--lightest); background:var(--md-code-bg-color); border-radius:.75rem; padding:1rem 1.25rem; margin-bottom:1.2rem; min-height:7rem; }
+.jo-etiqueta { margin:0 0 .5rem !important; font-size:.8rem; font-weight:750; letter-spacing:.055em; opacity:.8; }
+.jo-funcio { font-size:clamp(1.1rem,2vw,1.4rem); font-weight:600; line-height:1.45; margin:0 !important; }
+.jo-graella { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); grid-template-rows:repeat(4,minmax(5.8rem,auto)); gap:.8rem; }
+.jo-casella { min-width:0; min-height:5.8rem; }
+.jo-targeta { box-sizing:border-box; display:flex; justify-content:center; align-items:center; width:100%; height:100%; min-height:5.8rem; padding:.75rem .5rem; border:1.5px solid var(--md-default-fg-color--lightest); border-radius:.7rem; background:var(--md-default-bg-color); color:var(--md-default-fg-color); font:inherit; font-size:clamp(.83rem,1.55vw,1rem); font-weight:600; line-height:1.28; text-align:center; cursor:pointer; overflow-wrap:break-word; hyphens:auto; transition:box-shadow .14s, border-color .14s, background .14s; }
+.jo-targeta:hover, .jo-targeta:focus-visible { border-color:var(--md-primary-fg-color); box-shadow:0 0 0 .15rem color-mix(in srgb,var(--md-primary-fg-color) 18%,transparent); outline:none; }
+.jo-casella.jo-resolta { border:1px dashed var(--md-default-fg-color--lightest); border-radius:.7rem; }
+.jo-resolta .jo-targeta { visibility:hidden; pointer-events:none; }
+.jo-retroaccio { margin-top:1rem; min-height:2.5rem; padding:.6rem .8rem; border-left:3px solid transparent; font-size:.93rem; line-height:1.45; }
+.jo-retroaccio[data-tipus] { border-color:var(--md-primary-fg-color); background:var(--md-code-bg-color); }
+.jo-final { margin-top:1rem; padding:1.2rem; background:var(--md-code-bg-color); border-radius:.65rem; text-align:center; }
+.jo-final[hidden] { display:none; }
+.jo-final h2 { margin:.3rem 0 .6rem; }
+.jo-final p { margin-bottom:.85rem; }
+@media(max-width:560px) {
+  .jo-capcalera { justify-content:center; }
+  .jo-marcador { width:100%; justify-content:space-between; gap:.3rem; }
+  .jo-dada { min-width:0; flex:1; padding:.42rem .35rem; gap:.25rem; flex-direction:column; }
+  .jo-dada span { font-size:.72rem; }
+  .jo-dada strong { font-size:1.15rem; }
+  .jo-graella { gap:.35rem; grid-template-rows:repeat(4,minmax(6.3rem,auto)); }
+  .jo-casella, .jo-targeta { min-height:6.3rem; }
+  .jo-targeta { padding:.45rem .25rem; font-size:.78rem; }
+  .jo-pregunta { padding:.85rem; }
+  .jo-reinicia { font-size:.88rem; }
+}
