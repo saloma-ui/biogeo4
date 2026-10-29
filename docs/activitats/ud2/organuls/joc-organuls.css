@@ -34,3 +34,24 @@
   .jo-pregunta { padding:.85rem; }
   .jo-reinicia { font-size:.88rem; }
 }
+
+/* Targetes mixtes: 3 columnes per 4 files, sense reordenar-se en encertar. */
+.jo-dada small { display:block; font-size:.7rem; opacity:.8; }
+.jo-graella { grid-template-columns:repeat(3,minmax(0,1fr)); grid-template-rows:repeat(4,minmax(8.5rem,auto)); }
+.jo-casella,.jo-targeta { min-height:8.5rem; }
+.jo-targeta { flex-direction:column; gap:.55rem; padding:.65rem .4rem; }
+.jo-targeta[data-cara="funcio"] { background:var(--md-code-bg-color); }
+.jo-cara-etiqueta { color:var(--md-default-fg-color--light); font-size:.66rem; letter-spacing:.08em; font-weight:700; }
+.jo-cara-contingut { font-size:clamp(.82rem,1.3vw,.98rem); font-weight:600; line-height:1.32; }
+.jo-targeta[data-cara="funcio"] .jo-cara-contingut { font-size:clamp(.8rem,1.12vw,.94rem); font-weight:500; }
+.jo-retroaccio[data-tipus="error"] { border-color:var(--md-default-fg-color--light); }
+@media(max-width:560px) {
+ .jo-dada span { font-size:.71rem; }
+ .jo-dada small { font-size:.66rem; }
+ .jo-graella { grid-template-rows:repeat(4,minmax(10rem,auto)); }
+ .jo-casella,.jo-targeta { min-height:10rem; }
+ .jo-targeta { padding:.42rem .25rem; }
+ .jo-cara-etiqueta { font-size:.58rem; }
+ .jo-cara-contingut { font-size:.77rem; }
+ .jo-targeta[data-cara="funcio"] .jo-cara-contingut { font-size:.73rem; }
+}

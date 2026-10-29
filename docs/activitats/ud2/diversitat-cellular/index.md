@@ -145,7 +145,7 @@ Identificar els orgànuls i conèixer-ne la funció és el primer pas per explic
 
 **Idea clau:** els orgànuls no funcionen com a peces independents. Les funcions cel·lulars depenen de la seva **coordinació**.
 
-**Practica abans de continuar:** identifica la funció i elimina les 12 targetes dels orgànuls. El joc mostra el recompte de respostes correctes i incorrectes.
+**Practica abans de continuar:** relaciona noms i funcions en tots dos sentits. Les targetes van desapareixent amb els encerts; si t'equivoques, tota la ronda es reinicia amb les 12 cartes barrejades.
 
 [Practica amb les 12 targetes](../organuls/index.md){ .md-button .md-button--primary }
 

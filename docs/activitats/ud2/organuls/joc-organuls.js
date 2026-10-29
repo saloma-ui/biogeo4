@@ -19,6 +19,8 @@
   ];
 
   const perId = new Map(estructures.map(item => [item.id, item]));
+  const breus = ["Regula els intercanvis amb l'exterior.","Conté l'ADN eucariota i regula l'activitat.","Sintetitzen proteïnes.","Síntesi i processament inicial de proteïnes per a secreció o membranes.","Síntesi de lípids i regulació del calci.","Modifica, classifica i distribueix proteïnes i lípids.","Respiració cel·lular i producció d'ATP.","Digestió i reciclatge de materials.","Emmagatzematge i turgència en plantes.","Fotosíntesi.","Forma, organització interna i moviment cel·lular.","Organització dels microtúbuls en moltes cèl·lules animals."];
+  const abreujada = new Map(estructures.map((item, i) => [item.id, breus[i]]));
 
   function barreja(array) {
     const copia = [...array];
@@ -34,7 +36,8 @@
     arrel.dataset.joInicialitzat = "true";
 
     const graella = arrel.querySelector("[data-jo-graella]");
-    const funcio = arrel.querySelector("[data-jo-funcio]");
+    const etiqueta = arrel.querySelector("[data-jo-etiqueta]");
+    const enunciat = arrel.querySelector("[data-jo-enunciat]");
     const retroaccio = arrel.querySelector("[data-jo-retroaccio]");
     const correctesEl = arrel.querySelector("[data-jo-correctes]");
     const incorrectesEl = arrel.querySelector("[data-jo-incorrectes]");
@@ -42,11 +45,8 @@
     const final = arrel.querySelector("[data-jo-final]");
     const resum = arrel.querySelector("[data-jo-resum]");
 
-    let ordreFuncions = [];
-    let actual = 0;
-    let pendents = new Set();
-    let correctes = 0;
-    let incorrectes = 0;
+    let ordre = [], posicio = 0, pendents = new Set(), cares = new Map();
+    let correctes = 0, incorrectes = 0;
 
     function actualitzaMarcador() {
       correctesEl.textContent = String(correctes);
@@ -54,74 +54,95 @@
       pendentsEl.textContent = String(pendents.size);
     }
 
-    function escriuRetroaccio(missatge, esError) {
+    function informa(missatge, tipus) {
       retroaccio.textContent = missatge;
-      retroaccio.dataset.tipus = esError ? "error" : "correcte";
+      if (tipus) retroaccio.dataset.tipus = tipus;
+      else delete retroaccio.dataset.tipus;
     }
 
-    function mostraFuncio() {
-      if (actual < ordreFuncions.length) {
-        const item = perId.get(ordreFuncions[actual]);
-        funcio.textContent = item.funcio;
-      } else {
-        funcio.textContent = "Partida completada: totes les estructures identificades.";
+    function mostraPregunta() {
+      if (posicio >= ordre.length) {
+        etiqueta.textContent = "RONDA COMPLETADA";
+        enunciat.textContent = "Has identificat les 12 estructures i funcions.";
         final.hidden = false;
-        resum.textContent = "Correctes: " + correctes + " · Incorrectes: " + incorrectes + ". Pots tornar a jugar per consolidar les funcions.";
+        resum.textContent = "Correctes: " + correctes + " · Incorrectes acumulades: " + incorrectes + ".";
+        return;
       }
-    }
-
-    function tria(id, boto, casella) {
-      if (!pendents.has(id) || actual >= ordreFuncions.length) return;
-      const itemTriat = perId.get(id);
-
-      if (id === ordreFuncions[actual]) {
-        correctes += 1;
-        pendents.delete(id);
-        boto.disabled = true;
-        casella.classList.add("jo-resolta");
-        casella.setAttribute("aria-label", "Targeta retirada");
-        actual += 1;
-        escriuRetroaccio("Correcte! " + itemTriat.nom + " correspon a la funció anterior.", false);
-        mostraFuncio();
+      const id = ordre[posicio];
+      const item = perId.get(id);
+      if (cares.get(id) === "nom") {
+        etiqueta.textContent = "QUINA ESTRUCTURA FA AQUESTA FUNCIÓ?";
+        enunciat.textContent = item.funcio;
       } else {
-        incorrectes += 1;
-        escriuRetroaccio("No és " + itemTriat.nom + ". La seva funció és: " + itemTriat.funcio + " Torna-ho a provar.", true);
+        etiqueta.textContent = "QUINA FUNCIÓ TÉ AQUESTA ESTRUCTURA?";
+        enunciat.textContent = item.nom;
       }
-      actualitzaMarcador();
     }
 
-    function iniciaRonda() {
-      ordreFuncions = barreja(estructures.map(item => item.id));
-      actual = 0;
-      pendents = new Set(estructures.map(item => item.id));
+    function iniciaRonda(conservaErrors = false, missatge = "") {
+      const ids = barreja(estructures.map(e => e.id));
+      const ambFuncio = new Set(ids.slice(0, 6));
+      cares = new Map(ids.map(id => [id, ambFuncio.has(id) ? "funcio" : "nom"]));
+      ordre = barreja(ids);
+      posicio = 0;
+      pendents = new Set(ids);
       correctes = 0;
-      incorrectes = 0;
-      retroaccio.textContent = "";
-      delete retroaccio.dataset.tipus;
+      if (!conservaErrors) incorrectes = 0;
       final.hidden = true;
       graella.replaceChildren();
-
       barreja(estructures).forEach(item => {
         const casella = document.createElement("div");
         casella.className = "jo-casella";
         const boto = document.createElement("button");
         boto.type = "button";
         boto.className = "jo-targeta";
-        boto.textContent = item.nom;
+        const cara = cares.get(item.id);
+        boto.dataset.cara = cara;
+        const contingut = cara === "nom" ? item.nom : abreujada.get(item.id);
+        boto.setAttribute("aria-label", (cara === "nom" ? "Nom: " : "Funció: ") + contingut);
+        const titol = document.createElement("span");
+        titol.className = "jo-cara-etiqueta";
+        titol.textContent = cara === "nom" ? "NOM" : "FUNCIÓ";
+        const text = document.createElement("span");
+        text.className = "jo-cara-contingut";
+        text.textContent = contingut;
+        boto.append(titol, text);
         boto.addEventListener("click", () => tria(item.id, boto, casella));
         casella.appendChild(boto);
         graella.appendChild(casella);
       });
-
       actualitzaMarcador();
-      mostraFuncio();
+      mostraPregunta();
+      informa(missatge, missatge ? "error" : "");
+    }
+
+    function tria(id, boto, casella) {
+      if (!pendents.has(id) || posicio >= ordre.length) return;
+      if (id === ordre[posicio]) {
+        correctes += 1;
+        pendents.delete(id);
+        boto.disabled = true;
+        casella.classList.add("jo-resolta");
+        casella.setAttribute("aria-label", "Targeta retirada");
+        posicio += 1;
+        actualitzaMarcador();
+        mostraPregunta();
+        informa("Correcte! " + perId.get(id).nom + ": " + perId.get(id).funcio, "correcte");
+      } else {
+        incorrectes += 1;
+        const esperat = perId.get(ordre[posicio]);
+        const triat = perId.get(id);
+        iniciaRonda(true, "Incorrecte. La resposta era " + esperat.nom +
+          " (" + esperat.funcio + "). Has triat " + triat.nom +
+          ". La ronda s'ha reiniciat amb les 12 targetes barrejades.");
+      }
     }
 
     arrel.querySelectorAll("[data-jo-reinicia]").forEach(boto => {
-      boto.addEventListener("click", iniciaRonda);
+      boto.addEventListener("click", () => iniciaRonda(false));
     });
 
-    iniciaRonda();
+    iniciaRonda(false);
   }
 
   function inicialitzaPagina() {

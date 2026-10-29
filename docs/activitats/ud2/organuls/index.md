@@ -7,27 +7,28 @@ hide:
 
 # Joc dels orgànuls · Les 12 targetes
 
-**Quina estructura cel·lular fa cada funció?**
+**Relaciona els noms de les estructures amb les funcions en tots dos sentits.**
 
-Llegeix la funció que apareix a la part superior i tria la targeta amb el nom de l'estructura corresponent. Hi ha **12 targetes distribuïdes en 3 columnes i 4 files**.
+La graella té **12 targetes, distribuïdes en 3 columnes i 4 files**. Sis mostren **noms** i sis mostren **funcions**. A vegades cercaràs un nom a partir de la funció; altres vegades, una funció a partir del nom.
 
-- **Si encertes**, sumes un punt a *Correctes* i la targeta es retira del tauler.
-- **Si t'equivoques**, sumes un punt a *Incorrectes*, rebs una explicació i pots tornar-ho a provar.
-- L'ordre de les funcions i el de les targetes canvien a cada partida. **No hi ha límit de temps ni qualificació.**
+- **Si encertes**, la targeta desapareix del seu lloc i sumes un encert.
+- **Si t'equivoques**, sumes un error i **la ronda es reinicia immediatament** amb 12 targetes barrejades.
+- **Correctes (ronda)** torna a zero amb cada reinici; **Incorrectes (total)** continua comptant els errors fins que prems «Comença de zero».
+- Els noms i funcions visibles i l'ordre de les preguntes canvien a cada ronda. No hi ha temps límit ni qualificació.
 
 <div class="joc-organuls" data-joc-organuls>
   <div class="jo-capcalera">
     <div class="jo-marcador" aria-label="Marcador de la partida">
-      <div class="jo-dada"><span>Correctes</span><strong data-jo-correctes>0</strong></div>
-      <div class="jo-dada"><span>Incorrectes</span><strong data-jo-incorrectes>0</strong></div>
+      <div class="jo-dada"><span>Correctes <small>(ronda)</small></span><strong data-jo-correctes>0</strong></div>
+      <div class="jo-dada"><span>Incorrectes <small>(total)</small></span><strong data-jo-incorrectes>0</strong></div>
       <div class="jo-dada"><span>Pendents</span><strong data-jo-pendents>12</strong></div>
     </div>
-    <button type="button" class="jo-reinicia" data-jo-reinicia>Torna a començar</button>
+    <button type="button" class="jo-reinicia" data-jo-reinicia>Comença de zero</button>
   </div>
 
   <div class="jo-pregunta" aria-live="polite" aria-atomic="true">
-    <p class="jo-etiqueta">QUINA ESTRUCTURA FA AQUESTA FUNCIÓ?</p>
-    <p class="jo-funcio" data-jo-funcio>Carregant la primera funció…</p>
+    <p class="jo-etiqueta" data-jo-etiqueta>PREPARANT LA PREGUNTA…</p>
+    <p class="jo-funcio" data-jo-enunciat>Carregant el joc…</p>
   </div>
 
   <div class="jo-graella" data-jo-graella role="group" aria-label="Dotze targetes de les estructures cel·lulars"></div>
