@@ -49,7 +49,7 @@ La **teoria cel·lular** estableix que tots els éssers vius estan formats per u
 - **ADN:** conté informació necessària per al funcionament i la continuïtat cel·lular.
 - **Ribosomes:** participen en la síntesi de proteïnes.
 
-<p class="pv-pregunta"><strong>Un alumne diu: «Els bacteris no tenen nucli; per tant, no tenen ADN». Què en penses?</strong></p>
+<p class="pv-pregunta"><strong>«Els bacteris no tenen nucli; per tant, no tenen ADN». Què en penses?</strong></p>
 
 <div class="pv-quiz" data-pv-quiz>
   <div class="pv-opcions">
