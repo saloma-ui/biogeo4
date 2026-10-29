@@ -254,4 +254,36 @@ Per preparar-te o recuperar una classe perduda, consulta el [Bloc 1 del material
 
 </section>
 
+
+<section class="pv-seccio" markdown>
+
+# 11 · Investiga i comparteix
+
+## Els secrets de les cèl·lules
+
+Ja coneixes les estructures cel·lulars principals i les seves funcions. Ara investigaràs **un fenomen real** que no hem resolt a les comprovacions interactives.
+
+Cada alumne rebrà **una miniinvestigació diferent**. Llegeix-ne l'article científic adaptat, respon les preguntes de la fitxa i prepara una explicació breu per compartir la descoberta amb els companys.
+
+**Què has de fer?**
+
+1. Obre l'**article** del repte que t'ha assignat el professor.
+2. Llegeix-lo i respon les preguntes de la **fitxa de miniinvestigació** amb les teves paraules.
+3. Prepara una presentació de **Canva d'una o dues diapositives**, amb un esquema propi del mecanisme.
+4. Explica la descoberta als companys en **2–3 minuts**, sense limitar-te a llegir les respostes.
+
+### Miniinvestigacions
+
+!!! question "1 · Per què relaxar un múscul també consumeix energia?"
+    Descobreix com el **reticle sarcoplasmàtic**, el **calci** i l'**ATP** cooperen perquè una fibra muscular es pugui relaxar.
+
+    - [**Llegeix l'article científic**](../../../divulgacio/ud02/01-rel-calci.md)
+    - [**Obre la fitxa de miniinvestigació**](fitxes/01-rel-calci.md)
+
+*Els altres sis reptes s'incorporaran aquí quan estiguin preparats.*
+
+**Què s'ha de lliurar?** La fitxa amb les respostes i la presentació de Canva, segons les indicacions del professor. Les respostes de les comprovacions interactives de les seccions anteriors **no** s'han de lliurar.
+
+</section>
+
 </div>
