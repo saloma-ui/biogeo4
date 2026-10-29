@@ -48,14 +48,14 @@ nav:
       - Criteris d'avaluació: criteris-avaluacio.md
       - Calendari: calendari.md
   - Material:
-      - UD1: material/ud1/ud1.md
-      - UD2: material/ud2/ud2.md
-      - UD3: material/ud3/ud3.md
-      - UD4: material/ud4/ud4.md
-      - UD5: material/ud5/ud5.md
+      - 'UD1 - Geologia': material/ud1/ud1.md
+      - 'UD2 - La continuïtat cel·lular': material/ud2/ud2.md
+      - 'UD3 - Informació genètica i herència': material/ud3/ud3.md
+      - 'UD4 - Evolució': material/ud4/ud4.md
+      - 'UD5 - La Terra a l'univers': material/ud5/ud5.md
       - UD6: material/ud6/ud6.md
   - Activitats:
-      - UD1:
+      - 'UD1 - Geologia':
           - Índex: activitats/ud1/index.md
           - 'A01 · Llegim el paisatge': activitats/ud1/geo-01/index.md
           - 'A02 · Del mapa al relleu': activitats/ud1/geo02/index.md
@@ -76,14 +76,14 @@ nav:
           - Quan un procés natural esdevé risc? (UD01-A8): activitats/ud1/riscos/index.md
           - On construiríem? (UD01-A9): activitats/ud1/g2/index.md
           - Comprendre el risc (UD01-A10): activitats/ud1/g2-risc-evidencia/index.md
-      - UD2:
+      - 'UD2 - La continuïtat cel·lular':
           - Índex: activitats/ud2/index.md
           - 'A01 · La diversitat cel·lular': activitats/ud2/diversitat-cellular/index.md
-      - UD3:
+      - 'UD3 - Informació genètica i herència':
           - Índex: activitats/ud3/index.md
-      - UD4:
+      - 'UD4 - Evolució':
           - Índex: activitats/ud4/index.md
-      - UD5:
+      - 'UD5 - La Terra a l'univers':
           - Índex: activitats/ud5/index.md
       - UD6:
           - Índex: activitats/ud6/index.md
