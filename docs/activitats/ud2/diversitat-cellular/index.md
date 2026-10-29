@@ -280,7 +280,13 @@ Cada alumne rebrà **una miniinvestigació diferent**. Llegeix-ne l'article cien
     - [**Llegeix l'article científic**](../../../divulgacio/ud02/01-rel-calci.md)
     - [**Obre la fitxa de miniinvestigació**](fitxes/01-rel-calci.md)
 
-*Els altres sis reptes s'incorporaran aquí quan estiguin preparats.*
+!!! question "2 · La fina línia que sosté la vida"
+    Investiga com els **fosfolípids**, el **reticle endoplasmàtic** i les **vesícules** permeten fabricar i ampliar les membranes cel·lulars.
+
+    - [**Llegeix l'article científic**](../../../divulgacio/ud02/02-fina-linia-vida.md)
+    - [**Obre la fitxa de miniinvestigació**](fitxes/02-fina-linia-vida.md)
+
+*Els altres cinc reptes s'incorporaran aquí quan estiguin preparats.*
 
 **Què s'ha de lliurar?** La fitxa amb les respostes i la presentació de Canva, segons les indicacions del professor. Les respostes de les comprovacions interactives de les seccions anteriors **no** s'han de lliurar.
 
