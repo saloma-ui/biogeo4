@@ -5,7 +5,298 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title></title>
   <meta name="color-scheme" content="light">
-  <link rel="stylesheet" href="./joc-organuls.css">
+  <style>
+:root {
+  color-scheme: light;
+  --ink: #1e3140;
+  --muted: #617586;
+  --line: #d9e3e9;
+  --blue: #286987;
+  --teal: #117c77;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-synthesis: none;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { min-height: 100%; background: #fff; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #fff;
+  color: var(--ink);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+button { font: inherit; }
+.pagina-joc {
+  width: min(100%, 1150px);
+  margin: 0 auto;
+  padding: clamp(16px, 3.2vw, 40px);
+}
+.joc-organuls { width: 100%; }
+.jo-capcalera {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 22px;
+}
+.jo-marcador { display: flex; flex-wrap: wrap; gap: 12px; }
+.jo-dada {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 142px;
+  min-height: 88px;
+  gap: 3px;
+  padding: 11px 18px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: 0 2px 5px rgba(22, 50, 68, .035);
+}
+.jo-dada:nth-child(1) { border-top: 3px solid #31907d; }
+.jo-dada:nth-child(2) { border-top: 3px solid #d88c72; }
+.jo-dada:nth-child(3) { border-top: 3px solid #7a97aa; }
+.jo-dada span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 650;
+  line-height: 1.25;
+}
+.jo-dada small {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 450;
+}
+.jo-dada strong {
+  font-size: 28px;
+  font-weight: 750;
+  line-height: 1.15;
+  letter-spacing: -.035em;
+  font-variant-numeric: tabular-nums;
+}
+.jo-reinicia {
+  appearance: none;
+  border: 1px solid #c8d7e0;
+  border-radius: 11px;
+  background: #f7fafc;
+  color: #33576b;
+  padding: 12px 18px;
+  min-height: 44px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+  transition: background .15s, border-color .15s, box-shadow .15s;
+}
+.jo-reinicia:hover { background: #eaf3f7; border-color: #94b8ca; }
+.jo-reinicia:focus-visible {
+  outline: 3px solid #87b9d1;
+  outline-offset: 3px;
+}
+.jo-pregunta {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(20px, 3vw, 30px) clamp(22px, 3.3vw, 36px);
+  min-height: 150px;
+  margin-bottom: 22px;
+  color: #fff;
+  border-radius: 18px;
+  background: linear-gradient(120deg, #153849 0%, #24586b 100%);
+  box-shadow: 0 10px 26px rgba(24, 55, 71, .12);
+}
+.jo-pregunta::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 24px;
+  width: 65px;
+  height: 4px;
+  background: #84c9c4;
+  border-radius: 0 0 5px 5px;
+}
+.jo-etiqueta {
+  margin: 0 0 10px;
+  color: #bde2e6;
+  font-size: 11px;
+  line-height: 1.35;
+  font-weight: 750;
+  letter-spacing: .115em;
+}
+.jo-funcio {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(19px, 2.25vw, 27px);
+  font-weight: 650;
+  line-height: 1.38;
+  letter-spacing: -.016em;
+  text-wrap: pretty;
+}
+.jo-graella {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: repeat(4, minmax(145px, auto));
+  gap: clamp(9px, 1.35vw, 16px);
+}
+.jo-casella { min-width: 0; min-height: 145px; }
+.jo-targeta {
+  appearance: none;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 145px;
+  height: 100%;
+  padding: 20px 16px;
+  border: 1px solid #cbdce5;
+  border-radius: 16px;
+  background: #fff;
+  color: #193848;
+  text-align: center;
+  cursor: pointer;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  box-shadow: 0 3px 7px rgba(34, 70, 90, .07), 0 12px 26px rgba(34, 70, 90, .035);
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease, background-color .18s ease;
+}
+.jo-targeta::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 5px;
+  background: #4792ae;
+  border-radius: 16px 16px 0 0;
+}
+.jo-targeta[data-cara="funcio"] {
+  border-color: #d0e4e1;
+  background: #f5faf8;
+}
+.jo-targeta[data-cara="funcio"]::before { background: #4ca99b; }
+.jo-targeta:hover {
+  transform: translateY(-3px);
+  border-color: #8bb7c8;
+  box-shadow: 0 8px 18px rgba(34, 70, 90, .10), 0 16px 30px rgba(34, 70, 90, .065);
+}
+.jo-targeta[data-cara="funcio"]:hover { border-color: #7fbab0; background: #ecf8f4; }
+.jo-targeta:active { transform: translateY(-1px); }
+.jo-targeta:focus-visible {
+  outline: 3px solid #549bbb;
+  outline-offset: 3px;
+}
+.jo-cara-etiqueta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 23px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: #e8f1f6;
+  color: #37667e;
+  font-size: 10px;
+  line-height: 1.2;
+  letter-spacing: .10em;
+  font-weight: 800;
+}
+.jo-targeta[data-cara="funcio"] .jo-cara-etiqueta {
+  background: #def1ec;
+  color: #26796f;
+}
+.jo-cara-contingut {
+  display: block;
+  max-width: 100%;
+  color: #223a49;
+  font-size: clamp(15px, 1.65vw, 19px);
+  line-height: 1.32;
+  font-weight: 720;
+  letter-spacing: -.012em;
+  text-wrap: pretty;
+}
+.jo-targeta[data-cara="funcio"] .jo-cara-contingut {
+  font-size: clamp(13px, 1.35vw, 16px);
+  line-height: 1.43;
+  font-weight: 530;
+}
+.jo-casella.jo-resolta {
+  border: 1px dashed #dae5e9;
+  border-radius: 16px;
+}
+.jo-resolta .jo-targeta {
+  opacity: 0;
+  transform: scale(.93);
+  pointer-events: none;
+  visibility: hidden;
+  transition: opacity .25s ease, transform .25s ease, visibility 0s linear .25s;
+}
+.jo-retroaccio {
+  min-height: 36px;
+  margin-top: 18px;
+  color: #3d5260;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.jo-retroaccio:empty { display: none; }
+.jo-retroaccio[data-tipus] {
+  padding: 13px 18px;
+  border: 1px solid #d3e7e3;
+  border-left: 4px solid #449a8a;
+  border-radius: 10px;
+  background: #f3faf7;
+}
+.jo-retroaccio[data-tipus="error"] {
+  color: #6d3b30;
+  border-color: #efdad4;
+  border-left-color: #c87863;
+  background: #fdf8f6;
+}
+.jo-final {
+  margin-top: 18px;
+  padding: 24px;
+  border: 1px solid #cde4db;
+  border-radius: 16px;
+  background: #f2faf5;
+  text-align: center;
+}
+.jo-final[hidden] { display: none; }
+.jo-final h2 { margin: 0 0 9px; color: #215b4d; font-size: 23px; }
+.jo-final p { margin: 0 0 18px; }
+@media (max-width: 680px) {
+  .pagina-joc { padding: 12px; }
+  .jo-capcalera { gap: 12px; }
+  .jo-marcador { width: 100%; gap: 7px; }
+  .jo-dada { flex: 1; min-width: 0; min-height: 74px; align-items: center; padding: 8px 4px; }
+  .jo-dada span { font-size: 11px; text-align: center; }
+  .jo-dada small { display: block; font-size: 10px; }
+  .jo-dada strong { font-size: 24px; }
+  .jo-reinicia { margin-left: auto; }
+  .jo-pregunta { padding: 19px 16px; min-height: 132px; margin-bottom: 16px; }
+  .jo-pregunta::before { left: 16px; }
+  .jo-funcio { font-size: 18px; }
+  .jo-etiqueta { font-size: 10px; }
+  .jo-graella { grid-template-columns: repeat(3, minmax(0, 1fr)); grid-template-rows: repeat(4, minmax(154px, auto)); gap: 7px; }
+  .jo-casella, .jo-targeta { min-height: 154px; }
+  .jo-targeta { gap: 10px; padding: 12px 5px; border-radius: 12px; }
+  .jo-targeta::before { height: 4px; border-radius: 12px 12px 0 0; }
+  .jo-cara-etiqueta { padding: 3px 7px; font-size: 9px; }
+  .jo-cara-contingut { font-size: clamp(11px, 3.15vw, 15px); }
+  .jo-targeta[data-cara="funcio"] .jo-cara-contingut { font-size: clamp(10px, 2.8vw, 13px); line-height: 1.35; }
+}
+@media (max-width: 370px) {
+  .pagina-joc { padding: 8px; }
+  .jo-graella { gap: 5px; }
+  .jo-cara-contingut { font-size: 11px; }
+  .jo-targeta[data-cara="funcio"] .jo-cara-contingut { font-size: 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .jo-targeta, .jo-resolta .jo-targeta, .jo-reinicia { transition: none; }
+}
+  </style>
   <script src="./joc-organuls.js" defer></script>
 </head>
 <body>
