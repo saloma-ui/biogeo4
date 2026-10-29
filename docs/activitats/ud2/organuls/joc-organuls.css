@@ -1,57 +1,52 @@
-/* Joc dels orgànuls — disposició constant: 3 columnes × 4 files. */
-.joc-organuls { max-width: 860px; margin: 1.4rem auto; }
-.jo-capcalera { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:.85rem; margin-bottom:1rem; }
-.jo-marcador { display:flex; flex-wrap:wrap; gap:.65rem; }
-.jo-dada { min-width:7.4rem; display:flex; justify-content:space-between; align-items:center; gap:.75rem; border:1px solid var(--md-default-fg-color--lightest); border-radius:.55rem; padding:.65rem .85rem; background:var(--md-default-bg-color); }
-.jo-dada span { font-size:.85rem; }
-.jo-dada strong { font-size:1.25rem; font-variant-numeric:tabular-nums; }
-.jo-reinicia { padding:.7rem 1rem; border:1px solid var(--md-primary-fg-color); border-radius:.5rem; background:var(--md-primary-fg-color); color:var(--md-primary-bg-color); cursor:pointer; font:inherit; font-weight:600; }
-.jo-reinicia:hover, .jo-reinicia:focus-visible { filter:brightness(.88); outline:2px solid var(--md-accent-fg-color); outline-offset:2px; }
-.jo-pregunta { border:1px solid var(--md-default-fg-color--lightest); background:var(--md-code-bg-color); border-radius:.75rem; padding:1rem 1.25rem; margin-bottom:1.2rem; min-height:7rem; }
-.jo-etiqueta { margin:0 0 .5rem !important; font-size:.8rem; font-weight:750; letter-spacing:.055em; opacity:.8; }
-.jo-funcio { font-size:clamp(1.1rem,2vw,1.4rem); font-weight:600; line-height:1.45; margin:0 !important; }
-.jo-graella { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); grid-template-rows:repeat(4,minmax(5.8rem,auto)); gap:.8rem; }
-.jo-casella { min-width:0; min-height:5.8rem; }
-.jo-targeta { box-sizing:border-box; display:flex; justify-content:center; align-items:center; width:100%; height:100%; min-height:5.8rem; padding:.75rem .5rem; border:1.5px solid var(--md-default-fg-color--lightest); border-radius:.7rem; background:var(--md-default-bg-color); color:var(--md-default-fg-color); font:inherit; font-size:clamp(.83rem,1.55vw,1rem); font-weight:600; line-height:1.28; text-align:center; cursor:pointer; overflow-wrap:break-word; hyphens:auto; transition:box-shadow .14s, border-color .14s, background .14s; }
-.jo-targeta:hover, .jo-targeta:focus-visible { border-color:var(--md-primary-fg-color); box-shadow:0 0 0 .15rem color-mix(in srgb,var(--md-primary-fg-color) 18%,transparent); outline:none; }
-.jo-casella.jo-resolta { border:1px dashed var(--md-default-fg-color--lightest); border-radius:.7rem; }
+/* Joc autònom de la UD02: una pàgina HTML en blanc sense elements de MkDocs. */
+:root { color-scheme: light; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; min-height: 100%; background: #fff; color: #1d2733; }
+body { font-size: 16px; line-height: 1.45; }
+button { font: inherit; }
+.pagina-joc { width: 100%; max-width: 1100px; margin: 0 auto; padding: clamp(12px, 3vw, 32px); }
+.joc-organuls { width: 100%; }
+.jo-capcalera { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap: 14px; margin-bottom:20px; }
+.jo-marcador { display:flex; flex-wrap:wrap; gap:10px; }
+.jo-dada { display:flex; flex-direction:column; align-items:center; justify-content:center; min-width:135px; gap:3px; padding:10px 14px; border:1px solid #cbd3db; border-radius:9px; background:#fff; }
+.jo-dada span { font-size:14px; text-align:center; }
+.jo-dada small { display:block; color:#64748b; font-size:11px; }
+.jo-dada strong { font-size:24px; font-variant-numeric:tabular-nums; }
+.jo-reinicia { padding:10px 14px; border:1px solid #3b4754; border-radius:8px; background:#fff; color:#1d2733; font-weight:650; cursor:pointer; }
+.jo-reinicia:hover, .jo-reinicia:focus-visible { background:#f3f5f7; outline:2px solid #64748b; outline-offset:2px; }
+.jo-pregunta { display:flex; flex-direction:column; justify-content:center; min-height:125px; padding:18px 22px; border:1px solid #cbd3db; border-radius:10px; margin-bottom:16px; background:#fff; }
+.jo-etiqueta { margin:0 0 9px; font-size:12px; letter-spacing:.05em; font-weight:750; color:#4a5b6c; }
+.jo-funcio { margin:0; font-size:clamp(18px,2.4vw,25px); line-height:1.42; font-weight:650; }
+.jo-graella { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); grid-template-rows:repeat(4,minmax(125px,auto)); gap:12px; }
+.jo-casella { min-width:0; min-height:125px; }
+.jo-targeta { display:flex; flex-direction:column; align-items:center; justify-content:center; width:100%; min-height:125px; height:100%; gap:8px; padding:16px 12px; border:1.5px solid #bac5cf; border-radius:10px; background:#fff; color:#1d2733; text-align:center; cursor:pointer; hyphens:auto; overflow-wrap:anywhere; }
+.jo-targeta[data-cara="funcio"] { background:#f7f9fb; }
+.jo-targeta:hover, .jo-targeta:focus-visible { border-color:#4a667d; background:#edf3f8; outline:2px solid #829db4; outline-offset:2px; }
+.jo-cara-etiqueta { color:#5b6b7a; font-size:11px; font-weight:750; letter-spacing:.08em; }
+.jo-cara-contingut { font-size:clamp(14px,1.5vw,17px); font-weight:650; line-height:1.3; }
+.jo-targeta[data-cara="funcio"] .jo-cara-contingut { font-size:clamp(13px,1.3vw,16px); font-weight:500; }
+.jo-casella.jo-resolta { border:1px dashed #d9dfe5; border-radius:10px; }
 .jo-resolta .jo-targeta { visibility:hidden; pointer-events:none; }
-.jo-retroaccio { margin-top:1rem; min-height:2.5rem; padding:.6rem .8rem; border-left:3px solid transparent; font-size:.93rem; line-height:1.45; }
-.jo-retroaccio[data-tipus] { border-color:var(--md-primary-fg-color); background:var(--md-code-bg-color); }
-.jo-final { margin-top:1rem; padding:1.2rem; background:var(--md-code-bg-color); border-radius:.65rem; text-align:center; }
+.jo-retroaccio { min-height:36px; margin-top:14px; padding:10px 12px; font-size:14px; line-height:1.45; border-left:3px solid transparent; }
+.jo-retroaccio[data-tipus] { border-left-color:#7a8a9a; background:#f7f9fb; }
+.jo-final { text-align:center; padding:22px; margin-top:14px; border:1px solid #cbd3db; border-radius:10px; }
 .jo-final[hidden] { display:none; }
-.jo-final h2 { margin:.3rem 0 .6rem; }
-.jo-final p { margin-bottom:.85rem; }
-@media(max-width:560px) {
+.jo-final h2 { font-size:21px; margin:0 0 10px; }
+.jo-final p { margin:0 0 14px; }
+@media (max-width:600px) {
+  .pagina-joc { padding:10px; }
   .jo-capcalera { justify-content:center; }
-  .jo-marcador { width:100%; justify-content:space-between; gap:.3rem; }
-  .jo-dada { min-width:0; flex:1; padding:.42rem .35rem; gap:.25rem; flex-direction:column; }
-  .jo-dada span { font-size:.72rem; }
-  .jo-dada strong { font-size:1.15rem; }
-  .jo-graella { gap:.35rem; grid-template-rows:repeat(4,minmax(6.3rem,auto)); }
-  .jo-casella, .jo-targeta { min-height:6.3rem; }
-  .jo-targeta { padding:.45rem .25rem; font-size:.78rem; }
-  .jo-pregunta { padding:.85rem; }
-  .jo-reinicia { font-size:.88rem; }
-}
-
-/* Targetes mixtes: 3 columnes per 4 files, sense reordenar-se en encertar. */
-.jo-dada small { display:block; font-size:.7rem; opacity:.8; }
-.jo-graella { grid-template-columns:repeat(3,minmax(0,1fr)); grid-template-rows:repeat(4,minmax(8.5rem,auto)); }
-.jo-casella,.jo-targeta { min-height:8.5rem; }
-.jo-targeta { flex-direction:column; gap:.55rem; padding:.65rem .4rem; }
-.jo-targeta[data-cara="funcio"] { background:var(--md-code-bg-color); }
-.jo-cara-etiqueta { color:var(--md-default-fg-color--light); font-size:.66rem; letter-spacing:.08em; font-weight:700; }
-.jo-cara-contingut { font-size:clamp(.82rem,1.3vw,.98rem); font-weight:600; line-height:1.32; }
-.jo-targeta[data-cara="funcio"] .jo-cara-contingut { font-size:clamp(.8rem,1.12vw,.94rem); font-weight:500; }
-.jo-retroaccio[data-tipus="error"] { border-color:var(--md-default-fg-color--light); }
-@media(max-width:560px) {
- .jo-dada span { font-size:.71rem; }
- .jo-dada small { font-size:.66rem; }
- .jo-graella { grid-template-rows:repeat(4,minmax(10rem,auto)); }
- .jo-casella,.jo-targeta { min-height:10rem; }
- .jo-targeta { padding:.42rem .25rem; }
- .jo-cara-etiqueta { font-size:.58rem; }
- .jo-cara-contingut { font-size:.77rem; }
- .jo-targeta[data-cara="funcio"] .jo-cara-contingut { font-size:.73rem; }
+  .jo-marcador { width:100%; gap:5px; }
+  .jo-dada { flex:1; min-width:0; padding:7px 3px; }
+  .jo-dada span { font-size:12px; }
+  .jo-dada small { font-size:10px; }
+  .jo-dada strong { font-size:20px; }
+  .jo-pregunta { min-height:105px; padding:12px; }
+  .jo-funcio { font-size:17px; }
+  .jo-graella { gap:5px; grid-template-columns:repeat(3,minmax(0,1fr)); grid-template-rows:repeat(4,minmax(142px,auto)); }
+  .jo-casella, .jo-targeta { min-height:142px; }
+  .jo-targeta { padding:7px 4px; gap:5px; }
+  .jo-cara-etiqueta { font-size:10px; }
+  .jo-cara-contingut { font-size:12px; }
+  .jo-targeta[data-cara="funcio"] .jo-cara-contingut { font-size:11.5px; }
 }

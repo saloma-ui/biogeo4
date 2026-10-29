@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <meta name="color-scheme" content="light">
+  <link rel="stylesheet" href="./joc-organuls.css">
+  <script src="./joc-organuls.js" defer></script>
+</head>
+<body>
+  <main class="pagina-joc">
+<div class="joc-organuls" data-joc-organuls>
+  <div class="jo-capcalera">
+    <div class="jo-marcador" aria-label="Marcador de la partida">
+      <div class="jo-dada"><span>Correctes <small>(ronda)</small></span><strong data-jo-correctes>0</strong></div>
+      <div class="jo-dada"><span>Incorrectes <small>(total)</small></span><strong data-jo-incorrectes>0</strong></div>
+      <div class="jo-dada"><span>Pendents</span><strong data-jo-pendents>12</strong></div>
+    </div>
+    <button type="button" class="jo-reinicia" data-jo-reinicia>Comença de zero</button>
+  </div>
+
+  <div class="jo-pregunta" aria-live="polite" aria-atomic="true">
+    <p class="jo-etiqueta" data-jo-etiqueta>PREPARANT LA PREGUNTA…</p>
+    <p class="jo-funcio" data-jo-enunciat>Carregant el joc…</p>
+  </div>
+
+  <div class="jo-graella" data-jo-graella role="group" aria-label="Dotze targetes de les estructures cel·lulars"></div>
+
+  <div class="jo-retroaccio" data-jo-retroaccio role="status" aria-live="polite" aria-atomic="true"></div>
+  <div class="jo-final" data-jo-final hidden>
+    <h2>Has eliminat les 12 targetes!</h2>
+    <p data-jo-resum></p>
+    <button type="button" class="jo-reinicia jo-reinicia-final" data-jo-reinicia>Torna a jugar</button>
+  </div>
+</div>
+  </main>
+  <noscript>Cal activar JavaScript per utilitzar el joc.</noscript>
+</body>
+</html>

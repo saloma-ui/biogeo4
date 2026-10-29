@@ -79,7 +79,6 @@ nav:
       - 'UD2 - La continuïtat cel·lular':
           - Índex: activitats/ud2/index.md
           - 'A01 · La diversitat cel·lular': activitats/ud2/diversitat-cellular/index.md
-          - 'Joc · Les 12 targetes dels orgànuls': activitats/ud2/organuls/index.md
       - 'UD3 - Informació genètica i herència':
           - Índex: activitats/ud3/index.md
       - 'UD4 - Evolució':
@@ -102,10 +101,8 @@ extra_css:
   - presentacio.css
   - visor-ideib.css
   - activitats/ud1/geo04/geo04-tall.css
-  - activitats/ud2/organuls/joc-organuls.css
 
 extra_javascript:
   - interaccio.js
   - visor-ideib.js
   - activitats/ud1/geo04/geo04-tall.js
-  - activitats/ud2/organuls/joc-organuls.js

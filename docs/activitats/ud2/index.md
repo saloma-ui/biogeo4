@@ -6,4 +6,4 @@
 
 ## Joc de repàs · Les 12 targetes dels orgànuls
 
-[Practica les funcions dels orgànuls](organuls/index.md)
+[Practica les funcions dels orgànuls](organuls/index.html)
