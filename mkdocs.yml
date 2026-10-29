@@ -52,7 +52,7 @@ nav:
       - 'UD2 - La continuïtat cel·lular': material/ud2/ud2.md
       - 'UD3 - Informació genètica i herència': material/ud3/ud3.md
       - 'UD4 - Evolució': material/ud4/ud4.md
-      - 'UD5 - La Terra a l'univers': material/ud5/ud5.md
+      - "UD5 - La Terra a l'univers": material/ud5/ud5.md
       - UD6: material/ud6/ud6.md
   - Activitats:
       - 'UD1 - Geologia':
@@ -83,7 +83,7 @@ nav:
           - Índex: activitats/ud3/index.md
       - 'UD4 - Evolució':
           - Índex: activitats/ud4/index.md
-      - 'UD5 - La Terra a l'univers':
+      - "UD5 - La Terra a l'univers":
           - Índex: activitats/ud5/index.md
       - UD6:
           - Índex: activitats/ud6/index.md
