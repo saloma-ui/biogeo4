@@ -54,6 +54,9 @@ nav:
       - 'UD4 - Evolució': material/ud4/ud4.md
       - "UD5 - La Terra a l'univers": material/ud5/ud5.md
       - UD6: material/ud6/ud6.md
+  - 'Ciència per descobrir':
+      - Índex: divulgacio/index.md
+      - 'Per què relaxar un múscul també consumeix energia?': divulgacio/ud02/01-rel-calci.md
   - Activitats:
       - 'UD1 - Geologia':
           - Índex: activitats/ud1/index.md
