@@ -1,3 +1,5 @@
+<!-- ARXIU: proposta descartada de la UD1. La programació vigent utilitza A09 · Comprendre el risc (CA 5.1). No publicar aquesta pàgina a MkDocs. -->
+
 ---
 title: 'A09 · On construiríem?'
 pdf: false
