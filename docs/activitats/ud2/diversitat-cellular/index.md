@@ -304,7 +304,11 @@ Cada alumne rebrà **una miniinvestigació diferent**. Llegeix-ne l'article cien
     - [**Llegeix l'article científic**](../../../divulgacio/ud02/05-sabotatge-proteines.md)
     - [**Obre la fitxa de miniinvestigació**](fitxes/05-sabotatge-proteines.md)
 
-*Els altres dos reptes s'incorporaran aquí quan estiguin preparats.*
+!!! question "6 · La proteïna que no arriba mai al seu destí"
+    Descobreix com el **plegament de la proteïna CFTR**, el control de qualitat del **RER** i el transport fins a la **membrana plasmàtica** poden determinar la hidratació i l'eliminació del moc a les vies respiratòries.
+
+    - [**Llegeix l'article científic**](../../../divulgacio/ud02/06-proteina-cftr.md)
+    - [**Obre la fitxa de miniinvestigació**](fitxes/06-proteina-cftr.md)
 
 **Què s'ha de lliurar?** La fitxa amb les respostes i la presentació de Canva, segons les indicacions del professor. Les respostes de les comprovacions interactives de les seccions anteriors **no** s'han de lliurar.
 
