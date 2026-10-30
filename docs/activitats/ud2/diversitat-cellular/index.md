@@ -292,7 +292,13 @@ Cada alumne rebrà **una miniinvestigació diferent**. Llegeix-ne l'article cien
     - [**Llegeix l'article científic**](../../../divulgacio/ud02/03-gas-invisible.md)
     - [**Obre la fitxa de miniinvestigació**](fitxes/03-gas-invisible.md)
 
-*Els altres quatre reptes s'incorporaran aquí quan estiguin preparats.*
+!!! question "4 · La trampa invisible dins les neurones"
+    Descobreix com una alteració del gen **HEXA** pot afectar un **enzim lisosomal** i provocar l'acumulació de **GM2** a les neurones.
+
+    - [**Llegeix l'article científic**](../../../divulgacio/ud02/04-trampa-neurones.md)
+    - [**Obre la fitxa de miniinvestigació**](fitxes/04-trampa-neurones.md)
+
+*Els altres tres reptes s'incorporaran aquí quan estiguin preparats.*
 
 **Què s'ha de lliurar?** La fitxa amb les respostes i la presentació de Canva, segons les indicacions del professor. Les respostes de les comprovacions interactives de les seccions anteriors **no** s'han de lliurar.
 
