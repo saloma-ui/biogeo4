@@ -286,7 +286,7 @@ Cada alumne rebrà **una miniinvestigació diferent**. Llegeix-ne l'article cien
     - [**Llegeix l'article científic**](../../../divulgacio/ud02/02-fina-linia-vida.md)
     - [**Obre la fitxa de miniinvestigació**](fitxes/02-fina-linia-vida.md)
 
-!!! question "3 · Monòxid de carboni: mort en dos temps"
+!!! question "3 · Monòxid de carboni: asfíxia cel·lular"
     Descobreix per què el **monòxid de carboni** pot dificultar el transport d'**oxigen** i reduir la producció d'**ATP** als mitocondris.
 
     - [**Llegeix l'article científic**](../../../divulgacio/ud02/03-gas-invisible.md)
