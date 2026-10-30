@@ -3,8 +3,9 @@ body.cd-revista { --cd-ink:#243447;--cd-blue:#20597e;--cd-sand:#faf6ef;--cd-line
 body.cd-revista .md-main__inner.md-grid { max-width:82rem; }
 body.cd-revista .md-content { min-width:0; margin:0; }
 body.cd-revista .md-content__inner { max-width:none; margin:0; padding:1.5rem 1.25rem 3rem; }
-.cd-hero { display:block; margin:0 0 1.3rem; height:clamp(175px,24vw,335px); border-radius:14px; overflow:hidden; background:#faf5ed; }
-.cd-hero img { width:100%; height:100%; display:block; object-fit:cover; }
+/* Les regles generals de figure de Material restringeixen l'amplada intrínseca: la capçalera ha d'ocupar tot el contenidor editorial. */
+body.cd-revista .md-typeset figure.cd-hero { display:block; box-sizing:border-box; width:100%; max-width:100%; min-width:0; margin:0 0 1.3rem; height:clamp(175px,24vw,335px); border-radius:14px; overflow:hidden; background:#faf5ed; }
+body.cd-revista .md-typeset figure.cd-hero img { width:100%; height:100%; max-width:none; display:block; object-fit:cover; object-position:center center; }
 .cd-layout { display:grid; grid-template-columns:minmax(0,1fr) 17rem; gap:clamp(1.1rem,3vw,2.6rem); align-items:start; }
 .cd-reading { min-width:0; color:var(--cd-ink); }
 .cd-reading > h1 { color:#152e48; font:700 clamp(1.65rem,3vw,2.45rem)/1.15 Georgia,serif; letter-spacing:-.025em; margin:.35rem 0 .7rem; }
