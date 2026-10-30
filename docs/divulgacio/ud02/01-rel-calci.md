@@ -46,7 +46,7 @@ Per tant, el calci no és el combustible de la contracció: **és un senyal que 
 
     *La proporció és aproximada i es refereix al Ca²⁺ lliure, no a tot el calci emmagatzemat.*
 
-![Esquema comparatiu del transport del calci durant la contracció i la relaxació muscular](figures/calci-contraccio-relaxacio.svg)
+![Esquema comparatiu del transport del calci durant la contracció i la relaxació muscular](figures/calci-contraccio-relaxacio.webp)
 
 *Figura 1. Durant la contracció, el Ca²⁺ surt del reticle sarcoplasmàtic per transport passiu. Durant la relaxació, les bombes SERCA el retornen al reticle consumint ATP. Esquema didàctic, no representat a escala.*
 
