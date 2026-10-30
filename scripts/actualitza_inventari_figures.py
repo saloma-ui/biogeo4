@@ -10,7 +10,7 @@ import json
 import os
 from pathlib import Path
 import re
-from urllib.parse import quote, unquote
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
@@ -104,10 +104,12 @@ def main():
     }
     text = load(CATALOG)
     historical_text = text.split(START, 1)[0]
+    # Extreu la ruta escrita al text de l'enllaç, no l'URL:
+    # alguns enllaços antics contenen parèntesis sense codificar.
     original = {
-        unquote(m.group(1))
+        m.group(1)
         for m in re.finditer(
-            r"https://github[.]com/saloma-ui/biogeo4/blob/main/([^\s)]+)",
+            r"\[\x60(docs/[^\x60]+)\x60\]\(https://github[.]com/saloma-ui/biogeo4/blob/main/",
             historical_text,
         )
     }
