@@ -113,6 +113,16 @@ La tetraciclina n'és un exemple: una molècula capaç de dificultar la fabricac
 
 **Una petita diferència en l'estructura d'un ribosoma pot determinar si un antibiòtic és capaç d'aturar un bacteri.**
 
+### Article 5 · Sabotatge a la fàbrica de proteïnes
+
+**La recerca continua la lluita contra les infeccions**
+
+La resistència bacteriana és un repte important per a la medicina, però la investigació continua desenvolupant nous antibiòtics i estratègies per detectar, prevenir i tractar les infeccions.
+
+Conèixer les diferències entre les cèl·lules bacterianes i les humanes ajuda a descobrir noves dianes per als medicaments.
+
+**Cada descoberta sobre el funcionament dels bacteris pot contribuir a crear tractaments més eficaços i a protegir els que ja tenim.**
+
 ---
 
 ### Fonts científiques
