@@ -20,7 +20,7 @@ Cada fosfolípid presenta dues regions amb propietats diferents:
 - Un **cap polar**, que interacciona favorablement amb l'aigua. És *hidròfil*.
 - Dues **cues apolars**, que tendeixen a evitar el contacte amb l'aigua. Són *hidrofòbiques*.
 
-![Esquema d'un fosfolípid: cap polar hidròfil i dues cues apolars hidrofòbiques](figures/membranes-01.svg)
+![Esquema d'un fosfolípid: cap polar hidròfil i dues cues apolars hidrofòbiques](figures/fosfolipid-cap-cues.webp)
 
 *Figura 1. Representació esquemàtica d'un fosfolípid, no a escala.*
 
@@ -28,7 +28,7 @@ Com que hi ha aigua tant dins com fora de les cèl·lules, els fosfolípids tend
 
 Aquesta disposició crea una barrera que dificulta el pas directe de moltes substàncies, especialment les que tenen càrrega elèctrica, com els ions.
 
-![Organització de la bicapa: caps polars orientats cap a l'aigua i cues apolars enfrontades](figures/membranes-02.svg)
+![Organització de la bicapa: caps polars orientats cap a l'aigua i cues apolars enfrontades](figures/bicapa-fosfolipids.webp)
 
 *Figura 2. Organització d'una bicapa fosfolipídica: polar–apolar–apolar–polar. Esquema, no a escala.*
 
@@ -57,7 +57,7 @@ Una vesícula és un petit compartiment envoltat per una membrana. Pot formar-se
 
 Les vesícules poden transportar components entre el reticle endoplasmàtic, l'aparell de Golgi i la membrana plasmàtica.
 
-![Esquema del transport de components de membrana des del reticle endoplasmàtic fins a la membrana plasmàtica, passant pel Golgi](figures/membranes-03.svg)
+![Esquema del transport de components de membrana des del reticle endoplasmàtic fins a la membrana plasmàtica, passant pel Golgi](figures/transport-membranes.webp)
 
 *Figura 3. Síntesi de components de membrana al reticle, trànsit vesicular a través del Golgi i fusió amb la membrana plasmàtica. Esquema simplificat, no a escala.*
 
