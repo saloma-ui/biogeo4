@@ -154,7 +154,5 @@ Les figures científiques, les fotografies, els mapes i els diagrames **no són 
 
 Les fitxes pendents s'han de verificar abans d'atribuir autoria o drets de reutilització.
 
-| Fitxer | Tipus | Origen | Autor o responsable | Llicència | Escala i observacions | Estat |
-|:--|:--|:--|:--|:--|:--|:--|
-| [geo04_02_escala_perforacio_terra (1).png](https://github.com/saloma-ui/biogeo4/blob/main/docs/material/ud1/figures/geo04_02_escala_perforacio_terra%20%281%29.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+Cap figura incorporada després del registre inicial.
 <!-- FIGURES_AUTO_FI -->
