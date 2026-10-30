@@ -11,7 +11,6 @@ Cada unitat didàctica disposa d'un document principal i de les figures necessà
 - [UD3 - Informació genètica i herència](material/ud3/ud3.md)
 - [UD4 - Evolució](material/ud4/ud4.md)
 - [UD5 - La Terra a l'univers](material/ud5/ud5.md)
-- [UD6](material/ud6/ud6.md)
 
 ## Activitats
 
@@ -22,7 +21,6 @@ Les activitats estan organitzades per unitat didàctica i, dins cada unitat, per
 - [Activitats de la UD3 - Informació genètica i herència](activitats/ud3/index.md)
 - [Activitats de la UD4 - Evolució](activitats/ud4/index.md)
 - [Activitats de la UD5 - La Terra a l'univers](activitats/ud5/index.md)
-- [Activitats de la UD6](activitats/ud6/index.md)
 
 ## Informació del curs
 
