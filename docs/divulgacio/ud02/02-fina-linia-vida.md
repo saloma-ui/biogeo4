@@ -1,6 +1,16 @@
 ---
 title: "La fina línia que sosté la vida"
 description: "Com fabrica una cèl·lula els fosfolípids i distribueix les membranes que necessita?"
+hide:
+  - navigation
+  - toc
+  - tags
+tags:
+  - "Membranes"
+  - "Fosfolípids"
+  - "Reticle endoplasmàtic"
+  - "Aparell de Golgi"
+  - "Vesícules"
 ---
 
 # La fina línia que sosté la vida
