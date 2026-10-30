@@ -104,6 +104,14 @@ Com a resultat, una substància que normalment es degradaria comença a acumular
 
 **La vida cel·lular no depèn només de fabricar substàncies: també depèn de poder-les transformar, degradar i reciclar.**
 
+**Una esperança que neix de la recerca**
+
+Actualment, la malaltia de Tay-Sachs encara no té cura. Els tractaments se centren en l'atenció i el benestar de les persones afectades i en el control dels símptomes.
+
+Però els investigadors treballen en estratègies que intenten recuperar l'activitat de l'enzim que falta, incloses diferents formes de teràpia gènica. Alguns estudis experimentals ja han obtingut resultats prometedors en cèl·lules i animals.
+
+Aquests avenços encara no representen una cura disponible per als pacients, però **conèixer l'origen genètic i cel·lular de la malaltia permet explorar tractaments que abans eren inimaginables**.
+
 ---
 
 ### Fonts científiques
