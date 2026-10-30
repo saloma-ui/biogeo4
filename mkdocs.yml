@@ -65,7 +65,7 @@ nav:
       - 'La proteïna que no arriba mai al seu destí': divulgacio/ud02/06-proteina-cftr.md
   - Activitats:
       - 'UD1 - Geologia':
-          - Índex: activitats/ud1/index.md
+          - 'Visió general': activitats/ud1/index.md
           - 'A01 · Llegim el paisatge': activitats/ud1/geo-01/index.md
           - 'A02 · Del mapa al relleu': activitats/ud1/geo02/index.md
           - 'A03 · Com sabem què hi ha dins la Terra?': activitats/ud1/interior-terra/index.md
@@ -74,26 +74,17 @@ nav:
           - 'A06 · Llegim el temps a les roques': activitats/ud1/geo04/index.md
           - 'A07 · Reconstruïm una història geològica': activitats/ud1/g1/g1.md
           - 'A08 · Quan un procés natural esdevé un risc?': activitats/ud1/riscos/index.md
-          - 'A09 · Comprendre el risc': activitats/ud1/g2-risc-evidencia/index.md
-          - Llegim el paisatge (UD01-A1): activitats/ud1/geo-01/index.md
-          - Del mapa al relleu (UD01-A2): activitats/ud1/geo02/index.md
-          - Com sabem què hi ha dins la Terra? (UD01-A3): activitats/ud1/interior-terra/index.md
-          - Una Terra fragmentada (UD01-A4): activitats/ud1/terra-fragmentada/index.md
-          - Tectònica en dades (UD01-A5): activitats/ud1/geo03/index.md
-          - Llegim el temps a les roques (UD01-A6): activitats/ud1/geo04/index.md
-          - Reconstruïm una història geològica (UD01-A7): activitats/ud1/g1/g1.md
-          - Quan un procés natural esdevé risc? (UD01-A8): activitats/ud1/riscos/index.md
-          - On construiríem? (UD01-A9): activitats/ud1/g2/index.md
-          - Comprendre el risc (UD01-A10): activitats/ud1/g2-risc-evidencia/index.md
+          - 'A09 · On construiríem?': activitats/ud1/g2/index.md
+          - 'A10 · Comprendre el risc': activitats/ud1/g2-risc-evidencia/index.md
       - 'UD2 - La continuïtat cel·lular':
-          - Índex: activitats/ud2/index.md
+          - 'Visió general': activitats/ud2/index.md
           - 'A01 · La diversitat cel·lular': activitats/ud2/diversitat-cellular/index.md
       - 'UD3 - Informació genètica i herència':
-          - Índex: activitats/ud3/index.md
+          - 'Visió general': activitats/ud3/index.md
       - 'UD4 - Evolució':
-          - Índex: activitats/ud4/index.md
+          - 'Visió general': activitats/ud4/index.md
       - "UD5 - La Terra a l'univers":
-          - Índex: activitats/ud5/index.md
+          - 'Visió general': activitats/ud5/index.md
 
 markdown_extensions:
   - attr_list

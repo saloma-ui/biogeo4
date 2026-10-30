@@ -253,3 +253,27 @@ html:has(.presentacio-vertical) {
     max-height: none;
   }
 }
+
+/* Prova d'orientació a A03: TOC del costat dret amb els grans blocs. */
+.presentacio-vertical.pv-pagina-index .pv-subtitol {
+  font-size: clamp(1.35rem, 2.4vw, 1.9rem);
+  line-height: 1.2;
+  margin: 1.1rem 0 0.75rem;
+}
+.presentacio-vertical.pv-pagina-index .pv-seccio > h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  margin: 0 0 1rem;
+}
+.presentacio-vertical.pv-pagina-index .pv-seccio > h3 {
+  font-size: clamp(1.35rem, 2.4vw, 1.9rem);
+  line-height: 1.2;
+}
+.presentacio-vertical.pv-pagina-index .pv-seccio > h4 {
+  font-size: clamp(1.05rem, 1.8vw, 1.35rem);
+}
+/* El sumari mostra només les grans parts; els subapartats continuen ancorats. */
+html:has(.pv-pagina-index) .md-sidebar--secondary .md-nav__list .md-nav__list {
+  display: none;
+}

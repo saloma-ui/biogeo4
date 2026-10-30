@@ -1,4 +1,4 @@
-# Activitats · UD1
+# Activitats · UD1 - Geologia
 
 ## A01 · Llegim el paisatge
 
@@ -32,6 +32,10 @@
 
 [Obre l'activitat](riscos/index.md)
 
-## A09 · Comprendre el risc
+## A09 · On construiríem?
+
+[Obre l'activitat](g2/index.md)
+
+## A10 · Comprendre el risc
 
 [Obre l'activitat](g2-risc-evidencia/index.md)

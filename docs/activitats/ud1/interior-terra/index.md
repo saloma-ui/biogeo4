@@ -3,15 +3,16 @@ title: 'A03 · Com sabem què hi ha dins la Terra?'
 pdf: false
 hide:
   - navigation
-  - toc
 ---
 
-<div class="presentacio-vertical" markdown>
+[← Torna a les activitats de Geologia](../index.md){ .md-button }
+
+<div class="presentacio-vertical pv-pagina-index" markdown>
 
 <section class="pv-seccio pv-portada" markdown>
 
 # A03 · Com sabem què hi ha dins la Terra?
-## Una investigació sobre allò que no podem veure directament
+<p class="pv-subtitol">Una investigació sobre allò que no podem veure directament</p>
 
 ![La Terra amb l'interior com a incògnita](figures/geo04_01_repte_interior.png)
 
@@ -21,7 +22,7 @@ hide:
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 1 · El repte
+## 1 · El repte
 
 Sabem moltes coses sobre l'interior de la Terra.
 
@@ -41,7 +42,7 @@ Pensau-hi durant mig minut abans de continuar.
 
 <section class="pv-seccio" markdown>
 
-# 1.1 · Què podríem fer?
+### 1.1 · Què podríem fer?
 
 Imaginau que encara no coneixem l'estructura interna de la Terra.
 
@@ -80,7 +81,7 @@ Imaginau que encara no coneixem l'estructura interna de la Terra.
 
 <section class="pv-seccio" markdown>
 
-# 1.2 · Dues maneres d'investigar
+### 1.2 · Dues maneres d'investigar
 
 Podem obtenir informació de dues maneres generals:
 
@@ -88,7 +89,7 @@ Podem obtenir informació de dues maneres generals:
 
 <div class="pv-targeta" markdown>
 
-### Observació directa
+#### Observació directa
 
 Estudiam **materials als quals podem accedir**.
 
@@ -96,7 +97,7 @@ Estudiam **materials als quals podem accedir**.
 
 <div class="pv-targeta" markdown>
 
-### Informació indirecta
+#### Informació indirecta
 
 Mesuram **senyals, propietats o efectes** i els interpretam.
 
@@ -104,7 +105,7 @@ Mesuram **senyals, propietats o efectes** i els interpretam.
 
 <div class="pv-targeta" markdown>
 
-### El problema
+#### El problema
 
 La major part de l'interior terrestre és **inaccessible directament**.
 
@@ -118,7 +119,7 @@ La major part de l'interior terrestre és **inaccessible directament**.
 
 <section class="pv-seccio" markdown>
 
-# 2 · Fins on podem observar directament?
+## 2 · Fins on podem observar directament?
 
 Una manera aparentment senzilla d'investigar l'interior terrestre és **perforar**.
 
@@ -158,7 +159,7 @@ Però la Terra és enorme.
 
 <section class="pv-seccio" markdown>
 
-# 2.1 · Posam-ho a escala
+### 2.1 · Posam-ho a escala
 
 El radi mitjà de la Terra és d'uns **6.371 km**.
 
@@ -200,7 +201,7 @@ Una perforació d'uns **12 km** representa només aproximadament el **0,2 % del 
 
 <section class="pv-seccio" markdown>
 
-# 2.2 · Perforar no és l'única observació directa
+### 2.2 · Perforar no és l'única observació directa
 
 També podem estudiar materials terrestres que són accessibles per altres vies.
 
@@ -208,7 +209,7 @@ També podem estudiar materials terrestres que són accessibles per altres vies.
 
 <div class="pv-targeta" markdown>
 
-### Perforacions
+#### Perforacions
 
 Permeten extreure i analitzar **mostres del subsòl**.
 
@@ -216,7 +217,7 @@ Permeten extreure i analitzar **mostres del subsòl**.
 
 <div class="pv-targeta" markdown>
 
-### Mines i afloraments
+#### Mines i afloraments
 
 Permeten observar **roques accessibles** directament.
 
@@ -224,7 +225,7 @@ Permeten observar **roques accessibles** directament.
 
 <div class="pv-targeta" markdown>
 
-### Materials transportats
+#### Materials transportats
 
 Alguns processos geològics duen fins a la superfície **fragments originats a més profunditat**.
 
@@ -265,7 +266,7 @@ Alguns processos geològics duen fins a la superfície **fragments originats a m
 
 <section class="pv-seccio" markdown>
 
-# 2.3 · Directe no significa profund
+### 2.3 · Directe no significa profund
 
 Els mètodes directes tenen un gran avantatge:
 
@@ -304,13 +305,13 @@ Però tenen una limitació decisiva:
 
 <section class="pv-seccio" markdown>
 
-# 2.4 · Posam nom al que hem descobert
+### 2.4 · Posam nom al que hem descobert
 
 <div class="pv-tres-columnes" markdown>
 
 <div class="pv-targeta" markdown>
 
-### Mètodes directes
+#### Mètodes directes
 
 Estudiam **materials als quals podem accedir**.
 
@@ -320,7 +321,7 @@ Perforacions, mines, afloraments i determinats materials procedents de zones mé
 
 <div class="pv-targeta" markdown>
 
-### Mètodes indirectes
+#### Mètodes indirectes
 
 Mesuram **propietats, senyals o efectes** i els utilitzam per deduir com deu ser l'interior.
 
@@ -328,7 +329,7 @@ Mesuram **propietats, senyals o efectes** i els utilitzam per deduir com deu ser
 
 <div class="pv-targeta" markdown>
 
-### Conseqüència
+#### Conseqüència
 
 Per conèixer la major part de la Terra haurem de treballar sobretot amb **evidències indirectes**.
 
@@ -342,7 +343,7 @@ Per conèixer la major part de la Terra haurem de treballar sobretot amb **evid�
 
 <section class="pv-seccio" markdown>
 
-# 2.5 · Necessitam una sonda que no hàgim de construir
+### 2.5 · Necessitam una sonda que no hàgim de construir
 
 Si nosaltres no podem arribar a l'interior...
 
@@ -378,7 +379,7 @@ Si nosaltres no podem arribar a l'interior...
 
 <section class="pv-seccio" markdown>
 
-# Queda't amb això
+## Queda't amb això
 
 <div class="pv-cadena" markdown>
 
@@ -390,7 +391,7 @@ Si nosaltres no podem arribar a l'interior...
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 3 · Un terratrèmol ens envia informació
+## 3 · Un terratrèmol ens envia informació
 
 Quan es produeix un **terratrèmol**, s'originen vibracions que es propaguen per la Terra.
 
@@ -432,7 +433,7 @@ Aquestes vibracions són les **ones sísmiques**.
 
 <section class="pv-seccio" markdown>
 
-# 3.1 · Del senyal a la dada
+### 3.1 · Del senyal a la dada
 
 Una estació sísmica mesura el moviment del terreny al llarg del temps.
 
@@ -474,7 +475,7 @@ El resultat és un **registre sísmic**.
 
 <section class="pv-seccio" markdown>
 
-# 3.2 · Observar no és el mateix que inferir
+### 3.2 · Observar no és el mateix que inferir
 
 Suposau que, després d'un terratrèmol, obtenim registres de moltes estacions repartides per la superfície terrestre.
 
@@ -518,7 +519,7 @@ Suposau que, després d'un terratrèmol, obtenim registres de moltes estacions r
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 3.3 · No totes les ones fan el mateix recorregut
+### 3.3 · No totes les ones fan el mateix recorregut
 
 Quan analitzam els registres sísmics amb més detall, podem distingir **diferents tipus d'ones**.
 
@@ -560,7 +561,7 @@ Observau les dues famílies de trajectòries representades a la figura.
 
 <section class="pv-seccio" markdown>
 
-# 3.4 · Posam nom a les dues famílies
+### 3.4 · Posam nom a les dues famílies
 
 Les dues famílies d'ones que acabam d'observar són:
 
@@ -568,7 +569,7 @@ Les dues famílies d'ones que acabam d'observar són:
 
 <div class="pv-targeta" markdown>
 
-### Ones P
+#### Ones P
 
 En la figura anterior són les trajectòries **violetes**.
 
@@ -578,7 +579,7 @@ Poden arribar a regions que les altres ones no travessen.
 
 <div class="pv-targeta" markdown>
 
-### Ones S
+#### Ones S
 
 En la figura anterior són les trajectòries **verdes**.
 
@@ -588,7 +589,7 @@ El seu recorregut queda limitat en arribar a determinades regions internes.
 
 <div class="pv-targeta" markdown>
 
-### La nova pregunta
+#### La nova pregunta
 
 **Per què P i S no es propaguen de la mateixa manera?**
 
@@ -633,7 +634,7 @@ Les ones **P i S no es propaguen de la mateixa manera**, i aquesta diferència p
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 4 · Per què les ones P i S es comporten diferent?
+## 4 · Per què les ones P i S es comporten diferent?
 
 Per interpretar les trajectòries de les ones sísmiques, primer hem d'entendre **com es mou el material quan passa cada tipus d'ona**.
 
@@ -667,7 +668,7 @@ Per interpretar les trajectòries de les ones sísmiques, primer hem d'entendre 
 
 <section class="pv-seccio" markdown>
 
-# 4.1 · Què passa en un sòlid?
+### 4.1 · Què passa en un sòlid?
 
 En un **sòlid**, les partícules mantenen una posició relativa i el material pot transmetre tant una compressió com una deformació lateral.
 
@@ -697,7 +698,7 @@ En un **sòlid**, les partícules mantenen una posició relativa i el material p
 
 <section class="pv-seccio" markdown>
 
-# 4.2 · I en un líquid?
+### 4.2 · I en un líquid?
 
 Un líquid pot transmetre **compressions**, però no manté una deformació lateral de cisallament com ho fa un sòlid.
 
@@ -736,7 +737,7 @@ Un líquid pot transmetre **compressions**, però no manté una deformació late
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 4.3 · Tornam a les dades
+### 4.3 · Tornam a les dades
 
 Ara recuperam les trajectòries que havíem observat abans.
 
@@ -781,13 +782,13 @@ Recordau:
 
 <section class="pv-seccio" markdown>
 
-# 4.4 · De la dada a la inferència
+### 4.4 · De la dada a la inferència
 
 <div class="pv-tres-columnes" markdown>
 
 <div class="pv-targeta" markdown>
 
-### OBSERVAM
+#### OBSERVAM
 
 Les ones **S no travessen** una determinada regió interna.
 
@@ -795,7 +796,7 @@ Les ones **S no travessen** una determinada regió interna.
 
 <div class="pv-targeta" markdown>
 
-### SABEM
+#### SABEM
 
 Les ones **S no es propaguen pels líquids**.
 
@@ -803,7 +804,7 @@ Les ones **S no es propaguen pels líquids**.
 
 <div class="pv-targeta" markdown>
 
-### INFERIM
+#### INFERIM
 
 Aquesta regió interna **podria estar en estat líquid**.
 
@@ -845,7 +846,7 @@ Aquesta diferència ens permet utilitzar les ones sísmiques per inferir l'estat
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 5 · Quan una ona canvia de medi
+## 5 · Quan una ona canvia de medi
 
 Les ones sísmiques no es propaguen necessàriament a la mateixa velocitat en tots els materials.
 
@@ -881,7 +882,7 @@ Quan una ona passa d'un medi a un altre, **la seva velocitat pot canviar** i, co
 
 <section class="pv-seccio" markdown>
 
-# 5.1 · Què ens diu una desviació?
+### 5.1 · Què ens diu una desviació?
 
 Suposau que una ona sísmica canvia bruscament de velocitat i de direcció a una determinada profunditat.
 
@@ -913,7 +914,7 @@ Suposau que una ona sísmica canvia bruscament de velocitat i de direcció a una
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 5.2 · Tornam a les trajectòries
+### 5.2 · Tornam a les trajectòries
 
 Ara podem interpretar millor algunes de les trajectòries de les ones P que havíem observat.
 
@@ -945,7 +946,7 @@ Ara podem interpretar millor algunes de les trajectòries de les ones P que hav�
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 5.3 · Miram la velocitat amb la profunditat
+### 5.3 · Miram la velocitat amb la profunditat
 
 Podem representar d'una altra manera les dades sísmiques: mesurant **a quina velocitat es poden propagar les ones P i S en els materials de cada profunditat**.
 
@@ -985,7 +986,7 @@ Podem representar d'una altra manera les dades sísmiques: mesurant **a quina ve
 
 <section class="pv-seccio" markdown>
 
-# 5.4 · Una frontera que no podem veure
+### 5.4 · Una frontera que no podem veure
 
 Quan les dades sísmiques indiquen un **canvi brusc de propietats** a una determinada profunditat, podem inferir que hi ha un límit entre dues regions internes.
 
@@ -1018,13 +1019,13 @@ Aquest límit s'anomena **discontinuïtat sísmica**.
 
 <section class="pv-seccio" markdown>
 
-# 5.5 · De les dades al model
+### 5.5 · De les dades al model
 
 <div class="pv-tres-columnes" markdown>
 
 <div class="pv-targeta" markdown>
 
-### OBSERVAM
+#### OBSERVAM
 
 Les ones canvien bruscament de **velocitat, direcció o propagació**.
 
@@ -1032,7 +1033,7 @@ Les ones canvien bruscament de **velocitat, direcció o propagació**.
 
 <div class="pv-targeta" markdown>
 
-### SABEM
+#### SABEM
 
 El comportament de les ones depèn de les **propietats del medi**.
 
@@ -1040,7 +1041,7 @@ El comportament de les ones depèn de les **propietats del medi**.
 
 <div class="pv-targeta" markdown>
 
-### INFERIM
+#### INFERIM
 
 A aquella profunditat hi ha un **canvi de propietats** i, per tant, una frontera interna.
 
@@ -1087,7 +1088,7 @@ Els canvis bruscs en la propagació ens permeten inferir **discontinuïtats** a 
 
 <section class="pv-seccio" markdown>
 
-# 6 · De les evidències a una estructura interna
+## 6 · De les evidències a una estructura interna
 
 Durant aquesta investigació **no hem observat directament l'interior de la Terra**.
 
@@ -1097,7 +1098,7 @@ Però les ones sísmiques ens han deixat diverses pistes:
 
 <div class="pv-targeta" markdown>
 
-### Canvis de velocitat
+#### Canvis de velocitat
 
 Les ones no es propaguen igual a totes les profunditats.
 
@@ -1105,7 +1106,7 @@ Les ones no es propaguen igual a totes les profunditats.
 
 <div class="pv-targeta" markdown>
 
-### Refraccions
+#### Refraccions
 
 Les trajectòries canvien quan les ones entren en medis amb propietats diferents.
 
@@ -1113,7 +1114,7 @@ Les trajectòries canvien quan les ones entren en medis amb propietats diferents
 
 <div class="pv-targeta" markdown>
 
-### P i S no fan el mateix
+#### P i S no fan el mateix
 
 Les ones S no es propaguen pel nucli extern, mentre que les P sí.
 
@@ -1149,7 +1150,7 @@ Les ones S no es propaguen pel nucli extern, mentre que les P sí.
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 6.1 · Posam nom a les grans fronteres
+### 6.1 · Posam nom a les grans fronteres
 
 Recuperau la gràfica de velocitat de les ones amb la profunditat.
 
@@ -1161,7 +1162,7 @@ Els canvis bruscs permeten situar **discontinuïtats**, és a dir, fronteres ent
 
 <div class="pv-targeta" markdown>
 
-### Moho
+#### Moho
 
 **Discontinuïtat de Mohorovičić**
 
@@ -1173,7 +1174,7 @@ La seva profunditat és variable.
 
 <div class="pv-targeta" markdown>
 
-### Gutenberg
+#### Gutenberg
 
 Se situa aproximadament a **2.900 km** de profunditat.
 
@@ -1183,7 +1184,7 @@ Separa el **mantell** del **nucli extern**.
 
 <div class="pv-targeta" markdown>
 
-### Lehmann
+#### Lehmann
 
 Se situa aproximadament a **5.150 km** de profunditat.
 
@@ -1221,7 +1222,7 @@ Separa el **nucli extern** del **nucli intern**.
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 6.2 · Una representació de l'interior
+### 6.2 · Una representació de l'interior
 
 Si combinam totes les evidències, podem representar l'interior de la Terra com un conjunt de grans regions separades per discontinuïtats.
 
@@ -1253,7 +1254,7 @@ Si combinam totes les evidències, podem representar l'interior de la Terra com 
 
 <section class="pv-seccio" markdown>
 
-# 6.3 · Què podem dir sobre l'estat físic?
+### 6.3 · Què podem dir sobre l'estat físic?
 
 Les dades sísmiques també ens permeten inferir l'estat físic de les grans regions internes.
 
@@ -1261,7 +1262,7 @@ Les dades sísmiques també ens permeten inferir l'estat físic de les grans reg
 
 <div class="pv-targeta" markdown>
 
-### Escorça i mantell
+#### Escorça i mantell
 
 Són materials **majoritàriament sòlids**.
 
@@ -1271,7 +1272,7 @@ El mantell, però, pot deformar-se molt lentament a escala geològica.
 
 <div class="pv-targeta" markdown>
 
-### Nucli extern
+#### Nucli extern
 
 És **líquid**.
 
@@ -1281,7 +1282,7 @@ Les ones S no s'hi propaguen.
 
 <div class="pv-targeta" markdown>
 
-### Nucli intern
+#### Nucli intern
 
 És **sòlid**.
 
@@ -1319,13 +1320,13 @@ El material torna a poder transmetre deformacions de cisallament.
 
 <section class="pv-seccio" markdown>
 
-# 6.4 · De la dada a la representació
+### 6.4 · De la dada a la representació
 
 <div class="pv-tres-columnes" markdown>
 
 <div class="pv-targeta" markdown>
 
-### DADA
+#### DADA
 
 Les ones canvien de velocitat, trajectòria i capacitat de propagació amb la profunditat.
 
@@ -1333,7 +1334,7 @@ Les ones canvien de velocitat, trajectòria i capacitat de propagació amb la pr
 
 <div class="pv-targeta" markdown>
 
-### INFERÈNCIA
+#### INFERÈNCIA
 
 L'interior presenta regions amb propietats i estats físics diferents.
 
@@ -1341,7 +1342,7 @@ L'interior presenta regions amb propietats i estats físics diferents.
 
 <div class="pv-targeta" markdown>
 
-### REPRESENTACIÓ
+#### REPRESENTACIÓ
 
 Dibuixam fronteres i regions internes per sintetitzar allò que indiquen les evidències.
 
@@ -1388,7 +1389,7 @@ Els canvis en el comportament de les ones sísmiques ens permeten inferir **disc
 
 <section class="pv-seccio" markdown>
 
-# Tiquet de sortida · Al quadern
+## Tiquet de sortida · Al quadern
 
 <div class="pv-cadena" markdown>
 
@@ -1413,3 +1414,5 @@ Respon de manera breu, amb frases completes. No cal copiar els enunciats sencers
 </section>
 
 </div>
+
+[← Torna a les activitats de Geologia](../index.md){ .md-button }
