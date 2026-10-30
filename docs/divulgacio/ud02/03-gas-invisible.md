@@ -1,6 +1,16 @@
 ---
 title: "Monòxid de carboni: asfíxia cel·lular"
 description: "El monòxid de carboni pot impedir que l'oxigen arribi a les cèl·lules i alterar la producció d'ATP als mitocondris."
+hide:
+  - navigation
+  - toc
+  - tags
+tags:
+  - "Monòxid de carboni"
+  - "Hemoglobina"
+  - "Mitocondris"
+  - "ATP"
+  - "Salut"
 ---
 
 # Monòxid de carboni: asfíxia cel·lular
