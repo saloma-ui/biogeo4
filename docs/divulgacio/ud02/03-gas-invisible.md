@@ -114,6 +114,14 @@ Si falla qualsevol d'aquestes etapes, les cèl·lules poden tenir dificultats pe
 
 **La vida depèn no només de respirar oxigen, sinó també de fer-lo arribar a les cèl·lules i poder-lo utilitzar.**
 
+**Conèixer el perill també permet salvar vides**
+
+La intoxicació per monòxid de carboni pot tenir conseqüències greus, però el diagnòstic ràpid i l'administració d'oxigen poden millorar les possibilitats de recuperació. En determinats casos, els metges també poden valorar el tractament amb oxigen hiperbàric.
+
+A més, els detectors de monòxid de carboni i les mesures de prevenció permeten evitar moltes intoxicacions.
+
+**Entendre com aquest gas afecta les cèl·lules no només ajuda a tractar les persones intoxicades: també ens permet prevenir el perill abans que aparegui.**
+
 ---
 
 ### Fonts científiques
