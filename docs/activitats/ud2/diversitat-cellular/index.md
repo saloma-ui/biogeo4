@@ -286,7 +286,13 @@ Cada alumne rebrà **una miniinvestigació diferent**. Llegeix-ne l'article cien
     - [**Llegeix l'article científic**](../../../divulgacio/ud02/02-fina-linia-vida.md)
     - [**Obre la fitxa de miniinvestigació**](fitxes/02-fina-linia-vida.md)
 
-*Els altres cinc reptes s'incorporaran aquí quan estiguin preparats.*
+!!! question "3 · El gas invisible que roba l'energia a les cèl·lules"
+    Descobreix per què el **monòxid de carboni** pot dificultar el transport d'**oxigen** i reduir la producció d'**ATP** als mitocondris.
+
+    - [**Llegeix l'article científic**](../../../divulgacio/ud02/03-gas-invisible.md)
+    - [**Obre la fitxa de miniinvestigació**](fitxes/03-gas-invisible.md)
+
+*Els altres quatre reptes s'incorporaran aquí quan estiguin preparats.*
 
 **Què s'ha de lliurar?** La fitxa amb les respostes i la presentació de Canva, segons les indicacions del professor. Les respostes de les comprovacions interactives de les seccions anteriors **no** s'han de lliurar.
 
