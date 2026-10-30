@@ -263,7 +263,7 @@ Haurem de prendre una **decisió territorial** utilitzant informació sobre:
 
 I no totes les dades apuntaran necessàriament cap a la mateixa opció.
 
-<!-- DOCENT: Pont directe cap a G2 convertida en pràctica aplicada per estacions. No anticipar quina alternativa és preferible ni mostrar encara els mapes de risc que s'introduiran posteriorment. -->
+<!-- DOCENT: Pont cap a la pràctica guiada d'anàlisi territorial i la posterior evidència A09 · Comprendre el risc. No anticipar les conclusions que s'hauran de justificar amb dades. -->
 
 </section>
 
@@ -287,7 +287,7 @@ Respon breument, amb frases completes:
 4. Quina **acció humana** descrita al cas podria augmentar el risc? Explica per què.
 5. Proposa **una mesura de prevenció o reducció del risc** i explica sobre quin component actua principalment: perill, exposició o vulnerabilitat.
 
-<!-- DOCENT: Tiquet de sortida individual, 4–5 minuts. Evidència formativa prèvia a “On construiríem?”. No és una evidència qualificadora del CA 5.1. Lectura ràpida: comprovar si l'alumnat diferencia perill, exposició i vulnerabilitat i si relaciona relleu, litologia, vegetació i acció humana amb el risc. -->
+<!-- DOCENT: Tiquet de sortida individual, 4–5 minuts. Evidència formativa prèvia a “Comprendre el risc”. No és una evidència qualificadora del CA 5.1. Lectura ràpida: comprovar si l'alumnat diferencia perill, exposició i vulnerabilitat i si relaciona relleu, litologia, vegetació i acció humana amb el risc. -->
 
 </section>
 
