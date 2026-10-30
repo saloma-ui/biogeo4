@@ -10,4 +10,4 @@ Consulta els materials guia de les cinc unitats didàctiques. Els documents s'in
 - [**UD4 · Evolució**](ud4/ud4.md) — material en preparació
 - [**UD5 · La Terra a l'univers**](ud5/ud5.md) — material en preparació
 
-Les activitats de cada unitat es troben a l'apartat [Activitats](../activitats/ud1/index.md) del web.
+Per consultar les propostes de treball, obre la pestanya **Activitats** del menú principal.
