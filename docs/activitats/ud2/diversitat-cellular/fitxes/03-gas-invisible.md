@@ -1,14 +1,14 @@
 ---
-title: "Miniinvestigació 3 · Monòxid de carboni: mort en dos temps"
+title: "Miniinvestigació 3 · Monòxid de carboni: asfíxia cel·lular"
 ---
 
-# Miniinvestigació 3 · Monòxid de carboni: mort en dos temps
+# Miniinvestigació 3 · Monòxid de carboni: asfíxia cel·lular
 
 **Nom i llinatges:** ______________________________________
 
 **Activitat:** A01 · La diversitat cel·lular · UD02
 
-**Font principal:** [Llegeix l'article «Monòxid de carboni: mort en dos temps»](../../../../divulgacio/ud02/03-gas-invisible.md).
+**Font principal:** [Llegeix l'article «Monòxid de carboni: asfíxia cel·lular»](../../../../divulgacio/ud02/03-gas-invisible.md).
 
 ## Investiga
 
