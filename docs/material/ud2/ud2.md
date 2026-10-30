@@ -5,6 +5,9 @@ pdf: true
 
 # UD2 · La continuïtat cel·lular
 
+!!! note "Com interpretar les figures"
+    Les figures de la unitat són **models i representacions didàctiques elaborats amb assistència d'IA**, no fotografies. **F07 combina esquemes i dues microfotografies reals de tercers**, amb autoria i llicència indicades més avall. Sense una escala adequada, no es poden deduir mides reals. [Consulta les fitxes de procedència de F01–F27](../../registre-figures-ud2.md).
+
 <!--
 MATERIAL TEÒRIC · BIOLOGIA I GEOLOGIA · 4t ESO
 Versió de treball: blocs 1–4 validats provisionalment.

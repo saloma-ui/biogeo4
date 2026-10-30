@@ -79,6 +79,9 @@ nav:
       - Calendari: calendari.md
       - Autoria i metodologia: autoria-i-metodologia.md
       - Llicència i reutilització: llicencia.md
+      - Crèdits i recursos: registre-recursos.md
+      - Figures de la UD2: registre-figures-ud2.md
+      - Inventari visual: inventari-visual.md
 
 markdown_extensions:
   - attr_list

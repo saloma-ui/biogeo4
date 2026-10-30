@@ -6,6 +6,8 @@ title: Registre de recursos i drets
 
 Aquest registre documenta les procedències **identificades** i les comprovacions **pendents**. No equival a una auditoria exhaustiva de tots els elements visuals del repositori.
 
+**Nous inventaris:** [fitxes F01–F27 de la UD2](registre-figures-ud2.md) i [inventari individual dels 112 fitxers gràfics](inventari-visual.md).
+
 | Recurs o conjunt | Procedència i condicions | Estat |
 | --- | --- | --- |
 | **UD2, F07** · epidèrmides de ceba | [Juan Carlos Fonseca Mata, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Onion_epidermis_(microscopic_image)_007533276M.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Incorporada a una composició didàctica. | Font i llicència identificades. Cal conservar atribució i menció de la composició. |
@@ -28,4 +30,4 @@ Per a cada recurs visual es recomana conservar, com a mínim:
 4. Llicència de la font i, si escau, canvis realitzats.
 5. Escala, tècnica d'obtenció o advertiment de representació esquemàtica quan sigui científicament rellevant.
 
-**Estat del registre (30/10/2026):** revisió documental parcial dels fitxers textuals, les dependències visibles i les fonts declarades de F07. No s'han verificat individualment totes les imatges binàries ni l'interior de tots els PDF.
+**Estat del registre (30/10/2026):** 112 fitxers gràfics identificats individualment, amb documentació de naturalesa i procedència de F01–F27. No s'han verificat exhaustivament tots els elements visuals de les imatges binàries ni l'interior dels PDF.

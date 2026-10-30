@@ -33,6 +33,8 @@ En particular, una **imatge sintètica d'una cèl·lula** no s'ha de confondre a
 
 Quan sigui rellevant, les figures incorporaran indicacions específiques sobre la seva naturalesa, l'escala o la font. Aquesta declaració general no substitueix els crèdits que pugui necessitar cada recurs.
 
+La UD2 disposa de [fitxes de procedència de les 27 figures](registre-figures-ud2.md), i el web d'un [inventari dels fitxers visuals](inventari-visual.md).
+
 ## Fonts i rigor científic
 
 Les eines d'IA poden produir explicacions convincents però incorrectes, referències inexistents o representacions científicament imprecises. Per això, les seves respostes **no es consideren, per si mateixes, fonts científiques**.

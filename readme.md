@@ -36,3 +36,8 @@ Els fitxers mixtos poden contenir **codi MIT** i **contingut didàctic CC BY-SA*
 Consulta el [resum d'abast de llicències](LICENSE.md), la [pàgina del web](docs/llicencia.md) i el [registre de recursos i verificacions pendents](docs/registre-recursos.md).
 
 La llicència CC BY-SA i la MIT només concedeixen drets que el responsable pugui efectivament atorgar i no pressuposen drets exclusius sobre imatges generades amb IA sense protecció jurídica.
+
+## Inventaris visuals
+
+- [Fitxes individuals F01–F27 de la UD2](docs/registre-figures-ud2.md), amb els crèdits externs de F07.
+- [Inventari dels 112 fitxers visuals del repositori](docs/inventari-visual.md), amb les verificacions de procedència encara pendents.
