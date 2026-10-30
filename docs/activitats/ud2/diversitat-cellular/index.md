@@ -298,7 +298,13 @@ Cada alumne rebrà **una miniinvestigació diferent**. Llegeix-ne l'article cien
     - [**Llegeix l'article científic**](../../../divulgacio/ud02/04-trampa-neurones.md)
     - [**Obre la fitxa de miniinvestigació**](fitxes/04-trampa-neurones.md)
 
-*Els altres tres reptes s'incorporaran aquí quan estiguin preparats.*
+!!! question "5 · Sabotatge a la fàbrica de proteïnes"
+    Descobreix com la **tetraciclina** bloqueja la fabricació de proteïnes als **ribosomes bacterians**, per què no funciona contra els virus i com apareix la **resistència als antibiòtics**.
+
+    - [**Llegeix l'article científic**](../../../divulgacio/ud02/05-sabotatge-proteines.md)
+    - [**Obre la fitxa de miniinvestigació**](fitxes/05-sabotatge-proteines.md)
+
+*Els altres dos reptes s'incorporaran aquí quan estiguin preparats.*
 
 **Què s'ha de lliurar?** La fitxa amb les respostes i la presentació de Canva, segons les indicacions del professor. Les respostes de les comprovacions interactives de les seccions anteriors **no** s'han de lliurar.
 
