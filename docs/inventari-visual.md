@@ -143,3 +143,16 @@ Els **68 fitxers de la UD01** també tenen ara un [registre individual amb les f
 | [`docs/divulgacio/ud02/figures/transport-membranes.webp`](https://github.com/saloma-ui/biogeo4/blob/main/docs/divulgacio/ud02/figures/transport-membranes.webp) | Imatge de divulgació | Procedència individual pendent de verificar |
 
 *Inventari de rutes i tipus: 30 d'octubre de 2026. La revisió dels drets de les imatges de fora de la UD2 continua pendent.*
+
+<!-- FIGURES_AUTO_INICI -->
+## Figures afegides després del registre inicial
+
+Aquesta secció s'actualitza automàticament. GitHub registra els fitxers, **però no pot verificar-ne automàticament l'autoria, la naturalesa, les dades ni la llicència**.
+
+**Fitxers visuals actuals:** 112. **Incorporacions posteriors:** 2. **Fitxes pendents:** 2.
+
+| Fitxer | Tipus | Origen | Autor o responsable | Llicència | Escala i observacions | Estat |
+|:--|:--|:--|:--|:--|:--|:--|
+| [geo04_02_escala_perforacio_terra (1).png](https://github.com/saloma-ui/biogeo4/blob/main/docs/material/ud1/figures/geo04_02_escala_perforacio_terra%20%281%29.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+| [F22_aparellament_i_entrecreuament (1).png](https://github.com/saloma-ui/biogeo4/blob/main/docs/material/ud2/figures/F22_aparellament_i_entrecreuament%20%281%29.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+<!-- FIGURES_AUTO_FI -->

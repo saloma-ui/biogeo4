@@ -54,3 +54,13 @@ Les dues imatges figuren com a fonts externes a la UD2 i s'han incorporat a una 
 La referència **M01** existeix com a comentari de planificació en el material, però **no hi ha cap fitxer M01 publicat** en aquesta carpeta.
 
 *Registre documental: 30 d'octubre de 2026.*
+
+<!-- FIGURES_AUTO_INICI -->
+## Figures incorporades posteriorment · registre automàtic
+
+Les fitxes pendents s'han de verificar abans d'atribuir autoria o drets de reutilització.
+
+| Fitxer | Tipus | Origen | Autor o responsable | Llicència | Escala i observacions | Estat |
+|:--|:--|:--|:--|:--|:--|:--|
+| [F22_aparellament_i_entrecreuament (1).png](https://github.com/saloma-ui/biogeo4/blob/main/docs/material/ud2/figures/F22_aparellament_i_entrecreuament%20%281%29.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+<!-- FIGURES_AUTO_FI -->

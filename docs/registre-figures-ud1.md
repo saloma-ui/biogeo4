@@ -148,3 +148,13 @@ Les figures científiques, les fotografies, els mapes i els diagrames **no són 
 **Pendent:** contrast visual i científic individual de totes les figures, diferenciació definitiva de fotografia real/imatge sintètica, identificació d'autors i fonts externes, fonts de dades, escala i drets aplicables. La classificació de tipus **no és una certificació de procedència**.
 
 *Inventari documental elaborat el 30 d'octubre de 2026. Els fitxers originals no han estat alterats.*
+
+<!-- FIGURES_AUTO_INICI -->
+## Figures incorporades posteriorment · registre automàtic
+
+Les fitxes pendents s'han de verificar abans d'atribuir autoria o drets de reutilització.
+
+| Fitxer | Tipus | Origen | Autor o responsable | Llicència | Escala i observacions | Estat |
+|:--|:--|:--|:--|:--|:--|:--|
+| [geo04_02_escala_perforacio_terra (1).png](https://github.com/saloma-ui/biogeo4/blob/main/docs/material/ud1/figures/geo04_02_escala_perforacio_terra%20%281%29.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+<!-- FIGURES_AUTO_FI -->

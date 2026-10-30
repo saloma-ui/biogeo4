@@ -11,3 +11,7 @@ Aquí trobaràs els documents de referència de Biologia i Geologia de 4t d'ESO.
 - [**Figures de la UD01**](../registre-figures-ud1.md) — Inventari dels 68 fitxers del material i les activitats.
 - [**Figures de la UD2**](../registre-figures-ud2.md) — Fitxes individuals de F01–F27.
 - [**Inventari visual**](../inventari-visual.md) — Els 112 fitxers gràfics del repositori.
+
+<!-- FIGURES_AUTO_INICI -->
+
+<!-- FIGURES_AUTO_FI -->

@@ -1,4 +1,25 @@
 {
-  "versio": 1,
-  "fitxes": {}
+  "fitxes": {
+    "docs/material/ud1/figures/geo04_02_escala_perforacio_terra (1).png": {
+      "autor": "",
+      "escala": "",
+      "font_url": "",
+      "llicencia": "pendent",
+      "observacions": "",
+      "origen": "pendent",
+      "revisat": false,
+      "tipus": "pendent"
+    },
+    "docs/material/ud2/figures/F22_aparellament_i_entrecreuament (1).png": {
+      "autor": "",
+      "escala": "",
+      "font_url": "",
+      "llicencia": "pendent",
+      "observacions": "",
+      "origen": "pendent",
+      "revisat": false,
+      "tipus": "pendent"
+    }
+  },
+  "versio": 1
 }
