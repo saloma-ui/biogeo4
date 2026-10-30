@@ -111,7 +111,7 @@
         <div class="visor-ideib__mapa" role="region" aria-label="Ortofotografia interactiva de Sant Llorenç des Cardassar"></div>
         <div class="visor-ideib__estat">Carregant l'ortofotografia oficial d'IDEIB…</div>
       </div>
-      <p class="visor-ideib__peu">Ortofotografia oficial IDEIB · apropa't amb +/− o amb el gest de pinça i segueix el traçat del torrent pel nucli urbà.</p>
+      <p class="visor-ideib__peu">Ortofotografia i dades: IDEIB / Institut Cartogràfic i Geogràfic de les Illes Balears (ICGIB), segons les condicions del servei · apropa't amb +/− o amb el gest de pinça i segueix el traçat del torrent pel nucli urbà.</p>
     `;
 
     try {

@@ -4,7 +4,8 @@ site_url: https://saloma-ui.github.io/biogeo4/
 repo_url: https://github.com/saloma-ui/biogeo4
 repo_name: saloma-ui/biogeo4
 copyright: >-
-  Materials didàctics d'elaboració docent amb assistència d'IA ·
+  Continguts propis: CC BY-SA 4.0 · Codi propi: MIT ·
+  <a href="https://saloma-ui.github.io/biogeo4/llicencia/">Condicions i exclusions</a> ·
   <a href="https://saloma-ui.github.io/biogeo4/autoria-i-metodologia/">Autoria i metodologia</a>
 
 theme:
@@ -77,6 +78,7 @@ nav:
       - Criteris d'avaluació: criteris-avaluacio.md
       - Calendari: calendari.md
       - Autoria i metodologia: autoria-i-metodologia.md
+      - Llicència i reutilització: llicencia.md
 
 markdown_extensions:
   - attr_list

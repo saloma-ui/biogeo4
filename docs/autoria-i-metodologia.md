@@ -51,7 +51,9 @@ El web es publica des del [repositori de GitHub](https://github.com/saloma-ui/bi
 
 ## Ús i reutilització
 
-L'accés públic als materials no implica que tots els seus elements tenguin les mateixes condicions de reutilització. Abans de copiar-los, modificar-los o redistribuir-los, cal comprovar la llicència que correspongui i, especialment, els drets dels recursos de tercers. Aquesta declaració de metodologia no constitueix, per si mateixa, una llicència d'ús.
+Els **continguts didàctics originals** es publiquen sota [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca) i el **codi informàtic original**, sota [MIT](https://opensource.org/license/mit), sempre en la mesura que el responsable del projecte pugui concedir els drets corresponents. Els recursos de tercers i els elements de procedència no verificada no queden automàticament inclosos.
+
+Consulta la pàgina de [**Llicència i reutilització**](llicencia.md), que especifica les condicions, les excepcions i el [registre de recursos](registre-recursos.md).
 
 ---
 
