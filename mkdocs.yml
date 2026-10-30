@@ -15,6 +15,7 @@ theme:
 
 plugins:
   - search
+  - tags
   - revealjs:
       transition: slide
       controls: true
@@ -56,6 +57,7 @@ nav:
       - UD6: material/ud6/ud6.md
   - 'Ciència per descobrir':
       - Índex: divulgacio/index.md
+      - 'Temes i etiquetes': divulgacio/temes.md
       - 'Per què relaxar un múscul també consumeix energia?': divulgacio/ud02/01-rel-calci.md
       - 'La fina línia que sosté la vida': divulgacio/ud02/02-fina-linia-vida.md
       - 'Monòxid de carboni: asfíxia cel·lular': divulgacio/ud02/03-gas-invisible.md
@@ -106,11 +108,13 @@ markdown_extensions:
 
 extra_css:
   - extra.css
+  - divulgacio/revista.css
   - presentacio.css
   - visor-ideib.css
   - activitats/ud1/geo04/geo04-tall.css
 
 extra_javascript:
   - interaccio.js
+  - divulgacio/revista.js
   - visor-ideib.js
   - activitats/ud1/geo04/geo04-tall.js
