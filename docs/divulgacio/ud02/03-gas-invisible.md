@@ -1,9 +1,9 @@
 ---
-title: "Monòxid de carboni: mort en dos temps"
+title: "Monòxid de carboni: asfíxia cel·lular"
 description: "El monòxid de carboni pot impedir que l'oxigen arribi a les cèl·lules i alterar la producció d'ATP als mitocondris."
 ---
 
-# Monòxid de carboni: mort en dos temps
+# Monòxid de carboni: asfíxia cel·lular
 
 *No té color ni olor, però pot impedir que l'oxigen arribi a les cèl·lules i dificultar que els mitocondris produeixin l'energia necessària per viure.*
 
