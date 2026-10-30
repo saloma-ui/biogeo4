@@ -1,6 +1,16 @@
 ---
 title: "La trampa invisible dins les neurones"
 description: "La malaltia de Tay-Sachs revela com una alteració de l'ADN pot impedir la degradació de lípids als lisosomes."
+hide:
+  - navigation
+  - toc
+  - tags
+tags:
+  - "Lisosomes"
+  - "Tay-Sachs"
+  - "Genètica"
+  - "Neurones"
+  - "Malalties genètiques"
 ---
 
 # La trampa invisible dins les neurones
