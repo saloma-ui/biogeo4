@@ -1,6 +1,16 @@
 ---
 title: "Per què relaxar un múscul també consumeix energia?"
 description: "El calci, el reticle sarcoplasmàtic i els mitocondris treballen junts perquè un múscul es pugui relaxar."
+hide:
+  - navigation
+  - toc
+  - tags
+tags:
+  - "Músculs"
+  - "Calci"
+  - "Reticle sarcoplasmàtic"
+  - "Mitocondris"
+  - "ATP"
 ---
 
 # Per què relaxar un múscul també consumeix energia?
