@@ -3,15 +3,16 @@ title: 'A01 · Llegim el paisatge'
 pdf: false
 hide:
   - navigation
-  - toc
 ---
 
-<div class="presentacio-vertical" markdown>
+[← Torna a les activitats de Geologia](../index.md){ .md-button }
+
+<div class="presentacio-vertical pv-pagina-index" markdown>
 
 <section class="pv-seccio pv-portada" markdown>
 
 # A01 · Llegim el paisatge
-## Què podem saber simplement mirant-lo?
+<p class="pv-subtitol">Què podem saber simplement mirant-lo?</p>
 
 <!-- DOCENT: Activitat guiada de construcció de coneixement. No és una evidència formal. Idea rectora: passar de mirar un paisatge a interpretar-lo geològicament. -->
 
@@ -19,11 +20,11 @@ hide:
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 1 · Mirar
+## 1 · Mirar
 
 ![Paisatge A](figures/paisatge-a.jpg)
 
-## Què hi veis?
+### Què hi veis?
 
 <p class="pv-pregunta">Escriviu <strong>tres coses que pugueu afirmar només perquè les veis</strong>.</p>
 
@@ -33,7 +34,7 @@ hide:
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 2 · Comparar
+## 2 · Comparar
 
 ![Paisatge B](figures/paisatge-b.jpg)
 
@@ -49,7 +50,7 @@ No cercam encara la causa. Primer hem de decidir **què és diferent**.
 
 <section class="pv-seccio" markdown>
 
-# 3 · Observar no és explicar
+## 3 · Observar no és explicar
 
 Compareu aquestes dues afirmacions:
 
@@ -79,7 +80,7 @@ Compareu aquestes dues afirmacions:
 
 <section class="pv-seccio" markdown>
 
-# 4 · Relleu i paisatge
+## 4 · Relleu i paisatge
 
 Tornau mentalment als paisatges A i B.
 
@@ -97,7 +98,7 @@ Hi hem vist, entre altres coses, **vessants, una vall o torrentera, vegetació, 
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 5 · Del que actua al que passa
+## 5 · Del que actua al que passa
 
 ![Paisatge C](figures/paisatge-c.jpg)
 
@@ -109,7 +110,7 @@ Ara distingirem dues coses que sovint es confonen: **l'agent** i **el procés**.
 
 <section class="pv-seccio" markdown>
 
-# Agent o procés?
+### Agent o procés?
 
 Pensau la classificació abans de clicar cada terme. En clicar-lo, en veureu la categoria.
 
@@ -132,7 +133,7 @@ Pensau la classificació abans de clicar cada terme. En clicar-lo, en veureu la 
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 6 · Una dada nova
+## 6 · Una dada nova
 
 Tornam al **paisatge A**.
 
@@ -160,7 +161,7 @@ Ara sabem que el terreny està format principalment per **roca calcària**.
 
 <section class="pv-seccio" markdown>
 
-# 7 · Construïm una explicació millor
+## 7 · Construïm una explicació millor
 
 Dos llocs poden estar sotmesos a processos semblants i, tot i així, presentar relleus molt diferents.
 
@@ -180,7 +181,7 @@ La litologia **condiciona** com respon el terreny, però no és l'únic factor. 
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 8 · Transferim: un paisatge nou
+## 8 · Transferim: un paisatge nou
 
 ![Paisatge D](figures/paisatge-d.jpg)
 
@@ -242,7 +243,7 @@ Ara ja teniu les eines per separar **allò que observam** d'**allò que inferim*
 
 <section class="pv-seccio" markdown>
 
-# 9 · Comprovam una inferència
+## 9 · Comprovam una inferència
 
 Recuperau aquesta afirmació del paisatge D:
 
@@ -270,23 +271,23 @@ Una inferència no es converteix en una bona explicació només perquè sigui pl
 
 <section class="pv-seccio" markdown>
 
-# Tiquet de sortida
+## Tiquet de sortida
 
 Respon individualment:
 
-### 1. Quina diferència hi ha entre **relleu** i **paisatge**?
+#### 1. Quina diferència hi ha entre **relleu** i **paisatge**?
 
-### 2. Escriu un **agent geològic** i un **procés geològic**, i explica per què no són el mateix.
+#### 2. Escriu un **agent geològic** i un **procés geològic**, i explica per què no són el mateix.
 
-### 3. Per què dos terrenys sotmesos a processos semblants poden presentar relleus diferents?
+#### 3. Per què dos terrenys sotmesos a processos semblants poden presentar relleus diferents?
 
-### 4. Escriu una **observació** i una **inferència** sobre el paisatge D.
+#### 4. Escriu una **observació** i una **inferència** sobre el paisatge D.
 
 </section>
 
 <section class="pv-seccio" markdown>
 
-# Idees que ens enduim
+## Idees que ens enduim
 
 - El **relleu** forma part del **paisatge**.
 - **Observar** no és el mateix que **inferir** o explicar.
@@ -301,3 +302,5 @@ Respon individualment:
 </section>
 
 </div>
+
+[← Torna a les activitats de Geologia](../index.md){ .md-button }
