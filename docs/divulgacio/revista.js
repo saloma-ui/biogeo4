@@ -3,7 +3,7 @@
   'use strict';
   var articles = [
     { slug:'01-rel-calci', title:'Per què relaxar un múscul també consumeix energia?', desc:'El calci, el reticle sarcoplasmàtic i els mitocondris fan possible la relaxació muscular.', tags:['Músculs','Calci','Reticle sarcoplasmàtic','Mitocondris','ATP'], image:'figures/capcalera-01-muscul.webp' },
-    { slug:'02-fina-linia-vida', title:'La fina línia que sosté la vida', desc:'Com es fabriquen i es transporten les membranes cel·lulars.', tags:['Membranes','Fosfolípids','Reticle endoplasmàtic','Aparell de Golgi','Vesícules'] },
+    { slug:'02-fina-linia-vida', title:'La fina línia que sosté la vida', desc:'Com es fabriquen i es transporten les membranes cel·lulars.', tags:['Membranes','Fosfolípids','Reticle endoplasmàtic','Aparell de Golgi','Vesícules'], image:'figures/capcalera-02-membranes.webp' },
     { slug:'03-gas-invisible', title:'Monòxid de carboni: asfíxia cel·lular', desc:'Per què el CO dificulta el transport d’oxigen i la producció d’ATP.', tags:['Monòxid de carboni','Hemoglobina','Mitocondris','ATP','Salut'] },
     { slug:'04-trampa-neurones', title:'La trampa invisible dins les neurones', desc:'Els lisosomes, el gen HEXA i la malaltia de Tay-Sachs.', tags:['Lisosomes','Tay-Sachs','Genètica','Neurones','Malalties genètiques'] },
     { slug:'05-sabotatge-proteines', title:'Sabotatge a la fàbrica de proteïnes', desc:'Com la tetraciclina interfereix en els ribosomes bacterians.', tags:['Ribosomes','Antibiòtics','Bacteris','Resistència bacteriana','Proteïnes'] },
@@ -39,7 +39,7 @@
     }
     if(current.image){
       var hero=el('figure','cd-hero'),im=el('img');im.src=new URL(current.image,root).href;
-      im.alt='Imatge científica d’una fibra muscular amb reticle sarcoplasmàtic, mitocondris i calci';im.loading='eager';
+      im.alt=current.slug==='02-fina-linia-vida'?'Il·lustració científica de la bicapa de fosfolípids amb proteïnes de membrana':'Imatge científica d’una fibra muscular amb reticle sarcoplasmàtic, mitocondris i calci';im.loading='eager';
       hero.appendChild(im);host.appendChild(hero);
     }
     var aside=el('aside','cd-sidebar');aside.setAttribute('aria-label','Cerca i etiquetes');
