@@ -10,6 +10,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - content.code.copy
 
@@ -44,19 +45,22 @@ plugins:
 
 nav:
   - Inici: index.md
-  - Informació del curs:
-      - Programació: programacio.md
-      - Criteris d'avaluació: criteris-avaluacio.md
-      - Calendari: calendari.md
   - Material:
-      - 'Índex de materials': material/index.md
+      - material/index.md
       - 'UD1 - Geologia': material/ud1/ud1.md
       - 'UD2 - La continuïtat cel·lular': material/ud2/ud2.md
       - 'UD3 - Informació genètica i herència': material/ud3/ud3.md
       - 'UD4 - Evolució': material/ud4/ud4.md
       - "UD5 - La Terra a l'univers": material/ud5/ud5.md
+  - Activitats:
+      - activitats/index.md
+      - 'Activitats UD1 - Geologia': activitats/ud1/index.md
+      - 'Activitats UD2 - La continuïtat cel·lular': activitats/ud2/index.md
+      - 'Activitats UD3 - Informació genètica i herència': activitats/ud3/index.md
+      - 'Activitats UD4 - Evolució': activitats/ud4/index.md
+      - "Activitats UD5 - La Terra a l'univers": activitats/ud5/index.md
   - 'Ciència per descobrir':
-      - Índex: divulgacio/index.md
+      - divulgacio/index.md
       - 'Temes i etiquetes': divulgacio/temes.md
       - 'Per què relaxar un múscul també consumeix energia?': divulgacio/ud02/01-rel-calci.md
       - 'La fina línia que sosté la vida': divulgacio/ud02/02-fina-linia-vida.md
@@ -64,12 +68,11 @@ nav:
       - 'La trampa invisible dins les neurones': divulgacio/ud02/04-trampa-neurones.md
       - 'Sabotatge a la fàbrica de proteïnes': divulgacio/ud02/05-sabotatge-proteines.md
       - 'La proteïna que no arriba mai al seu destí': divulgacio/ud02/06-proteina-cftr.md
-  - Activitats:
-      - 'Activitats UD1 - Geologia': activitats/ud1/index.md
-      - 'Activitats UD2 - La continuïtat cel·lular': activitats/ud2/index.md
-      - 'Activitats UD3 - Informació genètica i herència': activitats/ud3/index.md
-      - 'Activitats UD4 - Evolució': activitats/ud4/index.md
-      - "Activitats UD5 - La Terra a l'univers": activitats/ud5/index.md
+  - Informació del curs:
+      - informacio/index.md
+      - Programació: programacio.md
+      - Criteris d'avaluació: criteris-avaluacio.md
+      - Calendari: calendari.md
 
 markdown_extensions:
   - attr_list
