@@ -83,6 +83,8 @@ nav:
       - Figures de la UD01: registre-figures-ud1.md
       - Figures de la UD2: registre-figures-ud2.md
       - Inventari visual: inventari-visual.md
+      # FIGURES_AUTO_INICI
+      # FIGURES_AUTO_FI
 
 markdown_extensions:
   - attr_list

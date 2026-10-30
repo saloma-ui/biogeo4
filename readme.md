@@ -42,3 +42,7 @@ La llicència CC BY-SA i la MIT només concedeixen drets que el responsable pugu
 - [Registre individual de les 68 figures i recursos visuals de la UD01](docs/registre-figures-ud1.md).
 - [Fitxes individuals F01–F27 de la UD2](docs/registre-figures-ud2.md), amb els crèdits externs de F07.
 - [Inventari dels 112 fitxers visuals del repositori](docs/inventari-visual.md), amb les verificacions de procedència encara pendents.
+
+## Registre automàtic de figures noves
+
+Les imatges que s'incorporen a partir d'ara es detecten i registren automàticament abans de publicar el web. Les fitxes noves apareixen amb l'estat **pendent de verificar**: la procedència, la llicència i l'escala no es poden acreditar automàticament. Consulta [com completar les fitxes](figures/README.md) i [les dades de les incorporacions](figures/fitxes.json).

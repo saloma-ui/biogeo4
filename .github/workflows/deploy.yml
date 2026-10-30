@@ -25,6 +25,19 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Detecta noves figures i actualitza la documentació
+        run: python scripts/actualitza_inventari_figures.py
+
+      - name: Desa les fitxes i els inventaris actualitzats
+        run: |
+          git add -- figures/fitxes.json docs/inventari-visual.md docs/registre-figures-ud*.md docs/informacio/index.md mkdocs.yml
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "docs: actualitza els registres de figures [skip ci]"
+            git push origin HEAD:main
+          fi
+
       - name: Instal·la dependències de Python
         run: pip install -r requirements.txt
 
