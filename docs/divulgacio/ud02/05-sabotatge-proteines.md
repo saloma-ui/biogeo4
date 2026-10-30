@@ -1,6 +1,16 @@
 ---
 title: "Sabotatge a la fàbrica de proteïnes"
 description: "Com la tetraciclina bloqueja els ribosomes bacterians i per què els antibiòtics no funcionen contra els virus."
+hide:
+  - navigation
+  - toc
+  - tags
+tags:
+  - "Ribosomes"
+  - "Antibiòtics"
+  - "Bacteris"
+  - "Resistència bacteriana"
+  - "Proteïnes"
 ---
 
 # Sabotatge a la fàbrica de proteïnes
