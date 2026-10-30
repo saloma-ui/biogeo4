@@ -1,9 +1,9 @@
 ---
-title: "El gas invisible que roba l'energia a les cèl·lules"
+title: "Monòxid de carboni: mort en dos temps"
 description: "El monòxid de carboni pot impedir que l'oxigen arribi a les cèl·lules i alterar la producció d'ATP als mitocondris."
 ---
 
-# El gas invisible que roba l'energia a les cèl·lules
+# Monòxid de carboni: mort en dos temps
 
 *No té color ni olor, però pot impedir que l'oxigen arribi a les cèl·lules i dificultar que els mitocondris produeixin l'energia necessària per viure.*
 
