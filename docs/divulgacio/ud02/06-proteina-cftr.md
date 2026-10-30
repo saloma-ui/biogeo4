@@ -1,6 +1,16 @@
 ---
 title: "La proteïna que no arriba mai al seu destí"
 description: "Com una alteració de la proteïna CFTR pot afectar el transport d'ions, la hidratació del moc i el funcionament de les vies respiratòries."
+hide:
+  - navigation
+  - toc
+  - tags
+tags:
+  - "Fibrosi quística"
+  - "Proteïnes"
+  - "Reticle endoplasmàtic"
+  - "Membranes"
+  - "Malalties genètiques"
 ---
 
 # La proteïna que no arriba mai al seu destí
