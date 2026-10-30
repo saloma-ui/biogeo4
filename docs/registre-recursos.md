@@ -6,7 +6,7 @@ title: Registre de recursos i drets
 
 Aquest registre documenta les procedències **identificades** i les comprovacions **pendents**. No equival a una auditoria exhaustiva de tots els elements visuals del repositori.
 
-**Nous inventaris:** [fitxes F01–F27 de la UD2](registre-figures-ud2.md) i [inventari individual dels 112 fitxers gràfics](inventari-visual.md).
+**Inventaris per unitat:** [UD01: 68 fitxers gràfics](registre-figures-ud1.md), [UD02: figures F01–F27](registre-figures-ud2.md) i [inventari transversal dels 112 fitxers gràfics](inventari-visual.md).
 
 | Recurs o conjunt | Procedència i condicions | Estat |
 | --- | --- | --- |
@@ -30,4 +30,4 @@ Per a cada recurs visual es recomana conservar, com a mínim:
 4. Llicència de la font i, si escau, canvis realitzats.
 5. Escala, tècnica d'obtenció o advertiment de representació esquemàtica quan sigui científicament rellevant.
 
-**Estat del registre (30/10/2026):** 112 fitxers gràfics identificats individualment, amb documentació de naturalesa i procedència de F01–F27. No s'han verificat exhaustivament tots els elements visuals de les imatges binàries ni l'interior dels PDF.
+**Estat del registre (30/10/2026):** 112 fitxers gràfics identificats individualment, amb fitxes específiques per als 68 fitxers de la UD01 i les 27 figures de la UD02. No s'han verificat exhaustivament tots els elements visuals de les imatges binàries ni l'interior dels PDF.

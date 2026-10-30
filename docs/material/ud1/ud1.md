@@ -5,6 +5,10 @@ pdf: true
 
 # UD1 · Com llegim la història de la Terra?
 
+!!! note "Procedència de les figures de geologia"
+    Les il·lustracions, fotografies, mapes i models gràfics de la UD01 tenen funcions diferents. No s'han d'interpretar com a observacions reals o dades oficials sense comprovar-ne la font. [Consulta la identificació i els drets dels 68 recursos visuals del material i de les activitats](../../registre-figures-ud1.md).
+
+
 Aquesta unitat estudia com podem interpretar el relleu, obtenir informació sobre l'interior de la Terra, comprendre la tectònica de plaques, reconstruir la història geològica d'un territori i analitzar els riscs naturals.
 
 ---

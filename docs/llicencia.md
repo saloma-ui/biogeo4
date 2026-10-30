@@ -36,7 +36,7 @@ La declaració CC BY-SA/MIT **no concedeix drets nous** sobre:
 
 Les **referències bibliogràfiques** dels articles identifiquen fonts de coneixement, però no converteixen les obres citades en continguts llicenciats pel projecte.
 
-Consulta el [registre de recursos i drets](registre-recursos.md), les [fitxes de les figures F01–F27](registre-figures-ud2.md) i l'[inventari visual](inventari-visual.md).
+Consulta el [registre de recursos i drets](registre-recursos.md), el [registre visual de la UD01](registre-figures-ud1.md), les [fitxes de les figures F01–F27 de la UD02](registre-figures-ud2.md) i l'[inventari visual](inventari-visual.md).
 
 ## Figures creades amb intel·ligència artificial
 

@@ -39,5 +39,6 @@ La llicència CC BY-SA i la MIT només concedeixen drets que el responsable pugu
 
 ## Inventaris visuals
 
+- [Registre individual de les 68 figures i recursos visuals de la UD01](docs/registre-figures-ud1.md).
 - [Fitxes individuals F01–F27 de la UD2](docs/registre-figures-ud2.md), amb els crèdits externs de F07.
 - [Inventari dels 112 fitxers visuals del repositori](docs/inventari-visual.md), amb les verificacions de procedència encara pendents.

@@ -33,7 +33,7 @@ En particular, una **imatge sintètica d'una cèl·lula** no s'ha de confondre a
 
 Quan sigui rellevant, les figures incorporaran indicacions específiques sobre la seva naturalesa, l'escala o la font. Aquesta declaració general no substitueix els crèdits que pugui necessitar cada recurs.
 
-La UD2 disposa de [fitxes de procedència de les 27 figures](registre-figures-ud2.md), i el web d'un [inventari dels fitxers visuals](inventari-visual.md).
+La UD01 disposa d'un [registre dels seus 68 fitxers gràfics](registre-figures-ud1.md) i la UD02 de [fitxes de procedència de les 27 figures](registre-figures-ud2.md). El web té també un [inventari transversal dels fitxers visuals](inventari-visual.md).
 
 ## Fonts i rigor científic
 

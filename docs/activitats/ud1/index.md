@@ -35,3 +35,7 @@
 ## A09 · Comprendre el risc
 
 [Obre l'activitat](g2-risc-evidencia/index.md)
+
+---
+
+[**Procedència de les figures i mapes de la UD01**](../../registre-figures-ud1.md) — Inventari dels recursos visuals del material i les activitats, amb fonts i drets pendents de verificar.

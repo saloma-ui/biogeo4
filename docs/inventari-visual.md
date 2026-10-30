@@ -6,6 +6,8 @@ title: Inventari visual
 
 S'han identificat individualment **112 fitxers PNG, JPG, WebP i SVG** publicats al repositori: **27 de la UD2** amb [fitxa individual](registre-figures-ud2.md) i **85 d'altres seccions**.
 
+Els **68 fitxers de la UD01** també tenen ara un [registre individual amb les fonts i els drets pendents de comprovar](registre-figures-ud1.md). 
+
 **Identificar un fitxer no és verificar-ne la procedència o la titularitat.** Aquest inventari no inclou imatges incrustades en PDF, gràfics SVG escrits directament en HTML o recursos carregats des de serveis externs. Els fitxers pendents de comprovació no es consideren automàticament coberts per la llicència general.
 
 ## UD2 · Figures F01–F27 (27)
