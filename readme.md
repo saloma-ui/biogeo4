@@ -46,3 +46,7 @@ La llicència CC BY-SA i la MIT només concedeixen drets que el responsable pugu
 ## Registre automàtic de figures noves
 
 Les imatges que s'incorporen a partir d'ara es detecten i registren automàticament abans de publicar el web. Les fitxes noves apareixen amb l'estat **pendent de verificar**: la procedència, la llicència i l'escala no es poden acreditar automàticament. Consulta [com completar les fitxes](figures/README.md) i [les dades de les incorporacions](figures/fitxes.json).
+
+## Navegació de la documentació
+
+Els apartats d'autoria, llicències i crèdits s'agrupen al menú **Sobre aquest web**, separats de la **Informació del curs**. L'[inventari visual](docs/inventari-visual.md) conté els registres de [UD01](docs/registre-figures-ud1.md) i [UD02](docs/registre-figures-ud2.md); els registres de noves unitats s'afegeixen automàticament dins aquest apartat. La portada manté les quatre targetes i només incorpora un enllaç secundari.

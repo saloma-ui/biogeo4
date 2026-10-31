@@ -20,8 +20,8 @@ EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".svg"}
 BASE_URL = "https://github.com/saloma-ui/biogeo4/blob/main/"
 START = "<!-- FIGURES_AUTO_INICI -->"
 END = "<!-- FIGURES_AUTO_FI -->"
-NAV_START = "      # FIGURES_AUTO_INICI"
-NAV_END = "      # FIGURES_AUTO_FI"
+NAV_START = "          # FIGURES_AUTO_INICI"
+NAV_END = "          # FIGURES_AUTO_FI"
 
 
 def load(path):
@@ -140,6 +140,8 @@ def main():
         if path not in new:
             warning("Fitxa pendent de revisar: " + path)
 
+    units = sorted({unit(p) for p in additions if unit(p) is not None})
+    extra_units = [n for n in units if n >= 3]
     global_section = (
         "## Figures afegides després del registre inicial\n\n"
         "Aquesta secció s'actualitza automàticament. GitHub registra els "
@@ -150,9 +152,14 @@ def main():
         f"**Fitxes pendents:** {len(pending)}.\n\n"
         + make_table(additions, records)
     )
+    if extra_units:
+        links = "\n".join(
+            f"- [**UD{n:02d}**](registre-figures-ud{n}.md) — Fitxes de procedència."
+            for n in extra_units
+        )
+        global_section += "\n\n### Registres de les unitats noves\n\n" + links
     save(CATALOG, managed(text, global_section))
 
-    units = sorted({unit(p) for p in additions if unit(p) is not None})
     for num in sorted(set(units) | {1, 2}):
         page = DOCS / f"registre-figures-ud{num}.md"
         own = [p for p in additions if unit(p) == num]
@@ -173,21 +180,12 @@ def main():
             )
             save(page, managed(preface, section))
 
-    extra_units = [n for n in units if n >= 3]
     nav = ROOT / "mkdocs.yml"
     nav_links = "\n".join(
-        f"      - Figures de la UD{n:02d}: registre-figures-ud{n}.md"
+        f"          - UD{n:02d}: registre-figures-ud{n}.md"
         for n in extra_units
     )
     save(nav, managed(load(nav), nav_links, NAV_START, NAV_END))
-    info = DOCS / "informacio/index.md"
-    info_links = "\n".join(
-        f"- [**Figures de la UD{n:02d}**](../registre-figures-ud{n}.md)"
-        " — Fitxes de procedència de noves figures."
-        for n in extra_units
-    )
-    save(info, managed(load(info), info_links))
-
     if os.getenv("GITHUB_STEP_SUMMARY"):
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as f:
             f.write("### Inventari automàtic de figures\n\n")

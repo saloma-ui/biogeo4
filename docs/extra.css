@@ -141,3 +141,25 @@
     transform: none;
   }
 }
+
+/* Enllaç informatiu secundari: sense afegir una cinquena targeta. */
+.md-typeset .portada-curs__enllac-sobre {
+  margin: 1.35rem 0 0;
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.79rem;
+  line-height: 1.55;
+}
+.md-typeset .portada-curs__enllac-sobre a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-color: var(--md-default-fg-color--lighter);
+}
+.md-typeset .portada-curs__enllac-sobre a:hover {
+  color: var(--md-primary-fg-color);
+}
+.md-typeset .portada-curs__enllac-sobre a:focus-visible {
+  outline: 2px solid var(--md-primary-fg-color);
+  outline-offset: 4px;
+}

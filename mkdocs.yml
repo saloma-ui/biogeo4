@@ -77,15 +77,18 @@ nav:
       - Programació: programacio.md
       - Criteris d'avaluació: criteris-avaluacio.md
       - Calendari: calendari.md
+  - Sobre aquest web:
+      - sobre/index.md
       - Autoria i metodologia: autoria-i-metodologia.md
       - Llicència i reutilització: llicencia.md
-      - Crèdits i recursos: registre-recursos.md
-      - Figures de la UD01: registre-figures-ud1.md
-      - Figures de la UD2: registre-figures-ud2.md
-      - Inventari visual: inventari-visual.md
-      # FIGURES_AUTO_INICI
+      - Crèdits i procedència: registre-recursos.md
+      - Inventari visual:
+          - Inventari general: inventari-visual.md
+          - 'UD01 · Geologia': registre-figures-ud1.md
+          - 'UD02 · La continuïtat cel·lular': registre-figures-ud2.md
+          # FIGURES_AUTO_INICI
 
-      # FIGURES_AUTO_FI
+          # FIGURES_AUTO_FI
 
 markdown_extensions:
   - attr_list
