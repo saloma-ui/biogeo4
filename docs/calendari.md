@@ -7,10 +7,10 @@ pdf: false
 
 **Biologia i Geologia · 4t d'ESO · 2026–2027**
 
-Aquest és el recorregut visual per les **cinc unitats didàctiques**, organitzades en tres trams orientatius del curs. Cada unitat inclou un resum visual ampliable, les sessions previstes i un accés als materials o a la programació.
+Aquest és el recorregut visual per les **cinc unitats didàctiques**, organitzades en tres trams orientatius del curs. Cada unitat inclou la **infografia original** (ampliable en PNG o consultable en PDF), les sessions previstes i un accés als materials o a la programació.
 
 !!! info "Planificació flexible"
-    La [programació didàctica](programacio.md) preveu **78 sessions programades i 15 sessions de reserva flexible: 93 sessions en total**, de 50 minuts, distribuïdes habitualment entre dimarts, dijous i divendres. Les divisions per trimestres orienten el recorregut, però **no fixen dates exactes**. Les dates i alguns elements de les infografies de treball encara s'han de revisar abans de presentar-los com a definitius.
+    La [programació didàctica](programacio.md) preveu **78 sessions programades i 15 sessions de reserva flexible: 93 sessions en total**, de 50 minuts, distribuïdes habitualment entre dimarts, dijous i divendres. Les divisions per trimestres orienten el recorregut, però **no fixen dates exactes**. **Les infografies són documents de treball, no una font de dates o sessions definitives.** A la UD01 encara hi figura una activitat descartada; la infografia d'UD02 indica 12 sessions, però la programació vigent en preveu 15; i diverses dates impreses a les infografies d'UD03–UD05 requereixen revisió. En cas de discrepància, preval la [programació didàctica](programacio.md).
 
 <div class="calendari-curs" markdown="1">
 
@@ -29,8 +29,8 @@ Estudiam el planeta i les cèl·lules: com interpretam la Terra i com es manté 
 <div class="cal-ud-graella" markdown="1">
 
 <article class="cal-ud" markdown="1">
-<a class="cal-miniatura" href="infografies-calendari/ud01.svg" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD01" aria-label="Amplia el resum visual de UD01 en una pestanya nova">
-  <img src="infografies-calendari/ud01.svg" alt="Resum visual de UD01: Geologia, 22 sessions totals" loading="lazy">
+<a class="cal-miniatura" href="infografies-calendari/u1-bgv2.png" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD01" aria-label="Amplia el resum visual de UD01 en una pestanya nova">
+  <img src="infografies-calendari/u1-bgv2.png" alt="Resum visual de UD01: Geologia, 22 sessions totals" loading="lazy">
   <span class="cal-amplia">Amplia el resum visual ↗</span>
 </a>
 
@@ -44,10 +44,15 @@ Interpretam paisatges, models de la Terra i processos geològics per reconstruir
 </article>
 
 <article class="cal-ud" markdown="1">
-<a class="cal-miniatura" href="infografies-calendari/ud02.svg" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD02" aria-label="Amplia el resum visual de UD02 en una pestanya nova">
-  <img src="infografies-calendari/ud02.svg" alt="Resum visual de UD02: La continuïtat cel·lular, 15 sessions totals" loading="lazy">
-  <span class="cal-amplia">Amplia el resum visual ↗</span>
-</a>
+<div class="cal-miniatura cal-miniatura--pdf">
+  <object class="cal-pdf-previsualitzacio" data="infografies-calendari/UD02-INFOGRAFIA.pdf#page=1&amp;view=FitH&amp;toolbar=0" type="application/pdf" aria-label="Infografia original de la UD02 en PDF">
+    <div class="cal-pdf-alternativa">
+      <strong>UD02 · La continuïtat cel·lular</strong>
+      <span>Infografia original disponible en PDF.</span>
+    </div>
+  </object>
+  <a class="cal-amplia" href="infografies-calendari/UD02-INFOGRAFIA.pdf" target="_blank" rel="noopener noreferrer">Obre la infografia en PDF ↗</a>
+</div>
 
 ### UD02 · La continuïtat cel·lular
 
@@ -76,8 +81,8 @@ Exploram com s'organitza, s'expressa i es transmet la informació genètica.
 <div class="cal-ud-graella" markdown="1">
 
 <article class="cal-ud" markdown="1">
-<a class="cal-miniatura" href="infografies-calendari/ud03.svg" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD03" aria-label="Amplia el resum visual de UD03 en una pestanya nova">
-  <img src="infografies-calendari/ud03.svg" alt="Resum visual de UD03: Informació genètica i herència, 23 sessions totals" loading="lazy">
+<a class="cal-miniatura" href="infografies-calendari/UD03_informacio_genetica_blocs_finals_v2.png" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD03" aria-label="Amplia el resum visual de UD03 en una pestanya nova">
+  <img src="infografies-calendari/UD03_informacio_genetica_blocs_finals_v2.png" alt="Resum visual de UD03: Informació genètica i herència, 23 sessions totals" loading="lazy">
   <span class="cal-amplia">Amplia el resum visual ↗</span>
 </a>
 
@@ -108,8 +113,8 @@ Investigam l'evolució de la vida i situam la Terra dins l'univers.
 <div class="cal-ud-graella" markdown="1">
 
 <article class="cal-ud" markdown="1">
-<a class="cal-miniatura" href="infografies-calendari/ud04.svg" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD04" aria-label="Amplia el resum visual de UD04 en una pestanya nova">
-  <img src="infografies-calendari/ud04.svg" alt="Resum visual de UD04: Evolució, 18 sessions totals" loading="lazy">
+<a class="cal-miniatura" href="infografies-calendari/ud4-bgv2.png" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD04" aria-label="Amplia el resum visual de UD04 en una pestanya nova">
+  <img src="infografies-calendari/ud4-bgv2.png" alt="Resum visual de UD04: Evolució, 18 sessions totals" loading="lazy">
   <span class="cal-amplia">Amplia el resum visual ↗</span>
 </a>
 
@@ -123,8 +128,8 @@ Interpretam dades evolutives i contrastam explicacions sobre el canvi de les pob
 </article>
 
 <article class="cal-ud" markdown="1">
-<a class="cal-miniatura" href="infografies-calendari/ud05.svg" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD05" aria-label="Amplia el resum visual de UD05 en una pestanya nova">
-  <img src="infografies-calendari/ud05.svg" alt="Resum visual de UD05: La Terra a l'univers, 15 sessions totals" loading="lazy">
+<a class="cal-miniatura" href="infografies-calendari/ud5-bgv2.png" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD05" aria-label="Amplia el resum visual de UD05 en una pestanya nova">
+  <img src="infografies-calendari/ud5-bgv2.png" alt="Resum visual de UD05: La Terra a l'univers, 15 sessions totals" loading="lazy">
   <span class="cal-amplia">Amplia el resum visual ↗</span>
 </a>
 
@@ -146,6 +151,6 @@ Exploram l'univers, el sistema solar, la recerca astrobiològica i les hipòtesi
 
 ### Com llegir el calendari?
 
-Les unitats segueixen l'ordre **UD01 → UD05**. Els nombres de sessions inclouen les reserves flexibles. Els resums visuals que es mostren en aquesta pàgina són una **síntesi adaptada a la programació vigent**, no una reproducció literal de les infografies de treball.
+Les unitats segueixen l'ordre **UD01 → UD05**. Els nombres de sessions inclouen les reserves flexibles. Les miniatures mostren les **infografies originals facilitades pel docent, sense modificar-ne el disseny ni el contingut**. La UD02 es presenta com a PDF; en alguns dispositius pot ser necessari obrir-la amb l'enllaç de davall. Les sessions indicades en el text d'aquesta pàgina es basen en la programació vigent.
 
 Les dates d'inici i finalització de les unitats dependran del calendari lectiu real i del progrés dels grups. Les activitats i evidències concretes es descriuen a la [programació didàctica](programacio.md).
