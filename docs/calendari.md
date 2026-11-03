@@ -7,10 +7,10 @@ pdf: false
 
 **Biologia i Geologia · 4t d'ESO · 2026–2027**
 
-Aquest és el recorregut visual per les **cinc unitats didàctiques**, organitzades en tres trams orientatius del curs. Cada unitat inclou la **infografia original** (ampliable en PNG), les sessions previstes i un accés als materials o a la programació.
+Aquest calendari presenta el recorregut de les **cinc unitats didàctiques**, organitzades en tres trams del curs. Cada unitat inclou una infografia ampliable, la distribució de sessions i un accés als materials o a la programació.
 
-!!! info "Planificació flexible"
-    La [programació didàctica](programacio.md) preveu **78 sessions programades i 15 sessions de reserva flexible: 93 sessions en total**, de 50 minuts, distribuïdes habitualment entre dimarts, dijous i divendres. Les divisions per trimestres orienten el recorregut, però **no fixen dates exactes**. **Les infografies són documents de treball, no una font de dates o sessions definitives.** A la UD01 encara hi figura una activitat descartada; la infografia d'UD02 indica 12 sessions, però la programació vigent en preveu 15; i diverses dates impreses a les infografies d'UD03–UD05 requereixen revisió. En cas de discrepància, preval la [programació didàctica](programacio.md).
+!!! info "Organització del curs"
+    La distribució del curs comprèn **93 sessions de 50 minuts**: 78 sessions programades i 15 de reserva flexible. Les classes es fan habitualment els dimarts, dijous i divendres.
 
 <div class="calendari-curs" markdown="1">
 
@@ -22,7 +22,7 @@ Aquest és el recorregut visual per les **cinc unitats didàctiques**, organitza
 
 Estudiam el planeta i les cèl·lules: com interpretam la Terra i com es manté la vida.
 
-**37 sessions totals previstes** · 2 unitats
+**37 sessions** · 2 unitats
 
 </div>
 
@@ -69,7 +69,7 @@ Estudiam les cèl·lules, la duplicació de l'ADN, la divisió cel·lular i la m
 
 Exploram com s'organitza, s'expressa i es transmet la informació genètica.
 
-**23 sessions totals previstes** · 1 unitat
+**23 sessions** · 1 unitat
 
 </div>
 
@@ -101,7 +101,7 @@ Analitzam com s'emmagatzema, s'expressa i es transmet la informació genètica.
 
 Investigam l'evolució de la vida i situam la Terra dins l'univers.
 
-**33 sessions totals previstes** · 2 unitats
+**33 sessions** · 2 unitats
 
 </div>
 
@@ -146,6 +146,6 @@ Exploram l'univers, el sistema solar, la recerca astrobiològica i les hipòtesi
 
 ### Com llegir el calendari?
 
-Les unitats segueixen l'ordre **UD01 → UD05**. Els nombres de sessions inclouen les reserves flexibles. Les miniatures mostren les **infografies originals facilitades pel docent, sense modificar-ne el disseny ni el contingut**. Les sessions indicades en el text d'aquesta pàgina es basen en la programació vigent.
+Les unitats segueixen l'ordre **UD01 → UD05**. Les infografies es poden ampliar seleccionant-ne la imatge. Els nombres de sessions inclouen les reserves flexibles.
 
-Les dates d'inici i finalització de les unitats dependran del calendari lectiu real i del progrés dels grups. Les activitats i evidències concretes es descriuen a la [programació didàctica](programacio.md).
+Per consultar els continguts, les activitats i les evidències d'avaluació, accedeix a la [programació didàctica](programacio.md).
