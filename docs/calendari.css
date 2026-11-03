@@ -114,30 +114,3 @@
   .calendari-curs .cal-trimestre::before { display: none; }
   .calendari-curs .cal-ud { break-inside: avoid; }
 }
-
-/* Infografia original de la UD02: previsualització del PDF sense generar una imatge nova. */
-.calendari-curs .cal-miniatura--pdf { display: flex; flex-direction: column; }
-.calendari-curs .cal-pdf-previsualitzacio {
-  display: block;
-  width: 100%;
-  height: clamp(200px, 24vw, 290px);
-  border: 0;
-  box-sizing: border-box;
-  background: var(--md-default-bg-color);
-}
-.calendari-curs .cal-pdf-alternativa {
-  height: 100%;
-  box-sizing: border-box;
-  padding: 1.25rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: .6rem;
-  text-align: center;
-  color: var(--md-default-fg-color);
-}
-.calendari-curs .cal-pdf-alternativa span { font-size: .85rem; }
-.calendari-curs .cal-miniatura--pdf .cal-amplia { text-decoration: underline; }
-@media (max-width: 700px) {
-  .calendari-curs .cal-pdf-previsualitzacio { height: min(77vw, 380px); }
-}
