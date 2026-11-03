@@ -1,4 +1,55 @@
 {
-  "fitxes": {},
+  "fitxes": {
+    "docs/infografies-calendari/ud01.svg": {
+      "autor": "",
+      "escala": "",
+      "font_url": "",
+      "llicencia": "pendent",
+      "observacions": "",
+      "origen": "pendent",
+      "revisat": false,
+      "tipus": "pendent"
+    },
+    "docs/infografies-calendari/ud02.svg": {
+      "autor": "",
+      "escala": "",
+      "font_url": "",
+      "llicencia": "pendent",
+      "observacions": "",
+      "origen": "pendent",
+      "revisat": false,
+      "tipus": "pendent"
+    },
+    "docs/infografies-calendari/ud03.svg": {
+      "autor": "",
+      "escala": "",
+      "font_url": "",
+      "llicencia": "pendent",
+      "observacions": "",
+      "origen": "pendent",
+      "revisat": false,
+      "tipus": "pendent"
+    },
+    "docs/infografies-calendari/ud04.svg": {
+      "autor": "",
+      "escala": "",
+      "font_url": "",
+      "llicencia": "pendent",
+      "observacions": "",
+      "origen": "pendent",
+      "revisat": false,
+      "tipus": "pendent"
+    },
+    "docs/infografies-calendari/ud05.svg": {
+      "autor": "",
+      "escala": "",
+      "font_url": "",
+      "llicencia": "pendent",
+      "observacions": "",
+      "origen": "pendent",
+      "revisat": false,
+      "tipus": "pendent"
+    }
+  },
   "versio": 1
 }

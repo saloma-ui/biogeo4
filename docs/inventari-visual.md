@@ -149,7 +149,13 @@ Els **68 fitxers de la UD01** també tenen ara un [registre individual amb les f
 
 Aquesta secció s'actualitza automàticament. GitHub registra els fitxers, **però no pot verificar-ne automàticament l'autoria, la naturalesa, les dades ni la llicència**.
 
-**Fitxers visuals actuals:** 112. **Incorporacions posteriors:** 0. **Fitxes pendents:** 0.
+**Fitxers visuals actuals:** 117. **Incorporacions posteriors:** 5. **Fitxes pendents:** 5.
 
-Cap figura incorporada després del registre inicial.
+| Fitxer | Tipus | Origen | Autor o responsable | Llicència | Escala i observacions | Estat |
+|:--|:--|:--|:--|:--|:--|:--|
+| [ud01.svg](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/ud01.svg) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+| [ud02.svg](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/ud02.svg) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+| [ud03.svg](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/ud03.svg) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+| [ud04.svg](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/ud04.svg) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+| [ud05.svg](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/ud05.svg) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
 <!-- FIGURES_AUTO_FI -->
