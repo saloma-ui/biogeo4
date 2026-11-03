@@ -149,10 +149,11 @@ Els **68 fitxers de la UD01** també tenen ara un [registre individual amb les f
 
 Aquesta secció s'actualitza automàticament. GitHub registra els fitxers, **però no pot verificar-ne automàticament l'autoria, la naturalesa, les dades ni la llicència**.
 
-**Fitxers visuals actuals:** 116. **Incorporacions posteriors:** 4. **Fitxes pendents:** 4.
+**Fitxers visuals actuals:** 117. **Incorporacions posteriors:** 5. **Fitxes pendents:** 5.
 
 | Fitxer | Tipus | Origen | Autor o responsable | Llicència | Escala i observacions | Estat |
 |:--|:--|:--|:--|:--|:--|:--|
+| [UD02-INFOGRAFIA.png](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/UD02-INFOGRAFIA.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
 | [UD03_informacio_genetica_blocs_finals_v2.png](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/UD03_informacio_genetica_blocs_finals_v2.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
 | [u1-bgv2.png](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/u1-bgv2.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
 | [ud4-bgv2.png](https://github.com/saloma-ui/biogeo4/blob/main/docs/infografies-calendari/ud4-bgv2.png) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
