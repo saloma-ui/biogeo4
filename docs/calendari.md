@@ -26,7 +26,7 @@ Estudiam el planeta i les cèl·lules: com interpretam la Terra i com es manté 
 
 </div>
 
-<div class="cal-ud-graella" markdown="1">
+<div class="cal-ud-graella cal-ud-graella--doble" markdown="1">
 
 <article class="cal-ud" markdown="1">
 <a class="cal-miniatura" href="../infografies-calendari/u1-bgv2.png" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD01" aria-label="Amplia el resum visual de UD01 en una pestanya nova">
@@ -73,7 +73,7 @@ Exploram com s'organitza, s'expressa i es transmet la informació genètica.
 
 </div>
 
-<div class="cal-ud-graella" markdown="1">
+<div class="cal-ud-graella cal-ud-graella--simple" markdown="1">
 
 <article class="cal-ud" markdown="1">
 <a class="cal-miniatura" href="../infografies-calendari/UD03_informacio_genetica_blocs_finals_v2.png" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD03" aria-label="Amplia el resum visual de UD03 en una pestanya nova">
@@ -105,7 +105,7 @@ Investigam l'evolució de la vida i situam la Terra dins l'univers.
 
 </div>
 
-<div class="cal-ud-graella" markdown="1">
+<div class="cal-ud-graella cal-ud-graella--doble" markdown="1">
 
 <article class="cal-ud" markdown="1">
 <a class="cal-miniatura" href="../infografies-calendari/ud4-bgv2.png" target="_blank" rel="noopener noreferrer" title="Amplia el resum visual de UD04" aria-label="Amplia el resum visual de UD04 en una pestanya nova">

@@ -7,6 +7,7 @@
 }
 .calendari-curs .cal-trimestre {
   --cal-accent: #567b94;
+  container: calendari-trimestre / inline-size;
   position: relative;
   margin: 0 0 2rem;
   padding: clamp(1rem, 2.5vw, 1.5rem);
@@ -45,13 +46,27 @@
 }
 .calendari-curs .cal-ud-graella {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+  min-width: 0;
   gap: clamp(.8rem, 1.7vw, 1.2rem);
+}
+/* Com a BGCA: les dues unitats del tram comparteixen un mateix panell. */
+.calendari-curs .cal-ud-graella--doble {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+/* El tram amb una única unitat conserva una targeta de mida comparable. */
+.calendari-curs .cal-ud-graella--simple {
+  grid-template-columns: minmax(0, 1fr);
+  justify-items: center;
+}
+.calendari-curs .cal-ud-graella--simple > .cal-ud {
+  width: min(100%, 25rem);
 }
 .calendari-curs .cal-ud {
   display: flex;
   flex-direction: column;
   min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
   padding: .78rem;
   border: 1px solid var(--cal-border);
   border-radius: .72rem;
@@ -102,7 +117,17 @@
   outline: 2px solid var(--cal-accent, var(--md-primary-fg-color));
   outline-offset: 2px;
 }
+/* Respon a l'amplada real del panell, també amb la TOC lateral oberta. */
+@container calendari-trimestre (max-width: 31rem) {
+  .calendari-curs .cal-ud-graella--doble {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .calendari-curs .cal-ud-graella--simple > .cal-ud {
+    width: 100%;
+  }
+}
 @media (max-width: 700px) {
+  .calendari-curs .cal-ud-graella--doble { grid-template-columns: minmax(0, 1fr); }
   .calendari-curs { margin-left: .45rem; padding-left: .85rem; }
   .calendari-curs .cal-trimestre { padding: .85rem; }
   .calendari-curs .cal-trimestre::before { left: calc(-.45rem - .85rem - 8px); }
