@@ -98,6 +98,7 @@ markdown_extensions:
 
 extra_css:
   - extra.css
+  - calendari.css
   - divulgacio/revista.css
   - presentacio.css
   - visor-ideib.css

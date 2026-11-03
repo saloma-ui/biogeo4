@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 940" width="720" height="940" role="img" aria-labelledby="t d">
+<title id="t">UD02 · La continuïtat cel·lular</title>
+<desc id="d">Resum visual del calendari, adaptat a la programació del curs 2026–2027: 15 sessions.</desc>
+<rect width="720" height="940" rx="24" fill="#f7f9fb"/>
+<rect x="0" y="0" width="720" height="240" rx="24" fill="#fff1ee"/>
+<rect x="0" y="207" width="720" height="33" fill="#fff1ee"/>
+<rect x="42" y="43" width="84" height="84" rx="22" fill="#e56760"/>
+<text x="84" y="96" text-anchor="middle" font-size="40" font-weight="800" fill="#ffffff">02</text>
+<text x="150" y="79" font-size="28" font-weight="750" fill="#e56760">UD02 · 4t d'ESO</text>
+<text x="150" y="126" font-size="31" font-weight="800" fill="#142333">La continuïtat cel·lular</text>
+<text x="42" y="190" font-size="24" fill="#24384d">Com es mantenen i es divideixen les cèl·lules?</text>
+<rect x="42" y="216" width="636" height="49" rx="13" fill="#e56760"/>
+<text x="360" y="247" text-anchor="middle" font-size="23" font-weight="700" fill="#ffffff">15 sessions · 13 programades + 2 de reserva</text>
+<text x="43" y="282" font-size="1" fill="#f7f9fb"> </text>
+<rect x="42" y="290" width="636" height="55" rx="12" fill="#ffffff" stroke="#dce2e7"/>
+<circle cx="72" cy="317" r="15" fill="#e56760"/>
+<text x="72" y="323" text-anchor="middle" font-size="17" font-weight="800" fill="#ffffff">1</text>
+<text x="103" y="325" font-size="24" fill="#172637" font-weight="600">Organització cel·lular</text>
+<rect x="42" y="363" width="636" height="55" rx="12" fill="#ffffff" stroke="#dce2e7"/>
+<circle cx="72" cy="390" r="15" fill="#e56760"/>
+<text x="72" y="396" text-anchor="middle" font-size="17" font-weight="800" fill="#ffffff">2</text>
+<text x="103" y="398" font-size="24" fill="#172637" font-weight="600">Cicle cel·lular i cromosomes</text>
+<rect x="42" y="436" width="636" height="55" rx="12" fill="#ffffff" stroke="#dce2e7"/>
+<circle cx="72" cy="463" r="15" fill="#e56760"/>
+<text x="72" y="469" text-anchor="middle" font-size="17" font-weight="800" fill="#ffffff">3</text>
+<text x="103" y="471" font-size="24" fill="#172637" font-weight="600">Microscòpia i registre de dades</text>
+<rect x="42" y="509" width="636" height="55" rx="12" fill="#ffffff" stroke="#dce2e7"/>
+<circle cx="72" cy="536" r="15" fill="#e56760"/>
+<text x="72" y="542" text-anchor="middle" font-size="17" font-weight="800" fill="#ffffff">4</text>
+<text x="103" y="544" font-size="24" fill="#172637" font-weight="600">Mitosi i meiosi</text>
+<rect x="42" y="582" width="636" height="55" rx="12" fill="#ffffff" stroke="#dce2e7"/>
+<circle cx="72" cy="609" r="15" fill="#e56760"/>
+<text x="72" y="615" text-anchor="middle" font-size="17" font-weight="800" fill="#ffffff">5</text>
+<text x="103" y="617" font-size="24" fill="#172637" font-weight="600">Investigació de mitosi</text>
+<rect x="42" y="655" width="636" height="55" rx="12" fill="#ffffff" stroke="#dce2e7"/>
+<circle cx="72" cy="682" r="15" fill="#e56760"/>
+<text x="72" y="688" text-anchor="middle" font-size="17" font-weight="800" fill="#ffffff">6</text>
+<text x="103" y="690" font-size="24" fill="#172637" font-weight="600">Model de divisió cel·lular</text>
+<rect x="42" y="711" width="636" height="182" rx="16" fill="#fff1ee" stroke="#dce2e7"/>
+<text x="60" y="741" font-size="22" font-weight="800" fill="#e56760">EVIDÈNCIES PRINCIPALS</text>
+<circle cx="61" cy="747" r="5.5" fill="#e56760"/><text x="80" y="754" font-size="21" fill="#27364a">A04 · Investigació de mitosi</text>
+<circle cx="61" cy="789" r="5.5" fill="#e56760"/><text x="80" y="796" font-size="21" fill="#27364a">A05 · Model de divisió</text>
+<circle cx="61" cy="831" r="5.5" fill="#e56760"/><text x="80" y="838" font-size="21" fill="#27364a">P2 · Prova final</text>
+<text x="360" y="924" text-anchor="middle" font-size="17" fill="#667588">Planificació orientativa · curs 2026–2027</text>
+</svg>

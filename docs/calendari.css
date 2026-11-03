@@ -1,0 +1,116 @@
+/* Calendari de Biologia i Geologia 4t d'ESO; estils acotats a .calendari-curs. */
+.calendari-curs {
+  --cal-border: var(--md-default-fg-color--lightest);
+  margin: 2rem 0 2rem 1rem;
+  padding-left: clamp(1rem, 2vw, 1.65rem);
+  border-left: 2px solid var(--cal-border);
+}
+.calendari-curs .cal-trimestre {
+  --cal-accent: #567b94;
+  position: relative;
+  margin: 0 0 2rem;
+  padding: clamp(1rem, 2.5vw, 1.5rem);
+  border: 1px solid var(--cal-border);
+  border-radius: .95rem;
+  background: var(--md-default-bg-color);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, .035);
+}
+.calendari-curs .cal-trimestre--1 { --cal-accent: #c85b4f; }
+.calendari-curs .cal-trimestre--2 { --cal-accent: #8b4fa6; }
+.calendari-curs .cal-trimestre--3 { --cal-accent: #278568; }
+.calendari-curs .cal-trimestre::before {
+  content: "";
+  position: absolute;
+  left: calc(-1rem - clamp(1rem, 2vw, 1.65rem) - 8px);
+  top: 1.55rem;
+  width: 13px; height: 13px;
+  border-radius: 50%;
+  background: var(--cal-accent);
+  box-shadow: 0 0 0 4px var(--md-default-bg-color);
+}
+.calendari-curs .cal-trimestre-capcalera {
+  border-bottom: 1px solid var(--cal-border);
+  padding-bottom: .8rem;
+  margin-bottom: 1.1rem;
+}
+.calendari-curs .cal-trimestre-capcalera h2 {
+  margin: 0 0 .35rem;
+  font-weight: 750;
+  font-size: clamp(1.2rem, 2vw, 1.62rem);
+}
+.calendari-curs .cal-trimestre-capcalera p { margin: .3rem 0; }
+.calendari-curs .cal-trimestre-capcalera p:last-child {
+  color: var(--md-default-fg-color--light);
+  font-weight: 650;
+}
+.calendari-curs .cal-ud-graella {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+  gap: clamp(.8rem, 1.7vw, 1.2rem);
+}
+.calendari-curs .cal-ud {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: .78rem;
+  border: 1px solid var(--cal-border);
+  border-radius: .72rem;
+  background: var(--md-code-bg-color);
+}
+.calendari-curs .cal-ud h3 {
+  margin: .8rem 0 .45rem;
+  font-size: clamp(1rem, 1.5vw, 1.13rem);
+  line-height: 1.3;
+  font-weight: 700;
+}
+.calendari-curs .cal-ud p { margin: .3rem 0 .55rem; font-size: .88rem; }
+.calendari-curs .cal-ud p:last-child { margin-top: auto; }
+.calendari-curs .cal-durada { font-weight: 750; }
+.calendari-curs .cal-miniatura {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  border-radius: .58rem;
+  border: 1px solid var(--cal-border);
+  background: var(--md-default-bg-color);
+  text-decoration: none;
+  color: var(--md-default-fg-color);
+}
+.calendari-curs .cal-miniatura img {
+  display: block;
+  width: 100%;
+  height: clamp(200px, 24vw, 290px);
+  box-sizing: border-box;
+  object-fit: contain;
+  padding: .3rem;
+}
+.calendari-curs .cal-amplia {
+  display: block;
+  text-align: center;
+  padding: .48rem .6rem;
+  font-size: .7rem;
+  font-weight: 750;
+  color: var(--cal-accent, var(--md-primary-fg-color));
+  border-top: 1px solid var(--cal-border);
+}
+.calendari-curs .cal-miniatura:hover,
+.calendari-curs .cal-miniatura:focus-visible {
+  border-color: var(--cal-accent, var(--md-primary-fg-color));
+}
+.calendari-curs .cal-miniatura:focus-visible {
+  outline: 2px solid var(--cal-accent, var(--md-primary-fg-color));
+  outline-offset: 2px;
+}
+@media (max-width: 700px) {
+  .calendari-curs { margin-left: .45rem; padding-left: .85rem; }
+  .calendari-curs .cal-trimestre { padding: .85rem; }
+  .calendari-curs .cal-trimestre::before { left: calc(-.45rem - .85rem - 8px); }
+  .calendari-curs .cal-miniatura img { height: min(77vw, 380px); }
+}
+@media print {
+  .calendari-curs { border-left: 0; padding-left: 0; margin-left: 0; }
+  .calendari-curs .cal-trimestre { break-inside: avoid; box-shadow: none; }
+  .calendari-curs .cal-trimestre::before { display: none; }
+  .calendari-curs .cal-ud { break-inside: avoid; }
+}
