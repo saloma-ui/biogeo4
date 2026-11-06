@@ -1,0 +1,70 @@
+/* Ciència per descobrir: estils editorials, limitats als articles de divulgació. */
+body.cd-revista { --cd-ink:#243447;--cd-blue:#20597e;--cd-sand:#faf6ef;--cd-line:#e8e2d8; }
+body.cd-revista .md-main__inner.md-grid { max-width:82rem; }
+body.cd-revista .md-content { min-width:0; margin:0; }
+body.cd-revista .md-content__inner { max-width:none; margin:0; padding:1.5rem 1.25rem 3rem; }
+/* Les regles generals de figure de Material restringeixen l'amplada intrínseca: la capçalera ha d'ocupar tot el contenidor editorial. */
+body.cd-revista .md-typeset figure.cd-hero { display:block; box-sizing:border-box; width:100%; max-width:100%; min-width:0; margin:0 0 1.3rem; height:clamp(175px,24vw,335px); border-radius:14px; overflow:hidden; background:#faf5ed; }
+body.cd-revista .md-typeset figure.cd-hero img { width:100%; height:100%; max-width:none; display:block; object-fit:cover; object-position:center center; }
+.cd-layout { display:grid; grid-template-columns:minmax(0,1fr) 17rem; gap:clamp(1.1rem,3vw,2.6rem); align-items:start; }
+.cd-reading { min-width:0; color:var(--cd-ink); }
+.cd-reading > h1 { color:#152e48; font:700 clamp(1.65rem,3vw,2.45rem)/1.15 Georgia,serif; letter-spacing:-.025em; margin:.35rem 0 .7rem; }
+.cd-reading > h2,.cd-reading > h3 { color:#215a7c; font-family:Georgia,serif; letter-spacing:-.02em; }
+.cd-reading > p { line-height:1.76; }
+.cd-reading > h1 + p { font:italic 1.04rem/1.65 Georgia,serif; color:#526177; }
+/* Només figures científiques DINS el text: no s'aplica a figure.cd-hero. */
+body.cd-revista .cd-reading p:has(img),
+body.cd-revista .cd-reading figure {
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+}
+body.cd-revista .cd-reading p img,
+body.cd-revista .cd-reading figure img {
+  display: block;
+  width: auto;
+  max-width: min(100%, 560px);
+  max-height: 360px;
+  height: auto;
+  object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+}
+/* A les pantalles petites, les figures no desborden el text. */
+@media (max-width: 620px) {
+  body.cd-revista .cd-reading p:has(img),
+  body.cd-revista .cd-reading figure { max-width: 100%; }
+  body.cd-revista .cd-reading p img,
+  body.cd-revista .cd-reading figure img { max-width: 100%; max-height: none; }
+}
+.cd-reading .admonition { border-radius:9px; }
+.cd-reading a { color:#21678c; }
+.cd-kicker { font:700 .67rem/1.4 system-ui,sans-serif; color:#315f7d; text-transform:uppercase; letter-spacing:.14em; margin:.45rem 0 .65rem; }
+.cd-back { display:block; font:.68rem system-ui,sans-serif; color:#627081 !important; margin:.4rem 0 1rem; }
+.cd-chips,.cd-cloud { display:flex; flex-wrap:wrap; gap:.35rem; }
+.cd-chips { margin:1rem 0 1.5rem; }
+.cd-chip { display:inline-flex; border:1px solid #d7e4ec; background:#ebf4fa; border-radius:14px; padding:.24rem .49rem; color:#205c85 !important; font:500 .62rem/1.35 system-ui,sans-serif; text-decoration:none !important; }
+.cd-chip:hover,.cd-chip:focus-visible { background:#d8ebf6; }
+.cd-sidebar { position:sticky; top:4.6rem; display:flex; flex-direction:column; gap:.75rem; font-family:system-ui,sans-serif; }
+.cd-card { background:var(--cd-sand); border:1px solid #efe9df; border-radius:12px; padding:1rem; }
+.cd-card h2 { font:700 1rem/1.25 Georgia,serif; color:#523d2d; margin:0 0 .7rem; }
+.cd-card input[type="search"] { width:100%; border-radius:8px; border:1px solid #dcdcd9; background:white; min-height:2.3rem; padding:.5rem .65rem; color:#21364a; font:.69rem system-ui,sans-serif; }
+.cd-card input[type="search"]:focus { outline:2px solid #9cc6dc; }
+.cd-card .cd-chip { font-size:.58rem; }
+.cd-card .cd-more { display:inline-block; margin-top:.7rem; font:650 .68rem system-ui,sans-serif; color:#255b81; }
+.cd-card ul { list-style:none; margin:0; padding:0; }
+.cd-card li { list-style:none; padding:.5rem .1rem; margin:0; border-bottom:1px solid #e5e0d7; }
+.cd-card li:last-child { border-bottom:0; }
+.cd-card li a { color:#274d6b; text-decoration:none; font:700 .7rem/1.33 system-ui,sans-serif; display:block; }
+.cd-card li small { display:block; font:400 .61rem/1.4 system-ui,sans-serif; color:#6b7483; margin-top:.15rem; }
+.cd-topics .md-content__inner { max-width:83rem; }
+.cd-browser { padding:.3rem 0 2rem; }
+.cd-browser .cd-chips { margin:1rem 0; }
+.cd-browser .cd-chip.active { background:#235a80; color:white !important; }
+.cd-topic-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:.8rem; }
+.cd-topic-card { border:1px solid var(--cd-line); border-radius:11px; padding:1rem; background:#fffdfa; }
+.cd-topic-card > a { display:block; font-weight:750; color:#235d83; }
+.cd-topic-card p { font-size:.78rem; line-height:1.5; color:#637184; margin:.3rem 0 .8rem; }
+@media(max-width:950px) { .cd-layout { grid-template-columns:1fr; } .cd-sidebar { position:static; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); } .cd-sidebar .cd-card:last-child { grid-column:1/-1; } }
+@media(max-width:620px) { body.cd-revista .md-content__inner { padding:1rem .75rem 2.5rem; } .cd-hero { height:165px; margin-bottom:1rem; border-radius:9px; } .cd-sidebar { display:flex; } .cd-reading > h1 { font-size:1.72rem; } }

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 620" role="img" aria-labelledby="title desc">
+<title id="title">Contracció i relaxació muscular: transport del calci</title>
+<desc id="desc">A l'esquerra el calci surt passivament del reticle sarcoplasmàtic i activa la contracció; a la dreta les bombes SERCA retornen el calci cap al reticle utilitzant ATP per facilitar la relaxació.</desc>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#213145}.h{font-size:30px;font-weight:800}.sub{font-size:17px;font-weight:700}.lab{font-size:15px}.tiny{font-size:13px}.ion{font-size:13px;font-weight:bold;fill:#582b95}.white{fill:white}.arrow{fill:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.sr{fill:#bcefe8;stroke:#2c999d;stroke-width:3}.dot{fill:#a65bd9;stroke:#6435a3;stroke-width:1.5}
+</style>
+<rect width="1160" height="620" rx="20" fill="#ffffff"/>
+<rect x="18" y="22" width="547" height="505" rx="18" fill="#fff3ee" stroke="#dd655d" stroke-width="3"/>
+<rect x="595" y="22" width="547" height="505" rx="18" fill="#eef5ff" stroke="#3980c8" stroke-width="3"/>
+<rect x="18" y="22" width="547" height="66" rx="18" fill="#c83f3d"/><rect x="595" y="22" width="547" height="66" rx="18" fill="#2364ad"/>
+<text x="291" y="65" text-anchor="middle" class="h white">Contracció</text><text x="869" y="65" text-anchor="middle" class="h white">Relaxació</text>
+<!-- contract -->
+<path d="M45 135 H526" stroke="#d36e72" stroke-width="13" stroke-linecap="round"/><path d="M45 135 H526" stroke="#f9c1bd" stroke-width="6" stroke-dasharray="3 8"/>
+<text x="52" y="117" class="tiny">Membrana de la fibra muscular</text>
+<path d="M252 128 v75" stroke="#e89c15" stroke-width="6" stroke-linecap="round"/><path d="M240 191 l12 18 12-18" fill="none" stroke="#e89c15" stroke-width="5"/>
+<text x="278" y="183" class="lab" fill="#ad6000">Estímul elèctric</text>
+<rect x="45" y="230" width="205" height="180" rx="25" class="sr"/><text x="64" y="256" class="sub">Reticle</text><text x="64" y="278" class="sub">sarcoplasmàtic</text>
+<g><circle cx="76" cy="315" r="9" class="dot"/><circle cx="113" cy="327" r="9" class="dot"/><circle cx="152" cy="314" r="9" class="dot"/><circle cx="188" cy="341" r="9" class="dot"/><circle cx="218" cy="311" r="9" class="dot"/><circle cx="92" cy="376" r="9" class="dot"/><circle cx="140" cy="360" r="9" class="dot"/><circle cx="183" cy="382" r="9" class="dot"/><circle cx="225" cy="369" r="9" class="dot"/></g>
+<rect x="238" y="307" width="26" height="36" rx="7" fill="#3e72ba" stroke="#183f83" stroke-width="3"/>
+<path d="M270 324 C298 323 316 303 350 301" class="arrow" stroke="#6c3ba6"/><path d="M340 292 l13 8-13 9" fill="none" stroke="#6c3ba6" stroke-width="4"/>
+<circle cx="326" cy="324" r="9" class="dot"/><circle cx="372" cy="280" r="9" class="dot"/><circle cx="390" cy="344" r="9" class="dot"/><circle cx="455" cy="303" r="9" class="dot"/><circle cx="488" cy="363" r="9" class="dot"/>
+<text x="343" y="237" class="ion">Ca²⁺</text><text x="285" y="376" class="sub">Transport passiu</text><text x="285" y="399" class="lab">A favor del gradient</text>
+<path d="M57 446 H521" stroke="#6c92d2" stroke-width="15" stroke-linecap="round"/><path d="M70 470 H507" stroke="#d56f78" stroke-width="15" stroke-linecap="round"/>
+<text x="80" y="455" class="tiny white">Actina</text><text x="80" y="476" class="tiny white">Miosina</text>
+<text x="290" y="502" text-anchor="middle" class="sub">El Ca²⁺ activa la contracció</text>
+<!-- relaxation -->
+<path d="M620 135 H1116" stroke="#789aca" stroke-width="13" stroke-linecap="round"/><path d="M620 135 H1116" stroke="#c4d9fb" stroke-width="6" stroke-dasharray="3 8"/>
+<text x="629" y="117" class="tiny">Membrana de la fibra muscular</text>
+<rect x="620" y="230" width="232" height="180" rx="25" class="sr"/><text x="638" y="256" class="sub">Reticle</text><text x="638" y="278" class="sub">sarcoplasmàtic</text>
+<g><circle cx="643" cy="322" r="9" class="dot"/><circle cx="684" cy="336" r="9" class="dot"/><circle cx="717" cy="312" r="9" class="dot"/><circle cx="755" cy="348" r="9" class="dot"/><circle cx="805" cy="317" r="9" class="dot"/><circle cx="661" cy="379" r="9" class="dot"/><circle cx="707" cy="377" r="9" class="dot"/><circle cx="785" cy="379" r="9" class="dot"/></g>
+<rect x="840" y="301" width="31" height="48" rx="10" fill="#8b5fc7" stroke="#603599" stroke-width="3"/>
+<path d="M935 325 H880" class="arrow" stroke="#347cbc"/><path d="M891 315 l-14 10 14 10" fill="none" stroke="#347cbc" stroke-width="4"/>
+<circle cx="935" cy="283" r="9" class="dot"/><circle cx="1006" cy="347" r="9" class="dot"/><circle cx="1060" cy="285" r="9" class="dot"/>
+<text x="914" y="236" class="ion">Ca²⁺</text><text x="881" y="378" class="sub">Bomba SERCA</text><text x="881" y="402" class="lab">Transport actiu + ATP</text>
+<ellipse cx="1050" cy="422" rx="58" ry="32" fill="#ffcf8b" stroke="#df8d31" stroke-width="3"/><path d="M1018 423 c18-25 17 25 35 0 s17-25 25 0" fill="none" stroke="#c56f19" stroke-width="5"/>
+<path d="M1011 400 l-125-62" fill="none" stroke="#dd982b" stroke-width="3" stroke-dasharray="7 7"/><text x="966" y="390" class="sub">ATP</text>
+<text x="1050" y="472" text-anchor="middle" class="tiny">Mitocondri</text>
+<path d="M632 446 H970" stroke="#6c92d2" stroke-width="15" stroke-linecap="round"/><path d="M632 470 H970" stroke="#d56f78" stroke-width="15" stroke-linecap="round"/>
+<text x="743" y="502" class="sub">Baixa el Ca²⁺ citoplasmàtic</text>
+<!-- highlight -->
+<rect x="142" y="547" width="880" height="55" rx="14" fill="#fff5d9" stroke="#dda334" stroke-width="2"/>
+<text x="582" y="571" text-anchor="middle" class="lab">Dins el reticle sarcoplasmàtic, la concentració de Ca²⁺ lliure pot ser</text>
+<text x="582" y="592" text-anchor="middle" class="sub">entre 1.000 i 10.000 vegades superior a la del citoplasma.</text>
+</svg>
