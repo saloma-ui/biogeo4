@@ -4,6 +4,10 @@
 
 [Obre l'activitat](diversitat-cellular/index.md)
 
+## A02 · La continuïtat cel·lular
+
+[Segueix l'explicació i comprova què has entès](continuitat-cellular/index.md)
+
 ## Joc de repàs · Les 12 targetes dels orgànuls
 
 [Practica les funcions dels orgànuls](organuls/index.html)
