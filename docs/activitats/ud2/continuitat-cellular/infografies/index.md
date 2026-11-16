@@ -34,5 +34,7 @@ A més dels continguts centrals de la pàgina A02, a classe s'han tractat la dot
 ## Estat de producció
 
 - Textos: esborranys recuperables i pendents de revisió.
-- Infografies: pendents de disseny.
-- Inserció de les miniatures a A02: pendent.
+- Infografia 1: imatge validada pel docent i incorporada a la galeria.
+- Infografia 2: imatge validada pel docent i incorporada a la galeria.
+- Infografia 3: imatge generada i incorporada a la galeria; validació gràfica expressa encara pendent.
+- Miniatures: incorporades a la pàgina A02 entre els apartats 2 i 3; les imatges grans s'obren en una altra pestanya i cada fitxa Markdown queda enllaçada.

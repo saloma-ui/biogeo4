@@ -18,11 +18,11 @@ hide:
 
 **UD02 · La continuïtat cel·lular · Biologia i Geologia · 4t d'ESO**
 
-Avui seguirem un problema fonamental: **abans de formar cèl·lules noves, la cèl·lula ha de copiar la informació genètica i després distribuir-la**. Observarem què són els cromosomes, què passa quan es duplica l'ADN i com s'organitza el cicle cel·lular.
+En aquesta activitat, al llarg de diverses sessions, seguirem un problema fonamental: **abans de formar cèl·lules noves, la cèl·lula ha de copiar la informació genètica i després distribuir-la**. Observarem què són els cromosomes, què passa quan es duplica l'ADN i com s'organitza el cicle cel·lular.
 
 **Aquesta pàgina recull el recorregut de la classe i serveix també per recuperar-la si no hi has pogut assistir.** Les comprovacions són per aprendre: **no cal entregar res**.
 
-<!-- DOCENT: Pàgina preparada per al treball del bloc 2 del material guia. Itinerari orientatiu d'una sessió de 50 minuts. No considerar-la una crònica de classe fins a haver comprovat què s'ha treballat realment. Explicar funcionalment la replicació; el mecanisme molecular detallat correspon a la UD03. -->
+<!-- DOCENT: Pàgina preparada per al treball del bloc 2 del material guia. Itinerari previst de 2–3 sessions de 50 minuts; la primera ja s'ha treballat. No considerar-la una crònica de classe fins a haver comprovat què s'ha treballat realment. Explicar funcionalment la replicació; el mecanisme molecular detallat correspon a la UD03. -->
 
 </section>
 
@@ -72,6 +72,66 @@ Un **cromosoma** és una estructura d'ADN associat a proteïnes. Durant el cicle
 Per situar-nos: una cèl·lula somàtica humana amb un nucli diploide normal té **46 cromosomes**, organitzats en 23 parelles. El nombre no és una mesura de la complexitat de l'espècie.
 
 <!-- DOCENT: No aprofundir encara en homòlegs ni en la meiosi. La dada humana serveix per situar el recompte que treballarem a la diapositiva següent. -->
+
+</section>
+
+<section class="pv-seccio pv-visual" markdown>
+
+# Ampliacions de classe · Els cromosomes humans
+
+A classe també hem comentat **la dotació cromosòmica humana, els gàmetes, la determinació cromosòmica del sexe i algunes variacions del nombre de cromosomes**. Aquestes tres infografies recullen l'ampliació i ens ajudaran a recuperar-la i repassar-la.
+
+**Clica damunt una miniatura per obrir la infografia a mida completa.** Davall cada imatge trobaràs també el contingut en text, per consultar-lo amb més detall.
+
+<div class="pv-tres-columnes pv-galeria-infografies" markdown>
+
+<div class="pv-targeta" markdown>
+
+<a class="pv-enllac-infografia" href="figures/01-dotacio-cromosomica.webp" target="_blank" rel="noopener" aria-label="Amplia la infografia 1: Dotació cromosòmica humana">
+  <img src="figures/01-dotacio-cromosomica.webp" alt="Infografia 1. Dotació cromosòmica humana habitual, 46 cromosomes, 23 parelles, diploïdia i haploïdia." loading="lazy">
+</a>
+
+**1 · Dotació cromosòmica humana**
+
+46 cromosomes, 23 parelles, autosomes i cromosomes sexuals.
+
+[Consulta l'explicació en text](infografies/01-dotacio-cromosomica.md)
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+<a class="pv-enllac-infografia" href="figures/02-gametes-fecundacio.webp" target="_blank" rel="noopener" aria-label="Amplia la infografia 2: Gàmetes, fecundació i sexe cromosòmic">
+  <img src="figures/02-gametes-fecundacio.webp" alt="Infografia 2. Òvul i espermatozoide amb 23 cromosomes, fecundació 23 més 23 igual a 46 i combinacions XX o XY." loading="lazy">
+</a>
+
+**2 · Gàmetes i fecundació**
+
+Cèl·lules haploides, zigot diploide i aportació de X o Y.
+
+[Consulta l'explicació en text](infografies/02-gametes-fecundacio-sexe.md)
+
+</div>
+
+<div class="pv-targeta" markdown>
+
+<a class="pv-enllac-infografia" href="figures/03-variacions-cromosomiques.webp" target="_blank" rel="noopener" aria-label="Amplia la infografia 3: Variacions del nombre de cromosomes">
+  <img src="figures/03-variacions-cromosomiques.webp" alt="Infografia 3. Diferència entre aneuploïdia i poliploïdia, amb exemples de Down, Turner i triploïdia." loading="lazy">
+</a>
+
+**3 · Variacions cromosòmiques**
+
+Aneuploïdia, poliploïdia i exemples humans.
+
+[Consulta l'explicació en text](infografies/03-variacions-nombre-cromosomes.md)
+
+</div>
+
+</div>
+
+Les imatges són **esquemes didàctics**. Les explicacions textuals permeten recuperar les dades i els matisos científics. **No has d'entregar cap resposta d'aquest apartat.**
+
+<!-- DOCENT: Ampliacions orals introduïdes durant la primera sessió de l'A02. La infografia 3 resta pendent de validació gràfica explícita. No convertir tots els detalls de les fitxes Markdown en contingut automàticament exigible a la prova. -->
 
 </section>
 
@@ -166,7 +226,7 @@ Una proliferació cel·lular descontrolada és una característica del **càncer
 - **Quan** es duplica l'ADN i **quan** es distribueixen els cromosomes al llarg del cicle cel·lular.
 - **Per què** el control de la divisió és important per als teixits.
 
-**Si no has vengut a classe:** segueix aquestes seccions en ordre, observa les figures F08–F12 i respon les tres comprovacions interactives. Després consulta el [bloc 2 del material guia de la UD02](../../../material/ud2/ud2.md), on trobaràs les explicacions completes.
+**Si no has vengut a classe:** segueix aquestes seccions en ordre, observa les figures F08–F12, revisa les tres infografies d'ampliació i respon les tres comprovacions interactives. Després consulta el [bloc 2 del material guia de la UD02](../../../material/ud2/ud2.md), on trobaràs les explicacions completes.
 
 **No cal lliurar res d'aquesta activitat.** La pàgina és una guia de l'explicació i un recurs de consulta i repàs.
 
