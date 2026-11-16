@@ -60,5 +60,9 @@ La referència **M01** existeix com a comentari de planificació en el material,
 
 Les fitxes pendents s'han de verificar abans d'atribuir autoria o drets de reutilització.
 
-Cap figura incorporada després del registre inicial.
+| Fitxer | Tipus | Origen | Autor o responsable | Llicència | Escala i observacions | Estat |
+|:--|:--|:--|:--|:--|:--|:--|
+| [01-dotacio-cromosomica.webp](https://github.com/saloma-ui/biogeo4/blob/main/docs/activitats/ud2/continuitat-cellular/figures/01-dotacio-cromosomica.webp) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+| [02-gametes-fecundacio.webp](https://github.com/saloma-ui/biogeo4/blob/main/docs/activitats/ud2/continuitat-cellular/figures/02-gametes-fecundacio.webp) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
+| [03-variacions-cromosomiques.webp](https://github.com/saloma-ui/biogeo4/blob/main/docs/activitats/ud2/continuitat-cellular/figures/03-variacions-cromosomiques.webp) | pendent | pendent | — | pendent · sense presumir drets sobre recursos externs | —; — | **Pendent de verificar** |
 <!-- FIGURES_AUTO_FI -->
