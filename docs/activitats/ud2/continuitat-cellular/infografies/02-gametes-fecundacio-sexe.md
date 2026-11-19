@@ -1,50 +1,50 @@
 ---
-title: 'A02 · Infografia 2 · Gàmetes i fecundació'
+title: 'Infografia 2 · Gàmetes, fecundació i sexe cromosòmic'
 pdf: false
 ---
 
 # Infografia 2 · Gàmetes, fecundació i sexe cromosòmic
 
-**Funció:** font textual recuperable per generar i revisar una infografia d'ampliació de l'A02-UD02.  
-**Estat:** esborrany pendent de validació docent.  
-**Origen:** el docent confirma que a classe s'ha parlat dels gàmetes i de quin gàmeta determina habitualment el sexe cromosòmic en humans.
+Les cèl·lules somàtiques humanes habitualment tenen 46 cromosomes. **Com pot començar una nova vida amb 46 cromosomes si hi participen dos gàmetes?**
 
-## Text base de la infografia
+[Amplia la infografia dels gàmetes i la fecundació](../figures/02-gametes-fecundacio.webp)
 
-### Dues cèl·lules haploides originen un zigot diploide
+## Els gàmetes són haploides
 
-- **Òvul humà típic:** 23 cromosomes (n), inclòs un cromosoma X.
-- **Espermatozoide humà típic:** 23 cromosomes (n), inclòs un cromosoma X o Y.
-- **Fecundació:** s'uneixen les dotacions cromosòmiques dels dos gàmetes i s'origina un **zigot amb 46 cromosomes (2n)**, habitualment.
+Els **gàmetes** són les cèl·lules reproductores. En els humans, els gàmetes típics contenen **23 cromosomes**, és a dir, un sol conjunt cromosòmic (**n = 23**).
 
-**23 + 23 = 46**
+- L'**òvul** aporta habitualment **22 autosomes i un cromosoma X**.
+- L'**espermatozoide** aporta habitualment **22 autosomes i un cromosoma X o Y**.
 
-### Quin gàmeta determina habitualment la combinació XX o XY?
+Així, cada gàmeta contribueix amb la meitat de la dotació cromosòmica habitual del futur zigot.
 
-En el sistema cromosòmic humà més habitual, l'òvul aporta un X i l'espermatozoide pot aportar un X o un Y:
+## La fecundació recupera la dotació diploide
 
-| Òvul | Espermatozoide | Combinació cromosòmica habitual |
+Durant la **fecundació**, la informació cromosòmica procedent de l'òvul i de l'espermatozoide s'uneix en una nova cèl·lula: el **zigot**.
+
+**23 cromosomes + 23 cromosomes = 46 cromosomes**
+
+Per això, el zigot humà habitual torna a ser **diploide (2n = 46)**.
+
+## Quin gàmeta determina habitualment la combinació XX o XY?
+
+L'òvul aporta habitualment un cromosoma X. En canvi, l'espermatozoide pot aportar un cromosoma X o un cromosoma Y.
+
+| Cromosoma sexual de l'òvul | Cromosoma sexual de l'espermatozoide | Combinació habitual del zigot |
 |---|---|---|
-| X | X | XX |
-| X | Y | XY |
+| X | X | **XX** |
+| X | Y | **XY** |
 
-**Idea clau:** en aquestes combinacions habituals, el tipus de cromosoma sexual aportat per l'**espermatozoide** determina si el zigot presenta XX o XY.
+Per tant, **en aquest sistema habitual, és el cromosoma sexual aportat per l'espermatozoide el que diferencia les combinacions XX i XY**.
 
-Aquest esquema explica el **sexe cromosòmic habitual**, però no descriu tota la diversitat del desenvolupament sexual humà. No equival a dir que tots els individus tenen exactament XX o XY ni que el desenvolupament sexual depèn exclusivament d'aquestes dues lletres.
+Aquest esquema descriu el **sexe cromosòmic habitual** en humans. No representa totes les variacions cromosòmiques ni tota la complexitat del desenvolupament sexual humà.
 
-### Pregunta que deixam oberta
+## Una pregunta per a la propera part de la unitat
 
-**Com es formen gàmetes amb només 23 cromosomes si les cèl·lules de partida habitualment són diploides?** La resposta detallada es treballarà en estudiar la meiosi.
+Si les cèl·lules somàtiques tenen 46 cromosomes, **com es formen els gàmetes amb només 23?**
 
-## Composició visual suggerida
+Per respondre aquesta pregunta estudiarem la **meiosi**, un tipus de divisió cel·lular relacionat amb la formació dels gàmetes.
 
-Dues capses d'entrada («òvul: 23, X» i «espermatozoide: 23, X o Y») que convergeixen en dues possibles combinacions («XX» i «XY»). És important distingir que els gàmetes aporten cadascun **23 cromosomes**, no només X o Y.
+**Idea clau:** els gàmetes aporten 23 cromosomes cadascun i, en la fecundació, es recupera la dotació diploide habitual de 46 cromosomes.
 
-## Precaucions
-
-No confondre determinació cromosòmica amb identitat de gènere. No presentar el diagrama com una garantia absoluta de tot el desenvolupament sexual ni convertir les excepcions en l'objecte principal de l'activitat.
-
-## Verificació abans d'emprar-ho en una prova
-
-**Confirmat pel docent:** s'han introduït els gàmetes i quin d'ells aporta el cromosoma que diferencia habitualment les combinacions XX/XY.  
-**Per validar:** si s'ha treballat explícitament la suma 23 + 23 = 46 i amb quin grau de detall.
+[Retorna a l'activitat A02 · La continuïtat cel·lular](../index.md)
