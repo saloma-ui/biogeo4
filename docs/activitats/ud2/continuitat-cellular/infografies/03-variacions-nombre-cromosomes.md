@@ -1,48 +1,47 @@
 ---
-title: 'A02 · Infografia 3 · Variacions del nombre de cromosomes'
+title: 'Infografia 3 · Variacions del nombre de cromosomes'
 pdf: false
 ---
 
 # Infografia 3 · Quan canvia el nombre de cromosomes?
 
-**Funció:** font textual recuperable per generar i revisar una infografia d'ampliació de l'A02-UD02.  
-**Estat:** esborrany pendent de validació docent.  
-**Origen:** el docent ha comentat Down, Turner i algunes qüestions sobre poliploïdia abans d'explicar detalladament la meiosi.
+Hem vist que les cèl·lules somàtiques humanes diploides tenen habitualment **46 cromosomes**, distribuïts en 23 parelles. Però **el nombre de cromosomes no és sempre el mateix**.
 
-## Text base de la infografia
+[Amplia la infografia de les variacions cromosòmiques](../figures/03-variacions-cromosomiques.webp)
 
-### Aneuploïdia: varia el nombre de cromosomes individuals
+## Aneuploïdia: varia el nombre d'alguns cromosomes
 
-L'**aneuploïdia** es produeix quan el nombre d'alguns cromosomes no és el que correspon a la dotació cromosòmica típica; no implica afegir un conjunt complet de cromosomes.
+Una **aneuploïdia** és una alteració del nombre de cromosomes que afecta un o alguns cromosomes particulars, però **no tot un conjunt cromosòmic complet**.
 
-- **Síndrome de Down:** habitualment, **trisomia 21**, amb tres còpies del cromosoma 21, i un total de **47 cromosomes**. Existeixen altres situacions cromosòmiques relacionades amb aquesta síndrome.
-- **Síndrome de Turner:** una configuració característica és **45,X**, amb un sol cromosoma X i **45 cromosomes**. També hi ha altres configuracions, incloent-hi mosaicisme.
+### Síndrome de Down
 
-### Poliploïdia: varia el nombre de conjunts complets
+La síndrome de Down està causada habitualment per una **trisomia 21**: en lloc de dues còpies del cromosoma 21, n'hi ha **tres**.
 
-La **poliploïdia** implica **tres o més conjunts cromosòmics complets**, en comptes dels dos conjunts d'una cèl·lula diploide típica.
+En aquesta configuració, les cèl·lules tenen **47 cromosomes**. També existeixen altres configuracions cromosòmiques relacionades amb aquesta síndrome.
 
-- **Triploïdia (3n):** tres conjunts complets; en humans correspondria a **69 cromosomes**.
-- La poliploïdia és freqüent en moltes espècies vegetals i té importància biològica i evolutiva.
+### Síndrome de Turner
 
-### No és el mateix
+Una de les configuracions característiques de la síndrome de Turner és **45,X**: hi ha **un sol cromosoma X** i el nombre total és de **45 cromosomes**.
 
-| Variació | Què canvia? | Exemple |
+També hi ha altres configuracions, com les situacions de **mosaicisme**, en què no totes les cèl·lules de l'organisme presenten exactament la mateixa dotació cromosòmica.
+
+## Poliploïdia: varia el nombre de conjunts complets
+
+La **poliploïdia** és diferent de l'aneuploïdia: en lloc de variar un cromosoma particular, hi ha **tres o més conjunts cromosòmics complets**.
+
+Un exemple és la **triploïdia (3n)**, en què hi ha tres conjunts complets en comptes de dos. En humans, això correspondria a **69 cromosomes**.
+
+La poliploïdia és freqüent en moltes espècies de plantes i pot tenir importància en la seva biologia i evolució.
+
+## Comparació
+
+| Situació | Què canvia? | Exemple |
 |---|---|---|
-| Aneuploïdia | Nombre d'un o alguns cromosomes particulars | Trisomia 21 o 45,X |
-| Poliploïdia | Nombre de conjunts cromosòmics complets | Triploïdia (3n) |
+| **Aneuploïdia** | El nombre d'un o alguns cromosomes. | Trisomia 21 (47 cromosomes) o 45,X. |
+| **Poliploïdia** | El nombre de conjunts cromosòmics complets. | Triploïdia (3n; 69 cromosomes en humans). |
 
-**Idea clau:** «un cromosoma de més» i «tot un conjunt cromosòmic de més» són situacions diferents.
+**Idea clau:** no és el mateix **un cromosoma de més** que **un conjunt cromosòmic complet de més**.
 
-## Composició visual suggerida
+Aquestes dades descriuen dotacions cromosòmiques, però el nombre de cromosomes per si sol no explica totes les característiques d'una persona. Més endavant, quan estudiem la **meiosi**, podrem comprendre millor com poden originar-se algunes d'aquestes variacions.
 
-Tres capses amb un recompte gran (**47**, **45**, **3n**) i esquemes cromosòmics deliberadament simples, etiquetats «aneuploïdia» per als dos primers i «poliploïdia» per al tercer. Evitar dibuixos que confonguin trisomia amb triploïdia.
-
-## Precaucions
-
-No tractar Down o Turner com a exemples de poliploïdia. No reduir les persones a una xifra cromosòmica ni suggerir que el nombre de cromosomes determina per si sol totes les característiques individuals. Les explicacions del mecanisme d'origen d'aquestes alteracions corresponen al bloc de meiosi, que encara no s'ha desenvolupat.
-
-## Verificació abans d'emprar-ho en una prova
-
-**Confirmat pel docent:** s'han comentat Turner, Down i poliploïdia.  
-**Per validar:** si a classe s'ha formulat explícitament la distinció aneuploïdia/poliploïdia, i si s'han donat els valors exactes 45, 47, 69 o només els exemples generals.
+[Retorna a l'activitat A02 · La continuïtat cel·lular](../index.md)
