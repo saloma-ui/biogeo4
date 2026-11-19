@@ -1,40 +1,33 @@
 ---
-title: 'A02 · Fonts textuals de les ampliacions de classe'
+title: 'A02 · Ampliacions de classe: els cromosomes humans'
 pdf: false
 ---
 
-# A02-UD02 · Ampliacions de classe: registre i fonts de les infografies
+# Ampliacions de classe · Els cromosomes humans
 
-**Unitat:** UD02 · La continuïtat cel·lular  
-**Activitat:** A02 · La continuïtat cel·lular  
-**Tipus de material:** tres infografies complementàries, amb un fitxer Markdown de referència per a cadascuna.  
-**Estat:** esborrany de continguts, pendent de validació del docent abans de generar les imatges.  
-**Situació docent coneguda:** s'ha completat una primera sessió de l'A02; s'estima que l'activitat ocuparà dues o tres sessions en total.
+En aquesta part de la unitat hem ampliat l'explicació de l'ADN i els cromosomes per entendre **com s'organitzen els cromosomes humans, què aporten els gàmetes i què passa quan canvia el nombre de cromosomes**.
 
-## Què ha confirmat el docent que s'ha introduït oralment?
+Pots consultar les tres infografies en gran i llegir les explicacions corresponents. Les imatges resumeixen les idees principals; el text t'ajudarà a comprendre-les i repassar-les.
 
-A més dels continguts centrals de la pàgina A02, a classe s'han tractat la dotació cromosòmica humana habitual, l'haploïdia i la diploïdia, els autosomes i cromosomes sexuals, els gàmetes, la seva aportació a la determinació cromosòmica del sexe humà i algunes variacions del nombre de cromosomes (incloent-hi Turner, Down i poliploïdia).
+## 1 · Dotació cromosòmica humana
 
-**L'abast exacte, els exemples i el nivell de domini exigit encara s'han de validar.** Aquest document no afirma que tots els matisos científics redactats en les fitxes següents s'hagin explicat a classe.
+**46 cromosomes, 23 parelles, autosomes, cromosomes sexuals, haploïdia i diploïdia.**
 
-## Fonts textuals canòniques
+- [Obre la infografia](../figures/01-dotacio-cromosomica.webp)
+- [Llegeix l'explicació](01-dotacio-cromosomica.md)
 
-1. [Dotació cromosòmica humana](01-dotacio-cromosomica.md)
-2. [Gàmetes, fecundació i sexe cromosòmic](02-gametes-fecundacio-sexe.md)
-3. [Aneuploïdia i poliploïdia](03-variacions-nombre-cromosomes.md)
+## 2 · Gàmetes, fecundació i sexe cromosòmic
 
-## Regla de manteniment
+**Els gàmetes aporten 23 cromosomes cadascun. Després de la fecundació, el zigot en té habitualment 46.**
 
-- **El Markdown és la font de contingut.** Les infografies són representacions visuals derivades de les fitxes, no substituts del text.
-- Quan es corregeixi una dada, modificar primer el Markdown i després regenerar o corregir la imatge.
-- A la pàgina A02 es podran mostrar miniatures clicables que obrin les figures grans; és recomanable enllaçar també la versió textual per accessibilitat i recuperació.
-- A l'hora de generar una prova, **no equiparar «apareix en una infografia» amb «s'ha explicat amb el detall suficient per ser avaluat»**. Verificar amb el docent els continguts realment desenvolupats i el nivell d'exigència.
-- La meiosi s'ha esmentat com a qüestió pendent de desenvolupament, no se n'ha d'inferir una explicació completa a l'A02.
+- [Obre la infografia](../figures/02-gametes-fecundacio.webp)
+- [Llegeix l'explicació](02-gametes-fecundacio-sexe.md)
 
-## Estat de producció
+## 3 · Variacions del nombre de cromosomes
 
-- Textos: esborranys recuperables i pendents de revisió.
-- Infografia 1: imatge validada pel docent i incorporada a la galeria.
-- Infografia 2: imatge validada pel docent i incorporada a la galeria.
-- Infografia 3: imatge generada i incorporada a la galeria; validació gràfica expressa encara pendent.
-- Miniatures: incorporades a la pàgina A02 entre els apartats 2 i 3; les imatges grans s'obren en una altra pestanya i cada fitxa Markdown queda enllaçada.
+**Les aneuploïdies i les poliploïdies són variacions diferents de la dotació cromosòmica.**
+
+- [Obre la infografia](../figures/03-variacions-cromosomiques.webp)
+- [Llegeix l'explicació](03-variacions-nombre-cromosomes.md)
+
+Aquestes ampliacions formen part de l'[A02 · La continuïtat cel·lular](../index.md). No cal lliurar cap resposta.
