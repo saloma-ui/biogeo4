@@ -1,41 +1,45 @@
 ---
-title: 'A02 · Infografia 1 · Dotació cromosòmica humana'
+title: 'Infografia 1 · Dotació cromosòmica humana'
 pdf: false
 ---
 
 # Infografia 1 · Quants cromosomes tenim?
 
-**Funció:** font textual recuperable per generar i revisar una infografia d'ampliació de l'A02-UD02.  
-**Estat:** esborrany pendent de validació docent.  
-**Origen:** a classe s'han introduït nombre cromosòmic habitual, haploïdia, diploïdia, autosomes i cromosomes sexuals.
+La majoria de les cèl·lules del nostre cos contenen informació genètica organitzada en cromosomes. **Quants cromosomes tenen habitualment les cèl·lules humanes i com s'agrupen?**
 
-## Text base de la infografia
+[Amplia la infografia de la dotació cromosòmica](../figures/01-dotacio-cromosomica.webp)
 
-### 46 cromosomes en una cèl·lula somàtica diploide humana típica
+## 46 cromosomes, organitzats en 23 parelles
 
-En una cèl·lula somàtica humana diploide típica, el nucli té **46 cromosomes**, distribuïts en **23 parelles**. Aquesta dotació es representa **2n = 46**.
+El nucli d'una **cèl·lula somàtica humana diploide típica** conté **46 cromosomes**, organitzats en **23 parelles**. Les cèl·lules somàtiques són les cèl·lules del cos que no són gàmetes.
 
-- **22 parelles són autosomes** (44 cromosomes).
-- El parell restant correspon als **cromosomes sexuals**: habitualment XX o XY.
-- Els membres d'una parella d'**autosomes homòlegs** contenen els mateixos gens en posicions equivalents, encara que poden tenir variants diferents. Un procedeix habitualment de cada progenitor.
-- Els cromosomes X i Y difereixen en bona part del seu contingut; no s'han de presentar com dos homòlegs completament equivalents.
+- **22 parelles d'autosomes:** representen 44 cromosomes.
+- **1 parella de cromosomes sexuals:** habitualment XX o XY, segons la dotació cromosòmica de la persona.
 
-### Haploïdia i diploïdia
+En cada parella d'autosomes, els dos cromosomes són **homòlegs**: tenen els mateixos gens situats en posicions equivalents, però poden presentar variants diferents d'aquests gens. Habitualment, un procedeix de cada progenitor.
 
-- **Diploide (2n):** dos conjunts cromosòmics; en humans, 2n = 46 en les cèl·lules somàtiques típiques.
-- **Haploide (n):** un conjunt cromosòmic; en humans, n = 23 als gàmetes típics.
+Els cromosomes sexuals X i Y no són completament equivalents: difereixen en la mida i en una part important dels gens que contenen.
 
-**Idea clau:** el nombre de cromosomes i el nombre de cromàtides no són el mateix. Després de replicar l'ADN durant la fase S, una cèl·lula somàtica humana típica continua tenint 46 cromosomes, però cadascun presenta dues cromàtides germanes.
+## Què vol dir diploide i haploide?
 
-## Composició visual suggerida
+| Tipus de cèl·lula | Significat | Exemple humà |
+|---|---|---|
+| **Diploide (2n)** | Té dos conjunts cromosòmics. | Cèl·lula somàtica típica: **2n = 46**. |
+| **Haploide (n)** | Té un sol conjunt cromosòmic. | Gàmeta típic: **n = 23**. |
 
-Figura central de 23 parelles de cromosomes representats esquemàticament, amb les 22 parelles d'autosomes diferenciades del parell sexual. A un costat, dues capses grans: **2n = 46** i **n = 23**. No representar una fotografia real de cariotip si no es disposa d'una font identificada.
+Per tant, **diploide no vol dir que un cromosoma estigui duplicat**. Vol dir que la cèl·lula té dos conjunts de cromosomes. La duplicació de l'ADN és un procés diferent.
 
-## Precaucions
+## Cromosomes i cromàtides: una distinció important
 
-No presentar «46» com una quantitat universal per a totes les cèl·lules humanes (els gàmetes típics tenen 23, i existeixen variacions cromosòmiques). Evitar equiparar «un cromosoma» amb «una cromàtide»: depèn del moment del cicle.
+A la infografia, els cromosomes es representen esquemàticament **abans de duplicar l'ADN**, amb una sola cromàtide cadascun.
 
-## Verificació abans d'emprar-ho en una prova
+Quan l'ADN es replica durant la fase S del cicle cel·lular, cada cromosoma passa a presentar **dues cromàtides germanes**, però el nombre de cromosomes continua essent el mateix mentre aquestes romanen unides.
 
-**Confirmat pel docent:** s'han introduït dotació cromosòmica, haploïdia, diploïdia, autosomes i cromosomes sexuals.  
-**Per validar:** si s'han explicat formalment els cromosomes homòlegs, l'excepció X/Y i el recompte exacte de cromàtides, o només s'han comentat.
+Per exemple, en una cèl·lula somàtica humana típica:
+
+- Abans de la replicació: **46 cromosomes i 46 cromàtides**.
+- Després de la replicació: **46 cromosomes i 92 cromàtides**.
+
+**Idea clau:** tenir dos conjunts cromosòmics (diploïdia) i tenir cromosomes amb dues cromàtides (després de replicar l'ADN) són coses diferents.
+
+[Retorna a l'activitat A02 · La continuïtat cel·lular](../index.md)
