@@ -1,0 +1,84 @@
+/* Visor cartogràfic IDEIB reutilitzable dins MkDocs.
+   Les dependències de Leaflet només es carreguen si la pàgina conté
+   un element [data-ideib-visor]. */
+
+.visor-ideib {
+  width: 100%;
+  margin: 1.25rem 0;
+}
+
+.visor-ideib__marc {
+  position: relative;
+  width: 100%;
+  min-height: 32rem;
+  overflow: hidden;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.6rem;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.08);
+}
+
+.visor-ideib__mapa {
+  width: 100%;
+  height: min(68vh, 42rem);
+  min-height: 32rem;
+}
+
+.visor-ideib__estat {
+  position: absolute;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color--light);
+  text-align: center;
+}
+
+.visor-ideib[data-ideib-ready="true"] .visor-ideib__estat {
+  display: none;
+}
+
+.visor-ideib__peu {
+  margin: 0.45rem 0 0;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  color: var(--md-default-fg-color--light);
+}
+
+.visor-ideib__recentrar {
+  display: block;
+  width: 2.1rem;
+  height: 2.1rem;
+  padding: 0;
+  border: 0;
+  background: #fff;
+  color: #222;
+  font: 700 1.05rem/2.1rem system-ui, sans-serif;
+  text-align: center;
+  cursor: pointer;
+}
+
+.visor-ideib__recentrar:hover,
+.visor-ideib__recentrar:focus-visible {
+  background: #f4f4f4;
+}
+
+@media screen and (max-width: 760px) {
+  .visor-ideib__marc,
+  .visor-ideib__mapa {
+    min-height: 24rem;
+  }
+
+  .visor-ideib__mapa {
+    height: 58vh;
+  }
+}
+
+@media print {
+  .visor-ideib {
+    display: none !important;
+  }
+}

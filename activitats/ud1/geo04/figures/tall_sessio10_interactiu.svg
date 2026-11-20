@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760" role="img" aria-labelledby="title desc">
+  <title id="title">Tall geològic interactiu per a la sessió 10</title>
+  <desc id="desc">Tall geològic amb estrats inclinats A, B i C, intrusió X, superfície erosiva, estrat horitzontal D, falla F i superfície actual erosiva. Preparat amb identificadors i metadades per a una seqüència interactiva.</desc>
+
+  <metadata id="interactive-sequence"><![CDATA[
+{
+  "version": "1.0",
+  "language": "ca",
+  "figure_id": "geo_s10_tall_interactiu",
+  "features": {
+    "unitat-a": "Estrat sedimentari A",
+    "unitat-b": "Estrat sedimentari B",
+    "unitat-c": "Estrat sedimentari C",
+    "unitat-d": "Estrat horitzontal D",
+    "intrusio-x": "Intrusió magmàtica X",
+    "falla-f": "Falla F",
+    "superficie-erosiva": "Superfície erosiva inferior",
+    "superficie-actual": "Superfície actual erosiva",
+    "abc": "Conjunt dels estrats A-B-C",
+    "older-strata": "Estrats inclinats previs a D"
+  },
+  "steps": [
+    {"id":"pas-1","title":"El repte","highlight":["unitat-a","unitat-b","unitat-c","unitat-d","intrusio-x","falla-f","superficie-actual"],"context":["superficie-erosiva"]},
+    {"id":"pas-2","title":"Observa i identifica","highlight":["unitat-a","unitat-b","unitat-c","unitat-d","intrusio-x","falla-f","superficie-erosiva","superficie-actual"]},
+    {"id":"pas-3","title":"Què és més antic: A, B o C?","highlight":["unitat-a","unitat-b","unitat-c"],"context":["contactes-inclinats"]},
+    {"id":"pas-4","title":"Els estrats estan inclinats","highlight":["unitat-a","unitat-b","unitat-c"],"context":["contactes-inclinats"]},
+    {"id":"pas-5","title":"Què ens diu X?","highlight":["intrusio-x"],"context":["unitat-a","unitat-b","unitat-c"]},
+    {"id":"pas-6","title":"La superfície erosiva","highlight":["superficie-erosiva"],"context":["unitat-c","intrusio-x"]},
+    {"id":"pas-7","title":"I D?","highlight":["unitat-d"],"context":["unitat-a","unitat-b","unitat-c","superficie-erosiva"]},
+    {"id":"pas-8","title":"Finalment, F","highlight":["falla-f"],"context":["unitat-d","intrusio-x","unitat-c","unitat-b","unitat-a"]},
+    {"id":"pas-9","title":"Reconstruïm la cronologia completa","highlight":["unitat-a","unitat-b","unitat-c","intrusio-x","superficie-erosiva","unitat-d","falla-f","superficie-actual"]},
+    {"id":"pas-10","title":"Convertim la cronologia en història geològica","highlight":["unitat-a","unitat-b","unitat-c","intrusio-x","superficie-erosiva","unitat-d","falla-f","superficie-actual"]}
+  ]
+}
+  ]]></metadata>
+
+  <style>
+    .geo-element { vector-effect: non-scaling-stroke; transition: opacity .2s ease, filter .2s ease, stroke-width .2s ease; }
+    .feature { opacity: 1; }
+    .label { font-family: Arial, Helvetica, sans-serif; fill: #2b2927; }
+    .unit-label { font-size: 34px; font-weight: 700; text-anchor: middle; }
+    .surface-label { font-size: 25px; font-weight: 700; fill: #3b3733; }
+    .surface-arrow { stroke: #3b3733; stroke-width: 2.5; fill: none; }
+    .helper-line { stroke: #6f573d; stroke-width: 3; fill: none; }
+    .bed-line { stroke: #a98a4a; stroke-width: 2; opacity: 0.75; fill: none; }
+    .interactive-hidden { display: none; }
+  </style>
+
+  <defs>
+    <clipPath id="clip-bloc-esquerre" clipPathUnits="userSpaceOnUse"><polygon points="0,0 720,0 490,760 0,760"/></clipPath>
+    <clipPath id="clip-bloc-dret" clipPathUnits="userSpaceOnUse"><polygon points="720,0 1200,0 1200,760 490,760"/></clipPath>
+  </defs>
+
+  <rect id="fons" width="1200" height="760" fill="#fbfaf7"/>
+
+  <g id="bloc-esquerre" clip-path="url(#clip-bloc-esquerre)">
+    <g id="unitat-a-esquerra" class="geo-element feature" data-feature="unitat-a" data-side="left"><path id="shape-unitat-a-esquerra" d="M -80 575 L 1280 670 L 1280 850 L -80 850 Z" fill="#caa46a"/></g>
+    <g id="unitat-b-esquerra" class="geo-element feature" data-feature="unitat-b" data-side="left"><path id="shape-unitat-b-esquerra" d="M -80 465 L 1280 560 L 1280 670 L -80 575 Z" fill="#e1bd82"/></g>
+    <g id="unitat-c-esquerra" class="geo-element feature" data-feature="unitat-c" data-side="left"><path id="shape-unitat-c-esquerra" d="M -80 235 L 1280 330 L 1280 560 L -80 465 Z" fill="#d99a6c"/></g>
+    <g id="contactes-inclinats-esquerra" class="geo-element feature" data-feature="contactes-inclinats" data-side="left"><path id="contacte-a-b-esquerra" d="M -80 575 L 1280 670" class="helper-line"/><path id="contacte-b-c-esquerra" d="M -80 465 L 1280 560" class="helper-line"/></g>
+    <g id="intrusio-x-esquerra" class="geo-element feature" data-feature="intrusio-x" data-side="left"><path id="shape-intrusio-x-esquerra" d="M 505 780 L 575 780 L 670 180 L 615 180 Z" fill="#9b6fb5" stroke="#654278" stroke-width="3"/><path id="texture-intrusio-x-esquerra" d="M 535 760 L 642 215" fill="none" stroke="#c8abd8" stroke-width="3" opacity="0.8"/></g>
+    <g id="unitat-d-esquerra" class="geo-element feature" data-feature="unitat-d" data-side="left"><path id="shape-unitat-d-esquerra" d="M -80 70 L 1280 70 L 1280 318 C 1190 305 1110 330 1025 316 C 930 300 860 337 770 321 C 675 304 600 340 505 326 C 410 312 330 346 235 329 C 145 313 60 340 -80 320 Z" fill="#f0d792"/><path id="estrat-d-1-esquerra" d="M -80 145 L 1280 145" class="bed-line"/><path id="estrat-d-2-esquerra" d="M -80 220 L 1280 220" class="bed-line"/><path id="estrat-d-3-esquerra" d="M -80 285 L 1280 285" class="bed-line"/></g>
+    <g id="superficie-erosiva-esquerra" class="geo-element feature" data-feature="superficie-erosiva" data-side="left"><path id="linea-superficie-erosiva-esquerra" d="M -80 320 C 60 340 145 313 235 329 C 330 346 410 312 505 326 C 600 340 675 304 770 321 C 860 337 930 300 1025 316 C 1110 330 1190 305 1280 318" fill="none" stroke="#6b4d2e" stroke-width="5" stroke-linecap="round"/></g>
+  </g>
+
+  <g id="bloc-dret" clip-path="url(#clip-bloc-dret)">
+    <g id="bloc-dret-desplacat" transform="translate(0 46)">
+      <g id="unitat-a-dreta" class="geo-element feature" data-feature="unitat-a" data-side="right"><path id="shape-unitat-a-dreta" d="M -80 575 L 1280 670 L 1280 850 L -80 850 Z" fill="#caa46a"/></g>
+      <g id="unitat-b-dreta" class="geo-element feature" data-feature="unitat-b" data-side="right"><path id="shape-unitat-b-dreta" d="M -80 465 L 1280 560 L 1280 670 L -80 575 Z" fill="#e1bd82"/></g>
+      <g id="unitat-c-dreta" class="geo-element feature" data-feature="unitat-c" data-side="right"><path id="shape-unitat-c-dreta" d="M -80 235 L 1280 330 L 1280 560 L -80 465 Z" fill="#d99a6c"/></g>
+      <g id="contactes-inclinats-dreta" class="geo-element feature" data-feature="contactes-inclinats" data-side="right"><path id="contacte-a-b-dreta" d="M -80 575 L 1280 670" class="helper-line"/><path id="contacte-b-c-dreta" d="M -80 465 L 1280 560" class="helper-line"/></g>
+      <g id="intrusio-x-dreta" class="geo-element feature" data-feature="intrusio-x" data-side="right"><path id="shape-intrusio-x-dreta" d="M 505 780 L 575 780 L 670 180 L 615 180 Z" fill="#9b6fb5" stroke="#654278" stroke-width="3"/><path id="texture-intrusio-x-dreta" d="M 535 760 L 642 215" fill="none" stroke="#c8abd8" stroke-width="3" opacity="0.8"/></g>
+      <g id="unitat-d-dreta" class="geo-element feature" data-feature="unitat-d" data-side="right"><path id="shape-unitat-d-dreta" d="M -80 70 L 1280 70 L 1280 318 C 1190 305 1110 330 1025 316 C 930 300 860 337 770 321 C 675 304 600 340 505 326 C 410 312 330 346 235 329 C 145 313 60 340 -80 320 Z" fill="#f0d792"/><path id="estrat-d-1-dreta" d="M -80 145 L 1280 145" class="bed-line"/><path id="estrat-d-2-dreta" d="M -80 220 L 1280 220" class="bed-line"/><path id="estrat-d-3-dreta" d="M -80 285 L 1280 285" class="bed-line"/></g>
+      <g id="superficie-erosiva-dreta" class="geo-element feature" data-feature="superficie-erosiva" data-side="right"><path id="linea-superficie-erosiva-dreta" d="M -80 320 C 60 340 145 313 235 329 C 330 346 410 312 505 326 C 600 340 675 304 770 321 C 860 337 930 300 1025 316 C 1110 330 1190 305 1280 318" fill="none" stroke="#6b4d2e" stroke-width="5" stroke-linecap="round"/></g>
+    </g>
+  </g>
+
+  <path id="mascara-superficie-actual" d="M 0 0 H 1200 V 118 C 1135 132 1070 112 1000 126 C 925 142 860 118 790 132 C 710 148 655 125 580 138 C 505 151 445 130 375 142 C 305 154 245 137 180 149 C 110 161 55 148 0 158 Z" fill="#fbfaf7"/>
+  <g id="superficie-actual" class="geo-element feature" data-feature="superficie-actual"><path id="linea-superficie-actual" d="M 0 158 C 55 148 110 161 180 149 C 245 137 305 154 375 142 C 445 130 505 151 580 138 C 655 125 710 148 790 132 C 860 118 925 142 1000 126 C 1070 112 1135 132 1200 118" fill="none" stroke="#4f463d" stroke-width="5" stroke-linecap="round"/></g>
+
+  <g id="falla-f" class="geo-element feature" data-feature="falla-f"><path id="linea-falla-principal" d="M 680 132 L 490 760" fill="none" stroke="#3e3b39" stroke-width="7"/><path id="linea-falla-puntejada" d="M 680 132 L 490 760" fill="none" stroke="#ffffff" stroke-width="3" stroke-dasharray="3 30" opacity="0.85"/></g>
+
+  <g id="etiquetes-unitats" class="label">
+    <text id="label-a" class="unit-label geo-element feature" data-feature="unitat-a" x="180" y="645">A</text>
+    <text id="label-b" class="unit-label geo-element feature" data-feature="unitat-b" x="210" y="535">B</text>
+    <text id="label-c" class="unit-label geo-element feature" data-feature="unitat-c" x="250" y="415">C</text>
+    <text id="label-x" class="unit-label geo-element feature" data-feature="intrusio-x" x="575" y="515" fill="#4f315f">X</text>
+    <text id="label-d" class="unit-label geo-element feature" data-feature="unitat-d" x="460" y="205">D</text>
+    <text id="label-f" class="unit-label geo-element feature" data-feature="falla-f" x="655" y="385">F</text>
+  </g>
+
+  <g id="etiquetes-superficies" class="label interactive-hidden">
+    <text id="label-superficie-actual" class="surface-label geo-element feature" data-feature="superficie-actual" x="70" y="102">Superfície actual erosiva</text>
+    <path id="fletxa-superficie-actual" class="surface-arrow geo-element feature" data-feature="superficie-actual" d="M 270 106 L 330 142"/>
+    <text id="label-superficie-erosiva" class="surface-label geo-element feature" data-feature="superficie-erosiva" x="90" y="300">Superfície erosiva</text>
+    <path id="fletxa-superficie-erosiva" class="surface-arrow geo-element feature" data-feature="superficie-erosiva" d="M 278 305 L 350 329"/>
+  </g>
+
+  <path id="marc-inferior" d="M 0 758 H 1200" stroke="#6b6259" stroke-width="3"/>
+</svg>
