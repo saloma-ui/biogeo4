@@ -14,4 +14,4 @@
 
 ## A03 · La mitosi pas a pas
 
-[Explora les fases de la mitosi en una presentació interactiva](mitosi/index.html)
+[Explora les fases de la mitosi en una presentació interactiva](mitosi/index.md)

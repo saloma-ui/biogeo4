@@ -97,6 +97,7 @@ markdown_extensions:
       permalink: true
 
 extra_css:
+  - activitats/ud2/mitosi/mitosi.css
   - extra.css
   - calendari.css
   - divulgacio/revista.css
@@ -105,6 +106,7 @@ extra_css:
   - activitats/ud1/geo04/geo04-tall.css
 
 extra_javascript:
+  - activitats/ud2/mitosi/mitosi.js
   - interaccio.js
   - divulgacio/revista.js
   - visor-ideib.js
