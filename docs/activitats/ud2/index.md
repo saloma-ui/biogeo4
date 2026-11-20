@@ -11,3 +11,7 @@
 ## Joc de repàs · Les 12 targetes dels orgànuls
 
 [Practica les funcions dels orgànuls](organuls/index.html)
+
+## A03 · La mitosi pas a pas
+
+[Explora les fases de la mitosi en una presentació interactiva](mitosi/index.html)
